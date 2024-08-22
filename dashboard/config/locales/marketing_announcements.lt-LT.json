@@ -1,0 +1,16 @@
+{
+  "lt-LT": {
+    "data": {
+      "marketing_announcements": {
+        "banners": {
+          "hoc-2023": {
+            "buttonText": "Sužinok daugiau"
+          },
+          "superhero": {
+            "buttonText": "Sužinokite daugiau"
+          }
+        }
+      }
+    }
+  }
+}

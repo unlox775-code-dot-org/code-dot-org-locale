@@ -1,0 +1,50 @@
+{
+  "it-IT": {
+    "data": {
+      "panels": {
+        "Panels Lab2 Showcase": {
+          "musiclab_intro_panels_start-421d64b2-c4db-42cb-ac1f-de66a4d22fa7": "#### Benvenuti nel Laboratorio musicale!\n\nIl Laboratorio musicale ti permette di creare e combinare brani musicali e persino suonare dal vivo, usando la programmazione. Non preoccuparti se non ne sai molto di informatica, o anche di musica! Tutto ciò di cui hai bisogno è un po' di tempo e di curiosità per iniziare a dar vita alle tue creazioni."
+        },
+        "music_lab_intro_panels_start2": {
+          "musiclab_intro_panels_start_v2-415ec56a-f841-421b-adff-b680e8d4ca35": "#### ✨ Benvenuti al Laboratorio musicale ✨\n\nPreparati a fare musica con la programmazione!",
+          "musiclab_intro_panels_start_v2-623c36d1-b475-414b-8e2f-da7d27012391": "### Modifica il suono\n\nClicca sul blocco del suono per accedere alla libreria audio. \n\nScegli il suono che preferisci!",
+          "musiclab_intro_panels_start_v2-d2e2064a-8f39-452f-81f5-aab175d5a165": "#### Come usare l'esercitazione\n\n<p style=\"color: black;\"><span style=\"color: #009EB0;\">→</span> 1. Leggi le istruzioni.</p>\n\n<p style=\"color: black;\"><span style=\"color: #ED6060;\">→</span> 2. Trascina i blocchi nell'area di lavoro.</p>\n\n<p style=\"color: black;\"><span style=\"color: #FFA400;\">→</span> 3. Premi ▶ Esegui per riprodurre la tua canzone.</p>\n\n<p style=\"color: black;\"><span style=\"color: #9660BF;\">→</span>  4. Premi Continua per passare all'esercizio successivo.</p>"
+        },
+        "musiclab_intro_panels_end_2": {
+          "musiclab_intro_panels_end-70b08fdd-abbf-42bb-bdc9-d406bb513faf": "#### Sei pronto per partire!\n\nHai imparato le basi e ora puoi iniziare a creare i tuoi brani musicali! Esplora la libreria audio: scoprirai tante idee per creare brani incredibili.\n\nTroverai anche nuovi blocchi nella cassetta degli attrezzi, tra cui:\n\n-   un blocco per la creazione delle basi\n\n-   effetti sonori come riverbero e filtri\n\n-   un blocco sintetizzatore\n\n-   un blocco per riprodurre in modo casuale\n\n ...e tanto altro! Divertiti!"
+        },
+        "musiclab_intro_panels_function": {
+          "musiclab_intro_panels_function-e62e1783-6e0c-4dfb-9300-5dd081a80614": "Puoi \"chiamare\" la tua nuova funzione usando il blocco con il nome corrispondente, come questo."
+        },
+        "musiclab_intro_panels_function_2": {
+          "musiclab_intro_panels_function-b2da9c67-9c99-42b2-9c72-c2e576663899": "Una caratteristica interessante del Laboratorio musicale è che puoi prendere un insieme di blocchi e metterli in un tuo blocco personale. In informatica, questo si chiama creare una _funzione_.",
+          "musiclab_intro_panels_function-e62e1783-6e0c-4dfb-9300-5dd081a80614": "Puoi \"richiamare\" la tua nuova funzione usando il blocco con il nome corrispondente, come questo."
+        },
+        "musiclab_intro_panels_start_2": {
+          "musiclab_intro_panels_start-421d64b2-c4db-42cb-ac1f-de66a4d22fa7": "#### Benvenuti nel Laboratorio musicale!\n\nIl Laboratorio musicale ti permette di creare e combinare brani musicali e persino suonare dal vivo, usando la programmazione. Non preoccuparti se non ne sai molto di informatica, o anche di musica! Tutto ciò di cui hai bisogno è un po' di tempo e di curiosità per iniziare a dar vita alle tue creazioni."
+        },
+        "musiclab_tutorial_panels_function": {
+          "musiclab_intro_panels_function_pdx-952b5575-5487-40c6-8a7e-4e37339d81d3": "### Usa la tua nuova funzione!\n\nOra puoi usare la tua nuova funzione in qualsiasi punto del programma  scegliendo il blocco con il nome della funzione. \n\nQuesto nuovo blocco **richiama** la tua funzione quando si preme Esegui. ",
+          "musiclab_intro_panels_function_pdx-f1f658c0-64a9-471c-9f2a-399ba1ea8538": "### Funzioni\n\nCrea una **funzione** per eseguire una sequenza di blocchi ogni volta che viene chiamata. \n\n**Primo** costruisci la tua funzione utilizzando i suoni che ti piacciono."
+        },
+        "musiclab_tutorial_panels_notes": {
+          "musiclab_intro_panels_trigger_pdx-5586b57a-0a71-4d94-bdd7-125e9d4af278": "### Componi la tua melodia!\n\nUsa il blocco **riproduci note** per comporre la tua melodia.",
+          "musiclab_intro_panels_trigger_pdx-7930c016-c450-4b4a-9c73-641b2ea86a37": "### Componi la tua base ritmica!\n\nUsa il blocco **riproduci batteria** per comporre la tua base.\n\nDivertiti!"
+        },
+        "musiclab_tutorial_panels_playtogether": {
+          "musiclab_intro_panels_playtogether_pdx-a5066092-2920-4c8d-89ea-00b7a8531ad0": "### Gioca insieme\n\nRiproduci suoni contemporaneamente! Trascina due o più suoni nel blocco **riproduci insieme**."
+        },
+        "musiclab_tutorial_panels_repeat": {
+          "musiclab_intro_panels_playtogether_pdx-a0d88b4a-e9a8-4641-8ec9-3ce98e7a1cc4": "### Ripeti un suono\n\nScegli un suono e imposta il numero di volte che deve essere riprodotto utilizzando un blocco di ripetizione."
+        },
+        "musiclab_tutorial_panels_trigger": {
+          "musiclab_intro_panels_trigger_pdx-5586b57a-0a71-4d94-bdd7-125e9d4af278": "### Suona musica dal vivo!\n\nPuoi usare i blocchi verdi degli **eventi** per riprodurre musica dal vivo. \n\nPrima, programma un blocco **evento** con il suono che vuoi far riprodurre.",
+          "musiclab_intro_panels_trigger_pdx-7930c016-c450-4b4a-9c73-641b2ea86a37": "Quindi, **attiva** i tuoi nuovi suoni mentre la canzone è in riproduzione."
+        },
+        "usiclab_tutorial_panels_end": {
+          "musiclab_intro_panels_end_pdx-88ca8817-6cb7-4c5b-a08a-69fc2267eb0b": "#### 🎶 Pronto a suonare? 🎶\n\nHai imparato le basi e ora sei pronto per creare il tuo pezzo! \n\nScopri tutti i nuovi suoni e personalizzazioni nella cassetta degli attrezzi. \n\nClicca su Continua per iniziare."
+        }
+      }
+    }
+  }
+}

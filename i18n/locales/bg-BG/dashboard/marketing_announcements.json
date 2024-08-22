@@ -1,0 +1,24 @@
+{
+  "banners": {
+    "superhero": {
+      "title": "",
+      "body": "",
+      "buttonText": "Научете повече"
+    },
+    "hoc-2023": {
+      "title": "",
+      "body": "",
+      "buttonText": "Научете повече"
+    },
+    "curriculum-launch-2024": {
+      "title": "",
+      "body": "",
+      "buttonText": ""
+    },
+    "progress-launch": {
+      "title": "Проследяването на напредъка току-що се изравни!",
+      "body": "",
+      "buttonText": "Опитай сега"
+    }
+  }
+}

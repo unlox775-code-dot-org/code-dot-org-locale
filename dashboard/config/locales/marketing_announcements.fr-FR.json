@@ -1,0 +1,30 @@
+{
+  "fr-FR": {
+    "data": {
+      "marketing_announcements": {
+        "banners": {
+          "curriculum-launch-2024": {
+            "body": "Explorez nos dernières unités et ressources d'apprentissage professionnel pour inspirer les futurs innovateurs technologiques.",
+            "buttonText": "Découvrir les nouveautés",
+            "title": "Découvrir le nouveau programme et les mises à jour!"
+          },
+          "hoc-2023": {
+            "body": "Rejoignez les millions de personnes à travers le monde en organisant une heure de code, avec ou sans IA, et en apprenant comment fonctionne l'IA. Toute personne, où qu'elle se trouve, peut le faire. Aucune expérience n'est nécessaire.",
+            "buttonText": "En savoir plus",
+            "title": "L'heure du code : La créativité avec l'IA"
+          },
+          "progress-launch": {
+            "body": "Surveillez facilement le travail des élèves, fournissez des retours rapides et simplifiez l'évaluation avec notre interface rapide et éprouvée par les enseignants. Gagnez du temps et obtenez des informations précieuses sur la performance de vos élèves, le tout dans un outil intuitif unique.",
+            "buttonText": "Essayez  dès maintenant",
+            "title": "Le suivi des progrès vient de monter d'un niveau !"
+          },
+          "superhero": {
+            "body": "Rejoignez notre Programme de Formation Professionnelle qui propose un soutien important aux enseignants du secondaire. ",
+            "buttonText": "En savoir plus",
+            "title": "Aidez vos élèves à devenir des superhéros ! "
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "km-KH": {
+    "data": {
+      "marketing_announcements": {
+        "banners": {
+          "hoc-2023": {
+            "buttonText": "ស្វែងយល់បន្ថែម"
+          },
+          "superhero": {
+            "buttonText": "ស្វែងយល់បន្ថែមទៀត"
+          }
+        }
+      }
+    }
+  }
+}

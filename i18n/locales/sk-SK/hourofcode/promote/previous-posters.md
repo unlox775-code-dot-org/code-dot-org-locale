@@ -1,0 +1,17 @@
+---
+title: Staršíe plagáty k Hodine kódu
+---
+
+{{ signup_button }}
+
+# Staršíe plagáty k Hodine kódu
+
+### Prezrite si naše plagáty z predchádzajúcich rokov a vyberte si, ktorý z nich by ste chceli vytlačiť a zavesiť v triede! Hľadáte najnovšie plagáty? [Kliknite sem]({{ promote/promote_posters_url }}).
+
+* * *
+
+<br />
+
+{{ promote_posters }}
+
+{{ signup_button }}

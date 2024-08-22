@@ -1,0 +1,34 @@
+mn:
+  data:
+    variable_names:
+      actor: жүжигчин
+      age: нас
+      answer: хариулт
+      binary: хоёрт
+      birds: шувууд
+      cats: муур
+      color: өнгө
+      counter: тоологч
+      dogs: нохой
+      height: өндөр
+      honey: зөгийн бал
+      i: i
+      left: зүүн
+      length: урт
+      level: түвшин
+      name: нэр
+      nectar: шүүс
+      object: объект
+      planet: гариг
+      points: цэгүүд
+      repeat: давтах
+      right: баруун
+      score: оноо
+      shout: хашгирахаар
+      size: хэмжээ
+      speed: хурд
+      type: төрөл
+      variable: хувьсагч
+      width: өргөн
+      wizard: шидтэн
+      x: x

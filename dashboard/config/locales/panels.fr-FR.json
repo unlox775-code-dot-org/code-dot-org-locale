@@ -1,0 +1,44 @@
+{
+  "fr-FR": {
+    "data": {
+      "panels": {
+        "music_lab_intro_panels_start2": {
+          "musiclab_intro_panels_start_v2-415ec56a-f841-421b-adff-b680e8d4ca35": "#### ✨ Bienvenue au Labo Musique ✨\n\nPrépare-toi à faire de la musique avec du code !",
+          "musiclab_intro_panels_start_v2-623c36d1-b475-414b-8e2f-da7d27012391": "### Changer le son\n\nClique sur le bloc son pour accéder à la sonothèque.\n\nChoisis n'importe quel son qui te plaît ! ",
+          "musiclab_intro_panels_start_v2-d2e2064a-8f39-452f-81f5-aab175d5a165": "#### Mode d'emploi du tutoriel\n\n<p style=\"color: black;\"><span style=\"color: #009EB0;\">→</span> 1. Lire les consignes.</p>\n\n<p style=\"color: black;\"><span style=\"color: #ED6060;\">→</span> 2.  Faire glisser les blocs dans l'espace de travail.</p>\n\n<p style=\"color: black;\"><span style=\"color: #FFA400;\">→</span> 3.  Appuyer sur ▶ Démarrer pour faire démarrer la chanson.</p>\n\n<p style=\"color: black;\"><span style=\"color: #9660BF;\">→</span> 4. Appuyer sur Continuer pour passer au niveau suivant.</p>"
+        },
+        "musiclab_intro_panels_end_2": {
+          "musiclab_intro_panels_end-70b08fdd-abbf-42bb-bdc9-d406bb513faf": "#### Et hop, tu es prêt.e !\n\nOn a appris les bases, et maintenant on est prêt.e.s à créer son propre mix ! Assure-toi de bien parcourir la bibliothèque sonore - il y a plein de choses à décourvrir et qu'on peut utiliser pour créer une piste incroyable.\n\nTu trouveras encore plus de nouvelles choses dans la boîte à outils, y compris :\n\n-   Un bloc pour créer des rythmes\n\n-   Des bruitages comme la réverbe et le filtrage\n\n-   Un bloc synthé\n\n-   Un bloc permettant la lecture aléatoire \n\n ...et bien plus encore ! Amuse-toi bien !"
+        },
+        "musiclab_intro_panels_function_2": {
+          "musiclab_intro_panels_function-b2da9c67-9c99-42b2-9c72-c2e576663899": "Une des fonctionnalités stylée dans le Music Lab c'est qu'on peut prendre un ensemble de blocs et les mettre à l'intérieur de son propre bloc. En codage, ça s'appelle créer une _fonction_.",
+          "musiclab_intro_panels_function-e62e1783-6e0c-4dfb-9300-5dd081a80614": "Tu peux « appeler » ta nouvelle fonction en utilisant le bloc du même nom, comme ceci. "
+        },
+        "musiclab_intro_panels_start_2": {
+          "musiclab_intro_panels_start-421d64b2-c4db-42cb-ac1f-de66a4d22fa7": "#### Bienvenue au Music Lab !\n\nMusic Lab permet de mixer, de remixer et même de jouer en direct de la musique avec du code. Ne t'inquiètes pas si tu n'y connais pas grand-chose au code, ni même à la musique ! Tout ce dont on a besoin, c'est d'un peu de temps et d'un peu de curiosité pour commencer à faire ses propres créations."
+        },
+        "musiclab_tutorial_panels_function": {
+          "musiclab_intro_panels_function_pdx-952b5575-5487-40c6-8a7e-4e37339d81d3": "### Sers-toi de ta nouvelle fonction!\n\nMaintenant, tu peux utiliser ta nouvelle fonction à tout moment en choisissant le bloc portant le nom de ta fonction. \n\nCe nouveau bloc va **appeler** ta fonction quand tu appuies sur Démarrer. ",
+          "musiclab_intro_panels_function_pdx-f1f658c0-64a9-471c-9f2a-399ba1ea8538": "### Fonctions\n\nCrée une **fonction** pour jouer un bout de code spécifique à chaque fois que celle-ci est appelée. \n\n**D'abord**, construis ta fonction en utilisant les sons que tu veux. "
+        },
+        "musiclab_tutorial_panels_notes": {
+          "musiclab_intro_panels_trigger_pdx-5586b57a-0a71-4d94-bdd7-125e9d4af278": "### Compose ta propre mélodie !\n\nSers-toi du bloc **jouer des notes** pour composer ta propre mélodie.",
+          "musiclab_intro_panels_trigger_pdx-7930c016-c450-4b4a-9c73-641b2ea86a37": "### Compose tes propres rythmes !\n\nUtilise le bloc **jouer des percussions** pour composer tes propres rythmes.\n\nAmuse-toi bien ! "
+        },
+        "musiclab_tutorial_panels_playtogether": {
+          "musiclab_intro_panels_playtogether_pdx-a5066092-2920-4c8d-89ea-00b7a8531ad0": "### Jouer ensemble\n\nJoue des sons en même temps ! Fais glisser deux sons ou plus au sein du bloc **jouer ensemble**."
+        },
+        "musiclab_tutorial_panels_repeat": {
+          "musiclab_intro_panels_playtogether_pdx-a0d88b4a-e9a8-4641-8ec9-3ce98e7a1cc4": "### Fais se répéter un son\n\nChoisis un son et définis le nombre de fois que tu veux qu'il soit joué en utilisant un bloc « répéter ». "
+        },
+        "musiclab_tutorial_panels_trigger": {
+          "musiclab_intro_panels_trigger_pdx-5586b57a-0a71-4d94-bdd7-125e9d4af278": "### Joue de la musique en live !\n\nTu peux employer des déclencheurs pour jouer de la musique en direct.\n\nTout d'abord, code ton bloc **déclencheur** en y mettant le son que tu souhaites qu'il joue.",
+          "musiclab_intro_panels_trigger_pdx-7930c016-c450-4b4a-9c73-641b2ea86a37": "Ensuite, **déclenche** tes nouveaux sons pendant que ta chanson se joue."
+        },
+        "usiclab_tutorial_panels_end": {
+          "musiclab_intro_panels_end_pdx-88ca8817-6cb7-4c5b-a08a-69fc2267eb0b": "#### 🎶 Prêt à tout déchirer ? 🎶\n\nMaintenant, tu connais les bases, et tu es prêt à créer ta propre chanson ! \n\nDécouvre tous les nouveaux sons et les options de personnalisation dans la boîte à outils. \n\nClique sur Continuer pour t'y mettre !"
+        }
+      }
+    }
+  }
+}

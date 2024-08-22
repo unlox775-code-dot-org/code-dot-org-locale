@@ -1,0 +1,1081 @@
+{
+  "addFeatureButton": "Añadir característica",
+  "columnDetailsMaximumValue": "máx.",
+  "columnDetailsMinimumValue": "mín.",
+  "columnInspectorDataType": "Tipo de Datos",
+  "columnInspectorDescription": "Descripción",
+  "correctAnswer": "Correcto",
+  "crossTabRelationshipHeader": "Información sobre la relación",
+  "dataCardDefaultHeader": "Detalles",
+  "dataCardLastUpdated": "Última actualización",
+  "datasetDescriptionLabel": "Acerca de los Datos",
+  "datasets": {
+    "abalone": {
+      "card": {
+        "context": {
+          "potentialUses": "Determina la edad de un abulón."
+        }
+      },
+      "fields": {
+        "Diameter": {
+          "description": "Su diámetro en milímetros.",
+          "id": "Diámetro"
+        },
+        "Height": {
+          "description": "Su altura con el caracol en el caparazón en milímetros. ",
+          "id": "Altura"
+        },
+        "Length": {
+          "description": "Su longitud en el punto más largo en milímetros.",
+          "id": "Extensión"
+        },
+        "Rings": {
+          "description": "La edad en años.",
+          "id": "Anillos"
+        },
+        "Sex": {
+          "description": "El sexo del abulón: M, F o I (infante).",
+          "id": "género"
+        },
+        "Shell weight": {
+          "description": "El peso de la cáscara después de secarse, en gramos.",
+          "id": "Peso de la cáscara"
+        },
+        "Shucked weight": {
+          "description": "El peso del caracol sin cáscara en gramos.",
+          "id": "Peso descascarado "
+        },
+        "Viscera weight": {
+          "description": "El peso de las vísceras, en gramos.",
+          "id": "Peso de las vísceras"
+        },
+        "Whole weight": {
+          "description": "El peso total del adulón en gramos.",
+          "id": "Peso total"
+        }
+      },
+      "name": "Abulón"
+    },
+    "auto_mpg": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Dado que tiene 30 años de antigüedad, no reflejara ningún avance en la tecnología - ¡No compres un carro basado en esto!",
+          "potentialUses": "Determina las millas por galón (MPG) de un carro basado en varias características como el peso y los caballos de fuerza."
+        },
+        "description": "Un pequeño conjunto de datos distintos sobre las estadísticas de distintos carros, originalmente de 1983, fue usada para predecir él MPG (Millas por galón). Es poco probable que el conjunto de datos tenga una gran precisión en sus puntajes en un a regresión KNN, pero de todos modos es un modelo útil; ¿como puedes tomar un patron general en el modelo y usarlo para determinar cuales caracteristicas contibuyen a millas por galon mas altas? ¿Como podrias cambiar el conjunto de datos para conseguir un modelo mas presico - por ejemplo, cambiar el MPG de una columna numerica a una columna categorica con intervalos de 5 MPG?"
+      },
+      "fields": {
+        "acceleration": {
+          "description": "La aceleración del carro",
+          "id": "Aceleración"
+        },
+        "car name": {
+          "description": "El nombre del carro: todos sus valores únicos",
+          "id": "El nombre del carro"
+        },
+        "cylinders": {
+          "description": "El número de cilindros en el motor",
+          "id": "cilindros"
+        },
+        "displacement": {
+          "description": "Una medida del volumen del cilindro",
+          "id": "Desplazamiento"
+        },
+        "horsepower": {
+          "description": "La potencia de un carro",
+          "id": "Caballos de fuerza"
+        },
+        "model year": {
+          "description": "El año en el que el carro fue lanzado",
+          "id": "El año del modelo"
+        },
+        "mpg": {
+          "description": "Millas por galón.",
+          "id": "MPG"
+        },
+        "weight": {
+          "description": "El peso del carro en libras"
+        }
+      }
+    },
+    "basketball_shots": {
+      "card": {
+        "context": {
+          "potentialUses": "Predice si el tiro de 3 puntos se hizo o se falló"
+        },
+        "description": "Este set de datos contiene cada intento de un tiro de 3 puntos hecho durante el torneo de la NCAA 2017. Con esos datos es posible predecir si el tiro fue logrado o no"
+      },
+      "fields": {
+        "Away team alias": {
+          "description": "Abreviación del nombre del equipo visitante",
+          "id": "Alias del equipo visitante"
+        },
+        "Home team alias": {
+          "description": "Abreviación del nombre del equipo local",
+          "id": "Alias del equipo local"
+        },
+        "Inches from bottom sideline": {
+          "description": "Pulgadas desde la línea lateral del fondo(la línea a través la longitud de la cancha)",
+          "id": "Pulgadas desde la línea lateral del fondo"
+        },
+        "Inches from left baseline": {
+          "description": "Pulgadas desde la línea de base izquierda(la línea detrás de la canasta)",
+          "id": "Pulgadas desde la línea de base izquierda"
+        },
+        "Jersey number": {
+          "description": "El número del jugador que hizo el tiro",
+          "id": "Número de la camisa"
+        },
+        "Made or miss": {
+          "description": "Si el tiro de 3 puntos se logró o se falló",
+          "id": "Logrado o fallado"
+        },
+        "Time in seconds": {
+          "description": "Tiempo transcurrido en el reloj de juego, en segundos",
+          "id": "Tiempo en segundos"
+        }
+      },
+      "name": "Intentos de tiros de 3 puntos de la NCAA"
+    },
+    "bike_sharing": {
+      "card": {
+        "context": {
+          "potentialUses": "Predecir cuántas bicicletas se alquilarán en función de las condiciones climáticas o la época del año."
+        },
+        "description": "Datos de alquiler diario del sistema de Capital Bikeshare de Washington, D.C. de 2011 y 2012, junto con datos meteorológicos para esos días."
+      },
+      "fields": {
+        "Average \"Feels Like\" Temperature": {
+          "description": "Temperatura promedio en Celsius, normalizada a una escala de 0 a 1 donde 0 = -16 grados Celsius y 1 equivale a 50 grados Celsius.",
+          "id": "Temperatura promedio de sensación térmica"
+        },
+        "Average Temperature (Celsius)": {
+          "description": "Temperatura promedio en Celsius, normalizada a una escala de 0 a 1 donde 0 = -8 grados Celsius y 1 equivale a 39 grados Celsius.",
+          "id": "Temperatura Promedio (Celsius)"
+        },
+        "Date": {
+          "description": "La fecha en que se tomaron los registros.",
+          "id": "Fecha"
+        },
+        "Day of Week": {
+          "description": "El día de la semana: 0 (domingo) a 6 (sábado).",
+          "id": "Día de la Semana"
+        },
+        "Holiday": {
+          "description": "Ya sea que el día sea festivo o no.",
+          "id": "Vacaciones"
+        },
+        "Humidity (0 - 1)": {
+          "description": "Humedad, normalizada a 0 (0% de humedad) a 1 (100% de humedad).",
+          "id": "Humedad (0 - 1)"
+        },
+        "Month": {
+          "description": "El mes: 1 (enero) a 12 (diciembre).",
+          "id": "Mes"
+        },
+        "Number of Casual Users": {
+          "description": "Número de usuarios sin una cuenta.",
+          "id": "Número de usuarios ocasionales"
+        },
+        "Number of Registered Users": {
+          "description": "Número de usuarios con una cuenta.",
+          "id": "Número de Usuarios Registrados"
+        },
+        "Season": {
+          "description": "Temporada: primavera, verano, invierno u otoño.",
+          "id": "Temporada"
+        },
+        "Total Users": {
+          "description": "Número total de usuarios.",
+          "id": "Total de usuarios"
+        },
+        "Weather Description": {
+          "description": "Una descripción del clima del día, que va desde algunos nubes hasta una ligera nevada o lluvia.",
+          "id": "Descripción del clima"
+        },
+        "Wind Speed": {
+          "description": "Velocidad del Viento.",
+          "id": "Velocidad del Viento"
+        },
+        "Workday": {
+          "description": "Ya sea que este sea un día laboral o no.",
+          "id": "Día laboral"
+        },
+        "Year": {
+          "description": "El año (2011 o 2012).",
+          "id": "Año"
+        },
+        "index": {
+          "description": "El índice o clave única del registro. Esto no debe usarse como un recurso.",
+          "id": "Índice"
+        }
+      },
+      "name": "Compartir Bicicleta"
+    },
+    "billionaires": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Por ejemplo, determinar si los hombres son 'mejores' para convertirse en multimillonarios que las mujeres. Las mujeres están poco representadas entre los multimillonarios, pero hay muchas razones para que los datos no lo reflejen.",
+          "potentialUses": "Predecir el tipo de riqueza de un multimillonario en función de otras características."
+        },
+        "description": "Datos de varias décadas sobre multimillonarios individuales, clasificados para cada año, con características como edad, industria, patrimonio familiar y tipo de riqueza (por ejemplo, fundador de la empresa en la industria financiera)."
+      },
+      "fields": {
+        "Age": {
+          "description": "Su edad.",
+          "id": "Edad"
+        },
+        "Citizenship": {
+          "description": "El país su nacionalidad oficial.",
+          "id": "Nacionalidad"
+        },
+        "Company Founding Year": {
+          "description": "El año en que se fundó su empresa.",
+          "id": "Año de fundación de la empresa"
+        },
+        "Company Name": {
+          "description": "El nombre de su empresa.",
+          "id": "Nombre de la empresa"
+        },
+        "Company Relationship": {
+          "description": "Su relación con la empresa: por ejemplo, “fundador”, “CEO”, “presidente”).",
+          "id": "Relación con la empresa"
+        },
+        "Company Sector": {
+          "description": "El sector en el que se encuentra su empresa, por ejemplo, “Finanzas” o “Software”.",
+          "id": "Sector de la empresa"
+        },
+        "Company Type": {
+          "description": "El tipo de empresa: si era nueva, una empresa privatizada, o una empresa adquirida.",
+          "id": "Tipo de compañía"
+        },
+        "Country of Residence": {
+          "description": "El país en el que residen.",
+          "id": "País de residencia"
+        },
+        "Gender": {
+          "description": "Su género",
+          "id": "Género"
+        },
+        "Net Worth In Billions": {
+          "description": "Su patrimonio neto en miles de millones de dólares.",
+          "id": "El patrimonio neto en miles de millones"
+        },
+        "Rank": {
+          "description": "Su posición de riqueza para el registro de éste año.",
+          "id": "Posición"
+        },
+        "Region": {
+          "description": "La región en la que se encuentra su país de residencia, por ejemplo, “América del Norte” o “Asia Oriental”",
+          "id": "Región"
+        },
+        "Type Of Wealth": {
+          "description": "Su tipo de riqueza, por ejemplo: “fundador no financiero”, “heredado”, “finanzas propias”",
+          "id": "Tipo De Riqueza"
+        },
+        "Wealth Category": {
+          "description": "Su categoría de riqueza, por ejemplo, “Financiero”, “No Negociado” o “Sectores donde hacen negocio”.",
+          "id": "Categoría de Riqueza"
+        },
+        "Wealth Industry": {
+          "description": "La industria en la que se encuentra su riqueza.",
+          "id": "Industria de la riqueza"
+        },
+        "Wealth Inherited": {
+          "description": "Si su riqueza fue heredada y de dónde, por ejemplo “no heredado”, “padre”, “tercera generación”.",
+          "id": "Riqueza Heredada"
+        },
+        "Year": {
+          "description": "El año de las clasificaciones (1996, 2001 o 2014).",
+          "id": "Año"
+        }
+      },
+      "name": "Multimillonarios"
+    },
+    "boba_toy": {
+      "fields": {
+        "banana": {
+          "id": "plátano"
+        },
+        "preference": {
+          "id": "preferencia"
+        }
+      }
+    },
+    "car_evaluation": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Es posible que tenga  opiniones de automóviles diferentes a este sistema de calificación: ¡esto no puede tomar una mejor decisión sobre la compra de un automóvil que la que usted puede tomar! Aunque podría ayudarle en su búsqueda.",
+          "potentialUses": "Determine la calificación de aceptabilidad de un automóvil en función de ciertas características."
+        },
+        "description": "Un conjunto de datos de automóviles clasificados según 'aceptabilidad', basado en características como precio, seguridad y número de pasajeros. Las clasificaciones provienen de un modelo de decisión diseñado por Marko Bohanec."
+      },
+      "fields": {
+        "Boot Size": {
+          "description": "El tamaño de la cajuela (maletero): pequeño, mediano o grande.",
+          "id": "Tamaño de la cajuela"
+        },
+        "Buying Price": {
+          "description": "El precio de compra del auto, de muy alto a bajo.",
+          "id": "Precio de compra"
+        },
+        "Car Acceptability": {
+          "description": "El rating de aceptabilidad del auto: inaceptable, aceptable, bueno, o muy bueno.",
+          "id": "Aceptabilidad del coche"
+        },
+        "Maintenance Cost": {
+          "description": "El costo de mantenimiento del coche de muy alto a bajo.",
+          "id": "Coste de mantenimiento"
+        },
+        "Number Of Doors": {
+          "description": "El número de puertas, de 2 a 5 o más.",
+          "id": "Número de puertas"
+        },
+        "Number of Passengers": {
+          "description": "El número de pasajeros: 2, 4, o más.",
+          "id": "Número de Pasajeros"
+        },
+        "Safety Rating": {
+          "description": "El índice de seguridad: alto, medio o bajo.",
+          "id": "Clasificación de seguridad"
+        }
+      },
+      "name": "Evaluación del coche"
+    },
+    "census_part": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Usar esto para algo como determinar si darle o no a alguien un préstamo podría ser profundamente injusto.",
+          "potentialUses": "Predecir si el ingreso de una persona es superior o inferior a $50,000, en función de su nivel de educación y edad. Demostrar desigualdad de ingresos racial y basada en el género."
+        },
+        "description": "Datos del censo estadounidense de 1994, con datos de ingresos, personales y laborales. Se utiliza para predecir si el ingreso de una persona supera los $50,000."
+      },
+      "fields": {
+        "age": {
+          "description": "La edad de la persona.",
+          "id": "edad"
+        },
+        "capital gains": {
+          "description": "Sus ganancias de capital reportadas para el año (estas son ganancias monetarias por cosas como venta de acciones en lugar de ingresos de trabajo).",
+          "id": "ganancias de capital"
+        },
+        "capital losses": {
+          "description": "Sus pérdidas de capital reportadas (por ejemplo, si vendieron acciones en las que perdió dinero).",
+          "id": "pérdidas de capital"
+        },
+        "education level": {
+          "description": "Su nivel educativo.",
+          "id": "nivel educativo"
+        },
+        "estimated number of people represented": {
+          "description": "El estimado de cuántas personas en EU es representativo esta persona.",
+          "id": "número estimado de personas representadas"
+        },
+        "gender": {
+          "description": "Género (utiliza opciones del Censo de 1994, que son binarias).",
+          "id": "género\n"
+        },
+        "hours of work per week": {
+          "description": "Horas que trabajan a la semana.",
+          "id": "horas de trabajo por semana"
+        },
+        "income": {
+          "description": "Sus ingresos: para binarios de más o menos de $50,000.",
+          "id": "Ingreso"
+        },
+        "marital status": {
+          "description": "Estado civil (casado, soltero, divorciado).",
+          "id": "Estado civil"
+        },
+        "native-country": {
+          "description": "Su país de origen.",
+          "id": "país nativo"
+        },
+        "occupation": {
+          "description": "Lo que hacen para ganarse la vida.",
+          "id": "ocupación"
+        },
+        "race": {
+          "description": "Raza (utiliza 1994 categorías raciales que excluyen una serie de distinciones).",
+          "id": "raza"
+        },
+        "relationship": {
+          "description": "Descripción de la relación de su estado civil.",
+          "id": "Relación"
+        },
+        "type of employment": {
+          "description": "Tipo de empleo: gubernamental, privado, propio.",
+          "id": "tipo de empleo"
+        }
+      }
+    },
+    "club_random_toy": {
+      "fields": {
+        "color": {
+          "id": "color"
+        },
+        "food": {
+          "id": "comida"
+        },
+        "music": {
+          "id": "música"
+        }
+      }
+    },
+    "cookies_toy": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Cualquier cosa que no sean recomendaciones de galletas.",
+          "potentialUses": "Ayuda a hacer recomendaciones sobre qué tipo de galletas debería comprar un nuevo cliente."
+        },
+        "description": "Encuesta a clientes en una tienda de galletas sobre si les gustan o no ciertas combinaciones de galletas."
+      },
+      "fields": {
+        "chocolate chips": {
+          "description": "¿La galleta tiene chispas de chocolate?",
+          "id": "chispas de chocolate"
+        },
+        "frosting": {
+          "description": "¿La galleta tiene glaseado?",
+          "id": "escarchado"
+        },
+        "ice cream on top": {
+          "description": "¿La galleta tiene helado encima?",
+          "id": "helado encima"
+        },
+        "m and ms": {
+          "description": "¿La galleta tiene M&Ms?",
+          "id": "M&Ms"
+        },
+        "oatmeal": {
+          "description": "¿La galleta tiene avena?",
+          "id": "avena"
+        },
+        "preference": {
+          "description": "¿Te gusta o no te gusta la galleta?",
+          "id": "preferencia"
+        },
+        "raisins": {
+          "description": "¿La galleta tiene pasas?",
+          "id": "pasas"
+        }
+      },
+      "name": "Galletas"
+    },
+    "global_happiness_raw": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Predecir el rango es difícil. Tampoco debería usarse como métrica objetiva para determinar qué países son los 'mejores' - ¿qué factores podrían contribuir a estas puntuaciones que no están cubiertos por los datos?",
+          "potentialUses": "Predecir la puntuación de felicidad de un país basada en otras características como el PIB per cápita y la libertad para tomar decisiones de vida."
+        },
+        "description": "Clasificaciones del informe de Felicidad Global 2019, donde los países son evaluados en diferentes atributos que contribuyen a un puntaje total de felicidad y luego se clasifican. Las características en este conjunto de datos provienen de los años 2008 a 2018, que se promediaron para el informe y crear puntuaciones. Estos datos 'crudos' contienen más filas que el conjunto de datos 'Felicidad Global 2019', pero pueden dar resultados diferentes."
+      },
+      "fields": {
+        "Country name": {
+          "description": "El nombre del país o región.",
+          "id": "Nombre del País"
+        },
+        "Freedom to make life choices": {
+          "description": "El promedio nacional de una respuesta de 0 (no) a 1 (sí) a la pregunta “¿Estás satisfecho o insatisfecho con tu libertad de elegir lo que haces con tu vida?”",
+          "id": "Libertad para tomar decisiones en la vida"
+        },
+        "GDP per capita": {
+          "description": "El PIB per cápita del país en dólares.",
+          "id": "PIB per cápita"
+        },
+        "Generosity": {
+          "description": "El promedio nacional de una respuesta a la pregunta \"¿Has donado dinero a una organización benéfica en el último mes?\"",
+          "id": "Generosidad"
+        },
+        "Healthy life expectancy at birth": {
+          "description": "Esperanza de vida saludable al nacer, basada en datos del Observatorio Mundial de la Salud de la Organización Mundial de la Salud.",
+          "id": "Esperanza de vida saludable al nacer"
+        },
+        "Life Ladder": {
+          "description": "La puntuación de bienestar subjetivo, como el promedio de la respuesta a una pregunta de evaluación de vida: \"Por favor imagina una escalera, con escalones numerados del 0 en la parte inferior al 10 en la parte superior. La parte superior de la escalera representa la mejor vida posible para ti y la parte inferior de la escalera representa la peor vida posible para ti. ¿En qué escalón de la escalera dirías que personalmente sientes que te encuentras en este momento?\"",
+          "id": "Escalera de vida"
+        },
+        "Negative affect": {
+          "description": "El promedio de tres medidas negativas, preguntando qué tan seguido los encuestados sienten preocupación, tristeza o enojo.",
+          "id": "Afecto negativo"
+        },
+        "Perceptions of corruption": {
+          "description": "¿Cuál es el promedio nacional de la respuesta a dos preguntas 0-1: \"¿La corrupción es generalizada en el gobierno o no?\" y \"¿Es generalizada la corrupción en las empresas o no?\"?",
+          "id": "Percepciones de corrupción"
+        },
+        "Positive affect": {
+          "description": "El promedio de tres medidas positivas, preguntando a los encuestados qué tan seguido experimentan felicidad, qué tan seguido experimentan disfrute, y qué tan seguido sonríen o se ríen.",
+          "id": "Afecto positivo"
+        },
+        "Social support": {
+          "description": "Este es el promedio nacional de una respuesta 0 (no) o 1 (sí) a la pregunta 'Si estás en problemas, ¿tienes familiares o amigos en quienes puedes contar para ayudarte siempre que los necesites?'",
+          "id": "Apoyo social"
+        },
+        "Year": {
+          "description": "El año de los resultados de la encuesta.",
+          "id": "Año"
+        }
+      }
+    },
+    "heart": {
+      "fields": {
+        "Age": {
+          "id": "Edad"
+        },
+        "Cholesterol": {
+          "id": "Colesterol"
+        },
+        "Sex": {
+          "id": "género"
+        }
+      }
+    },
+    "icecream_toppings_toy": {
+      "fields": {
+        "Preference": {
+          "id": "Preferencia"
+        }
+      }
+    },
+    "insurance_cost": {
+      "fields": {
+        "age": {
+          "id": "edad"
+        }
+      }
+    },
+    "loneliness_interests": {
+      "fields": {
+        "Internet": {
+          "id": "Internet"
+        },
+        "Writing": {
+          "id": "Escribir"
+        }
+      }
+    },
+    "loneliness_music": {
+      "fields": {
+        "Country": {
+          "id": "País"
+        },
+        "Dance": {
+          "id": "Baile"
+        },
+        "Music": {
+          "id": "Música"
+        }
+      }
+    },
+    "medical_priority": {
+      "fields": {
+        "age": {
+          "id": "edad"
+        }
+      },
+      "name": "Prioridad Médica"
+    },
+    "movies": {
+      "fields": {
+        "Country": {
+          "id": "País"
+        },
+        "Name": {
+          "id": "Nombre"
+        },
+        "Score": {
+          "id": "Puntuación"
+        },
+        "Star": {
+          "id": "Estrella"
+        },
+        "Year": {
+          "id": "Año"
+        }
+      }
+    },
+    "naan_toy": {
+      "fields": {
+        "cheese": {
+          "id": "queso"
+        },
+        "chicken": {
+          "id": "gallina"
+        },
+        "lamb": {
+          "id": "cordero"
+        },
+        "onion": {
+          "id": "cebolla"
+        },
+        "preference": {
+          "id": "preferencia"
+        }
+      }
+    },
+    "nutrition": {
+      "card": {
+        "context": {
+          "potentialUses": "Por ejemplo, determinar cuántas calorías tiene un alimento a partir de su contenido nutricional."
+        },
+        "description": "Un conjunto de datos compilado por el USDA de varios alimentos y su contenido nutricional: calorías, minerales, vitaminas y mucho más."
+      },
+      "fields": {
+        "Ash": {
+          "description": "El contenido de cenizas representa el contenido mineral total en los alimentos. Medido en gramos (g).",
+          "id": "Ceniza"
+        },
+        "Beta Carotene": {
+          "description": "Un tipo de molécula lipídica, medida en miligramos (mg).",
+          "id": "Beta Caroteno"
+        },
+        "Carbohydrate": {
+          "description": "La fibra dietética o el salvado es la porción no digerible de los alimentos derivada de las plantas. Tiene dos componentes principales: fibra soluble y fibra insoluble. Medida en gramos (g).",
+          "id": "Carbohidratos"
+        },
+        "Category": {
+          "description": "La categoría general de alimentos a la que pertenece el artículo.",
+          "id": "Categoría"
+        },
+        "Cholesterol": {
+          "description": "El número total de kilocalorías en este alimento. Una kilocaloría es una unidad de energía de 1000 calorías (equivalente a 1 caloría grande).",
+          "id": "Colesterol"
+        },
+        "Description": {
+          "description": "Una descripción completa del artículo.",
+          "id": "Descripción"
+        },
+        "Fat: Monosaturated Fat": {
+          "id": "Grasa: Grasa monosaturada"
+        },
+        "Fat: Polysaturated Fat": {
+          "id": "Grasa: Grasa monosaturada"
+        },
+        "Fat: Saturated Fat": {
+          "id": "Grasa: Grasa monosaturada"
+        },
+        "Fat: Total Lipid": {
+          "id": "Grasa: Lípido Total"
+        },
+        "Fiber": {
+          "id": "Fibra"
+        },
+        "Kilocalories": {
+          "id": "Kilocalorías"
+        },
+        "Lutein and Zeaxanthin": {
+          "id": "Luteína y Zeaxantina"
+        },
+        "Lycopene": {
+          "id": "Licopeno"
+        },
+        "Major Minerals: Calcium": {
+          "id": "Minerales Principales: Calcio"
+        },
+        "Major Minerals: Copper": {
+          "id": "Minerales principales: Cobre"
+        },
+        "Major Minerals: Iron": {
+          "id": "Minerales principales: Hierro"
+        },
+        "Major Minerals: Magnesium": {
+          "id": "Minerales Principales: Magnesio"
+        },
+        "Major Minerals: Phosphorus": {
+          "id": "Minerales Principales: Fósforo"
+        },
+        "Major Minerals: Potassium": {
+          "id": "Minerales principales: Potasio"
+        },
+        "Major Minerals: Sodium": {
+          "id": "Minerales principales: Sodio"
+        },
+        "Major Minerals: Zinc": {
+          "id": "Minerales Principales: Zinc"
+        },
+        "Manganese": {
+          "id": "Manganeso"
+        },
+        "Niacin": {
+          "id": "Niacina"
+        },
+        "Protein": {
+          "id": "Proteína"
+        },
+        "Retinol": {
+          "id": "Retinol"
+        },
+        "Riboflavin": {
+          "id": "Riboflavina"
+        },
+        "Selenium": {
+          "id": "Selenio"
+        },
+        "Sugar Total": {
+          "id": "Azúcar Total"
+        },
+        "Thiamin": {
+          "id": "Tiamina"
+        },
+        "Vitamins: Vitamin A - IU": {
+          "id": "Vitaminas: Vitamina A - UI"
+        },
+        "Vitamins: Vitamin A - RAE": {
+          "id": "Vitaminas: Vitamina A - RAE"
+        },
+        "Vitamins: Vitamin B12": {
+          "id": "Vitaminas: Vitamina B12"
+        },
+        "Vitamins: Vitamin B6": {
+          "id": "Vitaminas: Vitamina B6"
+        },
+        "Vitamins: Vitamin C": {
+          "id": "Vitaminas: Vitamina C"
+        },
+        "Vitamins: Vitamin E": {
+          "id": "Vitaminas: Vitamina E"
+        },
+        "Vitamins: Vitamin K": {
+          "id": "Vitaminas: Vitamina K"
+        },
+        "Water": {
+          "id": "Agua"
+        }
+      },
+      "name": "Nutrición"
+    },
+    "pizza_toppings_toy": {
+      "fields": {
+        "Olives": {
+          "description": "¿La pizza tenía aceitunas?"
+        },
+        "Preference": {
+          "id": "Preferencia"
+        }
+      }
+    },
+    "poke_toy": {
+      "fields": {
+        "avocado": {
+          "id": "palta"
+        },
+        "ginger": {
+          "id": "jengibre"
+        },
+        "onion": {
+          "id": "cebolla"
+        },
+        "preference": {
+          "id": "preferencia"
+        }
+      }
+    },
+    "poutine_toy": {
+      "fields": {
+        "bacon": {
+          "id": "tocino"
+        },
+        "cheese": {
+          "id": "queso"
+        },
+        "lobster": {
+          "id": "langosta"
+        },
+        "meat": {
+          "id": "carne"
+        },
+        "mushrooms": {
+          "id": "champiñones"
+        },
+        "preference": {
+          "id": "preferencia"
+        }
+      }
+    },
+    "raspado_toy": {
+      "fields": {
+        "lime": {
+          "id": "lima"
+        },
+        "preference": {
+          "id": "preferencia"
+        },
+        "strawberry": {
+          "id": "frutilla"
+        }
+      }
+    },
+    "safari_toy": {
+      "fields": {
+        "alligator": {
+          "id": "caimán"
+        },
+        "elephant": {
+          "id": "elefante"
+        },
+        "people": {
+          "id": "gente"
+        },
+        "rhino": {
+          "id": "rinoceronte"
+        },
+        "trees": {
+          "id": "árboles"
+        }
+      },
+      "name": "Safari"
+    },
+    "salad_toy": {
+      "fields": {
+        "avocado": {
+          "id": "palta"
+        },
+        "beans": {
+          "id": "porotos"
+        },
+        "cheese": {
+          "id": "queso"
+        },
+        "chicken": {
+          "id": "gallina"
+        },
+        "fruit": {
+          "id": "fruta"
+        },
+        "preference": {
+          "id": "preferencia"
+        },
+        "tomato": {
+          "id": "tomate"
+        }
+      }
+    },
+    "salsa_toy": {
+      "fields": {
+        "avocado": {
+          "id": "palta"
+        },
+        "beans": {
+          "id": "porotos"
+        },
+        "corn": {
+          "id": "maíz"
+        },
+        "lime": {
+          "id": "lima"
+        },
+        "onion": {
+          "id": "cebolla"
+        },
+        "preference": {
+          "id": "preferencia"
+        }
+      }
+    },
+    "shapes_v1_toy": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Cualquier otra cosa que no sea el propósito anterior.",
+          "potentialUses": "Se utiliza para entrenar al AI Bot sobre cómo clasificar formas."
+        },
+        "description": "Se extrajeron características de un dataset visual que muestra diferentes formas."
+      },
+      "fields": {
+        "background color": {
+          "description": "Color del fondo detrás de la forma",
+          "id": "Color del fondo"
+        },
+        "border color": {
+          "description": "Color del contorno de la forma",
+          "id": "color de borde"
+        },
+        "fill color": {
+          "description": "Color del interior de la forma",
+          "id": "color de relleno"
+        },
+        "shape": {
+          "description": "Tipo de forma",
+          "id": "Forma"
+        },
+        "sides": {
+          "description": "Número de lados que tiene la forma",
+          "id": "lados"
+        },
+        "size": {
+          "description": "Ya sea grande o pequeño",
+          "id": "tamaño"
+        }
+      },
+      "name": "Formas V1"
+    },
+    "shapes_v2_toy": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Cualquier otra cosa que no sea el propósito anterior.",
+          "potentialUses": "Se utiliza para entrenar al AI Bot sobre cómo clasificar formas."
+        },
+        "description": "Se extrajeron características de un dataset visual que muestra diferentes formas."
+      },
+      "fields": {
+        "background color": {
+          "description": "Color del fondo detrás de la forma",
+          "id": "Color del fondo"
+        },
+        "border color": {
+          "description": "Color del contorno de la forma",
+          "id": "color de borde"
+        },
+        "fill color": {
+          "description": "Color del interior de la forma",
+          "id": "color de relleno"
+        },
+        "shape": {
+          "description": "Tipo de forma",
+          "id": "Forma"
+        },
+        "sides": {
+          "description": "Número de lados que tiene la forma",
+          "id": "lados"
+        },
+        "size": {
+          "description": "Ya sea grande o pequeño",
+          "id": "tamaño"
+        }
+      }
+    },
+    "shoe_survey_toy": {
+      "fields": {
+        "day": {
+          "id": "día"
+        },
+        "shoe": {
+          "id": "zapato"
+        },
+        "weather": {
+          "id": "clima"
+        }
+      }
+    },
+    "songs": {
+      "fields": {
+        "Artist": {
+          "id": "Artista"
+        },
+        "Year": {
+          "id": "Año"
+        }
+      }
+    },
+    "student_alcohol_consumption": {
+      "fields": {
+        "age": {
+          "id": "edad"
+        },
+        "health": {
+          "id": "salud"
+        },
+        "internet": {
+          "id": "internet"
+        },
+        "school": {
+          "id": "escuela"
+        }
+      }
+    },
+    "student_survey": {
+      "fields": {
+        "Achievements": {
+          "id": "Logros"
+        },
+        "Age": {
+          "description": "Edad",
+          "id": "Edad"
+        },
+        "Country": {
+          "id": "País"
+        },
+        "Dance": {
+          "id": "Baile"
+        },
+        "Empathy": {
+          "id": "Empatía"
+        },
+        "Gender": {
+          "description": "Género",
+          "id": "Género"
+        },
+        "Height": {
+          "description": "Altura",
+          "id": "Altura"
+        },
+        "Internet": {
+          "id": "Internet"
+        },
+        "Music": {
+          "id": "Música"
+        },
+        "Writing": {
+          "id": "Escribir"
+        }
+      }
+    },
+    "taco_toppings_toy": {
+      "fields": {
+        "Preference": {
+          "id": "Preferencia"
+        }
+      }
+    },
+    "zoo": {
+      "card": {
+        "description": "Un pequeño conjunto de datos de diferentes atributos de animales (si tienen pelo, plumas, dientes y más) usados para propósitos de clasificación. Casi todas las características son Yes/No excepto el Nombre del Animal, Clase y Número de Patas."
+      },
+      "fields": {
+        "Aquatic": {
+          "id": "Aquatic"
+        },
+        "Toothed": {
+          "description": "¿El animal tiene dientes?"
+        }
+      }
+    }
+  },
+  "generateResultsHeader": "Probando el modelo",
+  "incorrectAnswer": "Incorrecto",
+  "modelCardAccuracy": "Precisión",
+  "modelCardDatasetDetails": "Acerca de los Datos",
+  "modelCardFeatures": "Características",
+  "modelCardFeaturesAndLabel": "Características y Etiquetas",
+  "modelCardIntendedUse": "Propósito",
+  "modelCardLabel": "Etiqueta",
+  "modelCardLimitations": "Limitaciones y Advertencias",
+  "modelCardPossibleValues": "Valores Posibles",
+  "modelCardPossibleValuesMaximum": "máx.",
+  "modelCardPossibleValuesMinimum": "mín.",
+  "navigateBack": "Volver",
+  "navigateDone": "Terminar",
+  "navigateForward": "Continuar",
+  "potentialMisusesDescription": "Describe cualquier limitación de como el modelo ha sido creado y como debe usarse. Puedes decir algo como \"Evita usar este modelo para...\" o \"Ten cuidado con...\". Considera las siguientes preguntas preguntas:",
+  "potentialMisusesDescriptionEnough": "¿Recopilaste suficientes datos para confiar en la precisión del modelo?",
+  "potentialMisusesDescriptionRepresent": "¿Representan los datos a todos los usuarios y escenarios posibles?",
+  "potentialMisusesDescriptionSituations": "¿Hay situaciones en las que este modelo definitivamente no debería usarse?",
+  "potentialMisusesLabel": "Limitaciones y Advertencias",
+  "potentialUsesDescription": "Describe el problema que crees que este modelo puede solucionar o una posible aplicación en la que alguien pueda usar este modelo.",
+  "potentialUsesLabel": "Propósito",
+  "predictAIBotPredicts": "La I.A. predice",
+  "predictButton": "Predecir",
+  "predictHeader": "¡Pruébalo!",
+  "resultsAccuracy": "Precisión",
+  "resultsDetailsButton": "Detalles",
+  "resultsHeader": "Resultado",
+  "resultsPreviousResults": "Resultados anteriores",
+  "resultsTableFeatureHeader": "Características",
+  "resultsTablePredictedValueHeader": "Predicción de la I.A.",
+  "saveProgress": "Guardar",
+  "scatterPlotLabel": "Información sobre la relación",
+  "selectLabelButton": "Seleccionar etiqueta",
+  "trainModelButtonText": "Entrenar",
+  "trainModelHeading": "Entrenamiento",
+  "tryAgain": "Vuelve a intentarlo",
+  "uniqueOptionsWarningNotice": "Nota"
+}

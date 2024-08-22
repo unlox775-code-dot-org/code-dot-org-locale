@@ -1,0 +1,6 @@
+{
+  "continue": "Pokračovat",
+  "startOverAichatModelCustomizations": "Tímto se tato úroveň vrátí do svého původního stavu a odstraní veškeré úpravy modelů či informace o modelu karty, které jste přidali nebo změnili.",
+  "waitingForChatResponse": "Čekání na odpověď...",
+  "whatIsPersonalInformation": "Co je považováno jako osobní údaje?"
+}

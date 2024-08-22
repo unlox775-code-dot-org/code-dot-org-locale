@@ -1,0 +1,22 @@
+{
+  "blockly_blockPlaySoundAtMeasureTooltip": "spila hljóð",
+  "blockly_blockPlaySoundTooltip": "spila hljóð",
+  "blockly_blockRestTooltip": "hvíla",
+  "blockly_blockWhenRun": "þegar keyrt",
+  "blockly_blockWhenRunTooltip": "þegar keyrt",
+  "blockly_functionNamePlaceholder": "fallið mitt",
+  "blockly_toolboxCategoryEvents": "Atvik",
+  "blockly_toolboxCategoryFunctions": "Föll",
+  "blockly_toolboxCategoryLogic": "Rökvísi",
+  "blockly_toolboxCategoryMath": "Reikningur",
+  "blockly_toolboxCategoryVariables": "Breytur",
+  "continue": "Áfram",
+  "effectsLabelsMedium": "Miðlungs",
+  "feedback": "Endurgjöf",
+  "panelHeaderInstructions": "Leiðbeiningar",
+  "panelHeaderWorkspace": "Vinnusvæði: ",
+  "share": "Deila leik",
+  "soundsFilterAll": "Allir",
+  "startOver": "Byrja aftur",
+  "upload": "Hlaða upp"
+}

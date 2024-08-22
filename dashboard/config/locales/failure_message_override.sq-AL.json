@@ -1,0 +1,26 @@
+{
+  "sq-AL": {
+    "data": {
+      "failure_message_override": {
+        "MC HOC 2016 Level 2-2": "Përdorni komandat “lëviz përpara” dhe “kthehu” për të lëvizur pulën tuaj.",
+        "MC HOC 2016 Level 3": "Përdorni një bllok “bëjë gjithmonë” dhe komandat “lëvizni përpara” dhe “kthehuni” për ta mbajtur pulën tuaj të enden.",
+        "MC HOC 2016 Level 4": "Nëse pulat lëvizin të gjitha në të njëjtin drejtim, përdorni “kthehu rastësisht” për t'i bërë pulat të kthehen rastësisht majtas ose djathtas.",
+        "MC HOC 2016 Level 5": "Provoni të përdorni “bëjë gjithmon” me “Lëviz një hap drejt lojtarit”.",
+        "MC HOC 2016 Level 6": "Përdorni komandën `spawn zombie` nën `kur bie natë` për të shpërndarë me ne fund tre zombi. Pastaj, shtoni `lëviz një hap drejt lojtarit` në ngjarjen e tyre `kur shpërthejnë` me një përsëritje t'ua ndihmuar ata të ju ndjekin. Nëse janë shumë të shpejtë, shtoni një komandë `prit` për t'i ngadalësuar ata.",
+        "MC HOC 2016 Level 8": "Ju duhet të përdorni Creeper shpërthyes për të hedhur në erë murin në mënyrë që të mund të arrini delet tuaja.",
+        "MC HOC 2016 New Drop": "Përdorni çelësat e shigjetave për të ecur në dele dhe shtypni shiritin e hapësirës ose klikoni në bordin e lojës për të përdorur delet. Dhe, mos harroni të shtoni bllokun 'Drop' në kodin tuaj.",
+        "MC HOC 2016 New Spawn": "Vendosni “delën e pastrimit” nën “kur vraponi”.",
+        "MC HOC 2016 New Walk": "Për të hapur derën, shtypni shiritin e hapësirës ose prekni tabelën e lojës ndërsa përballeni me të. Ecni brenda për të vazhduar.",
+        "MC HOC 2016 SCORE LEVEL": "Nëse keni probleme me etiketimin e 5 Golemëve, provoni të ndryshoni rezultatin në 2 për etiketë.",
+        "MC HOC 2016 Village Test": "Ju duhet të bëni Golemin e Hekurt të ndjekë dhe të sulmoni zombiet për të fituar.",
+        "OPD-K5-projects-4": "Ju duhet të shtoni dy ose më shumë aktorë të rinj në lojën tuaj dhe t'i programoni ata të lëvizin.",
+        "courseC19_playLab_EOC3": "Ju duhet të shtoni dy ose më shumë aktorë të rinj në lojën tuaj dhe t'i programoni ata të lëvizin.",
+        "courseC19_playLab_EOC32022": "Ju duhet të shtoni dy ose më shumë aktorë të rinj në lojën tuaj dhe t'i programoni ata të lëvizin.",
+        "courseC19_playLab_EOC3_2020": "Ju duhet të shtoni dy ose më shumë aktorë të rinj në lojën tuaj dhe t'i programoni ata të lëvizin.",
+        "courseC19_playLab_EOC3_2021": "Ju duhet të shtoni dy ose më shumë aktorë të rinj në lojën tuaj dhe t'i programoni ata të lëvizin.",
+        "courseC19_playLab_EOC3_2023": "Ju duhet të shtoni dy ose më shumë aktorë të rinj në lojën tuaj dhe t'i programoni ata të lëvizin.",
+        "courseE_playLab_scaffold3": "Ju duhet të shtoni dy ose më shumë aktorë të rinj në lojën tuaj dhe t'i programoni ata të lëvizin."
+      }
+    }
+  }
+}

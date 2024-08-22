@@ -1,0 +1,16 @@
+{
+  "ka-GE": {
+    "data": {
+      "marketing_announcements": {
+        "banners": {
+          "hoc-2023": {
+            "buttonText": "გაიგეთ მეტი"
+          },
+          "superhero": {
+            "buttonText": "გაიგეთ მეტი"
+          }
+        }
+      }
+    }
+  }
+}

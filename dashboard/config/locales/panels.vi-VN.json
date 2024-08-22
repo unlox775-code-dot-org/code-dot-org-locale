@@ -1,0 +1,47 @@
+{
+  "vi-VN": {
+    "data": {
+      "panels": {
+        "music_lab_intro_panels_start2": {
+          "musiclab_intro_panels_start_v2-415ec56a-f841-421b-adff-b680e8d4ca35": "#### ✨ Chào mừng bạn đến với Music Lab ✨\n\nHãy sẵn sàng sáng tác nhạc bằng mã lệnh nào! ",
+          "musiclab_intro_panels_start_v2-623c36d1-b475-414b-8e2f-da7d27012391": "### Đổi âm thanh\n\nNhấp chuột vào khối âm thanh để mở thư viện âm thanh.\n\nHãy chọn bất kỳ âm thanh nào bạn thích!",
+          "musiclab_intro_panels_start_v2-d2e2064a-8f39-452f-81f5-aab175d5a165": "#### Sử dụng bài hướng dẫn\n\n<p style=\"color: black;\"><span style=\"color: #009EB0;\">→</span> 1. Đọc hướng dẫn.</p>\n\n<p style=\"color: black;\"><span style=\"color: #ED6060;\">→</span> 2. Kéo các khối vào không gian làm việc.</p>\n\n<p style=\"color: black;\"><span style=\"color: #FFA400;\">→</span> 3. Nhấn ► Chạy để bắt đầu bài hát.</p>\n\n<p style=\"color: black;\"><span style=\"color: #9660BF;\">→</span> 4. Nhấn Tiếp tục để chuyển sang cấp độ tiếp theo.</p>"
+        },
+        "musiclab_intro_panels_end_2": {
+          "musiclab_intro_panels_end-70b08fdd-abbf-42bb-bdc9-d406bb513faf": "#### Thế là đã xong!\n\nBạn đã nắm được những điều cơ bản và sẵn sàng bắt đầu tạo bản phối của riêng mình! Hãy nhớ khám phá thư viện âm thanh - nơi bạn có thể tìm thấy nhiều âm thanh để giúp bạn tạo ra một bản nhạc tuyệt vời.\n\nTrong hộp công cụ, bạn cũng sẽ khám phá:\n\n-   Khối tạo nhịp\n\n-   Hiệu ứng âm thanh như hồi âm và bộ lọc\n\n-   Khối tổng hợp\n\n-   Một khối để ngẫu nhiên hóa âm thanh\n\n...và nhiều hơn nữa! Chúc bạn có trải nghiệm vui vẻ!"
+        },
+        "musiclab_intro_panels_function": {
+          "musiclab_intro_panels_function-e62e1783-6e0c-4dfb-9300-5dd081a80614": "Bạn có thể sử dụng khối có tên tương ứng để \"gọi\" hàm mới của mình như thế này."
+        },
+        "musiclab_intro_panels_function_2": {
+          "musiclab_intro_panels_function-b2da9c67-9c99-42b2-9c72-c2e576663899": "Một tính năng thú vị trong Music Lab là bạn có thể nhóm một tập hợp các khối thành khối của riêng mình. Trong mã hóa, điều này được gọi là tạo một _hàm_.",
+          "musiclab_intro_panels_function-e62e1783-6e0c-4dfb-9300-5dd081a80614": "Bạn có thể sử dụng khối có tên tương ứng để \"gọi\" hàm mới của mình như thế này."
+        },
+        "musiclab_intro_panels_start_2": {
+          "musiclab_intro_panels_start-421d64b2-c4db-42cb-ac1f-de66a4d22fa7": "#### Chào mừng bạn đến với Music Lab!\n\nMusic Lab cho phép bạn trộn, phối và thậm chí biểu diễn nhạc bằng mã. Bạn không cần phải là chuyên gia về mã hoặc âm nhạc! chỉ cần dành chút thời gian và sự tò mò để bắt đầu tạo ra tác phẩm của riêng mình."
+        },
+        "musiclab_tutorial_panels_function": {
+          "musiclab_intro_panels_function_pdx-952b5575-5487-40c6-8a7e-4e37339d81d3": "### Hãy sử dụng hàm mới nào!\n\nBây giờ, bạn có thể sử dụng hàm mới của mình bất cứ lúc nào bằng cách chọn khối có tên hàm của bạn.\n\nKhối mới này sẽ **gọi** hàm khi bạn nhấn Chạy. ",
+          "musiclab_intro_panels_function_pdx-f1f658c0-64a9-471c-9f2a-399ba1ea8538": "### Hàm\n\nHãy tạo một **hàm** để chạy một đoạn mã lệnh cụ thể bất cứ khi nào gọi hàm đó.\n\n**Đầu tiên** hãy xây dựng hàm bằng cách sử dụng âm thanh bạn thích."
+        },
+        "musiclab_tutorial_panels_notes": {
+          "musiclab_intro_panels_trigger_pdx-5586b57a-0a71-4d94-bdd7-125e9d4af278": "### Hãy soạn giai điệu của riêng bạn!\n\nSử dụng khối **phát nốt nhạc** để soạn giai điệu của riêng bạn.",
+          "musiclab_intro_panels_trigger_pdx-7930c016-c450-4b4a-9c73-641b2ea86a37": "### Hãy soạn nhịp điệu của riêng bạn!\n\nSử dụng khối **phát tiếng trống** để soạn nhịp điệu của riêng bạn.\n\nChúc bạn vui vẻ!"
+        },
+        "musiclab_tutorial_panels_playtogether": {
+          "musiclab_intro_panels_playtogether_pdx-a5066092-2920-4c8d-89ea-00b7a8531ad0": "### Phát cùng lúc\n\nHãy phát nhiều âm thanh cùng một lúc! Hãy kéo hai hoặc nhiều âm thanh vào khối **phát cùng lúc**."
+        },
+        "musiclab_tutorial_panels_repeat": {
+          "musiclab_intro_panels_playtogether_pdx-a0d88b4a-e9a8-4641-8ec9-3ce98e7a1cc4": "### Lặp lại âm thanh\n\nChọn một âm thanh và đặt số lần phát âm thanh đó bằng khối lặp lại."
+        },
+        "musiclab_tutorial_panels_trigger": {
+          "musiclab_intro_panels_trigger_pdx-5586b57a-0a71-4d94-bdd7-125e9d4af278": "### Phát nhạc trực tiếp nào!\n\nBạn có thể sử dụng tính năng kích hoạt để phát nhạc trực tiếp.\n\nTrước tiên, hãy mã hóa khối **kích hoạt** bằng âm thanh bạn muốn phát.",
+          "musiclab_intro_panels_trigger_pdx-7930c016-c450-4b4a-9c73-641b2ea86a37": "Sau đó, hãy **kích hoạt** âm thanh mới trong khi bài hát của bạn đang phát."
+        },
+        "usiclab_tutorial_panels_end": {
+          "musiclab_intro_panels_end_pdx-88ca8817-6cb7-4c5b-a08a-69fc2267eb0b": "#### 🎶 Bạn đã sẵn sàng để trình diễn chưa? 🎶\n\nBạn đã học được những kiến thức cơ bản và bây giờ bạn đã sẵn sàng để sáng tác bài hát của riêng mình rồi đấy!\n\nHãy thử tất cả âm thanh và tùy chỉnh mới trong hộp công cụ.\n\nHãy nhấp chuột vào Continue để bắt đầu. "
+        }
+      }
+    }
+  }
+}

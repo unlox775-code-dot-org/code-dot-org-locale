@@ -1,0 +1,53 @@
+{
+  "correctAnswer": "ރަނގަޅު",
+  "datasets": {
+    "billionaires": {
+      "fields": {
+        "Age": {
+          "id": "އުމުރު"
+        },
+        "Gender": {
+          "id": "ޖިންސު"
+        }
+      }
+    },
+    "heart": {
+      "fields": {
+        "Age": {
+          "id": "އުމުރު"
+        }
+      }
+    },
+    "movies": {
+      "fields": {
+        "Star": {
+          "id": "ސްޓަރ - ތަރި"
+        }
+      }
+    },
+    "safari_toy": {
+      "name": "ސަފާރީ"
+    },
+    "shoe_survey_toy": {
+      "fields": {
+        "day": {
+          "id": "ދުވަސް"
+        }
+      }
+    },
+    "student_survey": {
+      "fields": {
+        "Age": {
+          "description": "އުމުރު",
+          "id": "އުމުރު"
+        },
+        "Gender": {
+          "description": "ޖިންސު",
+          "id": "ޖިންސު"
+        }
+      }
+    }
+  },
+  "navigateDone": "ނިންމާލަން",
+  "navigateForward": "ކުރިއަށް ދިޔުމަށް"
+}

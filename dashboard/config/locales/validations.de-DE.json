@@ -1,0 +1,19 @@
+{
+  "de-DE": {
+    "data": {
+      "validations": {
+        "musiclab_intro_change_sound": {
+          "musiclab_intro_change_sound_38551dcf-dfaf-4e47-8774-bd9f02621036": "Super! Du hast den Ton geändert.",
+          "musiclab_intro_change_sound_7a7f2fdb-0458-4b63-9a0a-7a19180b67f2": "Super! Du hast den Ton geändert.",
+          "musiclab_intro_change_sound_7eda7f13-3a56-42b1-a717-825eb8b01acf": "Bitte [ändere](#clickable=play-sound-block-workspace) den Ton.",
+          "musiclab_intro_change_sound_e63fb4ba-f0d0-495e-bea2-82f0d20f0477": "Super! Du hast den Ton geändert.",
+          "musiclab_intro_change_sound_f2594aee-b7e0-461e-95c5-8edab4d0c41a": "Super! Du hast den Ton geändert."
+        },
+        "musiclab_intro_play_sound": {
+          "musiclab_intro_play_sound_10152a9d-29b4-46e9-9080-9ad7a8937433": "Ziehen den [spiele](#clickable=play-sound-block) Block und füge ihn hinter dem [wenn gestartet](#clickable=when-run-block) Block an.",
+          "musiclab_intro_play_sound_34517aac-bcf5-4183-a71d-fafd0498e499": "Super! Du hast einen neuen Ton abgespielt."
+        }
+      }
+    }
+  }
+}

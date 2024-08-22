@@ -1,0 +1,76 @@
+{
+  "ko-KR": {
+    "data": {
+      "validations": {
+        "musiclab_intro_change_sound": {
+          "musiclab_intro_change_sound_38551dcf-dfaf-4e47-8774-bd9f02621036": "잘했습니다. 사운드를 성공적으로 변경했습니다.",
+          "musiclab_intro_change_sound_7a7f2fdb-0458-4b63-9a0a-7a19180b67f2": "잘했습니다. 사운드를 성공적으로 변경했습니다.",
+          "musiclab_intro_change_sound_7eda7f13-3a56-42b1-a717-825eb8b01acf": "사운드를 [변경](#clickable=play-sound-block-workspace)해주세요.",
+          "musiclab_intro_change_sound_e63fb4ba-f0d0-495e-bea2-82f0d20f0477": "잘했습니다. 사운드를 성공적으로 변경했습니다.",
+          "musiclab_intro_change_sound_f2594aee-b7e0-461e-95c5-8edab4d0c41a": "잘했습니다. 사운드를 성공적으로 변경했습니다."
+        },
+        "musiclab_intro_function": {
+          "musiclab_intro_function_46d4cb8f-7dcf-4b78-b963-ca78d8cb439f": "함수를 사용하여 사운드를 재생해 보세요.",
+          "musiclab_intro_function_b6e6f37e-268f-42d2-bef5-62968613af46": "잘했습니다.  사운드를 재생하기 위해 함수를 성공적으로 사용했습니다."
+        },
+        "musiclab_intro_play_sound": {
+          "musiclab_intro_play_sound_10152a9d-29b4-46e9-9080-9ad7a8937433": "[재생](#clickable=play-sound-block) 블록을 드래그하여 [실행 시](#clickable=when-run-block) 에 붙입니다.",
+          "musiclab_intro_play_sound_34517aac-bcf5-4183-a71d-fafd0498e499": "잘했습니다. 사운드를 성공적으로 재생했습니다."
+        },
+        "musiclab_intro_play_together": {
+          "musiclab_intro_play_together_5c2b8269-32d0-4798-b3e8-d679cb2a4be6": "잘했습니다. 두 개의 사운드를 성공적으로 함께 재생했습니다.",
+          "musiclab_intro_play_together_92348942-2028-4cc9-bd77-bc96b4ce57a9": "하나의 사운드를 재생한 것도 좋았지만 두 사운드를 함께 재생해야 합니다.",
+          "musiclab_intro_play_together_ca6210c5-fb7e-473e-9428-d50c81e6faca": "두 개의 사운드를 함께 재생해주세요."
+        },
+        "musiclab_intro_repeat": {
+          "musiclab_intro_repeat_28936cc0-3bfc-4c00-8319-5886b587b29c": "사운드를 두 번 재생했군요. 잘했습니다. 이제 세 번 재생해 주세요.",
+          "musiclab_intro_repeat_41276380-4fc4-48cb-be28-b6be5dfb8dd5": "사운드를 한 번 재생했습니다. [반복](#clickable=repeat-block) 블록을 사용하여 세 번 재생해보세요.",
+          "musiclab_intro_repeat_b2a9ed31-f16f-45ac-9aaa-ab45620d6cd6": "사운드를 세 번 재생해 주세요. [실행 시](#clickable=when-run-block) 에 [반복](#clickable=repeat-block) 블록을 붙입니다. 그런 다음 그 안에 [재생](#clickable=play-sound-block) 블록을 넣으세요.",
+          "musiclab_intro_repeat_eaf348ed-21a0-499e-89a8-2f5beff52dd7": "잘했습니다. 세 개의 사운드를 성공적으로 재생했습니다."
+        },
+        "musiclab_intro_trigger": {
+          "musiclab_intro_trigger_063936aa-e4fc-4654-b695-1cb2f1ad989d": "트리거를 사용하여 사운드를 재생해 주세요.",
+          "musiclab_intro_trigger_5a0ba9ef-12ef-42eb-8377-c80ef540bbb0": "잘했습니다. 트리거를 사용하여 사운드를 성공적으로 재생했습니다."
+        },
+        "musiclab_tutorial_change_sound": {
+          "musiclab_intro_change_sound_v2_6054328e-dc95-47fe-8c65-980ce00299f1": "잘했습니다! 노래에 새로운 사운드를 추가했습니다. ",
+          "musiclab_intro_change_sound_v2_9ddfc062-5d48-4090-aa06-ff26c4a75916": "사운드를 적어도 하나 이상 추가하세요."
+        },
+        "musiclab_tutorial_drums": {
+          "musiclab_intro_drums_v2_8a21d216-d589-4129-b695-bf32dd4440e8": "[드럼 재생](#clickable=play-drums-block) 블록을 추가하고 나만의 비트를 만들어 보세요!",
+          "musiclab_intro_drums_v2_d5c7c777-c009-470d-99b6-1a2e60be22df": "멋진 사운드네요!",
+          "musiclab_tutorial_drums_25bc1092-ffea-4236-b867-a7e47c85914c": "[드럼 재생](#clickable=play-drums-block) 블록을 클릭하고 비트 메이커를 사용하여 사용자 지정 비트를 만들어보세요."
+        },
+        "musiclab_tutorial_function": {
+          "musiclab_intro_function_elementary_328ae4f1-4120-4555-bfba-4654bd618fd8": "잘했습니다.  사운드를 재생하기 위해 함수를 성공적으로 사용했습니다.",
+          "musiclab_intro_function_elementary_33cfaef2-2b2e-4e45-93b8-88632b06f78a": "[실행 시](#clickable=when-run-block) 아래의 “코러스” 블록을 연결하여 함수에서 사운드를 재생합니다."
+        },
+        "musiclab_tutorial_notes": {
+          "musiclab_intro_notes_v2_a40492dc-818f-4e02-ba2e-e7de19e291df": "[음표 재생](#clickable=play-notes-block) 블록을 사용해 보고 나만의 멜로디를 만들어 보세요.",
+          "musiclab_intro_notes_v2_ca10f1fe-8755-49d5-864f-83772a128e36": "멋져요! 자신만의 멜로디를 작곡했군요. ",
+          "musiclab_tutorial_notes_cdc6aa6b-b5a7-45d2-92e2-410eb5c4d3bc": "[음표 재생](#clickable=play-notes-block) 블록을 클릭하고 키보드를 사용하여 사용자 지정 멜로디를 만들어 보세요. "
+        },
+        "musiclab_tutorial_play_sound": {
+          "musiclab_intro_play_sound_10152a9d-29b4-46e9-9080-9ad7a8937433": "실행 버튼을 찾았습니다! 이제 [재생](#clickable=play-sound-block) 블록을 드래그하여 [실행 시](#clickable=when-run-block) 아래에 연결하세요. ",
+          "musiclab_intro_play_sound_34517aac-bcf5-4183-a71d-fafd0498e499": "잘했습니다. 사운드를 재생했어요!"
+        },
+        "musiclab_tutorial_play_together": {
+          "musiclab_intro_play_together_elementary_a73d098d-932c-416e-9d5a-4585178fe866": "하나의 사운드를 잘 재생했습니다. 이제 두 사운드를 함께 재생해 보세요. [함께 재생](#clickable=play-sounds-together-block-workspace) 블록에 [재생](#clickable=play-sound-block-workspace) 블록 두 개를 추가하세요.",
+          "musiclab_intro_play_together_elementary_b1ec52da-2b60-4e02-8512-60495bbb79e6": "잘 했습니다. 두 사운드가 함께 만나니 멋지네요!",
+          "musiclab_intro_play_together_elementary_c5abfcf3-0d24-4405-9249-aeb85e0a01ce": "두 사운드를 함께 재생해 보세요. 힌트: 드럼과 베이스 비트처럼 서로 다른 두 가지 유형의 사운드를 함께 재생해 보세요!",
+          "musiclab_tutorial_play_together_ebbe089b-ecdc-4cd8-9555-c38271706f31": "아직 사운드가 재생되지 않았습니다. [실행 시](#clickable=when-run-block) 아래에 [함께 재생](#clickable=play-sounds-together-block) 블록을 연결하세요. 그런 다음 [재생](#clickable=play-sound-block-workspace) 블록 두 개를 [함께 재생](#clickable=play-sounds-together-block-workspace) 블록에 추가하세요."
+        },
+        "musiclab_tutorial_repeat": {
+          "musiclab_intro_repeat_elementary_1eaff1ec-353f-48fb-8a07-383e4dd1f918": "잘했습니다. 사운드를 세 번 재생했습니다!",
+          "musiclab_intro_repeat_elementary_7870662b-99f3-4920-9a0e-f03a9386bb34": "사운드를 세 번 재생하세요. [실행 시](#clickable=when-run-block)에 [반복](#clickable=repeat-block) 블록을 붙입니다. 그런 다음 그 안에 [재생](#clickable=play-sound-block) 블록을 넣으세요.",
+          "musiclab_intro_repeat_elementary_81debb7d-9c0a-466c-b618-a6f5639e0b1b": "사운드를 두 번 반복했습니다. 이제 [3](#clickable=repeat-block-field-workspace)번 재생하게 만들어 보세요.",
+          "musiclab_intro_repeat_elementary_ef93b774-6a6b-4364-8e37-85ce20e15450": "사운드를 한 번 재생했습니다. 이제 [반복](#clickable=repeat-block-field-workspace) 블록에 [3](#clickable=repeat-block-field-workspace)을 넣어 세 번 재생해 보세요."
+        },
+        "musiclab_tutorial_trigger": {
+          "musiclab_intro_trigger_elementary_55abe67c-58ad-4ce2-aab9-172acb91a090": "아직 아무 것도 트리거되지 않았습니다. ",
+          "musiclab_intro_trigger_elementary_7d8f341d-9582-4fc8-8622-464260ce978c": "잘했습니다. 트리거를 사용하여 사운드를 성공적으로 재생했습니다."
+        }
+      }
+    }
+  }
+}

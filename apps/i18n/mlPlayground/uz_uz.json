@@ -1,0 +1,740 @@
+{
+  "columnDetailsMaximumValue": "maksimum",
+  "columnDetailsMinimumValue": "minimum",
+  "columnInspectorDescription": "Ta‘rif",
+  "correctAnswer": "To‘g‘ri",
+  "dataCardLastUpdated": "Oxirgi yangilangan",
+  "datasets": {
+    "abalone": {
+      "fields": {
+        "Length": {
+          "id": "Uzunlik"
+        }
+      }
+    },
+    "bike_sharing": {
+      "fields": {
+        "Month": {
+          "id": "Oy"
+        }
+      }
+    },
+    "billionaires": {
+      "fields": {
+        "Age": {
+          "id": "Yoshi"
+        },
+        "Gender": {
+          "id": "Jinsi"
+        }
+      }
+    },
+    "boba_toy": {
+      "fields": {
+        "banana": {
+          "id": "banan"
+        }
+      }
+    },
+    "census_part": {
+      "fields": {
+        "age": {
+          "id": "yoshi"
+        }
+      }
+    },
+    "club_random_toy": {
+      "fields": {
+        "color": {
+          "id": "rang"
+        },
+        "food": {
+          "id": "ovqat"
+        },
+        "music": {
+          "id": "musiqa"
+        }
+      }
+    },
+    "heart": {
+      "fields": {
+        "Age": {
+          "id": "Yoshi"
+        }
+      }
+    },
+    "insurance_cost": {
+      "fields": {
+        "age": {
+          "id": "yoshi"
+        }
+      }
+    },
+    "loneliness_interests": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Cheklangan maʼlumotlar toʻplamidan demografik axborot shaklini ishlatgan holda odamlarning kichik guruhi haqida taxminlar qilish: masalan, qaysi jinslarda qanday qoʻrquvlar borligini oldindan bilishni aytish.",
+          "potentialUses": "Masalan, boshqalarning xislatiga qarab birovning shaxsiy xislatlarini oldindan bilish."
+        }
+      },
+      "fields": {
+        "Internet": {
+          "id": "Internet"
+        },
+        "Loneliness": {
+          "description": "Men hayotda yolgʻiz his qilaman.",
+          "id": "Yolgʻizlik"
+        },
+        "Writing": {
+          "id": "Yozish"
+        }
+      }
+    },
+    "loneliness_movies": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Cheklangan maʼlumotlar toʻplamidan demografik axborot shaklini ishlatgan holda odamlarning kichik guruhi haqida taxminlar qilish: masalan, qaysi jinslarda qanday qoʻrquvlar borligini oldindan bilishni aytish.",
+          "potentialUses": "Masalan, boshqalarning xislatiga qarab birovning shaxsiy xislatlarini oldindan bilish."
+        },
+        "description": "FSEV UKʼdagi 18-21 yashar slovak talabalar toʻplagan soʻrovnoma javoblari. Koʻpchilik javoblar 1 dan 5 gacha boʻlgan baholardir. Masalan, „1 dan (umuman yoqlamayman) 5 gacha (toʻliq yoqlayman) baholar: Men hatto boʻsh vaqtimda ham oʻqiyman yoki ishlayman“. Ushbu kichik soʻrovnoma faqat filmlarga qaratilgan boʻlib, katta soʻrovnomaning bir boʻlagidir."
+      },
+      "fields": {
+        "Action": {
+          "description": "Jangari filmlardan zavq olaman",
+          "id": "Jangari"
+        },
+        "Animated": {
+          "description": "Animatsion filmlardan zavq olaman",
+          "id": "Animatsion"
+        },
+        "Comedy": {
+          "description": "Komediya filmlardan zavq olaman",
+          "id": "Komediya"
+        },
+        "Documentary": {
+          "description": "Hujjatli filmlardan zavq olaman",
+          "id": "Hujjatli film"
+        },
+        "Fantasy/Fairy tales": {
+          "description": "Fentezi/Ertak filmlardan zavq olaman",
+          "id": "Fentezi/Ertak"
+        },
+        "Horror": {
+          "description": "Qoʻrqinchli filmlardan zavq olaman",
+          "id": "Qoʻrqinchli"
+        },
+        "Loneliness": {
+          "description": "Men hayotda yolgʻiz his qilaman.",
+          "id": "Yolgʻizlik"
+        },
+        "Movies": {
+          "description": "Filmlar koʻrishdan zavq olaman",
+          "id": "Filmlar"
+        },
+        "Romantic": {
+          "description": "Romantik filmlardan zavq olaman",
+          "id": "Romantik"
+        },
+        "Sci-fi": {
+          "description": "Ilmiya fantastik filmlardan zavq olaman",
+          "id": "Ilmiy fantastika"
+        },
+        "Thriller": {
+          "description": "Triller filmlardan zavq olaman",
+          "id": "Triller"
+        },
+        "War": {
+          "description": "Urush filmlardan zavq olaman",
+          "id": "Urush"
+        },
+        "Western": {
+          "description": "Vestern filmlardan zavq olaman",
+          "id": "Vestern"
+        }
+      },
+      "name": "Talabalar soʻrovnomasi — Filmlar"
+    },
+    "loneliness_music": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Cheklangan maʼlumotlar toʻplamidan demografik axborot shaklini ishlatgan holda odamlarning kichik guruhi haqida taxminlar qilish: masalan, qaysi jinslarda qanday qoʻrquvlar borligini oldindan bilishni aytish.",
+          "potentialUses": "Masalan, boshqalarning xislatiga qarab birovning shaxsiy xislatlarini oldindan bilish."
+        },
+        "description": "FSEV UKʼdagi 18-21 yashar slovak talabalar toʻplagan soʻrovnoma javoblari. Koʻpchilik javoblar 1 dan 5 gacha boʻlgan baholardir. Masalan, „1 dan (umuman yoqlamayman) 5 gacha (toʻliq yoqlayman) baholar: Men hatto boʻsh vaqtimda ham oʻqiyman yoki ishlayman“. Ushbu kichik soʻrovnoma faqat musiqaga qaratilgan boʻlib, katta soʻrovnomaning bir boʻlagidir."
+      },
+      "fields": {
+        "Alternative": {
+          "description": "Alternativ musiqadan zavq olaman",
+          "id": "Alternativ"
+        },
+        "Classical music": {
+          "description": "Mumtoz musiqadan zavq olaman",
+          "id": "Mumtoz musiqa"
+        },
+        "Country": {
+          "description": "Kantri musiqasidan zavq olaman",
+          "id": "Mamlakat"
+        },
+        "Dance": {
+          "description": "Raqs musiqalardan zavq olaman",
+          "id": "Raqs"
+        },
+        "Folk": {
+          "description": "Xalq musiqasidan zavq olaman",
+          "id": "Xalq"
+        },
+        "Hiphop, Rap": {
+          "description": "Hip hop yoki Rep musiqadan zavq olaman",
+          "id": "Hip hop, Rep"
+        },
+        "Latino": {
+          "description": "Lotin musiqasidan zavq olaman",
+          "id": "Lotin"
+        },
+        "Loneliness": {
+          "description": "Men hayotda yolgʻiz his qilaman.",
+          "id": "Yolgʻizlik"
+        },
+        "Metal or Hardrock": {
+          "description": "Metal yoki Hardrok musiqadan zavq olaman",
+          "id": "Metal yoki Hardrok"
+        },
+        "Music": {
+          "description": "Musiqa tinglashdan zavq olaman",
+          "id": "Musiqa"
+        },
+        "Musical": {
+          "description": "Myuzikl musiqasidan zavq olaman",
+          "id": "Myuzikl"
+        },
+        "Opera": {
+          "description": "Opera musiqasidan zavq olaman",
+          "id": "Opera"
+        },
+        "Pop": {
+          "description": "Pop musiqadan zavq olaman",
+          "id": "Pop"
+        },
+        "Punk": {
+          "description": "Pank musiqadan zavq olaman",
+          "id": "Pank"
+        },
+        "Reggae, Ska": {
+          "description": "Reggi yoki Ska musiqadan zavq olaman",
+          "id": "Reggi, Ska"
+        },
+        "Rock": {
+          "description": "Rok musiqadan zavq olaman",
+          "id": "Rok"
+        },
+        "Rock n roll": {
+          "description": "Roknroll musiqadan zavq olaman",
+          "id": "Roknroll"
+        },
+        "Slow songs or fast songs": {
+          "description": "Tez surʼatdagi musiqalarni afzal koʻraman",
+          "id": "Sekin qoʻshiqlarmi yoki tez qoʻshiqlarmi"
+        },
+        "Swing, Jazz": {
+          "description": "Sving yoki Jaz musiqadan zavq olaman",
+          "id": "Sving, Jaz"
+        },
+        "Techno, Trance": {
+          "description": "Texno yoki Trans musiqadan zavq olaman",
+          "id": "Texno, Trans"
+        }
+      },
+      "name": "Talabalar soʻrovnomasi — Musiqa"
+    },
+    "loneliness_personality": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Cheklangan maʼlumotlar toʻplamidan demografik axborot shaklini ishlatgan holda odamlarning kichik guruhi haqida taxminlar qilish: masalan, qaysi jinslarda qanday qoʻrquvlar borligini oldindan bilishni aytish.",
+          "potentialUses": "Masalan, boshqalarning xislatiga qarab birovning shaxsiy xislatlarini oldindan bilish."
+        },
+        "description": "FSEV UKʼdagi 18-21 yashar slovak talabalar toʻplagan soʻrovnoma javoblari. Koʻpchilik javoblar 1 dan 5 gacha boʻlgan baholardir. Masalan, „1 dan (umuman yoqlamayman) 5 gacha (toʻliq yoqlayman) baholar: Men hatto boʻsh vaqtimda ham oʻqiyman yoki ishlayman“. Ushbu kichik soʻrovnoma faqat shaxsiyat tushunchasiga qaratilgan boʻlib, katta soʻrovnomaning bir boʻlagidir."
+      },
+      "fields": {
+        "Loneliness": {
+          "description": "Men hayotda yolgʻiz his qilaman.",
+          "id": "Yolgʻizlik"
+        },
+        "Prioritising workload": {
+          "description": "Men topshiriqlarimni iloji boricha tez bajarishga urinaman, soʻnggi daqiqalar qolganda emas."
+        }
+      },
+      "name": "Talabalar soʻrovnomasi — Shaxsiyat"
+    },
+    "loneliness_phobias": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Cheklangan maʼlumotlar toʻplamidan demografik axborot shaklini ishlatgan holda odamlarning kichik guruhi haqida taxminlar qilish: masalan, qaysi jinslarda qanday qoʻrquvlar borligini oldindan bilishni aytish.",
+          "potentialUses": "Masalan, boshqalarning xislatiga qarab birovning shaxsiy xislatlarini oldindan bilish."
+        },
+        "description": "FSEV UKʼdagi 18-21 yashar slovak talabalar toʻplagan soʻrovnoma javoblari. Koʻpchilik javoblar 1 dan 5 gacha boʻlgan baholardir. Masalan, „1 dan (umuman yoqlamayman) 5 gacha (toʻliq yoqlayman) baholar: Men hatto boʻsh vaqtimda ham oʻqiyman yoki ishlayman“. Ushbu kichik soʻrovnoma faqat musiqaga qaratilgan boʻlib, katta soʻrovnomaning bir boʻlagidir."
+      },
+      "fields": {
+        "Ageing": {
+          "description": "Men qarishdan qoʻrqaman",
+          "id": "Qarish"
+        },
+        "Dangerous dogs": {
+          "description": "Men xavfli itlardan qoʻrqaman",
+          "id": "Xavfli itlar"
+        },
+        "Darkness": {
+          "description": "Men qorongʻilikdan qoʻrqaman",
+          "id": "Qorongʻilik"
+        },
+        "Fear of public speaking": {
+          "description": "Men jamoat oldida soʻzlashdan qoʻrqaman",
+          "id": "Jamoat oldida soʻzlash"
+        },
+        "Flying": {
+          "description": "Men uchishdan qoʻrqaman",
+          "id": "Uchish"
+        },
+        "Heights": {
+          "description": "Men balandlikdan qoʻrqaman",
+          "id": "Balandlik"
+        },
+        "Loneliness": {
+          "description": "Men hayotda yolgʻiz his qilaman.",
+          "id": "Yolgʻizlik"
+        },
+        "Rats": {
+          "description": "Men kalamushlardan qoʻrqaman",
+          "id": "Kalamush"
+        },
+        "Snakes": {
+          "description": "Men ilonlardan qoʻrqaman",
+          "id": "Ilon"
+        },
+        "Spiders": {
+          "description": "Men oʻrgimchaklardan qoʻrqaman",
+          "id": "Oʻrgimchak"
+        },
+        "Storm": {
+          "description": "Men boʻrondan qoʻrqaman",
+          "id": "Boʻron"
+        }
+      },
+      "name": "Talabalar soʻrovnomasi — Fobialar"
+    },
+    "medical_priority": {
+      "fields": {
+        "age": {
+          "id": "yoshi"
+        }
+      }
+    },
+    "movies": {
+      "fields": {
+        "Country": {
+          "id": "Mamlakat"
+        },
+        "Name": {
+          "id": "Ismingiz"
+        },
+        "Score": {
+          "id": "ball"
+        },
+        "Star": {
+          "id": "Yulduz raqsi"
+        }
+      }
+    },
+    "naan_toy": {
+      "fields": {
+        "cheese": {
+          "id": "pishloq"
+        },
+        "chicken": {
+          "id": "tovuq"
+        },
+        "lamb": {
+          "id": "qo'zichoq"
+        },
+        "onion": {
+          "id": "piyoz"
+        }
+      }
+    },
+    "nutrition": {
+      "fields": {
+        "Category": {
+          "id": "Turkum"
+        },
+        "Description": {
+          "id": "Ta‘rif"
+        }
+      }
+    },
+    "poke_toy": {
+      "fields": {
+        "avocado": {
+          "id": "avokado"
+        },
+        "ginger": {
+          "id": "zanjabil"
+        },
+        "onion": {
+          "id": "piyoz"
+        }
+      }
+    },
+    "poutine_toy": {
+      "fields": {
+        "bacon": {
+          "id": "bekon"
+        },
+        "cheese": {
+          "id": "pishloq"
+        },
+        "lobster": {
+          "id": "lobster"
+        },
+        "meat": {
+          "id": "go'sht"
+        },
+        "mushrooms": {
+          "id": "qo'ziqorinlar"
+        }
+      }
+    },
+    "raspado_toy": {
+      "fields": {
+        "lime": {
+          "id": "laym"
+        },
+        "strawberry": {
+          "id": "qulupnay"
+        }
+      }
+    },
+    "safari_toy": {
+      "fields": {
+        "alligator": {
+          "id": "alligator"
+        },
+        "elephant": {
+          "id": "fil"
+        },
+        "people": {
+          "id": "odamlar"
+        },
+        "rhino": {
+          "id": "karkidon"
+        },
+        "trees": {
+          "id": "daraxtlar"
+        }
+      },
+      "name": "Safari"
+    },
+    "salad_toy": {
+      "fields": {
+        "avocado": {
+          "id": "avokado"
+        },
+        "beans": {
+          "id": "loviya"
+        },
+        "cheese": {
+          "id": "pishloq"
+        },
+        "chicken": {
+          "id": "tovuq"
+        },
+        "fruit": {
+          "id": "meva"
+        },
+        "tomato": {
+          "id": "pomidor"
+        }
+      }
+    },
+    "salsa_toy": {
+      "fields": {
+        "avocado": {
+          "id": "avokado"
+        },
+        "beans": {
+          "id": "loviya"
+        },
+        "corn": {
+          "id": "makkajo‘xori"
+        },
+        "lime": {
+          "id": "laym"
+        },
+        "onion": {
+          "id": "piyoz"
+        }
+      }
+    },
+    "shapes_v1_toy": {
+      "fields": {
+        "sides": {
+          "id": "tomonlar"
+        },
+        "size": {
+          "id": "kattalik"
+        }
+      }
+    },
+    "shapes_v2_toy": {
+      "fields": {
+        "sides": {
+          "id": "tomonlar"
+        },
+        "size": {
+          "id": "kattalik"
+        }
+      }
+    },
+    "shoe_survey_toy": {
+      "fields": {
+        "day": {
+          "id": "kun"
+        },
+        "shoe": {
+          "id": "poyafzal"
+        },
+        "weather": {
+          "id": "ob-havo"
+        }
+      }
+    },
+    "songs": {
+      "fields": {
+        "Artist": {
+          "id": "Rassom"
+        }
+      }
+    },
+    "student_alcohol_consumption": {
+      "fields": {
+        "age": {
+          "id": "yoshi"
+        },
+        "health": {
+          "id": "sog'liq"
+        },
+        "school": {
+          "id": "maktab"
+        }
+      }
+    },
+    "student_survey": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Cheklangan maʼlumotlar toʻplamidan demografik axborot shaklini ishlatgan holda odamlarning kichik guruhi haqida taxminlar qilish: masalan, qaysi jinslarda qanday qoʻrquvlar borligini oldindan bilishni aytish."
+        }
+      },
+      "fields": {
+        "Achievements": {
+          "id": "Yutuqlar"
+        },
+        "Action": {
+          "description": "Jangari filmlardan zavq olaman",
+          "id": "Jangari"
+        },
+        "Age": {
+          "description": "Yoshi",
+          "id": "Yoshi"
+        },
+        "Ageing": {
+          "description": "Men qarishdan qoʻrqaman",
+          "id": "Qarish"
+        },
+        "Alternative": {
+          "description": "Alternativ musiqadan zavq olaman",
+          "id": "Alternativ"
+        },
+        "Animated": {
+          "description": "Animatsion filmlardan zavq olaman",
+          "id": "Animatsion"
+        },
+        "Classical music": {
+          "description": "Mumtoz musiqadan zavq olaman",
+          "id": "Mumtoz musiqa"
+        },
+        "Comedy": {
+          "description": "Komediya filmlardan zavq olaman",
+          "id": "Komediya"
+        },
+        "Country": {
+          "description": "Kantri musiqasidan zavq olaman",
+          "id": "Mamlakat"
+        },
+        "Dance": {
+          "description": "Raqs musiqalardan zavq olaman",
+          "id": "Raqs"
+        },
+        "Dangerous dogs": {
+          "description": "Men xavfli itlardan qoʻrqaman",
+          "id": "Xavfli itlar"
+        },
+        "Darkness": {
+          "description": "Men qorongʻilikdan qoʻrqaman",
+          "id": "Qorongʻilik"
+        },
+        "Documentary": {
+          "description": "Hujjatli filmlardan zavq olaman",
+          "id": "Hujjatli film"
+        },
+        "Fantasy/Fairy tales": {
+          "description": "Fentezi/Ertak filmlardan zavq olaman",
+          "id": "Fentezi/Ertak"
+        },
+        "Fear of public speaking": {
+          "description": "Men jamoat oldida soʻzlashdan qoʻrqaman",
+          "id": "Jamoat oldida soʻzlash"
+        },
+        "Flying": {
+          "description": "Men uchishdan qoʻrqaman",
+          "id": "Uchish"
+        },
+        "Folk": {
+          "description": "Xalq musiqasidan zavq olaman",
+          "id": "Xalq"
+        },
+        "Gender": {
+          "description": "Jinsi",
+          "id": "Jinsi"
+        },
+        "Heights": {
+          "description": "Men balandlikdan qoʻrqaman",
+          "id": "Balandlik"
+        },
+        "Hiphop, Rap": {
+          "description": "Hip hop yoki Rep musiqadan zavq olaman",
+          "id": "Hip hop, Rep"
+        },
+        "Horror": {
+          "description": "Qoʻrqinchli filmlardan zavq olaman",
+          "id": "Qoʻrqinchli"
+        },
+        "Internet": {
+          "id": "Internet"
+        },
+        "Latino": {
+          "description": "Lotin musiqasidan zavq olaman",
+          "id": "Lotin"
+        },
+        "Loneliness": {
+          "description": "Men hayotda yolgʻiz his qilaman.",
+          "id": "Yolgʻizlik"
+        },
+        "Metal or Hardrock": {
+          "description": "Metal yoki Hardrok musiqadan zavq olaman",
+          "id": "Metal yoki Hardrok"
+        },
+        "Movies": {
+          "description": "Filmlar koʻrishdan zavq olaman",
+          "id": "Filmlar"
+        },
+        "Music": {
+          "description": "Musiqa tinglashdan zavq olaman",
+          "id": "Musiqa"
+        },
+        "Musical": {
+          "description": "Myuzikl musiqasidan zavq olaman",
+          "id": "Myuzikl"
+        },
+        "Opera": {
+          "description": "Opera musiqasidan zavq olaman",
+          "id": "Opera"
+        },
+        "Pop": {
+          "description": "Pop musiqadan zavq olaman",
+          "id": "Pop"
+        },
+        "Punk": {
+          "description": "Pank musiqadan zavq olaman",
+          "id": "Pank"
+        },
+        "Rats": {
+          "description": "Men kalamushlardan qoʻrqaman",
+          "id": "Kalamush"
+        },
+        "Reggae, Ska": {
+          "description": "Reggi yoki Ska musiqadan zavq olaman",
+          "id": "Reggi, Ska"
+        },
+        "Rock": {
+          "description": "Rok musiqadan zavq olaman",
+          "id": "Rok"
+        },
+        "Rock n roll": {
+          "description": "Roknroll musiqadan zavq olaman",
+          "id": "Roknroll"
+        },
+        "Romantic": {
+          "description": "Romantik filmlardan zavq olaman",
+          "id": "Romantik"
+        },
+        "Sci-fi": {
+          "description": "Ilmiya fantastik filmlardan zavq olaman",
+          "id": "Ilmiy fantastika"
+        },
+        "Slow songs or fast songs": {
+          "description": "Tez surʼatdagi musiqalarni afzal koʻraman",
+          "id": "Sekin qoʻshiqlarmi yoki tez qoʻshiqlarmi"
+        },
+        "Snakes": {
+          "description": "Men ilonlardan qoʻrqaman",
+          "id": "Ilon"
+        },
+        "Spiders": {
+          "description": "Men oʻrgimchaklardan qoʻrqaman",
+          "id": "Oʻrgimchak"
+        },
+        "Storm": {
+          "description": "Men boʻrondan qoʻrqaman",
+          "id": "Boʻron"
+        },
+        "Swing, Jazz": {
+          "description": "Sving yoki Jaz musiqadan zavq olaman",
+          "id": "Sving, Jaz"
+        },
+        "Techno, Trance": {
+          "description": "Texno yoki Trans musiqadan zavq olaman",
+          "id": "Texno, Trans"
+        },
+        "Thriller": {
+          "description": "Triller filmlardan zavq olaman",
+          "id": "Triller"
+        },
+        "War": {
+          "description": "Urush filmlardan zavq olaman",
+          "id": "Urush"
+        },
+        "Western": {
+          "description": "Vestern filmlardan zavq olaman",
+          "id": "Vestern"
+        },
+        "Writing": {
+          "id": "Yozish"
+        }
+      }
+    },
+    "zoo": {
+      "fields": {
+        "Aquatic": {
+          "id": "Aquatic"
+        }
+      }
+    }
+  },
+  "incorrectAnswer": "Noto'g'ri",
+  "modelCardPossibleValuesMaximum": "maksimum",
+  "modelCardPossibleValuesMinimum": "minimum",
+  "navigateBack": "Orqaga",
+  "navigateDone": "Tugatish",
+  "navigateForward": "Davom etish",
+  "saveProgress": "Saqlash",
+  "tryAgain": "Qayta urinib ko‘ring",
+  "uniqueOptionsWarningNotice": "Eslatma"
+}

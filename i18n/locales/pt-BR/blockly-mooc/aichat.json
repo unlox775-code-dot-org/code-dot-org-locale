@@ -1,0 +1,7 @@
+{
+  "aichatWorkspaceHeader": "Bate-papo com IA",
+  "continue": "Avançar",
+  "startOverAichatModelCustomizations": "Isso irá redefinir esse nível para o estado inicial e removerá quaisquer personalizações de modelo ou informações de cartão de modelo que você adicionou ou alterou.",
+  "waitingForChatResponse": "Esperando por uma resposta...",
+  "whatIsPersonalInformation": "O que é considerado informação pessoal?"
+}

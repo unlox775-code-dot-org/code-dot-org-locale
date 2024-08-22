@@ -1,0 +1,6 @@
+{
+  "continue": "Devam",
+  "startOverAichatModelCustomizations": "Bu, bu seviyeyi başlangıç durumuna sıfırlar ve eklediğiniz veya değiştirdiğiniz tüm model özelleştirmelerini veya model kartı bilgilerini kaldırır.",
+  "waitingForChatResponse": "Bir cevap bekliyorum...",
+  "whatIsPersonalInformation": "Kişisel bilgi olarak kabul edilen nedir?"
+}

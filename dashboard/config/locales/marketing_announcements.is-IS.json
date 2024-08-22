@@ -1,0 +1,16 @@
+{
+  "is-IS": {
+    "data": {
+      "marketing_announcements": {
+        "banners": {
+          "hoc-2023": {
+            "buttonText": "Nánar"
+          },
+          "superhero": {
+            "buttonText": "Nánar"
+          }
+        }
+      }
+    }
+  }
+}

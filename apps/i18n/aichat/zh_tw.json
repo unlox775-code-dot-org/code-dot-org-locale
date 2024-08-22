@@ -1,0 +1,5 @@
+{
+  "continue": "繼續",
+  "startOverAichatModelCustomizations": "這將重置此關卡至其起始狀態，並移除您添加或更改的任何模型自定義或模型卡片信息。",
+  "waitingForChatResponse": "正在等待回應..."
+}

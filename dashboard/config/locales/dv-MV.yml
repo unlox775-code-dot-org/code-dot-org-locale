@@ -1,0 +1,168 @@
+---
+dv:
+  activerecord:
+    attributes:
+      user:
+        age: އުމުރު
+        email: އީމެއިލު
+        gender: ޖިންސު
+        gender_student_input: ޖިންސު
+        gender_teacher_input: ޖިންސު
+        parent_email: ބެލެނިވެރިއެއްގެ/ބަދަލުވެރިއެއްގެ އީމެއިލު
+        password: ފާސްބަސް
+  auth:
+    facebook: ފޭސްބުކު
+    google_oauth2: ގޫގުލް
+    twitter: ޓުވިޓާ
+  continue: ކުރިއަށް ދިޔުމަށް
+  contract_match:
+    wrong_title: ޖަވާބު ނުބައި
+  course_offering:
+    headers:
+      csf: ސީއެސް ފަންޑަމެންޓަލްސް
+  courses: ކޯސްތައް
+  crud:
+    update: އަދާހަމަ ކުރުމަށް
+  dialog:
+    ok: އޯކޭ
+    startover_ok: އަލުން ފަށާ
+  footer:
+    copyright: ކޮޕީރައިޓްސް
+    locale_select: ބަސް ޚިޔާރުކުރޭ
+    more: ގިނަ
+    privacy: ރައްކާތެރިކަމުގެ ޕޮލިސީ
+    report_abuse: އެބިއުސް ރިޕޯޓްކުރަން
+    tos: ޚިދުމަތުގެ ޓާރމްސް
+    translate: އަހަރުމެންގެ ކޮންޓެންޓް ތަރުޖަމާކުރަން ވޮލަންޓިއަރ ކުރަން
+  gender:
+    female: އަންހެން
+    male: ފިރިހެން
+  hoc_download:
+    download_in_Chinese: 'ޗައިނާ ބަހުން ޑައުންލޯޑުކުރުމަށް:'
+    download_in_English: 'އިނގިރޭސި ބަހުން ޑައުންލޯޑުކުރުމަށް:'
+    download_in_French: 'ފަރަންސޭސީވިލާތު ބަހުން ޑައުންލޯޑުކުރުމަށް:'
+    download_in_German: 'ޖަރުމަނު ބަހުން ޑައުންލޯޑުކުރުމަށް:'
+    download_in_Indonesian: 'އިންޑޮނޭޝިއާ ބަހުން ޑައުންލޯޑުކުރުމަށް:'
+    download_in_Italian: 'އިޓަލީ ބަހުން ޑައުންލޯޑުކުރުމަށް:'
+    download_in_Japanese: 'ޖަޕާނު ބަހުން ޑައުންލޯޑުކުރުމަށް:'
+    download_in_Korean: 'ކޮރެއާ ބަހުން ޑައުންލޯޑުކުރުމަށް:'
+    download_in_Portuguese: 'ޕޯޗުގީޒު ބަހުން ޑައުންލޯޑުކުރުމަށް:'
+    download_in_Russian: 'ރޫސީވިލާތު ބަހުން ޑައުންލޯޑުކުރުމަށް:'
+    download_in_Turkish: 'ތުރުކީ ބަހުން ޑައުންލޯޑުކުރުމަށް:'
+  landing:
+    help_support: އެހީ އަދި ސަޕޯޓް
+  level_group:
+    correct_body: ޖަވާބު ދެއްވީތީ ޝުކުރިއްޔާ.
+    wrong_body: ޖަވާބު ދެއްވީތީ ޝުކުރިއްޔާ.
+  level_group-submittable:
+    correct_body: ޖަވާބު ދެއްވީތީ ޝުކުރިއްޔާ.
+    wrong_body: ޖަވާބު ދެއްވީތީ ޝުކުރިއްޔާ.
+  level_summary:
+    correct_answer: ރަނގަޅު ޖަވާބު
+  lti:
+    integration:
+      email: ތިބާގެ އީމެއިލު
+  match:
+    correct_title: ރަނގަޅު
+  more_info: އިތުރު މަޢުލޫމާތު
+  multi:
+    correct_title: ރަނގަޅު
+    wrong_title: ޖަވާބު ނުބައި
+  multi-submittable:
+    correct_body: ޖަވާބެއް ދެއްވީތީ ޝުކުރިއްޔާ.
+    wrong_body: ޖަވާބެއް ދެއްވީތީ ޝުކުރިއްޔާ.
+  nav:
+    header:
+      about: އަބައުޓް
+      course_catalog: ކޯސް ކެޓަލޮގް
+      finished_hoc: ނިމިއްޖެ!
+      help_support: އެހީ އަދި ސަޕޯޓް
+      legal_privacy: ރައްކާތެރިކަމުގެ ޕޮލިސީ
+      legal_tos: ޚިދުމަތުގެ ޓާރމްސް
+      project_gallery: ޕްރޮޖެކްސް
+      report_bug: މައްސަލައެއް ރިޕޯޓު ކުރަން
+    user:
+      signin: ސައިން-އިން
+      signup: އެކައުންޓެއް ހެދުމަށް
+  pd:
+    form_entries:
+      ages:
+        ages_11_12: 11 އަހަރާ 12 އަހަރާ ދެމެދު
+        ages_13_14: 13 އަހަރާ 14 އަހަރާ ދެމެދު
+        ages_15_16: 15 އަހަރާ 16 އަހަރާ ދެމެދު
+        ages_17_18: 17 އަހަރާ 18 އަހަރާ ދެމެދު
+        ages_19_over: 19 އަހަރުން މަތި
+        ages_7_8: 7 އަހަރާ 8 އަހަރާ ދެމެދު
+        ages_9_10: 9 އަހަރާ 10 އަހަރާ ދެމެދު
+        ages_under_6: 6 އަހަރުން ދަށް
+      email_opt_in:
+        opt_in_no: ނޫން
+        opt_in_yes: އާން
+      gender:
+        female: އަންހެން
+        male: ފިރިހެން
+      school_country:
+        canada: ކެނެޑާ
+        malaysia: މެލޭޝިއާ
+        maldives: ދިވެހިރާއްޖެ
+    form_labels:
+      email: އީމެއިލު
+      first_name: ފުރަތަމަ ނަން
+      last_name: ފަހު ނަން
+  project:
+    project_gallery: ޕްރޮޖެކްސް
+    projects: ޕްރޮޖެކްސް
+  race_interstitial:
+    races:
+      asian: އޭޝިއާ ނަސްލު
+      white: ދޮން ނަސްލު
+  reference_area:
+    subtitle: މި ވީޑިއޯ އަދި ހިންޓުތައް ބަލާލާ
+    title: އެހީ ބޭނުންތަ؟
+  school_info:
+    public: ސަރުކާރު
+  section:
+    type:
+      email: އީމެއިލު
+  signin_form:
+    login: އީމެއިލު
+    password: ފާސްބަސް
+    submit: ސައިން-އިން
+  signinsection:
+    login: ސައިން-އިން
+  signup_form:
+    age: އުމުރު
+    birthday: އުފަން ތާރީޚު (ބޭނުން ނަމަ)
+    email_preference_no: ނޫން
+    email_preference_yes: އާން
+    gender: ޖިންސު (ބޭނުން ނަމަ)
+    select_age: އުމުރު ނަންގަވާ
+    share_teacher_email_reg_partner_preference_no: ނޫން
+    share_teacher_email_reg_partner_preference_yes: އާން
+  studio:
+    all_courses: ހުރިހާ ކޯސްތައް
+  terms_interstitial:
+    print: ޕްރިންޓް
+    privacy: ރައްކާތެރިކަމުގެ ޕޮލިސީ
+    tos: ޚިދުމަތުގެ ޓާރމްސް
+  text_match:
+    correct_title: ރަނގަޅު
+  time:
+    day: ދުވަސް
+    hour: 1 ގަޑި އިރު
+    week: ހަފުތާ
+  trophies: ތަށިތައް
+  type_here: މި ތަނުގައި ލިޔޭ
+  upsell:
+    unplugged:
+      audience: 4 އަހަރުން މަތި
+    widgets:
+      audience: 14 އަހަރުން މަތި
+  user:
+    delete: އެކައުންޓު ފޮހެލުމަށް
+    parent_guardian_email_label: ބެލެނިވެރިއެއްގެ/ބަދަލުވެރިއެއްގެ އީމެއިލު
+    update_email: އަދާހަމަ ކުރުމަށް
+  video:
+    notes: ވީޑިއޯއެއް ނެތް؟ ނޯޓްސް ދައްކާލާ.
+    tab: ވީޑިއޯ
+  welcome_back: މަރުޙަބާ, {name}%

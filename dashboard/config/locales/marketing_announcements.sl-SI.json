@@ -1,0 +1,16 @@
+{
+  "sl-SI": {
+    "data": {
+      "marketing_announcements": {
+        "banners": {
+          "hoc-2023": {
+            "buttonText": "Več o tem"
+          },
+          "superhero": {
+            "buttonText": "Več o tem"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "fil-PH": {
+    "data": {
+      "panels": {
+        "music_lab_intro_panels_start2": {
+          "musiclab_intro_panels_start_v2-415ec56a-f841-421b-adff-b680e8d4ca35": "#### ✨ Maligayang pagdating sa Music Lab ✨\n\nMaghanda na para gumawa ng musika gamit ang code! ",
+          "musiclab_intro_panels_start_v2-623c36d1-b475-414b-8e2f-da7d27012391": "### Baguhin ang tunog\n\nI-click ang block ng tunog upang ma-access ang sound library. \n\nPumili ng anumang tunog na gusto mo!",
+          "musiclab_intro_panels_start_v2-d2e2064a-8f39-452f-81f5-aab175d5a165": "#### Gamit ang tutorial\n\n<p style=\"color: black;\"><span style=\"color: #009EB0;\">→</span> 1. Basahin ang mga tagubilin.</p>\n\n<p style=\"color: black;\"><span style=\"color: #ED6060;\">→</span> 2. I-drag ang mga block sa workspace.</p>\n\n<p style=\"color: black;\"><span style=\"color: #FFA400;\">→</span> 3. Pindutin ang ▶ I-run para simulan ang kanta mo.</p>\n\n<p style=\"color: black;\"><span style=\"color: #9660BF;\">→</span>  4. Pindutin ang Magpatuloy para sa susunod na antas.</p>"
+        },
+        "musiclab_intro_panels_end_2": {
+          "musiclab_intro_panels_end-70b08fdd-abbf-42bb-bdc9-d406bb513faf": "#### Handa ka na!\n\nNatutuhan mo na ang mga pangunahing kaalaman, at ngayon ay handa ka na upang gumawa ng sarili mong mix! Siguraduhing tuklasin ang sound library - maraming dapat tuklasin at gamitin upang makagawa ng kahanga-hangang track.\n\nMakakakita ka ng higit pang mga bagong bagay sa toolbox, kabilang ang:\n\n-   Isang beat-making block\n\n-   Mga sound effect tulad ng reverb at filter\n\n-   Isang synthesizer block\n\n-   Isang block para sa randomizing kung ano ang nai-play\n\n ...at marami pang iba! Mag-enjoy ka!"
+        },
+        "musiclab_intro_panels_function": {
+          "musiclab_intro_panels_function-e62e1783-6e0c-4dfb-9300-5dd081a80614": "Maaari mong \"tawagin\" ang bagong function mo sa pamamagitan ng paggamit ng block na may katumbas na pangalan, tulad nito."
+        },
+        "musiclab_intro_panels_function_2": {
+          "musiclab_intro_panels_function-b2da9c67-9c99-42b2-9c72-c2e576663899": "Isang cool na tampok sa Music Lab ay na maaari kang kumuha ng hanay ng mga block at ilagay ang mga ito sa sarili mong block. Sa coding, ito ay tinatawag na paggawa ng _function_.",
+          "musiclab_intro_panels_function-e62e1783-6e0c-4dfb-9300-5dd081a80614": "Maaari mong \"tawagin\" ang bagong function mo sa pamamagitan ng paggamit ng block na may katumbas na pangalan, tulad nito."
+        },
+        "musiclab_intro_panels_start_2": {
+          "musiclab_intro_panels_start-421d64b2-c4db-42cb-ac1f-de66a4d22fa7": "#### Maligayang pagdating sa Music Lab!\n\nHinahayaan ka ng Music Lab na i-mix, i-remix, at kahit na i-perform ang musika gamit ang code. Huwag mag-alala kung wala kang masyadong alam tungkol sa code, o kahit na musika! Ang kailangan mo lang ay kaunting panahon at kaunting kuryusidad upang simulan ang paggawa ng sarili mong mga likha."
+        },
+        "musiclab_tutorial_panels_function": {
+          "musiclab_intro_panels_function_pdx-952b5575-5487-40c6-8a7e-4e37339d81d3": "### Gamitin ang bagong function mo!\n\nNgayon, maaari mong gamitin ang bago mong function anumang oras sa pamamagitan ng pagpili sa block na may pangalan ng iyong function. \n\nAng bagong block na ito ay **tatawagin** ang function mo kapag pinindot mo ang I-run. ",
+          "musiclab_intro_panels_function_pdx-f1f658c0-64a9-471c-9f2a-399ba1ea8538": "### Mga Function\n\nGumawa ng function para ipatugtog ang espesipikong piraso ng code tuwing tinatawag ito. \n\n**Una** buuin ang function mo gamit ang mga tunog na gusto mo."
+        },
+        "musiclab_tutorial_panels_notes": {
+          "musiclab_intro_panels_trigger_pdx-5586b57a-0a71-4d94-bdd7-125e9d4af278": "### Bumuo ng sarili mong himig!\n\nGamitin ang **tugtugin ang nota** na block upang magsulat ng sarili mong himig.",
+          "musiclab_intro_panels_trigger_pdx-7930c016-c450-4b4a-9c73-641b2ea86a37": "### Bumuo ng sarili mong mga beat!\n\nGamitin ang **tugtugin ang drums** na block upang bumuo ng sariling mga beat.\n\nMag-enjoy ka!"
+        },
+        "musiclab_tutorial_panels_playtogether": {
+          "musiclab_intro_panels_playtogether_pdx-a5066092-2920-4c8d-89ea-00b7a8531ad0": "### Tugtugin Nang Sabay\n\nPatugtugin ang mga tunog nang sabay-sabay! I-drag ang dalawa o higit pang tunog sa **tugtugin nang sabay** na block."
+        },
+        "musiclab_tutorial_panels_repeat": {
+          "musiclab_intro_panels_playtogether_pdx-a0d88b4a-e9a8-4641-8ec9-3ce98e7a1cc4": "### Ulitin ang isang tunog\n\nPumili ng tunog at itakda ang bilang ng beses na tutugtugin ito gamit ang ulitin na block."
+        },
+        "musiclab_tutorial_panels_trigger": {
+          "musiclab_intro_panels_trigger_pdx-5586b57a-0a71-4d94-bdd7-125e9d4af278": "### Magpatugtog ng Live na Musika!\n\nMaaari mong gamitin ang mga trigger para magpatugtog ng live na musika. \n\nUna, i-code ang **trigger** na block mo sa tunog na gusto mong patugtugin.",
+          "musiclab_intro_panels_trigger_pdx-7930c016-c450-4b4a-9c73-641b2ea86a37": "Pagkatapos, **i-trigger** ang bagong mga tunog mo habang tumutugtog ang iyong kanta."
+        },
+        "usiclab_tutorial_panels_end": {
+          "musiclab_intro_panels_end_pdx-88ca8817-6cb7-4c5b-a08a-69fc2267eb0b": "#### 🎶 Handa ka na bang makipag-jam? 🎶\n\nNatutunan mo na ang mga pangunahing kasanayan, at ngayon handa ka nang lumikha ng sarili mong kanta! \n\nTingnan mo lahat ng bagong tunog at mga customization sa toolbox. \n\nI-click ang \"Magpatuloy\" para magsimula. "
+        }
+      }
+    }
+  }
+}

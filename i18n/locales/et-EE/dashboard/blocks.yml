@@ -1,0 +1,1467 @@
+---
+et:
+  data:
+    blocks:
+      BadGuys_setSizeAll_dropdown:
+        options:
+          SIZE:
+            '1.00': keskmine
+      BadGuys_setSize_dropdown:
+        options:
+          SIZE:
+            '1.00': keskmine
+      Dancelab_alternateMoves:
+        options:
+          GROUP:
+            sprites: kõik
+            '"ALIEN"': kõik tulnukad
+            '"BEAR"': karud
+            '"CAT"': kõik kassid
+            '"DOG"': kõik koerad
+            '"DUCK"': pardid
+            '"FROG"': konnad
+            '"MOOSE"': kõik põdrad
+            '"PINEAPPLE"': ananassid
+            '"ROBOT"': kõik robotid
+            '"SHARK"': haid
+            '"UNICORN"': ükssarvikud
+          MOVE1:
+            MOVES.Roll: Rulli
+            MOVES.ClapHigh: Kõrge plaks
+            MOVES.Dab: Dab
+            MOVES.DoubleJam: Topelt jam
+            MOVES.Drop: Kükita
+            MOVES.Floss: Floss
+            MOVES.Fresh: Uus
+            MOVES.Clown: Kloun
+            MOVES.Kick: Täht
+            MOVES.ThisOrThat: Seda või teist
+            MOVES.Rest: Mitte ükski
+          MOVE2:
+            MOVES.Roll: Rulli
+            MOVES.ClapHigh: Kõrge plaks
+            MOVES.Dab: Dab
+            MOVES.DoubleJam: Topelt jam
+            MOVES.Drop: Kükita
+            MOVES.Floss: Floss
+            MOVES.Fresh: Uus
+            MOVES.Clown: Kloun
+            MOVES.Kick: Täht
+            MOVES.ThisOrThat: Seda või teist
+            MOVES.Rest: Mitte ükski
+      Dancelab_atTimestamp:
+        text: pärast {TIMESTAMP} {UNIT}
+        options:
+          UNIT:
+            '"measures"': ühikud
+            '"seconds"': sekundit
+      Dancelab_atTimestampNotAfter:
+        options:
+          UNIT:
+            '"measures"': ühikud
+            '"seconds"': sekundit
+      Dancelab_changeColorBy:
+        text: muuda {COLOR} {METHOD} {AMOUNT}
+        options:
+          METHOD:
+            '"hue"': värvitoon
+            '"saturation"': küllastus
+            '"brightness"': heledus
+      Dancelab_changeMoveEachLR:
+        text: "{GROUP} {MOVE} {DIR} tee igavesti"
+        options:
+          GROUP:
+            sprites: kõik
+            '"ALIEN"': kõik tulnukad
+            '"BEAR"': karud
+            '"CAT"': kõik kassid
+            '"DOG"': kõik koerad
+            '"DUCK"': pardid
+            '"FROG"': konnad
+            '"MOOSE"': kõik põdrad
+            '"PINEAPPLE"': ananassid
+            '"ROBOT"': kõik robotid
+            '"SHARK"': haid
+            '"UNICORN"': ükssarvikud
+          MOVE:
+            '"next"': "(Järgmine)"
+            '"prev"': "(Eelmine)"
+            '"rand"': "(Juhuslik)"
+            MOVES.Roll: Rulli
+            MOVES.ClapHigh: Kõrge plaks
+            MOVES.Dab: Dab
+            MOVES.DoubleJam: Topelt jam
+            MOVES.Drop: Kükita
+            MOVES.Floss: Floss
+            MOVES.Fresh: Uus
+            MOVES.Clown: Kloun
+            MOVES.Kick: Täht
+            MOVES.ThisOrThat: Seda või teist
+            MOVES.Rest: Mitte ükski
+      Dancelab_changeMoveEachLR_slothcat:
+        text: "{GROUP} {MOVE} {DIR} tee igavesti"
+        options:
+          GROUP:
+            '"CAT"': kõik kassid
+          MOVE:
+            MOVES.Roll: Rulli
+            MOVES.ClapHigh: Kõrge plaks
+            MOVES.Dab: Dab
+            MOVES.DoubleJam: Topelt jam
+            MOVES.Drop: Kükita
+            MOVES.Floss: Floss
+            MOVES.Fresh: Uus
+            MOVES.Clown: Kloun
+            MOVES.Kick: Täht
+            MOVES.ThisOrThat: Seda või teist
+            MOVES.Rest: Mitte ükski
+            '"next"': "(Järgmine)"
+            '"prev"': "(Eelmine)"
+            '"rand"': "(Juhuslik)"
+      Dancelab_changeMoveLR:
+        text: "{SPRITE} tee {MOVE} {DIR} igavesti"
+        options:
+          MOVE:
+            '"next"': "(Järgmine)"
+            '"prev"': "(Eelmine)"
+            '"rand"': "(Juhuslik)"
+            MOVES.Roll: Rulli
+            MOVES.ClapHigh: Kõrge plaks
+            MOVES.Dab: Dab
+            MOVES.DoubleJam: Topelt jam
+            MOVES.Drop: Kükita
+            MOVES.Floss: Floss
+            MOVES.Fresh: Uus
+            MOVES.Clown: Kloun
+            MOVES.Kick: Täht
+            MOVES.ThisOrThat: Seda või teist
+            MOVES.Thriller: Thriller
+            MOVES.Rest: Mitte ükski
+      Dancelab_changePropBy:
+        text: muuda {SPRITE} {PROPERTY} {VAL} võrra
+        options:
+          PROPERTY:
+            '"scale"': suurus
+            '"width"': laius
+            '"height"': kõrgus
+            '"rotation"': pööramine
+            '"x"': horisontaalne asend
+            '"y"': vertikaalne asend
+      Dancelab_changePropEachBy:
+        text: muuda {GROUP} {PROPERTY} {VAL} võrra
+        options:
+          GROUP:
+            sprites: kõik
+            '"ALIEN"': kõik tulnukad
+            '"BEAR"': karud
+            '"CAT"': kõik kassid
+            '"DOG"': kõik koerad
+            '"DUCK"': pardid
+            '"FROG"': konnad
+            '"MOOSE"': kõik põdrad
+            '"PINEAPPLE"': ananassid
+            '"ROBOT"': kõik robotid
+            '"SHARK"': haid
+            '"UNICORN"': ükssarvikud
+          PROPERTY:
+            '"scale"': suurus
+            '"width"': laius
+            '"height"': kõrgus
+            '"rotation"': pööramine
+            '"x"': horisontaalne asend
+            '"y"': vertikaalne asend
+      Dancelab_doMoveEachLR:
+        text: "{GROUP} tee {MOVE} {DIR} üks kord"
+        options:
+          GROUP:
+            sprites: kõik
+            '"ALIEN"': kõik tulnukad
+            '"BEAR"': karud
+            '"CAT"': kõik kassid
+            '"DOG"': kõik koerad
+            '"DUCK"': pardid
+            '"FROG"': konnad
+            '"MOOSE"': kõik põdrad
+            '"PINEAPPLE"': ananassid
+            '"ROBOT"': kõik robotid
+            '"SHARK"': haid
+            '"UNICORN"': ükssarvikud
+          MOVE:
+            '"rand"': "(Juhuslik)"
+            MOVES.Roll: Rulli
+            MOVES.ClapHigh: Kõrge plaks
+            MOVES.Dab: Dab
+            MOVES.DoubleJam: Topelt jam
+            MOVES.Drop: Kükita
+            MOVES.Floss: Floss
+            MOVES.Fresh: Uus
+            MOVES.Clown: Kloun
+            MOVES.Kick: Täht
+            MOVES.ThisOrThat: Seda või teist
+            MOVES.Rest: Mitte ükski
+      Dancelab_doMoveLR:
+        text: "{SPRITE} tee {MOVE} {DIR} üks kord"
+        options:
+          MOVE:
+            '"rand"': "(Juhuslik)"
+            MOVES.Roll: Rulli
+            MOVES.ClapHigh: Kõrge plaks
+            MOVES.Dab: Dab
+            MOVES.DoubleJam: Topelt jam
+            MOVES.Drop: Kükita
+            MOVES.Floss: Floss
+            MOVES.Fresh: Uus
+            MOVES.Clown: Kloun
+            MOVES.Kick: Täht
+            MOVES.ThisOrThat: Seda või teist
+            MOVES.Rest: Mitte ükski
+      Dancelab_everySeconds:
+        text: 'iga {N} {UNIT} '
+        options:
+          UNIT:
+            '"measures"': ühikud
+            '"seconds"': sekundit
+      Dancelab_everyVerseChorus:
+        text: 'iga {UNIT} '
+        options:
+          UNIT:
+            '"verse"': salm
+            '"chorus"': refrään
+      Dancelab_getEnergy:
+        text: saa {RANGE}
+        options:
+          RANGE:
+            '"low"': bass
+            '"mid"': keskel
+            '"high"': kõrged helid
+      Dancelab_getProp:
+        text: "{SPRITE} {PROPERTY}"
+        options:
+          PROPERTY:
+            '"scale"': suurus
+            '"width"': laius
+            '"height"': kõrgus
+            '"rotation"': pööramine
+            '"x"': horisontaalne asend
+            '"y"': vertikaalne asend
+            '"tint"': toon
+      Dancelab_getTime:
+        text: aeg käesolevas peatükis {UNIT}
+        options:
+          UNIT:
+            '"measures"': ühikud
+            '"seconds"': sekundit
+      Dancelab_ifDanceIs:
+        text: |-
+          kui {SPRITE} teeb {DANCE}
+          {DO1} {DO2}
+        options:
+          DANCE:
+            MOVES.ClapHigh: Kõrge plaks
+            MOVES.Clown: Kloun
+            MOVES.Dab: Dab
+            MOVES.DoubleJam: Topelt jam
+            MOVES.Drop: Kükita
+            MOVES.Floss: Floss
+            MOVES.Fresh: Uus
+            MOVES.Roll: Rulli
+            MOVES.Kick: Täht
+            MOVES.ThisOrThat: Seda või teist
+            MOVES.Rest: Mitte ükski
+      Dancelab_ifTime:
+        text: |-
+          kui {UNIT} on {OP} {N}
+          {DO1} {DO2}
+        options:
+          UNIT:
+            '"measures"': ühikud
+            '"seconds"': sekundit
+      Dancelab_jumpTo:
+        text: "{SPRITE} hüppavad {LOCATION}"
+        options:
+          LOCATION:
+            "{x: 200, y: 100}": üleval
+            "{x: 200, y: 300}": all
+            "{x: 100, y: 200}": vasakule
+            "{x: 300, y: 200}": paremale
+            "{x: 200, y: 200}": keskel
+            "{x: 100, y: 100}": üleval vasakul
+            "{x: 300, y: 100}": üleval paremal
+            "{x: 100, y: 300}": keskel vasakul
+            "{x: 300, y: 300}": all paremal
+            "{x: randomNumber(50, 350), y: randomNumber(50, 350)}": juhuslik
+      Dancelab_jumpToEach:
+        options:
+          GROUP:
+            sprites: kõik
+            '"ALIEN"': kõik tulnukad
+            '"BEAR"': karud
+            '"CAT"': kõik kassid
+            '"DOG"': kõik koerad
+            '"DUCK"': pardid
+            '"FROG"': konnad
+            '"MOOSE"': kõik põdrad
+            '"PINEAPPLE"': ananassid
+            '"ROBOT"': kõik robotid
+            '"SHARK"': haid
+            '"UNICORN"': ükssarvikud
+          LOCATION:
+            "{x: 200, y: 100}": üleval
+            "{x: 200, y: 300}": all
+            "{x: 100, y: 200}": vasakule
+            "{x: 300, y: 200}": paremale
+            "{x: 200, y: 200}": keskel
+            "{x: 100, y: 100}": üleval vasakul
+            "{x: 300, y: 100}": üleval paremal
+            "{x: 100, y: 300}": keskel vasakul
+            "{x: 300, y: 300}": all paremal
+            "{x: randomNumber(60, 340), y: randomNumber(60, 340)}": juhuslik
+      Dancelab_layoutSprites:
+        text: paigutus {GROUP} nagu {FORMAT}
+        options:
+          GROUP:
+            sprites: kõik
+            '"ALIEN"': kõik tulnukad
+            '"BEAR"': karud
+            '"CAT"': kõik kassid
+            '"DOG"': kõik koerad
+            '"DUCK"': pardid
+            '"FROG"': konnad
+            '"MOOSE"': kõik põdrad
+            '"PINEAPPLE"': ananassid
+            '"ROBOT"': kõik robotid
+            '"SHARK"': haid
+            '"UNICORN"': ükssarvikud
+          FORMAT:
+            '"border"': piir
+            '"inner"': ruudu sees
+            '"diamond"': teemant
+            '"circle"': ring
+            '"grid"': ruudustikus
+            '"row"': rida
+            '"column"': veerg
+            '"x"': risti-rästi
+            '"plus"': pluss
+            '"random"': juhuslik
+      Dancelab_makeAnonymousDanceSprite:
+        options:
+          COSTUME:
+            '"ALIEN"': tulnukas
+            '"BEAR"': Karu
+            '"CAT"': kass
+            '"DOG"': koer
+            '"DUCK"': part
+            '"FROG"': Konn
+            '"MOOSE"': kõik põdrad
+            '"PINEAPPLE"': Ananass
+            '"ROBOT"': robot
+            '"SHARK"': Hai
+            '"UNICORN"': ükssarvik
+          LOCATION:
+            "{x: 200, y: 100}": üleval
+            "{x: 200, y: 300}": all
+            "{x: 100, y: 200}": vasakule
+            "{x: 300, y: 200}": paremale
+            "{x: 200, y: 200}": keskel
+            "{x: 100, y: 100}": üleval vasakul
+            "{x: 300, y: 100}": üleval paremal
+            "{x: 100, y: 300}": keskel vasakul
+            "{x: 300, y: 300}": all paremal
+            "{x: randomNumber(50, 350), y: randomNumber(50, 350)}": juhuslik
+      Dancelab_makeNewDanceSprite:
+        text: |-
+          tee uus {COSTUME}
+          mille nimi on {NAME} ekraani {LOCATION}
+        options:
+          COSTUME:
+            '"ALIEN"': tulnukas
+            '"BEAR"': Karu
+            '"CAT"': kass
+            '"DOG"': koer
+            '"DUCK"': part
+            '"FROG"': Konn
+            '"MOOSE"': kõik põdrad
+            '"PINEAPPLE"': Ananass
+            '"ROBOT"': robot
+            '"SHARK"': Hai
+            '"UNICORN"': ükssarvik
+          LOCATION:
+            "{x: 200, y: 100}": üleval
+            "{x: 200, y: 300}": all
+            "{x: 100, y: 200}": vasakule
+            "{x: 300, y: 200}": paremale
+            "{x: 200, y: 200}": keskel
+            "{x: 100, y: 100}": üleval vasakul
+            "{x: 300, y: 100}": üleval paremal
+            "{x: 100, y: 300}": keskel vasakul
+            "{x: 300, y: 300}": all paremal
+            "{x: randomNumber(50, 350), y: randomNumber(50, 350)}": juhuslik
+      Dancelab_makeNewDanceSpriteGroup:
+        text: |-
+          tee {N} uus {COSTUME}
+          erkraani {LAYOUT}
+        options:
+          COSTUME:
+            '"ALIEN"': kõik tulnukad
+            '"BEAR"': karud
+            '"CAT"': kõik kassid
+            '"DOG"': kõik koerad
+            '"DUCK"': pardid
+            '"FROG"': konnad
+            '"MOOSE"': kõik põdrad
+            '"PINEAPPLE"': ananassid
+            '"ROBOT"': kõik robotid
+            '"SHARK"': haid
+            '"UNICORN"': ükssarvikud
+          LAYOUT:
+            '"border"': piir
+            '"inner"': ruudu sees
+            '"diamond"': teemant
+            '"circle"': ring
+            '"grid"': ruudustikus
+            '"row"': rida
+            '"column"': veerg
+            '"x"': risti-rästi
+            '"plus"': pluss
+            '"random"': juhuslik
+      Dancelab_mixColors:
+        text: segad {COLOR1} ja {COLOR2}
+      Dancelab_nMeasures:
+        text: "{N} ühikud"
+      Dancelab_onPointerDown:
+        text: kui kursor on suunatud alla
+      Dancelab_onPointerDrag:
+        text: kui kursorit lohistada
+      Dancelab_onPointerUp:
+        text: kui kursorit lohistada
+      Dancelab_randomColor:
+        text: juhuslik värv
+      Dancelab_setBackground:
+        text: määra taustavärv {COLOR}
+      Dancelab_setBackgroundEffect:
+        text: |-
+          määra taustaefekt
+          {EFFECT} {PALETTE}
+        options:
+          EFFECT:
+            '"none"': Mitte ükski
+            '"color_cycle"': Värvid
+            '"diamonds"': Teemantid
+            '"swirl"': Hypno
+            '"rainbow"': Vikerkaar
+            '"snowflakes"': Lumi
+            '"text"': Laulu pealkiri
+            '"spiral"': Spiraal
+            '"disco"': Ruudud
+      Dancelab_setBackgroundEffectWithPalette:
+        text: |-
+          määra taustaefekt
+          {PALETTE} {EFFECT}
+        options:
+          EFFECT:
+            '"none"': Mitte ükski
+            '"rand"': "(Juhuslik)"
+            '"color_cycle"': Värvid
+            '"diamonds"': Teemantid
+            '"swirl"': Hypno
+            '"rainbow"': Vikerkaar
+            '"snowflakes"': Lumi
+            '"text"': Laulu pealkiri
+            '"spiral"': Spiraal
+            '"disco"': Ruudud
+      Dancelab_setBackgroundEffectWithPaletteAI:
+        text: |-
+          määra taustaefekt
+          {PALETTE} {EFFECT}
+        options:
+          EFFECT:
+            '"none"': Mitte ükski
+            '"rand"': "(Juhuslik)"
+            '"color_cycle"': Värvid
+            '"diamonds"': Teemantid
+            '"swirl"': Hypno
+            '"rainbow"': Vikerkaar
+            '"snowflakes"': Lumi
+            '"text"': Laulu pealkiri
+            '"spiral"': Spiraal
+            '"disco"': Ruudud
+          PALETTE:
+            '"rainbow"': Vikerkaar
+      Dancelab_setDanceSpeed:
+        text: sea {SPRITE} tantsu kiirus {SPEED}
+        options:
+          SPEED:
+            '1': tavaline
+            '2': kiire
+            '4': väga kiire
+            '0.5': aeglane
+            '0.25': väga aeglane
+      Dancelab_setDanceSpeedEach:
+        text: sea {GROUP} tantsu kiirus {SPEED}
+        options:
+          GROUP:
+            sprites: kõik
+            '"ALIEN"': kõik tulnukad
+            '"BEAR"': karud
+            '"CAT"': kõik kassid
+            '"DOG"': kõik koerad
+            '"DUCK"': pardid
+            '"FROG"': konnad
+            '"MOOSE"': kõik põdrad
+            '"PINEAPPLE"': ananassid
+            '"ROBOT"': kõik robotid
+            '"SHARK"': haid
+            '"UNICORN"': ükssarvikud
+          SPEED:
+            '1': tavaline
+            '2': kiire
+            '4': väga kiire
+            '0.5': aeglane
+            '0.25': väga aeglane
+      Dancelab_setForegroundEffect:
+        text: määra esiplaani efekt {EFFECT}
+        options:
+          EFFECT:
+            '"none"': Mitte ükski
+            '"bubbles"': Mullid
+            '"pineapples"': Ananassid
+            '"rain"': Vihm
+            '"spotlight"': Punktvalgus
+            '"raining_tacos"': Tacod
+      Dancelab_setForegroundEffectExtended:
+        text: määra esiplaani efekt {EFFECT}
+        options:
+          EFFECT:
+            '"none"': Mitte ükski
+            '"rand"': "(Juhuslik)"
+            '"bubbles"': Mullid
+            '"pineapples"': Ananassid
+            '"rain"': Vihm
+            '"spotlight"': Punktvalgus
+            '"raining_tacos"': Tacod
+      Dancelab_setProp:
+        text: 'muuda {SPRITE} {PROPERTY} {VAL} '
+        options:
+          PROPERTY:
+            '"scale"': suurus
+            '"width"': laius
+            '"height"': kõrgus
+            '"rotation"': pööramine
+            '"x"': horisontaalne asend
+            '"y"': vertikaalne asend
+      Dancelab_setPropEach:
+        text: muuda {GROUP} {PROPERTY} {VAL}
+        options:
+          GROUP:
+            sprites: kõik
+            '"ALIEN"': kõik tulnukad
+            '"BEAR"': karud
+            '"CAT"': kõik kassid
+            '"DOG"': kõik koerad
+            '"DUCK"': pardid
+            '"FROG"': konnad
+            '"MOOSE"': kõik põdrad
+            '"PINEAPPLE"': ananassid
+            '"ROBOT"': kõik robotid
+            '"SHARK"': haid
+            '"UNICORN"': ükssarvikud
+          PROPERTY:
+            '"scale"': suurus
+            '"width"': laius
+            '"height"': kõrgus
+            '"rotation"': pööramine
+            '"x"': horisontaalne asend
+            '"y"': vertikaalne asend
+            '"tint"': toon
+      Dancelab_setPropRandom:
+        text: juhusliku valiku alusel {SPRITE} {PROPERTY}
+        options:
+          PROPERTY:
+            '"scale"': suurus
+            '"width"': laius
+            '"height"': kõrgus
+            '"rotation"': pööramine
+            '"x"': horisontaalne asend
+            '"y"': vertikaalne asend
+            '"tint"': toon
+      Dancelab_setPropRandomEach:
+        text: juhusliku valiku alusel {GROUP} {PROPERTY}
+        options:
+          GROUP:
+            sprites: kõik
+            '"ALIEN"': kõik tulnukad
+            '"BEAR"': karud
+            '"CAT"': kõik kassid
+            '"DOG"': kõik koerad
+            '"DUCK"': pardid
+            '"FROG"': konnad
+            '"MOOSE"': kõik põdrad
+            '"PINEAPPLE"': ananassid
+            '"ROBOT"': kõik robotid
+            '"SHARK"': haid
+            '"UNICORN"': ükssarvikud
+          PROPERTY:
+            '"scale"': suurus
+            '"width"': laius
+            '"height"': kõrgus
+            '"rotation"': pööramine
+            '"x"': horisontaalne asend
+            '"y"': vertikaalne asend
+            '"tint"': toon
+      Dancelab_setTint:
+        text: määra {SPRITE} toon {VAL}
+      Dancelab_setTintEach:
+        text: määra {THIS} toon {VAL}
+        options:
+          THIS:
+            sprites: kõik
+            '"ALIEN"': kõik tulnukad
+            '"BEAR"': karud
+            '"CAT"': kõik kassid
+            '"DOG"': kõik koerad
+            '"DUCK"': pardid
+            '"FROG"': konnad
+            '"MOOSE"': kõik põdrad
+            '"PINEAPPLE"': ananassid
+            '"ROBOT"': kõik robotid
+            '"SHARK"': haid
+            '"UNICORN"': ükssarvikud
+      Dancelab_setTintEachInline:
+        text: määra {THIS} toon {VAL}
+        options:
+          THIS:
+            sprites: kõik
+            '"ALIEN"': kõik tulnukad
+            '"BEAR"': karud
+            '"CAT"': kõik kassid
+            '"DOG"': kõik koerad
+            '"DUCK"': pardid
+            '"FROG"': konnad
+            '"MOOSE"': kõik põdrad
+            '"PINEAPPLE"': ananassid
+            '"ROBOT"': kõik robotid
+            '"SHARK"': haid
+            '"UNICORN"': ükssarvikud
+      Dancelab_setTintInline:
+        text: määra {SPRITE} toon {VAL}
+      Dancelab_setVisible:
+        text: määra {SPRITE} nähtavus {VISIBILITY}
+        options:
+          VISIBILITY:
+            'true': nähtav
+            'false': nähtamatu
+      Dancelab_setVisibleEach:
+        text: määra {THIS} nähtavus {VISIBILITY}
+        options:
+          THIS:
+            sprites: kõik
+            '"ALIEN"': kõik tulnukad
+            '"BEAR"': karud
+            '"CAT"': kõik kassid
+            '"DOG"': kõik koerad
+            '"DUCK"': pardid
+            '"FROG"': konnad
+            '"MOOSE"': kõik põdrad
+            '"PINEAPPLE"': ananassid
+            '"ROBOT"': kõik robotid
+            '"SHARK"': haid
+            '"UNICORN"': ükssarvikud
+          VISIBILITY:
+            'true': nähtav
+            'false': nähtamatu
+      Dancelab_startMapping:
+        text: "{SPRITE} hakkab {PROPERTY} järgnema {RANGE}"
+        options:
+          PROPERTY:
+            '"scale"': suurus
+            '"width"': laius
+            '"height"': kõrgus
+            '"rotation"': pööramine
+            '"x"': horisontaalne asend
+            '"y"': vertikaalne asend
+            '"tint"': toon
+          RANGE:
+            '"bass"': bass
+            '"mid"': keskel
+            '"treble"': kõrged helid
+      Dancelab_startMappingEach:
+        options:
+          GROUP:
+            sprites: kõik
+            '"ALIEN"': kõik tulnukad
+            '"BEAR"': karud
+            '"CAT"': kõik kassid
+            '"DOG"': kõik koerad
+            '"DUCK"': pardid
+            '"FROG"': konnad
+            '"MOOSE"': kõik põdrad
+            '"PINEAPPLE"': ananassid
+            '"ROBOT"': kõik robotid
+            '"SHARK"': haid
+            '"UNICORN"': ükssarvikud
+          PROPERTY:
+            '"scale"': suurus
+            '"width"': laius
+            '"height"': kõrgus
+            '"rotation"': pööramine
+            '"x"': horisontaalne asend
+            '"y"': vertikaalne asend
+            '"tint"': toon
+          RANGE:
+            '"bass"': bass
+            '"mid"': keskel
+            '"treble"': kõrged helid
+      Dancelab_stopMapping:
+        text: "{SPRITE} lõpetab {PROPERTY} järgnemise {RANGE}"
+        options:
+          PROPERTY:
+            '"scale"': suurus
+            '"width"': laius
+            '"height"': kõrgus
+            '"rotation"': pööramine
+            '"x"': horisontaalne asend
+            '"y"': vertikaalne asend
+            '"direction"': liikumise suund
+            '"tint"': toon
+          RANGE:
+            '"bass"': bass
+            '"mid"': keskel
+            '"treble"': kõrged helid
+      Dancelab_stopMappingEach:
+        options:
+          GROUP:
+            sprites: kõik
+            '"ALIEN"': kõik tulnukad
+            '"BEAR"': karud
+            '"CAT"': kõik kassid
+            '"DOG"': kõik koerad
+            '"DUCK"': pardid
+            '"FROG"': konnad
+            '"MOOSE"': kõik põdrad
+            '"PINEAPPLE"': ananassid
+            '"ROBOT"': kõik robotid
+            '"SHARK"': haid
+            '"UNICORN"': ükssarvikud
+          PROPERTY:
+            '"scale"': suurus
+            '"width"': laius
+            '"height"': kõrgus
+            '"rotation"': pööramine
+            '"x"': horisontaalne asend
+            '"y"': vertikaalne asend
+            '"direction"': liikumise suund
+            '"tint"': toon
+          RANGE:
+            '"bass"': bass
+            '"mid"': keskel
+            '"treble"': kõrged helid
+      Dancelab_translateStrings:
+        options:
+          STRING:
+            '"diamond"': teemant
+            '"s"': s
+            '"t"': t
+            '"u"': u
+            '"v"': v
+            '"w"': w
+            '"x"': x
+            '"z"': z
+      Dancelab_whenKey:
+        text: kui vajutad {KEY}
+        options:
+          KEY:
+            '"up"': üles
+            '"left"': vasakule
+            '"down"': alla
+            '"right"': paremale
+            '"space"': kosmos
+            '"enter"': sisesta
+            '"a"': a
+            '"d"': d
+            '"h"': h
+            '"i"': i
+            '"j"': j
+            '"k"': k
+            '"l"': l
+            '"m"': m
+            '"o"': o
+            '"p"': p
+            '"r"': r
+            '"s"': s
+            '"t"': t
+            '"u"': u
+            '"v"': v
+            '"w"': w
+            '"x"': x
+            '"z"': z
+      Dancelab_whenPeak:
+        text: kui {RANGE} tipneb
+        options:
+          RANGE:
+            '0': bass
+            '1': keskel
+            '2': kõrged helid
+      Dancelab_whenSetup:
+        text: seadistus
+      Dancelab_whenSetup2:
+        text: seadistus
+      DansBlocks_setForegroundEffect2:
+        options:
+          EFFECT:
+            '"bubbles"': Mullid
+            '"hearts"': südamed
+            '"rain"': vihm
+      DansBlocks_testShowVariable:
+        options:
+          COLOR:
+            '"blue"': sinine
+            '"red"': punane
+      GameDev_getVelocity:
+        text: "{SPRITE} {PROPERTY}"
+      GameDev_gravity:
+        options:
+          VELOCITY:
+            "-0.5": keskmine
+      GameDev_playSoundOptions:
+        options:
+          SOUND:
+            "'sound://category_collect/clicky_crunch.mp3'": purustama
+            "'sound://category_digital/jump_7.mp3'": hüppa
+      GameDev_playerJump:
+        options:
+          STRENGTH:
+            '13': keskmine
+            '17': suur
+      GameDev_removeGroup:
+        options:
+          GROUP:
+            '"players"': mängija
+      GameDev_setGroup:
+        options:
+          GROUP:
+            '"players"': mängija
+      GameDev_spriteType:
+        options:
+          GROUP:
+            '"players"': mängija
+      gamelab_atTime:
+        options:
+          UNIT:
+            '"seconds"': sekundit
+      gamelab_changePropBy:
+        text: muuda {SPRITE} {PROPERTY} {VAL} võrra
+        options:
+          PROPERTY:
+            '"scale"': suurus
+            '"rotation"': pööramine
+            '"x"': x asukoht
+            '"y"': y asukoht
+            '"direction"': liikumise suund
+            '"speed"': kiirus
+      gamelab_checkTouching:
+        options:
+          CONDITION:
+            '"when"': kui
+            '"while"': tingimusel
+      gamelab_clickedSpritePointer:
+        text: "{SPRITE}"
+      gamelab_everyInterval:
+        text: 'iga {N} {UNIT} '
+        options:
+          UNIT:
+            '"seconds"': sekundit
+      gamelab_getProp:
+        text: "{SPRITE} {PROPERTY}"
+        options:
+          PROPERTY:
+            '"scale"': suurus
+            '"rotation"': pööramine
+            '"x"': x asukoht
+            '"y"': y asukoht
+            '"direction"': liikumise suund
+            '"tint"': toon
+            '"speed"': kiirus
+      gamelab_getTime:
+        options:
+          UNIT:
+            '"seconds"': sekundit
+      gamelab_isKeyPressed:
+        options:
+          KEY:
+            '"up"': üles
+            '"down"': alla
+            '"left"': vasakule
+            '"right"': paremale
+            '"space"': kosmos
+            '"a"': a
+            '"d"': d
+            '"h"': h
+            '"i"': i
+            '"j"': j
+            '"k"': k
+            '"l"': l
+            '"m"': m
+            '"o"': o
+            '"p"': p
+            '"r"': r
+            '"s"': s
+            '"t"': t
+            '"u"': u
+            '"v"': v
+            '"w"': w
+            '"x"': x
+            '"z"': z
+      gamelab_jumpTo:
+        text: "{SPRITE} hüppavad {LOCATION}"
+      gamelab_keyPressed:
+        options:
+          CONDITION:
+            '"when"': kui
+            '"while"': tingimusel
+          KEY:
+            '"up"': üles
+            '"down"': alla
+            '"left"': vasakule
+            '"right"': paremale
+            '"space"': kosmos
+            '"a"': a
+            '"d"': d
+            '"h"': h
+            '"i"': i
+            '"j"': j
+            '"k"': k
+            '"l"': l
+            '"m"': m
+            '"o"': o
+            '"p"': p
+            '"r"': r
+            '"s"': s
+            '"t"': t
+            '"u"': u
+            '"v"': v
+            '"w"': w
+            '"x"': x
+            '"z"': z
+      gamelab_layoutSprites:
+        text: paigutus {GROUP} nagu {FORMAT}
+        options:
+          FORMAT:
+            '"border"': piir
+            '"circle"': ring
+            '"grid"': ruudustikus
+            '"row"': rida
+            '"column"': veerg
+      gamelab_makeBurst:
+        options:
+          EFFECT:
+            '"rain"': vihm
+      gamelab_makeNewSpriteGroup:
+        options:
+          FORMAT:
+            '"border"': piir
+            '"circle"': ring
+            '"grid"': ruudustikus
+            '"row"': rida
+            '"column"': veerg
+      gamelab_makeProjectile:
+        options:
+          DIRECTION:
+            '0': paremale
+            '90': alla
+            '180': vasakule
+            '270': üles
+      gamelab_makeSpritesWithSize:
+        options:
+          SIZE:
+            '50': keskmine
+      gamelab_mirrorSprite:
+        options:
+          DIRECTION:
+            '"right"': paremale
+            '"left"': vasakule
+      gamelab_newSpritePointer:
+        text: "{SPRITE}"
+      gamelab_objectSpritePointer:
+        text: "{SPRITE}"
+      gamelab_playSoundOptions:
+        options:
+          SOUND:
+            "'sound://category_collect/clicky_crunch.mp3'": purustama
+            "'sound://category_animals/bear.mp3'": Karu
+            "'sound://category_animals/cat.mp3'": kass
+            "'sound://category_animals/cow.mp3'": lehm
+            "'sound://category_animals/sheep.mp3'": lammas
+            "'sound://category_animals/goat.mp3'": kits
+            "'sound://category_animals/chicken.mp3'": kana
+            "'sound://category_animals/elephant.mp3'": elevant
+            "'sound://category_animals/dolphin.mp3'": delfiin
+            "'sound://category_animals/chick.mp3'": tibu
+            "'sound://category_animals/dog.mp3'": koer
+            "'sound://category_digital/jump_7.mp3'": hüppa
+      gamelab_randColor:
+        text: juhuslik värv
+      gamelab_randomColor:
+        text: juhuslik värv
+      gamelab_repeatForever:
+        text: korda igavesti
+      gamelab_setBackground:
+        text: määra taustavärv {COLOR}
+      gamelab_setBackgroundImage:
+        options:
+          IMG:
+            '"https://studio.code.org/blockly/media/skins/studio/background_cave.png"': koobas
+            '"https://studio.code.org/api/v1/animation-library/04L4sdTODkNZF1OHf4qO_I.Al3QP43wA/category_backgrounds/city.png"': linn
+            '"https://studio.code.org/blockly/media/skins/studio/background_desert.png"': kõrb
+            '"https://studio.code.org/blockly/media/skins/studio/background_space.png"': galaktika
+            '"https://studio.code.org/blockly/media/skins/studio/background_grid.png"': ruudustikus
+            '"https://studio.code.org/api/v1/animation-library/cJKusc1WPgWvCvgdwRX1gk8Zk0FggcVj/category_backgrounds/meadow.png"': heinamaa
+            '"https://studio.code.org/blockly/media/skins/studio/background_rainbow.png"': vikerkaar
+            '"https://studio.code.org/blockly/media/skins/studio/background_underwater.png"': veealune
+            '"https://studio.code.org/blockly/media/skins/studio/background_winter.png"': talv
+            undefined: mitte ükski
+      gamelab_setDefaultSpriteSize:
+        options:
+          SIZE:
+            '75': keskmine
+      gamelab_setForegroundEffect:
+        options:
+          EFFECT:
+            '"bubbles"': Mullid
+            '"hearts"': südamed
+            '"rain"': vihm
+      gamelab_setProp:
+        text: muuda {SPRITE} {PROPERTY} {VAL}
+        options:
+          PROPERTY:
+            '"scale"': suurus
+            '"rotation"': pööramine
+            '"x"': x asukoht
+            '"y"': y asukoht
+            '"direction"': liikumise suund
+            '"speed"': kiirus
+      gamelab_setProp_dropdown:
+        text: muuda {SPRITE} {PROPERTY} {SIZE}
+        options:
+          PROPERTY:
+            '"scale"': suurus
+          SIZE:
+            '75': keskmine
+      gamelab_setSizes:
+        text: muuda {SPRITE} {PROPERTY} {N}%
+        options:
+          PROPERTY:
+            '"scale"': suurus
+            '"width"': laius
+            '"height"': kõrgus
+      gamelab_setSpeed_dropdown:
+        options:
+          SIZE:
+            '3': aeglane
+            '5': tavaline
+            '7': kiire
+      gamelab_spriteClicked:
+        options:
+          CONDITION:
+            '"when"': kui
+            '"while"': tingimusel
+      gamelab_subjectSpritePointer:
+        text: "{SPRITE}"
+      gamelab_turn:
+        options:
+          DIRECTION:
+            '"right"': paremale
+            '"left"': vasakule
+      gamelab_whenKey:
+        text: kui vajutad {KEY}
+        options:
+          KEY:
+            '"up"': üles
+            '"down"': alla
+            '"left"': vasakule
+            '"right"': paremale
+            '"space"': kosmos
+            '"a"': a
+            '"w"': w
+            '"s"': s
+            '"d"': d
+      gamelab_whileKey:
+        options:
+          KEY:
+            '"up"': üles
+            '"down"': alla
+            '"left"': vasakule
+            '"right"': paremale
+            '"space"': kosmos
+            '"a"': a
+            '"w"': w
+            '"s"': s
+            '"d"': d
+      KatiesBlocks_changeVelocity:
+        options:
+          PROPERTY:
+            '"velocityX"': lühike
+            '"velocityY"': pikk
+      KatiesBlocks_setVelocity:
+        text: muuda {SPRITE} {PROPERTY} {VAL}
+      Mikelab_changePropBy:
+        options:
+          PROPERTY:
+            '"scale"': suurus
+            '"rotation"': pööramine
+            '"x"': x asukoht
+            '"y"': y asukoht
+            '"direction"': liikumise suund
+      Mikelab_createNewSprite:
+        options:
+          LOCATION:
+            "{x: 200, y: 100}": üleval
+            "{x: 200, y: 300}": all
+            "{x: 100, y: 200}": vasakule
+            "{x: 300, y: 200}": paremale
+            "{x: 200, y: 200}": keskel
+            "{x: 100, y: 100}": üleval vasakul
+            "{x: 300, y: 100}": üleval paremal
+            "{x: 100, y: 300}": keskel vasakul
+            "{x: 300, y: 300}": all paremal
+      Mikelab_getProp:
+        options:
+          PROPERTY:
+            '"scale"': suurus
+            '"rotation"': pööramine
+            '"x"': x asukoht
+            '"y"': y asukoht
+            '"direction"': liikumise suund
+      Mikelab_groupChangeAnim:
+        options:
+          SELECT:
+            '"all"': kõik
+      Mikelab_groupChangePropBy:
+        options:
+          SELECT:
+            '"all"': kõik
+          PROPERTY:
+            '"scale"': suurus
+            '"rotation"': pööramine
+            '"x"': x asukoht
+            '"y"': y asukoht
+            '"direction"': liikumise suund
+      Mikelab_groupCreateNewSprite:
+        options:
+          LOCATION:
+            "{x: 200, y: 100}": üleval
+            "{x: 200, y: 300}": all
+            "{x: 100, y: 200}": vasakule
+            "{x: 300, y: 200}": paremale
+            "{x: 200, y: 200}": keskel
+            "{x: 100, y: 100}": üleval vasakul
+            "{x: 300, y: 100}": üleval paremal
+            "{x: 100, y: 300}": keskel vasakul
+            "{x: 300, y: 300}": all paremal
+      Mikelab_groupDestroy:
+        options:
+          SELECT:
+            '"all"': kõik
+      Mikelab_groupGetProp:
+        options:
+          PROPERTY:
+            '"scale"': suurus
+            '"rotation"': pööramine
+            '"x"': x asukoht
+            '"y"': y asukoht
+            '"direction"': liikumise suund
+      Mikelab_groupRemoveAllBehaviors:
+        options:
+          SELECT:
+            '"all"': kõik
+      Mikelab_groupRemoveBehaviorSimple:
+        options:
+          SELECT:
+            '"all"': kõik
+      Mikelab_groupRemoveTint:
+        options:
+          SELECT:
+            '"all"': kõik
+      Mikelab_groupSetProp:
+        options:
+          SELECT:
+            '"all"': kõik
+          PROPERTY:
+            '"scale"': suurus
+            '"rotation"': pööramine
+            '"x"': x asukoht
+            '"y"': y asukoht
+            '"direction"': liikumise suund
+      Mikelab_groupSetTint:
+        options:
+          SELECT:
+            '"all"': kõik
+      Mikelab_ifDanceIs:
+        text: |-
+          kui {SPRITE} teeb {DANCE}
+          {DO1} {DO2}
+        options:
+          DANCE:
+            MOVES.ClapHigh: Kõrge plaks
+            MOVES.Clown: Kloun
+            MOVES.Dab: Dab
+            MOVES.DoubleJam: Topelt jam
+            MOVES.Drop: Kükita
+            MOVES.Floss: Floss
+            MOVES.Fresh: Uus
+            MOVES.Roll: Rulli
+            MOVES.Kick: Täht
+            MOVES.ThisOrThat: Seda või teist
+            MOVES.Rest: Mitte ükski
+      Mikelab_joinText:
+        text: "{TEXT} {NEXT}"
+      Mikelab_randomColor:
+        text: juhuslik värv
+      Mikelab_repeatUntilComplete:
+        text: korda igavesti
+      Mikelab_setBG:
+        options:
+          BG:
+            '"https://studio.code.org/api/v1/animation-library/04L4sdTODkNZF1OHf4qO_I.Al3QP43wA/category_backgrounds/city.png"': linn
+            '"https://studio.code.org/api/v1/animation-library/cJKusc1WPgWvCvgdwRX1gk8Zk0FggcVj/category_backgrounds/meadow.png"': heinamaa
+      Mikelab_setProp:
+        options:
+          PROPERTY:
+            '"scale"': suurus
+            '"rotation"': pööramine
+            '"x"': x asukoht
+            '"y"': y asukoht
+            '"direction"': liikumise suund
+      Mikelab_showScoreboard:
+        options:
+          CORNER:
+            '"right"': paremale
+            '"left"': vasakule
+      Mikelab_sprite:
+        options:
+          LOCATION:
+            "{x: 200, y: 100}": üleval
+            "{x: 200, y: 300}": all
+            "{x: 100, y: 200}": vasakule
+            "{x: 300, y: 200}": paremale
+            "{x: 200, y: 200}": keskel
+            "{x: 100, y: 100}": üleval vasakul
+            "{x: 300, y: 100}": üleval paremal
+            "{x: 100, y: 300}": keskel vasakul
+            "{x: 300, y: 300}": all paremal
+      Mikelab_whenKeyPressed:
+        text: kui vajutad {KEY}
+        options:
+          KEY:
+            '"up"': nool üles
+            '"down"': nool alla
+            '"left"': nool vasakule
+            '"right"': nool paremale
+            '"w"': Lääs
+            '"a"': A
+            '"s"': Lõuna
+            '"d"': D
+      Mikelab_whenKeyReleased:
+        options:
+          KEY:
+            '"up"': nool üles
+            '"down"': nool alla
+            '"left"': nool vasakule
+            '"right"': nool paremale
+            '"w"': Lääs
+            '"a"': A
+            '"s"': Lõuna
+            '"d"': D
+      Mikelab_whenYesNoClicked:
+        options:
+          KEY:
+            '"yes"': jah
+            '"no"': ei
+      Mikelab_whileKeyPressed:
+        options:
+          KEY:
+            '"up"': nool üles
+            '"down"': nool alla
+            '"left"': nool vasakule
+            '"right"': nool paremale
+      Poetry_addFrame:
+        options:
+          BRUSH:
+            '"brick"': tellis
+            '"hearts"': südamed
+            '"rainbow"': vikerkaar
+      Poetry_makeBurst:
+        options:
+          EFFECT:
+            '"rain"': vihm
+      Poetry_playMusic:
+        options:
+          SOUND:
+            '"sound://category_nature/forest_woodland_ambience_2.mp3"': mets
+            '"sound://category_nature/summer_night_loop.mp3"': öö
+            '"sound://category_loops/stabilizing_breath_loop1.mp3"': aeglane
+      Poetry_playSound:
+        options:
+          SOUND:
+            '"sound://category_bell/long_bell_notification.mp3"': kell
+            '"sound://category_jump/vibrant_game_jumping_up_1.mp3"': hüppa
+      Poetry_setBackground:
+        text: määra taustavärv {COLOR}
+      Poetry_setBackgroundEffect:
+        options:
+          EFFECT:
+            '"bubbles"': Mullid
+            '"clouds"': pilvine
+            '"hearts"': südamed
+            '"rain"': vihm
+            '"colors"': Värvid
+          PALETTE:
+            '"rainbow"': vikerkaar
+            '"winter"': talv
+      Poetry_setForegroundEffect:
+        options:
+          EFFECT:
+            '"bubbles"': Mullid
+            '"hearts"': südamed
+            '"rain"': vihm
+      RyanLab_moveForward:
+        text: liigu edasi
+      RyanLab_turnLeft:
+        text: pööra vasakule
+      RyanLab_turnRight:
+        text: pööra paremale
+      Vector_positionCenter:
+        text: keskel
+      Vector_where:
+        options:
+          PROPERTY:
+            "'shapeColor'": värv
+      aalab_layoutSprites:
+        options:
+          FORMAT:
+            '"grid"': ruudustikus
+            '"border"': piir
+            '"row"': rida
+            '"random"': juhuslik
+      aalab_someGraduallyStartIntervention:
+        options:
+          PORTION:
+            '1': kõik
+      aalab_someStartIntervention:
+        options:
+          PORTION:
+            '1': kõik
+      binary_move:
+        options:
+          DIR:
+            '"up"': üles
+            '"down"': alla
+            '"left"': vasakule
+            '"right"': paremale
+      binary_whenKey:
+        text: kui vajutad {KEY}
+        options:
+          KEY:
+            '"up"': üles
+            '"down"': alla
+            '"left"': vasakule
+            '"right"': paremale
+            '"space"': kosmos
+            '"a"': a
+            '"w"': w
+            '"s"': s
+            '"d"': d
+      craft_ifPath:
+        text: |-
+          kui rada {DIR}
+          {STATEMENT}
+        options:
+          DIR:
+            "'ahead'": ees
+            "'right'": paremale
+            "'left'": vasakule
+      craft_ifStandingOn:
+        text: |-
+          kui seisad {TYPE}
+          {STATEMENT}
+        options:
+          TYPE:
+            "'blueCoralBlock'": sinine korall
+            "'redCoralBlock'": punane korall
+            "'sand'": liiv
+            "'wool_blue'": sügav vesi
+            "'planksOak'": tammelauad
+            "'seaLantern'": merelatern
+      craft_ifStandingOnLimit:
+        text: |-
+          kui seisad {TYPE}
+          {STATEMENT}
+        options:
+          TYPE:
+            "'sand'": liiv
+            "'darkPrismarine'": tume prismarine
+            "'seaLantern'": merelatern
+      craft_moveForward:
+        text: liigu edasi
+      craft_placeBlock:
+        text: paiguta {blockType}
+        options:
+          blockType:
+            '"strippedOak"': kooritud tamm
+            '"strippedDarkOak"': kooritud tume tamm
+            '"stoneBricks"': kivi-tellised
+            '"mossyStoneBricks"': sammaldunud kivi-tellised
+            '"crackedStoneBricks"': mõranenud kivi-tellised
+            '"chiseledStoneBricks"': dekoratiivsed kivi-tellised
+            '"blueCoralBlock"': sinise koralli plokk
+            '"pinkCoralBlock"': roosa koralli plokk
+            '"magentaCoralBlock"': magenta koralli plokk
+            '"redCoralBlock"': punane koralli plokk
+            '"yellowCoralBlock"': kollane koralli plokk
+            '"blueDeadCoralBlock"': sinine surnud koralli plokk
+            '"pinkDeadCoralBlock"': roosa surnud korall plokk
+            '"magentaDeadCoralBlock"': magenta surnud koralli plokk
+            '"readDeadCoralBlock"': punane surnud koralli plokk
+            '"yellowDeadCoralBlock"': kollane surnud koralli plokk
+            '"prismarine"': prismarine
+            '"darkPrismarine"': tume prismarine
+            '"seaLantern"': merelatern
+            '"packedIce"': pakendatud jää
+            '"blueIce"': must jää
+            '"blackConcrete"': must betoon
+            '"seaGrass"': mererohi
+            '"kelp"': pruunvetikas
+            '"polishedGranite"': poleeritud graniit
+      craft_placePrismarine:
+        text: aseta prismarine
+      craft_placeTorch:
+        text: aseta tõrvik
+      craft_repeatUntilConduit:
+        text: |-
+          korda kuni kanal valmis
+          {STATEMENT}
+      craft_repeatUntilGoal:
+        text: |-
+          korda kuni eemärgini
+          {STATEMENT}
+      craft_spawnEntity:
+        text: loo {ENTITY}
+        options:
+          ENTITY:
+            '"cod"': tursk
+            '"dolphin"': delfiin
+            '"salmon"': lõhe
+            '"seaTurtle"': merekilpkonn
+            '"squid"': kalmaar
+            '"tropicalFish"': troopiline kala
+      craft_turn:
+        text: keera {DIR}
+        options:
+          DIR:
+            right: paremale ↻
+            left: vasakule ↺
+      storylab_setForegroundEffect2:
+        options:
+          EFFECT:
+            '"bubbles"': Mullid
+            '"hearts"': südamed
+            '"rain"': vihm

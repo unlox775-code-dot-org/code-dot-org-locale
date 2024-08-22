@@ -1,0 +1,98 @@
+---
+bn:
+  data:
+    unplugged:
+      BigEvent:
+        title: বড় ঘটনা
+      BigEvent_2018:
+        title: বড় ঘটনা
+      BigEvent_2019:
+        title: বড় ঘটনা
+      BinaryImages:
+        title: দ্বিমিক ছবি
+      BinaryImages_2018:
+        title: দ্বিমিক ছবি
+      BinaryImages_2019:
+        title: দ্বিমিক ছবি
+      ComputationalThinking:
+        title: গণিতিক চিন্তা-ভাবনা
+      Conditionals:
+        title: শর্তযুক্ত
+      Conditionals_2018:
+        title: শর্তযুক্ত
+      Conditionals_2019:
+        title: শর্তযুক্ত
+      GraphPaperProgramming:
+        title: ছক-কাগজে প্রোগ্রামিং
+      GraphPaperProgramming_2018:
+        title: ছক-কাগজে প্রোগ্রামিং
+      GraphPaperProgramming_2019:
+        title: ছক-কাগজে প্রোগ্রামিং
+      Internet:
+        title: ইন্টারনেট
+      RelayProgramming:
+        title: রিলে-স্যুইচ প্রোগ্রামিং
+      RelayProgramming_2018:
+        title: রিলে-স্যুইচ প্রোগ্রামিং
+      RelayProgramming_2018_2019:
+        title: রিলে-স্যুইচ প্রোগ্রামিং
+      SongwritingParameters:
+        title: গান লিখা
+      SongwritingWithParameters:
+        title: গান লিখা
+      Unplug1:
+        title: কম্পিউটার বিজ্ঞান পরিচিতি
+      Unplug10:
+        title: ইন্টারনেট
+      Unplug11:
+        title: গুটিয়ে ফেলা
+      Unplug2:
+        title: গণিতিক চিন্তা-ভাবনা
+      Unplug3:
+        title: ছক-কাগজে প্রোগ্রামিং
+      Unplug4:
+        title: অ্যালগরিদম
+      Unplug5:
+        title: ফাংশনগুলি
+      Unplug6:
+        title: শর্তসমূহ
+      Unplug7:
+        title: গান লিখা
+      Unplug8:
+        title: অপসারণ
+      Unplug9:
+        title: রিলে-স্যুইচ প্রোগ্রামিং
+      UnplugHappyMaps:
+        title: আনন্দের মানচিত্র
+      UnplugHappyMaps_2018:
+        title: আনন্দের মানচিত্র
+      UnplugHappyMaps_2019:
+        title: আনন্দের মানচিত্র
+      Unplugged- Melissa Sandbox:
+        title: Unuplugged
+      courseABC_unplugged_bigEvent:
+        title: বড় ঘটনা
+      courseA_unplugged_happyMaps:
+        title: আনন্দের মানচিত্র
+      courseB_unplugged_MRF_2018:
+        title: আমার রোবোটিক্স বন্ধুরা
+      courseB_unplugged_MRF_2019:
+        title: আমার রোবোটিক্স বন্ধুরা
+      courseD_unplugged_binaryImages:
+        title: দ্বিমিক ছবি
+      courseD_unplugged_conditionalsCards:
+        title: কার্ড সঙ্গে শর্ত
+      courseD_unplugged_graphPaperProgramming:
+        title: ছক-কাগজে প্রোগ্রামিং
+      courseD_unplugged_relayProgramming:
+        title: রিলে-স্যুইচ প্রোগ্রামিং
+      courseE_unplugged_internet:
+        title: ইন্টারনেট
+      courseE_unplugged_songwriting:
+        title: গান লিখা
+      courseE_unplugged_songwritingParameters:
+        title: গান লিখা
+      courseF_unplugged_songwritingParameters:
+        title: গান লিখা
+      timeforcs_demo_conditionals:
+        title: শর্তযুক্ত

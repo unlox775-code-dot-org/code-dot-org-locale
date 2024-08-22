@@ -1,0 +1,17 @@
+fi:
+  data:
+    parameter_names:
+      actor: hahmo
+      color: väri
+      counter: laskuri
+      height: korkeus
+      honey: hunaja
+      left: vasemmalle
+      length: pituus
+      min: min
+      points: pisteet
+      radius: säde
+      sides: sivut
+      size: koko
+      speed: nopeus
+      width: leveys

@@ -1,0 +1,38 @@
+el:
+  data:
+    variable_names:
+      Blue: Μπλε
+      Green: Πράσινο
+      Red: Κόκκινο
+      actor: ηθοποιός
+      age: ηλικία
+      answer: απάντηση
+      binary: δυαδικό
+      birds: πουλιά
+      cats: όλες οι γάτες
+      color: χρώμα
+      counter: μετρητής
+      dogs: όλοι οι σκύλοι
+      height: ύψος
+      honey: μέλι
+      i: ι
+      left: αριστερά
+      length: μήκος
+      name: όνομα
+      nectar: νέκταρ
+      object: αντικείμενο
+      planet: πλανήτης
+      points: πόντοι
+      random: τυχαίο
+      repeat: επανάλαβε
+      right: δεξιά
+      score: σκορ
+      shout: φωνάζω
+      sides: πλευρές
+      size: μέγεθος
+      speed: ταχύτητα
+      type: τύπος
+      variable: μεταβλητή
+      width: πλάτος
+      wizard: μάγος
+      x: x

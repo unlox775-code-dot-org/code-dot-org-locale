@@ -1,0 +1,24 @@
+---
+sk:
+  data:
+    shared_functions:
+      driving with arrow keys: ovládať pomocou šípok
+      fluttering: poskakovať
+      growing: rásť
+      jittering: meniť veľkosť
+      moving east: posúvať sa na východ
+      moving east and looping: posúvať sa na východ (s návratom)
+      moving north: posúvať sa na sever
+      moving north and looping: posúvať sa na sever (s návratom)
+      moving south: posúvať sa na juh
+      moving south and looping: posúvať sa na juh (s návratom)
+      moving west: posúvať sa na západ
+      moving west and looping: posúvať sa na západ (s návratom)
+      moving with arrow keys: posúvať sa pomocou kláves so šípkami
+      patrolling: hliadkovať
+      shrinking: zmenšovať sa
+      spinning left: točiť sa vľavo
+      spinning right: točiť sa vpravo
+      swimming left and right: plávať vľavo a vpravo
+      wandering: túlať sa
+      wobbling: kolísať sa

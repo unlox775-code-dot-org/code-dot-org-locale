@@ -1,0 +1,9 @@
+---
+title: Sự tham gia của toàn bộ trường học
+---
+
+{{ signup_button }}
+
+# Kêu gọi cả trường bạn tham gia
+
+Thông tin về việc thu hút toàn trường tham gia Giờ Mã sẽ được cung cấp tại đây.

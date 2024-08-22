@@ -1,0 +1,96 @@
+---
+zu:
+  data:
+    blocks:
+      Dancelab_changePropBy:
+        options:
+          PROPERTY:
+            '"height"': ubude
+      Dancelab_changePropEachBy:
+        options:
+          PROPERTY:
+            '"height"': ubude
+      Dancelab_getProp:
+        options:
+          PROPERTY:
+            '"height"': ubude
+      Dancelab_setProp:
+        options:
+          PROPERTY:
+            '"height"': ubude
+      Dancelab_setPropEach:
+        options:
+          PROPERTY:
+            '"height"': ubude
+      Dancelab_setPropRandom:
+        options:
+          PROPERTY:
+            '"height"': ubude
+      Dancelab_setPropRandomEach:
+        options:
+          PROPERTY:
+            '"height"': ubude
+      Dancelab_startMapping:
+        options:
+          PROPERTY:
+            '"height"': ubude
+      Dancelab_startMappingEach:
+        options:
+          PROPERTY:
+            '"height"': ubude
+      Dancelab_stopMapping:
+        options:
+          PROPERTY:
+            '"height"': ubude
+      Dancelab_stopMappingEach:
+        options:
+          PROPERTY:
+            '"height"': ubude
+      GameDev_playSoundOptions:
+        options:
+          SOUND:
+            "'sound://category_digital/jump_7.mp3'": gxuma
+      gamelab_checkTouching:
+        options:
+          CONDITION:
+            '"when"': nini
+      gamelab_keyPressed:
+        options:
+          CONDITION:
+            '"when"': nini
+      gamelab_playSoundOptions:
+        options:
+          SOUND:
+            "'sound://category_digital/jump_7.mp3'": gxuma
+      gamelab_setSizes:
+        options:
+          PROPERTY:
+            '"height"': ubude
+      gamelab_spriteClicked:
+        options:
+          CONDITION:
+            '"when"': nini
+      Mikelab_whenYesNoClicked:
+        options:
+          KEY:
+            '"no"': cha
+      Poetry_playSound:
+        options:
+          SOUND:
+            '"sound://category_jump/vibrant_game_jumping_up_1.mp3"': gxuma
+      RyanLab_moveForward:
+        text: qubekela phambili
+      craft_ifPath:
+        options:
+          DIR:
+            "'ahead'": ngaphambili
+      craft_ifStandingOn:
+        options:
+          TYPE:
+            "'sand'": isihlabathi
+      craft_ifStandingOnLimit:
+        options:
+          TYPE:
+            "'sand'": isihlabathi
+      craft_moveForward:
+        text: qubekela phambili

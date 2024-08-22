@@ -1,0 +1,37 @@
+---
+nl:
+  data:
+    block_categories:
+      Actions: Acties
+      Advanced: Geavanceerd
+      Behaviors: Gedrag
+      Brushes: Kwasten
+      Category: Categorie
+      Color: Kleur
+      Comment: Opmerking
+      Comments: Opmerkingen
+      Conditionals: Voorwaardelijke instructies
+      Dancers: Dansers
+      Default: Standaard
+      Effects: Effecten
+      Events: Gebeurtenissen
+      Functions: Functies
+      'Functions ': 'Functies '
+      Game/Score: Spel/Score
+      Games/Score: Spellen/Score
+      Groups: Groepen
+      Input: Invoer
+      Location: Plaats
+      Locations: Plaatsen
+      Logic: Logica
+      Loops: Lussen
+      Math: Wiskunde
+      Numbers: Getallen
+      Properties: Eigenschappen
+      Shapes: Vormen
+      Sprites: Sprites
+      Text: Tekst
+      Variables: Variabelen
+      'Variables ': 'Variabelen '
+      'Variables  ': 'Variabelen  '
+      World: Wereld

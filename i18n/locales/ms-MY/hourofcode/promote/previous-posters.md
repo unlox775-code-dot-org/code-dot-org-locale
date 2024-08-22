@@ -1,0 +1,17 @@
+---
+title: Poster Jam Kod yang Lalu
+---
+
+{{ signup_button }}
+
+# Poster Jam Kod yang Lalu
+
+### Cari poster kami dari tahun sebelumnya untuk dicetak dan digantungkan di dalam kelas anda! Mencari poster terkini? [Klik di sini]({{ promote/promote_posters_url }}).
+
+* * *
+
+<br />
+
+{{ promote_posters }}
+
+{{ signup_button }}

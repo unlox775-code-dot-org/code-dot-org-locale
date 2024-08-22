@@ -1,0 +1,221 @@
+#Files in the config/locales directory are used for internationalization
+#and are automatically loaded by Rails. If you want to use locales other
+#than English, add the necessary files in this directory.
+#To use the locales, use `I18n.t`:
+#I18n.t 'hello'
+#In views, this is aliased to just `t`:
+#<%= t('hello') %>
+#To use a different locale, set it with `I18n.locale`:
+#I18n.locale = :es
+#This would use the information in config/locales/es.yml.
+#The following keys must be escaped otherwise they will not be retrieved by
+#the default I18n backend:
+#true, false, on, off, yes, no
+#Instead, surround them with single quotes.
+#en:
+#'true': 'foo'
+#To learn more, please read the Rails Internationalization guide
+#available at https://guides.rubyonrails.org/i18n.html.
+ky:
+  errors:
+    messages:
+      not_saved: 'Кийинки каталарды оңдогула:'
+  activerecord:
+    errors:
+      messages:
+        blank: "милдеттүү"
+        blank_plural: "милдеттүү"
+        invalid: "жараксыз"
+        invalid_plural: "жараксыз"
+    attributes:
+      user:
+        name: 'Атын көрсөт'
+        name_example: 'Атын көрсөт (м. Мыкты кодер же Жаңыл)'
+        email: 'Эмейл'
+        username: 'Колдонуучунун аты'
+        password: 'Сырсөз'
+        password_confirmation: 'Сырсөздү тастыктоо'
+        current_password: 'Учурдагы сырсөз'
+        locale: 'Тили'
+        age: 'Жашы'
+        finish_sign_up_header_error: 'Кийинки каталарды оңдогула:'
+  submit: Кошуу
+  cancel: "Жок кыл"
+  to_close: Жабуу
+  okay: "Окай"
+  or: "же"
+  stage_number: "%{number}-сабак"
+  already_started: "Баштап койдуңар беле? Мындан уланткыла >> "
+  continue: 'Улантуу'
+  more_info: 'Кененирээк'
+  auth:
+    signed_in: 'Киргенсиңер!'
+  signup_form:
+    hoc_already_signed_up_heading: 'Кирбей баштоо'
+    age: 'Жашы'
+    submit: 'Катталуу'
+    field_is_required: "милдеттүү"
+    email_preference_privacy: "(Купуялуулук саясатыбызды карагыла)"
+    email_preference_yes: "Ооба"
+    email_preference_no: "Жок"
+    share_teacher_email_reg_partner_preference_yes: "Ооба"
+    share_teacher_email_reg_partner_preference_no: "Жок"
+  school_info:
+    other: 'Башка'
+  signin_form:
+    login: 'Эмейл'
+    password: 'Сырсөз'
+    submit: 'Кирүү'
+  signinsection:
+    login: 'Кирүү'
+  password:
+    reset_form:
+      submit: 'Кошуу'
+    change_form:
+      new_password: 'Жаңы сырсөз'
+      confirm_password: 'Жаңы сырсөздү тастыкта'
+  parent_mailer:
+    parent_email_added_subject: 'Code.org сайтына кош келиңиз!'
+  teacher_mailer:
+    new_teacher_subject: 'Code.org сайтына кош келиңиз!'
+  section:
+    type:
+      email: 'Эмейл'
+      google_classroom: 'Google Classroom'
+  follower:
+    already_exists: 'Сиз %{section_name} секциясына кошулгансыз.'
+  crud:
+    new_model: 'Жаңы %{model}'
+    show: 'көрсөт'
+    edit: 'өзгөртүү'
+    submit: 'Кошуу'
+  nav:
+    header:
+      my_dashboard: "Менин тактам"
+      sections: "Класс секциялары"
+      educate_hoc: "Код сааты"
+      about_news: "Жаңылыктар"
+    user:
+      signin: 'Кирүү'
+      create: 'Түзүү'
+      algebra_game: 'Алгебра'
+      applab: 'App Lab'
+      artist: 'Сүрөтчү'
+      artist_k1: 'Сүрөтчү (мектепке чейин)'
+      basketball: 'Баскетбол'
+      bounce: 'Bounce'
+      gamelab: 'Оюн лабы'
+      gamelab_jr: 'Game Lab (бета)'
+      iceage: 'Муз доору'
+      infinity: 'Чексиздик'
+      minecraft_adventurer: 'Minecraft тентек'
+      minecraft_hero: 'Minecraft каарманы'
+      playlab_k1: 'Play Lab (мектепке чейин)'
+      scratch: 'Scratch'
+      weblab: 'Web Lab'
+    popup:
+      prizes_link: 'кененирээк'
+  teacher:
+    dashboard: 'Мугалимдин тактасы'
+    panel:
+      section: 'Секция'
+  user:
+    none: "Жок"
+  home:
+    trynow: 'Дагы кара'
+  certificate_hour_of_code: "Код сааты"
+  video:
+    tab: 'Видео.'
+    notes: 'Видео жокпу? Эскертмелери көрсөт.'
+    show_notes: 'Эскертмелери көрсөт'
+    label: 'Видео'
+  compatibility:
+    upgrade:
+      link: "Дагы кара"
+  builder:
+    level:
+      create: "Жаңы деңгээл түзүү"
+  upsell:
+    applab:
+      title: 'App Lab'
+    flappy:
+      title: 'Flappy Code'
+    gamelab:
+      title: "Оюн лабы"
+    hero:
+      body: "Minecraft Код саатына жаңы тапшырма менен кайтып келди! Код жазып Minecraft өткүлө."
+    hoc:
+      title: 'Классикалык лабиринт'
+    infinity:
+      body: "Play Lab колдонуп, Disney Infinity каармандары катышкан окуя же оюн түзгүлө."
+    unplugged_conditionals:
+      title: "Шартуулар"
+  landing:
+    support: "Жардам ал"
+  multi-submittable:
+    wrong_title: "Рахмат"
+    correct_title: "Рахмат"
+  level_group:
+    wrong_title: "Рахмат"
+    correct_title: "Рахмат"
+  level_group-submittable:
+    wrong_title: "Рахмат"
+    correct_title: "Рахмат"
+  dialog:
+    ok: "OK"
+    startover_title: "Кайрадан баштагыңыз келгени аныкпы?"
+    startover_ok: "Кайра баштоо"
+    startover_cancel: "Жок кыл"
+  time:
+    day: 'күн'
+  terms_interstitial:
+    print: "Бастыр"
+  race_interstitial:
+    races:
+      other: "Башка"
+    submit: "Кошуу"
+    decline: "Жабуу"
+  progress:
+    not_started: баштала элек
+  studio:
+    all_courses: "Бардык курстар"
+  project:
+    create_a_project: 'Жаңы долбоор түзүү:'
+    new: "Жаңысын түзүү"
+    name: "Аты"
+    saved: "Сакталды"
+    view_all: 'Долбоорлорумду көрүү'
+    abuse:
+      report_abuse_form:
+        abuse_type:
+          other: 'Башка'
+  hoc_download:
+    minecraft_name: 'Minecraft код сааты'
+    windows: 'Windows'
+  view_all_units: 'Бардык бирдиктерди көрүү'
+  pd:
+    form_labels:
+      email: 'Эмейл'
+      school_city: 'Мектеп жайгашкан шаар'
+      colombian_school_city: 'Мектеп жайгашкан шаар'
+    form_entries:
+      subjects:
+        cs: 'Информатика'
+        math: 'Математика'
+        science: 'Илим'
+        la: 'Тил өнөрлөрү'
+        other: "Башка"
+      resources:
+        khan: 'Khan Academy'
+        scratch: 'Scratch'
+        other: "Башка"
+      robotics:
+        grok: 'Grok үйрөнүү'
+        other: "Башка"
+      workshop_course:
+        other: 'Башка'
+      email_opt_in:
+        opt_in_yes: 'Ооба'
+        opt_in_no: 'Жок'
+  page_not_found_title: "Барак табылган жок"
+  copy: 'Көчүрүү'

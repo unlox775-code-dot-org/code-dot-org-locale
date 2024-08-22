@@ -1,0 +1,524 @@
+---
+si:
+  data:
+    blocks:
+      BadGuys_setSizeAll_dropdown:
+        options:
+          SIZE:
+            '1.00': මධ්‍යස්ත
+      BadGuys_setSize_dropdown:
+        options:
+          SIZE:
+            '1.00': මධ්‍යස්ත
+      Dancelab_alternateMoves:
+        options:
+          GROUP:
+            '"ALIEN"': පිටසක්වල ජීවින්
+      Dancelab_atTimestamp:
+        options:
+          UNIT:
+            '"seconds"': තත්පර
+      Dancelab_atTimestampNotAfter:
+        options:
+          UNIT:
+            '"seconds"': තත්පර
+      Dancelab_changeMoveEachLR:
+        options:
+          GROUP:
+            '"ALIEN"': පිටසක්වල ජීවින්
+      Dancelab_changePropBy:
+        options:
+          PROPERTY:
+            '"height"': උස
+            '"scale"': විශාලත්වය
+      Dancelab_changePropEachBy:
+        options:
+          GROUP:
+            '"ALIEN"': පිටසක්වල ජීවින්
+          PROPERTY:
+            '"height"': උස
+            '"scale"': විශාලත්වය
+      Dancelab_doMoveEachLR:
+        options:
+          GROUP:
+            '"ALIEN"': පිටසක්වල ජීවින්
+      Dancelab_everySeconds:
+        options:
+          UNIT:
+            '"seconds"': තත්පර
+      Dancelab_getProp:
+        options:
+          PROPERTY:
+            '"height"': උස
+            '"scale"': විශාලත්වය
+      Dancelab_getTime:
+        options:
+          UNIT:
+            '"seconds"': තත්පර
+      Dancelab_ifTime:
+        options:
+          UNIT:
+            '"seconds"': තත්පර
+      Dancelab_jumpTo:
+        options:
+          LOCATION:
+            "{x: 100, y: 200}": වම
+            "{x: 300, y: 200}": දකුණ
+            "{x: randomNumber(50, 350), y: randomNumber(50, 350)}": අහඹු
+      Dancelab_jumpToEach:
+        options:
+          GROUP:
+            '"ALIEN"': පිටසක්වල ජීවින්
+          LOCATION:
+            "{x: 100, y: 200}": වම
+            "{x: 300, y: 200}": දකුණ
+            "{x: randomNumber(60, 340), y: randomNumber(60, 340)}": අහඹු
+      Dancelab_layoutSprites:
+        options:
+          FORMAT:
+            '"random"': අහඹු
+          GROUP:
+            '"ALIEN"': පිටසක්වල ජීවින්
+      Dancelab_makeAnonymousDanceSprite:
+        options:
+          COSTUME:
+            '"ALIEN"': පිටසක්වල ජීවියා
+            '"BEAR"': බියර්
+            '"CAT"': බළලා
+            '"DOG"': බල්ලා
+            '"DUCK"': තාරාවා
+            '"ROBOT"': රොබෝ
+            '"UNICORN"': කඟවේනා
+          LOCATION:
+            "{x: 100, y: 200}": වම
+            "{x: 300, y: 200}": දකුණ
+            "{x: randomNumber(50, 350), y: randomNumber(50, 350)}": අහඹු
+      Dancelab_makeNewDanceSprite:
+        options:
+          COSTUME:
+            '"ALIEN"': පිටසක්වල ජීවියා
+            '"BEAR"': බියර්
+            '"CAT"': බළලා
+            '"DOG"': බල්ලා
+            '"DUCK"': තාරාවා
+            '"ROBOT"': රොබෝ
+            '"UNICORN"': කඟවේනා
+          LOCATION:
+            "{x: 100, y: 200}": වම
+            "{x: 300, y: 200}": දකුණ
+            "{x: randomNumber(50, 350), y: randomNumber(50, 350)}": අහඹු
+      Dancelab_makeNewDanceSpriteGroup:
+        options:
+          COSTUME:
+            '"ALIEN"': පිටසක්වල ජීවින්
+          LAYOUT:
+            '"random"': අහඹු
+      Dancelab_randomColor:
+        text: අහඹු වර්ණයක්
+      Dancelab_setDanceSpeedEach:
+        options:
+          GROUP:
+            '"ALIEN"': පිටසක්වල ජීවින්
+      Dancelab_setProp:
+        options:
+          PROPERTY:
+            '"height"': උස
+            '"scale"': විශාලත්වය
+      Dancelab_setPropEach:
+        options:
+          GROUP:
+            '"ALIEN"': පිටසක්වල ජීවින්
+          PROPERTY:
+            '"height"': උස
+            '"scale"': විශාලත්වය
+      Dancelab_setPropRandom:
+        options:
+          PROPERTY:
+            '"height"': උස
+            '"scale"': විශාලත්වය
+      Dancelab_setPropRandomEach:
+        options:
+          GROUP:
+            '"ALIEN"': පිටසක්වල ජීවින්
+          PROPERTY:
+            '"height"': උස
+            '"scale"': විශාලත්වය
+      Dancelab_setTintEach:
+        options:
+          THIS:
+            '"ALIEN"': පිටසක්වල ජීවින්
+      Dancelab_setTintEachInline:
+        options:
+          THIS:
+            '"ALIEN"': පිටසක්වල ජීවින්
+      Dancelab_setVisible:
+        options:
+          VISIBILITY:
+            'true': දෘශ්‍යමාන
+      Dancelab_setVisibleEach:
+        options:
+          THIS:
+            '"ALIEN"': පිටසක්වල ජීවින්
+          VISIBILITY:
+            'true': දෘශ්‍යමාන
+      Dancelab_startMapping:
+        options:
+          PROPERTY:
+            '"height"': උස
+            '"scale"': විශාලත්වය
+      Dancelab_startMappingEach:
+        options:
+          GROUP:
+            '"ALIEN"': පිටසක්වල ජීවින්
+          PROPERTY:
+            '"height"': උස
+            '"scale"': විශාලත්වය
+      Dancelab_stopMapping:
+        options:
+          PROPERTY:
+            '"height"': උස
+            '"scale"': විශාලත්වය
+      Dancelab_stopMappingEach:
+        options:
+          GROUP:
+            '"ALIEN"': පිටසක්වල ජීවින්
+          PROPERTY:
+            '"height"': උස
+            '"scale"': විශාලත්වය
+      Dancelab_translateStrings:
+        options:
+          STRING:
+            '"x"': x
+      Dancelab_whenKey:
+        options:
+          KEY:
+            '"down"': යට
+            '"left"': වම
+            '"right"': දකුණ
+            '"space"': අභ්‍යාවකාශය
+            '"up"': උඩ
+            '"x"': x
+      DansBlocks_setForegroundEffect2:
+        options:
+          EFFECT:
+            '"hearts"': හදවත්
+      DansBlocks_testShowVariable:
+        options:
+          COLOR:
+            '"blue"': නිල්
+            '"red"': රතු
+      GameDev_gravity:
+        options:
+          VELOCITY:
+            "-0.5": මධ්‍යස්ත
+      GameDev_playSoundOptions:
+        options:
+          SOUND:
+            "'sound://category_collect/clicky_crunch.mp3'": crunch
+            "'sound://category_digital/jump_7.mp3'": පනින්න
+      GameDev_playerJump:
+        options:
+          STRENGTH:
+            '13': මධ්‍යස්ත
+      KatiesBlocks_changeVelocity:
+        options:
+          PROPERTY:
+            '"velocityX"': කෙටි කාලයක්
+            '"velocityY"': දිගු කාලයක්
+      Mikelab_changePropBy:
+        options:
+          PROPERTY:
+            '"scale"': විශාලත්වය
+      Mikelab_createNewSprite:
+        options:
+          LOCATION:
+            "{x: 100, y: 200}": වම
+            "{x: 300, y: 200}": දකුණ
+      Mikelab_getProp:
+        options:
+          PROPERTY:
+            '"scale"': විශාලත්වය
+      Mikelab_groupChangePropBy:
+        options:
+          PROPERTY:
+            '"scale"': විශාලත්වය
+      Mikelab_groupCreateNewSprite:
+        options:
+          LOCATION:
+            "{x: 100, y: 200}": වම
+            "{x: 300, y: 200}": දකුණ
+      Mikelab_groupGetProp:
+        options:
+          PROPERTY:
+            '"scale"': විශාලත්වය
+      Mikelab_groupSetProp:
+        options:
+          PROPERTY:
+            '"scale"': විශාලත්වය
+      Mikelab_randomColor:
+        text: අහඹු වර්ණයක්
+      Mikelab_repeatUntilComplete:
+        text: සදහටම නැවත කරන්න
+      Mikelab_setBG:
+        options:
+          BG:
+            '"https://studio.code.org/api/v1/animation-library/04L4sdTODkNZF1OHf4qO_I.Al3QP43wA/category_backgrounds/city.png"': නගරය
+      Mikelab_setProp:
+        options:
+          PROPERTY:
+            '"scale"': විශාලත්වය
+      Mikelab_showScoreboard:
+        options:
+          CORNER:
+            '"left"': වම
+            '"right"': දකුණ
+      Mikelab_sprite:
+        options:
+          LOCATION:
+            "{x: 100, y: 200}": වම
+            "{x: 300, y: 200}": දකුණ
+      Mikelab_whenKeyPressed:
+        options:
+          KEY:
+            '"down"': පහල ඊතලය
+            '"left"': වම් ඊතලය
+            '"right"': දකුණු ඊතලය
+            '"s"': ද
+            '"up"': උඩ ඊතලය
+            '"w"': බ
+      Mikelab_whenKeyReleased:
+        options:
+          KEY:
+            '"down"': පහල ඊතලය
+            '"left"': වම් ඊතලය
+            '"right"': දකුණු ඊතලය
+            '"s"': ද
+            '"up"': උඩ ඊතලය
+            '"w"': බ
+      Mikelab_whenYesNoClicked:
+        options:
+          KEY:
+            '"no"': නැහැ
+            '"yes"': ඔව්
+      Mikelab_whileKeyPressed:
+        options:
+          KEY:
+            '"down"': පහල ඊතලය
+            '"left"': වම් ඊතලය
+            '"right"': දකුණු ඊතලය
+            '"up"': උඩ ඊතලය
+      Poetry_addFrame:
+        options:
+          BRUSH:
+            '"hearts"': හදවත්
+            '"rainbow"': දේදුන්න
+      Poetry_playMusic:
+        options:
+          SOUND:
+            '"sound://category_nature/summer_night_loop.mp3"': රැය
+      Poetry_playSound:
+        options:
+          SOUND:
+            '"sound://category_bell/long_bell_notification.mp3"': සීනුව
+            '"sound://category_jump/vibrant_game_jumping_up_1.mp3"': පනින්න
+      Poetry_setBackgroundEffect:
+        options:
+          EFFECT:
+            '"clouds"': වළාකුළු සහිත
+            '"hearts"': හදවත්
+          PALETTE:
+            '"rainbow"': දේදුන්න
+            '"winter"': ශීත ඍතුව
+      Poetry_setForegroundEffect:
+        options:
+          EFFECT:
+            '"hearts"': හදවත්
+      RyanLab_moveForward:
+        text: ඉදිරියට යන්න
+      RyanLab_turnLeft:
+        text: වමට හැරෙන්න
+      RyanLab_turnRight:
+        text: දකුණට හැරෙන්න
+      Vector_where:
+        options:
+          PROPERTY:
+            "'shapeColor'": පාට
+      aalab_layoutSprites:
+        options:
+          FORMAT:
+            '"random"': අහඹු
+      binary_move:
+        options:
+          DIR:
+            '"down"': යට
+            '"left"': වම
+            '"right"': දකුණ
+            '"up"': උඩ
+      binary_whenKey:
+        options:
+          KEY:
+            '"down"': යට
+            '"left"': වම
+            '"right"': දකුණ
+            '"space"': අභ්‍යාවකාශය
+            '"up"': උඩ
+      craft_ifPath:
+        options:
+          DIR:
+            "'ahead'": ඉදිරියෙහි
+      craft_ifStandingOn:
+        options:
+          TYPE:
+            "'planksOak'": ඕක් ලෑලි
+            "'sand'": වැලි
+      craft_ifStandingOnLimit:
+        options:
+          TYPE:
+            "'sand'": වැලි
+      craft_moveForward:
+        text: ඉදිරියට යන්න
+      craft_placeTorch:
+        text: විදුලි පන්දමක් පිහිටුවන්න
+      gamelab_atTime:
+        options:
+          UNIT:
+            '"seconds"': තත්පර
+      gamelab_changePropBy:
+        options:
+          PROPERTY:
+            '"scale"': විශාලත්වය
+            '"speed"': වේගය
+      gamelab_checkTouching:
+        options:
+          CONDITION:
+            '"when"': විට
+            '"while"': while
+      gamelab_everyInterval:
+        options:
+          UNIT:
+            '"seconds"': තත්පර
+      gamelab_getProp:
+        options:
+          PROPERTY:
+            '"scale"': විශාලත්වය
+            '"speed"': වේගය
+      gamelab_getTime:
+        options:
+          UNIT:
+            '"seconds"': තත්පර
+      gamelab_isKeyPressed:
+        options:
+          KEY:
+            '"down"': යට
+            '"left"': වම
+            '"right"': දකුණ
+            '"space"': අභ්‍යාවකාශය
+            '"up"': උඩ
+            '"x"': x
+      gamelab_keyPressed:
+        options:
+          CONDITION:
+            '"when"': විට
+            '"while"': while
+          KEY:
+            '"down"': යට
+            '"left"': වම
+            '"right"': දකුණ
+            '"space"': අභ්‍යාවකාශය
+            '"up"': උඩ
+            '"x"': x
+      gamelab_makeProjectile:
+        options:
+          DIRECTION:
+            '0': දකුණ
+            '180': වම
+            '270': උඩ
+            '90': යට
+      gamelab_makeSpritesWithSize:
+        options:
+          SIZE:
+            '50': මධ්‍යස්ත
+      gamelab_mirrorSprite:
+        options:
+          DIRECTION:
+            '"left"': වම
+            '"right"': දකුණ
+      gamelab_playSoundOptions:
+        options:
+          SOUND:
+            "'sound://category_animals/bear.mp3'": බියර්
+            "'sound://category_animals/cat.mp3'": බළලා
+            "'sound://category_animals/dog.mp3'": බල්ලා
+            "'sound://category_collect/clicky_crunch.mp3'": crunch
+            "'sound://category_digital/jump_7.mp3'": පනින්න
+      gamelab_randColor:
+        text: අහඹු වර්ණයක්
+      gamelab_randomColor:
+        text: අහඹු වර්ණයක්
+      gamelab_repeatForever:
+        text: සදහටම නැවත කරන්න
+      gamelab_setBackgroundImage:
+        options:
+          IMG:
+            '"https://studio.code.org/api/v1/animation-library/04L4sdTODkNZF1OHf4qO_I.Al3QP43wA/category_backgrounds/city.png"': නගරය
+            '"https://studio.code.org/blockly/media/skins/studio/background_cave.png"': ගුහාව
+            '"https://studio.code.org/blockly/media/skins/studio/background_desert.png"': කාන්තාරය
+            '"https://studio.code.org/blockly/media/skins/studio/background_rainbow.png"': දේදුන්න
+            '"https://studio.code.org/blockly/media/skins/studio/background_underwater.png"': දිය
+              යට
+            '"https://studio.code.org/blockly/media/skins/studio/background_winter.png"': ශීත
+              ඍතුව
+      gamelab_setDefaultSpriteSize:
+        options:
+          SIZE:
+            '75': මධ්‍යස්ත
+      gamelab_setForegroundEffect:
+        options:
+          EFFECT:
+            '"hearts"': හදවත්
+      gamelab_setProp:
+        options:
+          PROPERTY:
+            '"scale"': විශාලත්වය
+            '"speed"': වේගය
+      gamelab_setProp_dropdown:
+        options:
+          PROPERTY:
+            '"scale"': විශාලත්වය
+          SIZE:
+            '75': මධ්‍යස්ත
+      gamelab_setSizes:
+        options:
+          PROPERTY:
+            '"height"': උස
+            '"scale"': විශාලත්වය
+      gamelab_spriteClicked:
+        options:
+          CONDITION:
+            '"when"': විට
+            '"while"': while
+      gamelab_turn:
+        options:
+          DIRECTION:
+            '"left"': වම
+            '"right"': දකුණ
+      gamelab_whenKey:
+        options:
+          KEY:
+            '"down"': යට
+            '"left"': වම
+            '"right"': දකුණ
+            '"space"': අභ්‍යාවකාශය
+            '"up"': උඩ
+      gamelab_whileKey:
+        options:
+          KEY:
+            '"down"': යට
+            '"left"': වම
+            '"right"': දකුණ
+            '"space"': අභ්‍යාවකාශය
+            '"up"': උඩ
+      storylab_setForegroundEffect2:
+        options:
+          EFFECT:
+            '"hearts"': හදවත්

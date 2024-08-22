@@ -1,0 +1,24 @@
+{
+  "banners": {
+    "superhero": {
+      "title": "Ajude seus alunos a se tornarem super-heróis!",
+      "body": "Inscrição em nosso Programa de Aprendizado Profissional altamente de apoio para educadores do ensino médio e ensino médio.",
+      "buttonText": "Saiba Mais"
+    },
+    "hoc-2023": {
+      "title": "Hour of Code: Criatividade com I.A.",
+      "body": "Junte-se a milhões de pessoas pelo mundo na organização de uma hora de codificação, com ou sem I.A. e aprenda como funciona a I.A. Qualquer pessoa, em qualquer lugar pode participar. Não é preciso ter experiência.",
+      "buttonText": "Saiba mais"
+    },
+    "curriculum-launch-2024": {
+      "title": "Descubra currículo novo e atualizado!",
+      "body": "Explore nossas últimas unidades e recursos de aprendizado profissional para inspirar futuros inovadores em tecnologia.",
+      "buttonText": "Veja o que há de novo"
+    },
+    "progress-launch": {
+      "title": "O rastreamento de progresso acabou de evoluir!",
+      "body": "Monitore o trabalho dos alunos sem esforço, forneça feedback oportuno e simplifique a correção com nossa interface rápida, testada por professores. Economize tempo e obtenha insights valiosos sobre o desempenho de seus alunos, tudo em uma ferramenta intuitiva.",
+      "buttonText": "Saiba mais agora"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "uk-UA": {
+    "data": {
+      "validations": {
+        "musiclab_intro_change_sound": {
+          "musiclab_intro_change_sound_38551dcf-dfaf-4e47-8774-bd9f02621036": "Чудова робота. Звук успішно змінено.",
+          "musiclab_intro_change_sound_7a7f2fdb-0458-4b63-9a0a-7a19180b67f2": "Чудова робота. Звук успішно змінено.",
+          "musiclab_intro_change_sound_7eda7f13-3a56-42b1-a717-825eb8b01acf": "Будь ласка, [зміни] [0] звук.",
+          "musiclab_intro_change_sound_e63fb4ba-f0d0-495e-bea2-82f0d20f0477": "Чудова робота. Звук успішно змінено.",
+          "musiclab_intro_change_sound_f2594aee-b7e0-461e-95c5-8edab4d0c41a": "Чудова робота. Звук успішно змінено."
+        }
+      }
+    }
+  }
+}

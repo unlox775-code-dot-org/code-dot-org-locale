@@ -1,0 +1,16 @@
+{
+  "bs-BA": {
+    "data": {
+      "marketing_announcements": {
+        "banners": {
+          "hoc-2023": {
+            "buttonText": "Nauči više"
+          },
+          "superhero": {
+            "buttonText": "Nauči još "
+          }
+        }
+      }
+    }
+  }
+}

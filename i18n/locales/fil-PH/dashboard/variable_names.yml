@@ -1,0 +1,39 @@
+fil:
+  data:
+    variable_names:
+      Blue: Asul
+      Green: Luntian
+      Red: Pula
+      actor: aktor
+      age: edad
+      answer: sagot
+      binary: binary
+      birds: mga ibon
+      cats: mga Pusa
+      color: kulay
+      counter: taga pag bilang
+      dogs: mga Aso
+      height: taas
+      honey: honey
+      i: i
+      left: kaliwa
+      length: haba
+      name: pangalan
+      nectar: nectar
+      object: bagay
+      planet: planeta
+      points: mga puntos
+      random: nang hindi pinipili
+      repeat: ulitin
+      right: kanan
+      score: Score
+      shout: "\nsigaw"
+      size: sukat
+      speed: bilis
+      startX: startx
+      startY: startY
+      type: tipo
+      variable: variable
+      width: lapad
+      wizard: salamangkero
+      x: x

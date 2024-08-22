@@ -1,0 +1,23 @@
+{
+  "is-IS": {
+    "data": {
+      "standard_categories": {
+        "2.2": {
+          "description": "Rökyrðingar"
+        },
+        "C": {
+          "description": "Hringir"
+        },
+        "CT": {
+          "description": "Tölvunarmiðuð hugsun"
+        },
+        "F": {
+          "description": "Föll"
+        },
+        "L": {
+          "description": "Forritunarmál"
+        }
+      }
+    }
+  }
+}

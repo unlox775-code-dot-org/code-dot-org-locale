@@ -1,0 +1,20 @@
+{
+  "filterLength": "Dužina",
+  "filterLength1Hour": "Jedan sat",
+  "filterProgrammingLanguage": "Jezik",
+  "filterProgrammingLanguageBlocks": "Blokovi",
+  "filterProgrammingLanguageOther": "Ostalo",
+  "filterSortByDisplayWeight": "Preporučeno",
+  "filterStudentExperience": "Iskustvo učenika",
+  "filterStudentExperienceBeginner": "Početnik",
+  "filterStudentExperienceComfortable": "Udoban",
+  "filterStudentExperienceExperienced": "Iskusan",
+  "filterTopics": "Teme",
+  "filterTopicsHistory": "Društvene nauke",
+  "filterTopicsMath": "Matematika",
+  "filterTopicsScience": "Nauka",
+  "startButton": "Počni",
+  "tutorialDetailDisabled": "Ovaj tutorijal je privremeno nedostupan.",
+  "tutorialDetailInternationalLanguages": "Jezici",
+  "tutorialDetailStandards": "Standardi"
+}

@@ -1,0 +1,38 @@
+{
+  "zu-ZA": {
+    "data": {
+      "programming_environments": {
+        "applab": {
+          "categories": {
+            "math": {
+              "name": "Izibalo"
+            }
+          }
+        },
+        "gamelab": {
+          "categories": {
+            "math": {
+              "name": "Izibalo"
+            }
+          }
+        },
+        "spritelab": {
+          "categories": {
+            "actions": {
+              "name": "Izenzo"
+            },
+            "logic": {
+              "name": "Ngokulandelana"
+            },
+            "math": {
+              "name": "Izibalo"
+            },
+            "text": {
+              "name": "Umbhalo"
+            }
+          }
+        }
+      }
+    }
+  }
+}

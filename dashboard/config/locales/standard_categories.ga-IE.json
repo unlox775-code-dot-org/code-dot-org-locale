@@ -1,0 +1,23 @@
+{
+  "ga-IE": {
+    "data": {
+      "standard_categories": {
+        "2.2": {
+          "description": "Sloinn Boole"
+        },
+        "C": {
+          "description": "Ciorcail"
+        },
+        "CT": {
+          "description": "Smaointeoireacht Ríomhaireachtúil"
+        },
+        "F": {
+          "description": "Feidhmeanna"
+        },
+        "L": {
+          "description": "Teanga"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "sr-SP": {
+    "data": {
+      "programming_environments": {
+        "applab": {
+          "categories": {
+            "advanced": {
+              "name": "Напредна подешавања"
+            },
+            "control": {
+              "expressions": {
+                "timedLoop": {
+                  "palette_params": {
+                    "callback": {
+                      "type": "Функција"
+                    }
+                  }
+                }
+              }
+            },
+            "data": {
+              "expressions": {
+                "getPrediction": {
+                  "palette_params": {
+                    "callback": {
+                      "type": "Функција"
+                    }
+                  }
+                }
+              }
+            },
+            "functions": {
+              "name": "Функције"
+            },
+            "math": {
+              "expressions": {
+                "randomNumber": {
+                  "palette_params": {
+                    "max": {
+                      "description": "Највећи враћени број"
+                    },
+                    "min": {
+                      "description": "Најмањи враћени број"
+                    }
+                  }
+                },
+                "randomNumber_min_max": {
+                  "palette_params": {
+                    "max": {
+                      "description": "Највећи враћени број"
+                    },
+                    "min": {
+                      "description": "Најмањи враћени број"
+                    }
+                  }
+                }
+              },
+              "name": "Математика"
+            },
+            "ui_controls": {
+              "expressions": {
+                "onEvent": {
+                  "palette_params": {
+                    "callback": {
+                      "type": "Функција"
+                    }
+                  }
+                }
+              }
+            },
+            "variables": {
+              "name": "Променљиве"
+            }
+          }
+        },
+        "gamelab": {
+          "categories": {
+            "drawing": {
+              "expressions": {
+                "shape": {
+                  "examples": {
+                    "Star": {
+                      "name": "Звезда"
+                    }
+                  }
+                }
+              }
+            },
+            "functions": {
+              "name": "Функције"
+            },
+            "groups": {
+              "expressions": {
+                "setColorEach": {
+                  "palette_params": {
+                    "color": {
+                      "type": "Боја"
+                    }
+                  }
+                },
+                "setTintEach": {
+                  "palette_params": {
+                    "color": {
+                      "type": "Боја"
+                    }
+                  }
+                }
+              },
+              "name": "Групе"
+            },
+            "math": {
+              "expressions": {
+                "randomNumber": {
+                  "palette_params": {
+                    "max": {
+                      "description": "Највећи враћени број"
+                    },
+                    "min": {
+                      "description": "Најмањи враћени број"
+                    }
+                  }
+                },
+                "randomNumber_min_max": {
+                  "palette_params": {
+                    "max": {
+                      "description": "Највећи враћени број"
+                    },
+                    "min": {
+                      "description": "Најмањи враћени број"
+                    }
+                  }
+                }
+              },
+              "name": "Математика"
+            },
+            "variables": {
+              "name": "Променљиве"
+            }
+          }
+        },
+        "spritelab": {
+          "categories": {
+            "actions": {
+              "name": "Акције"
+            },
+            "behaviors": {
+              "name": "Понашање"
+            },
+            "comments": {
+              "name": "Коментари"
+            },
+            "events": {
+              "name": "Догађаји"
+            },
+            "functions": {
+              "name": "Функције"
+            },
+            "location": {
+              "name": "Локације"
+            },
+            "logic": {
+              "name": "Логика"
+            },
+            "loops": {
+              "name": "Петље"
+            },
+            "math": {
+              "name": "Математика"
+            },
+            "text": {
+              "name": "текст"
+            },
+            "variables": {
+              "name": "Променљиве"
+            },
+            "world": {
+              "name": "Свет"
+            }
+          }
+        }
+      }
+    }
+  }
+}

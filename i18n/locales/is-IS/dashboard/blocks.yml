@@ -1,0 +1,2193 @@
+---
+is:
+  data:
+    blocks:
+      AmysBlocks_setPromptWithChoices:
+        text: biðja notanda {QUESTION} um breytu {VAR} með valkosti {A}{B}{C}
+      BadGuys_makeNewBadGuysSprite:
+        text: aalab búa til nýja {ANIMATION_NAME} veru á stað {LOCATION}
+      BadGuys_setSizeAll_dropdown:
+        options:
+          SIZE:
+            '1.00': miðlungs
+      BadGuys_setSize_dropdown:
+        options:
+          SIZE:
+            '1.00': miðlungs
+      Dancelab_alternateMoves:
+        text: "{GROUP} skipta hverja {N} takta \nmilli {MOVE1} og {MOVE2}"
+        options:
+          GROUP:
+            sprites: allt
+            '"ALIEN"': allar geimverur
+            '"BEAR"': birnir
+            '"CAT"': allir kettir
+            '"DOG"': allir hundar
+            '"DUCK"': endur
+            '"FROG"': froskar
+            '"MOOSE"': allir elgir
+            '"PINEAPPLE"': ananasar
+            '"ROBOT"': öll vélmenni
+            '"SHARK"': hákarlar
+            '"SLOTH"': letidýr
+            '"UNICORN"': einhyrningar
+          MOVE1:
+            MOVES.Roll: Hlykkja
+            MOVES.ClapHigh: Háklappa
+            MOVES.Dab: Dabba
+            MOVES.DoubleJam: Dobla niður
+            MOVES.Drop: Droppa
+            MOVES.Floss: Flossa
+            MOVES.Fresh: Freska
+            MOVES.Clown: Gangnam
+            MOVES.Kick: Stjarna
+            MOVES.ThisOrThat: Þetta eða hitt
+            MOVES.Thriller: Uppvakningur
+            MOVES.Rest: Ekkert
+          MOVE2:
+            MOVES.Roll: Hlykkja
+            MOVES.ClapHigh: Háklappa
+            MOVES.Dab: Dabba
+            MOVES.DoubleJam: Dobla niður
+            MOVES.Drop: Droppa
+            MOVES.Floss: Flossa
+            MOVES.Fresh: Freska
+            MOVES.Clown: Gangnam
+            MOVES.Kick: Stjarna
+            MOVES.ThisOrThat: Þetta eða hitt
+            MOVES.Rest: Ekkert
+      Dancelab_atTimestamp:
+        text: eftir {TIMESTAMP} {UNIT}
+        options:
+          UNIT:
+            '"measures"': takta
+            '"seconds"': sekúndur
+      Dancelab_atTimestampNotAfter:
+        options:
+          UNIT:
+            '"measures"': takta
+            '"seconds"': sekúndur
+      Dancelab_changeColorBy:
+        text: breyta {COLOR} {METHOD} um {AMOUNT}
+        options:
+          METHOD:
+            '"hue"': litblær
+            '"saturation"': litamettun
+            '"brightness"': birtustig
+      Dancelab_changeMoveEachLR:
+        text: "{GROUP} gera {MOVE} {DIR} alltaf"
+        options:
+          GROUP:
+            sprites: allt
+            '"ALIEN"': allar geimverur
+            '"BEAR"': birnir
+            '"CAT"': allir kettir
+            '"DOG"': allir hundar
+            '"DUCK"': endur
+            '"FROG"': froskar
+            '"MOOSE"': allir elgir
+            '"PINEAPPLE"': ananasar
+            '"ROBOT"': öll vélmenni
+            '"SHARK"': hákarlar
+            '"SLOTH"': letidýr
+            '"UNICORN"': einhyrningar
+          MOVE:
+            '"next"': "(Næsti)"
+            '"prev"': "(Fyrri)"
+            '"rand"': "(Handahóf)"
+            MOVES.Roll: Hlykkja
+            MOVES.ClapHigh: Háklappa
+            MOVES.Dab: Dabba
+            MOVES.DoubleJam: Dobla niður
+            MOVES.Drop: Droppa
+            MOVES.Floss: Flossa
+            MOVES.Fresh: Freska
+            MOVES.Clown: Gangnam
+            MOVES.Kick: Stjarna
+            MOVES.ThisOrThat: Þetta eða hitt
+            MOVES.Rest: Ekkert
+      Dancelab_changeMoveEachLR_slothcat:
+        text: "{GROUP} gera {MOVE} {DIR} alltaf"
+        options:
+          GROUP:
+            '"CAT"': allir kettir
+            '"SLOTH"': letidýr
+          MOVE:
+            MOVES.Roll: Hlykkja
+            MOVES.ClapHigh: Háklappa
+            MOVES.Dab: Dabba
+            MOVES.DoubleJam: Dobla niður
+            MOVES.Drop: Droppa
+            MOVES.Floss: Flossa
+            MOVES.Fresh: Freska
+            MOVES.Clown: Gangnam
+            MOVES.Kick: Stjarna
+            MOVES.ThisOrThat: Þetta eða hitt
+            MOVES.Rest: Ekkert
+            '"next"': "(Næsti)"
+            '"prev"': "(Fyrri)"
+            '"rand"': "(Handahóf)"
+      Dancelab_changeMoveLR:
+        text: "{SPRITE} gerir {MOVE} {DIR} alltaf"
+        options:
+          MOVE:
+            '"next"': "(Næsti)"
+            '"prev"': "(Fyrri)"
+            '"rand"': "(Handahóf)"
+            MOVES.Roll: Hlykkja
+            MOVES.ClapHigh: Háklappa
+            MOVES.Dab: Dabba
+            MOVES.DoubleJam: Dobla niður
+            MOVES.Drop: Droppa
+            MOVES.Floss: Flossa
+            MOVES.Fresh: Freska
+            MOVES.Clown: Gangnam
+            MOVES.Kick: Stjarna
+            MOVES.ThisOrThat: Þetta eða hitt
+            MOVES.Rest: Ekkert
+      Dancelab_changePropBy:
+        text: breyta {SPRITE} {PROPERTY} um {VAL}
+        options:
+          PROPERTY:
+            '"scale"': stærð
+            '"width"': breidd
+            '"height"': hæð
+            '"rotation"': snúningur
+            '"x"': lárétt staða
+            '"y"': lóðrétt staða
+      Dancelab_changePropEachBy:
+        text: breyta {GROUP} {PROPERTY} um {VAL}
+        options:
+          GROUP:
+            sprites: allt
+            '"ALIEN"': allar geimverur
+            '"BEAR"': birnir
+            '"CAT"': allir kettir
+            '"DOG"': allir hundar
+            '"DUCK"': endur
+            '"FROG"': froskar
+            '"MOOSE"': allir elgir
+            '"PINEAPPLE"': ananasar
+            '"ROBOT"': öll vélmenni
+            '"SHARK"': hákarlar
+            '"SLOTH"': letidýr
+            '"UNICORN"': einhyrningar
+          PROPERTY:
+            '"scale"': stærð
+            '"width"': breidd
+            '"height"': hæð
+            '"rotation"': snúningur
+            '"x"': lárétt staða
+            '"y"': lóðrétt staða
+      Dancelab_doMoveEachLR:
+        text: "{GROUP} gera {MOVE} {DIR} einu sinni"
+        options:
+          GROUP:
+            sprites: allt
+            '"ALIEN"': allar geimverur
+            '"BEAR"': birnir
+            '"CAT"': allir kettir
+            '"DOG"': allir hundar
+            '"DUCK"': endur
+            '"FROG"': froskar
+            '"MOOSE"': allir elgir
+            '"PINEAPPLE"': ananasar
+            '"ROBOT"': öll vélmenni
+            '"SHARK"': hákarlar
+            '"SLOTH"': letidýr
+            '"UNICORN"': einhyrningar
+          MOVE:
+            '"rand"': "(Handahóf)"
+            MOVES.XBend: Beygja
+            MOVES.Roll: Hlykkja
+            MOVES.XClapSide: Klappa
+            MOVES.ClapHigh: Háklappa
+            MOVES.Dab: Dabba
+            MOVES.XFever: Diskó
+            MOVES.DoubleJam: Dobla niður
+            MOVES.Drop: Droppa
+            MOVES.Floss: Flossa
+            MOVES.Fresh: Freska
+            MOVES.Clown: Gangnam
+            MOVES.XHeadHips: Höfuð + Mjaðmir
+            MOVES.XHop: Hoppa
+            MOVES.XHighKick: Sparka
+            MOVES.XKnee: Hné
+            MOVES.XKneel: Krjúpa
+            MOVES.XOle: Ólei
+            MOVES.XArmsSide: Seilast
+            MOVES.XSlide: Renna
+            MOVES.Kick: Stjarna
+            MOVES.XArmsUp: Teygja
+            MOVES.ThisOrThat: Þetta eða hitt
+            MOVES.Rest: Ekkert
+      Dancelab_doMoveLR:
+        text: "{SPRITE} gerir {MOVE} {DIR} einu sinni"
+        options:
+          MOVE:
+            '"rand"': "(Handahóf)"
+            MOVES.XBend: Beygja
+            MOVES.Roll: Hlykkja
+            MOVES.XClapSide: Klappa
+            MOVES.ClapHigh: Háklappa
+            MOVES.Dab: Dabba
+            MOVES.XFever: Diskó
+            MOVES.DoubleJam: Dobla niður
+            MOVES.Drop: Droppa
+            MOVES.Floss: Flossa
+            MOVES.Fresh: Freska
+            MOVES.Clown: Gangnam
+            MOVES.XHeadHips: Höfuð + Mjaðmir
+            MOVES.XHop: Hoppa
+            MOVES.XHighKick: Sparka
+            MOVES.XKnee: Hné
+            MOVES.XKneel: Krjúpa
+            MOVES.XOle: Ólei
+            MOVES.XArmsSide: Seilast
+            MOVES.XSlide: Renna
+            MOVES.Kick: Stjarna
+            MOVES.XArmsUp: Teygja
+            MOVES.ThisOrThat: Þetta eða hitt
+            MOVES.Rest: Ekkert
+      Dancelab_everySeconds:
+        text: 'á {N} {UNIT} fresti '
+        options:
+          UNIT:
+            '"measures"': takta
+            '"seconds"': sekúndur
+      Dancelab_everyVerseChorus:
+        text: 'á {UNIT} fresti '
+        options:
+          UNIT:
+            '"verse"': vers
+            '"chorus"': viðlag
+      Dancelab_getEnergy:
+        text: sækja {RANGE}
+        options:
+          RANGE:
+            '"low"': bassahljóð
+            '"mid"': miðhljóð
+            '"high"': háhljóð
+      Dancelab_getProp:
+        text: "{SPRITE} {PROPERTY}"
+        options:
+          PROPERTY:
+            '"scale"': stærð
+            '"width"': breidd
+            '"height"': hæð
+            '"rotation"': snúningur
+            '"x"': lárétt staða
+            '"y"': lóðrétt staða
+            '"tint"': litur
+      Dancelab_getTime:
+        text: tími nú í {UNIT}
+        options:
+          UNIT:
+            '"measures"': takta
+            '"seconds"': sekúndur
+      Dancelab_ifDanceIs:
+        text: |-
+          ef {SPRITE} gerir {DANCE}
+          {DO1} {DO2}
+        options:
+          DANCE:
+            MOVES.ClapHigh: Háklappa
+            MOVES.Clown: Gangnam
+            MOVES.Dab: Dabba
+            MOVES.DoubleJam: Dobla niður
+            MOVES.Drop: Droppa
+            MOVES.Floss: Flossa
+            MOVES.Fresh: Freska
+            MOVES.Roll: Hlykkja
+            MOVES.Kick: Stjarna
+            MOVES.ThisOrThat: Þetta eða hitt
+            MOVES.Rest: Ekkert
+      Dancelab_ifTime:
+        text: |-
+          ef {UNIT} er {OP} {N}
+          {DO1} {DO2}
+        options:
+          UNIT:
+            '"measures"': takta
+            '"seconds"': sekúndur
+      Dancelab_jumpTo:
+        text: "{SPRITE} hoppa til {LOCATION}"
+        options:
+          LOCATION:
+            "{x: 200, y: 100}": efst
+            "{x: 200, y: 300}": neðst
+            "{x: 100, y: 200}": vinstri
+            "{x: 300, y: 200}": hægri
+            "{x: 200, y: 200}": í miðju
+            "{x: 100, y: 100}": efst til vinstri
+            "{x: 300, y: 100}": efst til hægri
+            "{x: 100, y: 300}": neðst til vinstri
+            "{x: 300, y: 300}": neðst til hægri
+            "{x: randomNumber(50, 350), y: randomNumber(50, 350)}": eitthvað
+      Dancelab_jumpToEach:
+        text: hoppa {GROUP} til {LOCATION}
+        options:
+          GROUP:
+            sprites: allt
+            '"ALIEN"': allar geimverur
+            '"BEAR"': birnir
+            '"CAT"': allir kettir
+            '"DOG"': allir hundar
+            '"DUCK"': endur
+            '"FROG"': froskar
+            '"MOOSE"': allir elgir
+            '"PINEAPPLE"': ananasar
+            '"ROBOT"': öll vélmenni
+            '"SHARK"': hákarlar
+            '"SLOTH"': letidýr
+            '"UNICORN"': einhyrningar
+          LOCATION:
+            "{x: 200, y: 100}": efst
+            "{x: 200, y: 300}": neðst
+            "{x: 100, y: 200}": vinstri
+            "{x: 300, y: 200}": hægri
+            "{x: 200, y: 200}": í miðju
+            "{x: 100, y: 100}": efst til vinstri
+            "{x: 300, y: 100}": efst til hægri
+            "{x: 100, y: 300}": neðst til vinstri
+            "{x: 300, y: 300}": neðst til hægri
+            "{x: randomNumber(60, 340), y: randomNumber(60, 340)}": eitthvað
+      Dancelab_layoutSprites:
+        text: stilla {GROUP} upp sem {FORMAT}
+        options:
+          GROUP:
+            sprites: allt
+            '"ALIEN"': allar geimverur
+            '"BEAR"': birnir
+            '"CAT"': allir kettir
+            '"DOG"': allir hundar
+            '"DUCK"': endur
+            '"FROG"': froskar
+            '"MOOSE"': allir elgir
+            '"PINEAPPLE"': ananasar
+            '"ROBOT"': öll vélmenni
+            '"SHARK"': hákarlar
+            '"SLOTH"': letidýr
+            '"UNICORN"': einhyrningar
+          FORMAT:
+            '"border"': rammi
+            '"inner"': ferningur
+            '"diamond"': demant
+            '"circle"': hringur
+            '"grid"': fylking
+            '"top"': efri röð
+            '"row"': bekkur
+            '"bottom"': neðri röð
+            '"left"': vinstri röð
+            '"column"': í röð upp
+            '"right"': hægri röð
+            '"x"': þvers-og-kruss
+            '"plus"': plús
+            '"spiral"': spírall
+            '"random"': eitthvað
+      Dancelab_makeAnonymousDanceSprite:
+        text: búa til {COSTUME} á stað {LOCATION}
+        options:
+          COSTUME:
+            '"ALIEN"': geimvera
+            '"BEAR"': Björn
+            '"CAT"': köttur
+            '"DOG"': hundur
+            '"DUCK"': önd
+            '"FROG"': Froskur
+            '"MOOSE"': allir elgir
+            '"PINEAPPLE"': Ananas
+            '"ROBOT"': vélmenni
+            '"SHARK"': Hákarl
+            '"SLOTH"': letidýr
+            '"UNICORN"': einhyrningur
+          LOCATION:
+            "{x: 200, y: 100}": efst
+            "{x: 200, y: 300}": neðst
+            "{x: 100, y: 200}": vinstri
+            "{x: 300, y: 200}": hægri
+            "{x: 200, y: 200}": í miðju
+            "{x: 100, y: 100}": efst til vinstri
+            "{x: 300, y: 100}": efst til hægri
+            "{x: 100, y: 300}": neðst til vinstri
+            "{x: 300, y: 300}": neðst til hægri
+            "{x: randomNumber(50, 350), y: randomNumber(50, 350)}": eitthvað
+      Dancelab_makeNewDanceSprite:
+        text: |-
+          búa til {COSTUME}
+          með nafn {NAME} á stað {LOCATION}
+        options:
+          COSTUME:
+            '"ALIEN"': geimvera
+            '"BEAR"': Björn
+            '"CAT"': köttur
+            '"DOG"': hundur
+            '"DUCK"': önd
+            '"FROG"': Froskur
+            '"MOOSE"': allir elgir
+            '"PINEAPPLE"': Ananas
+            '"ROBOT"': vélmenni
+            '"SHARK"': Hákarl
+            '"SLOTH"': letidýr
+            '"UNICORN"': einhyrningur
+          LOCATION:
+            "{x: 200, y: 100}": efst
+            "{x: 200, y: 300}": neðst
+            "{x: 100, y: 200}": vinstri
+            "{x: 300, y: 200}": hægri
+            "{x: 200, y: 200}": í miðju
+            "{x: 100, y: 100}": efst til vinstri
+            "{x: 300, y: 100}": efst til hægri
+            "{x: 100, y: 300}": neðst til vinstri
+            "{x: 300, y: 300}": neðst til hægri
+            "{x: randomNumber(50, 350), y: randomNumber(50, 350)}": eitthvað
+      Dancelab_makeNewDanceSpriteGroup:
+        text: |-
+          búa til {N} {COSTUME}
+          í uppstillingu {LAYOUT}
+        options:
+          'N':
+            '2': '2'
+            '3': '3'
+            '4': '4'
+            '5': '5'
+            '6': '6'
+            '7': '7'
+            '8': '8'
+            '9': '9'
+            '10': '10'
+            '11': '11'
+            '12': '12'
+            '13': '13'
+            '14': '14'
+            '15': '15'
+            '16': '16'
+            '17': '17'
+            '18': '18'
+            '19': '19'
+            '20': '20'
+          COSTUME:
+            '"ALIEN"': allar geimverur
+            '"BEAR"': birnir
+            '"CAT"': allir kettir
+            '"DOG"': allir hundar
+            '"DUCK"': endur
+            '"FROG"': froskar
+            '"MOOSE"': allir elgir
+            '"PINEAPPLE"': ananasar
+            '"ROBOT"': öll vélmenni
+            '"SHARK"': hákarlar
+            '"SLOTH"': letidýr
+            '"UNICORN"': einhyrningar
+          LAYOUT:
+            '"border"': rammi
+            '"inner"': ferningur
+            '"diamond"': demant
+            '"circle"': hringur
+            '"grid"': fylking
+            '"top"': efri röð
+            '"row"': bekkur
+            '"bottom"': neðri röð
+            '"left"': vinstri röð
+            '"column"': í röð upp
+            '"right"': hægri röð
+            '"x"': þvers-og-kruss
+            '"plus"': plús
+            '"spiral"': spírall
+            '"random"': eitthvað
+      Dancelab_mixColors:
+        text: blanda litum {COLOR1} og {COLOR2}
+      Dancelab_nMeasures:
+        text: "{N} takta"
+      Dancelab_onPointerDown:
+        text: þegar bendill niður
+      Dancelab_onPointerDrag:
+        text: þegar bendill dreginn
+      Dancelab_onPointerUp:
+        text: þegar bendill upp
+      Dancelab_randomColor:
+        text: einhver litur
+      Dancelab_setBackground:
+        text: stilla bakgrunnslitinn {COLOR}
+      Dancelab_setBackgroundEffect:
+        text: stilla bakgrunnshrifin {EFFECT} {PALETTE}
+        options:
+          EFFECT:
+            '"none"': Ekkert
+            '"circles"': Hringir
+            '"color_cycle"': Litir
+            '"diamonds"': Demantar
+            '"disco_ball"': Diskókúla
+            '"fireworks"': Flugeldar
+            '"swirl"': Dáleiðsla
+            '"kaleidoscope"': Breytilegt mynstur
+            '"lasers"': Laser dansgólf
+            '"splatter"': Málningarslettur
+            '"rainbow"': Regnbogi
+            '"snowflakes"': Snjór
+            '"text"': Nöfn laga
+            '"galaxy"': Geimur
+            '"sparkles"': Glitrandi
+            '"spiral"': Spírall
+            '"disco"': Reitir
+            '"stars"': Stjörnur
+          PALETTE:
+            '"rave"': Svarthvítt
+            '"cool"': Svalt
+            '"electronic"': Rafmagnað
+            '"iceCream"': Rjómaís
+            '"default"': Ljós
+            '"neon"': Neon
+            '"tropical"': Hitabelti
+            '"vintage"': Klassískt
+            '"warm"': Hlýlegt
+      Dancelab_setBackgroundEffectWithPalette:
+        text: stilla bakgrunn {PALETTE} {EFFECT}
+        options:
+          EFFECT:
+            '"none"': Ekkert
+            '"rand"': "(Handahóf)"
+            '"circles"': Hringir
+            '"quads"': Horn
+            '"color_cycle"': Litir
+            '"diamonds"': Demantar
+            '"disco_ball"': Diskókúla
+            '"fireworks"': Flugeldar
+            '"flowers"': Blóm
+            '"growing_stars"': Vaxandi stjörnur
+            '"swirl"': Dáleiðsla
+            '"kaleidoscope"': Breytilegt mynstur
+            '"lasers"': Laser dansgólf
+            '"splatter"': Málningarslettur
+            '"rainbow"': Regnbogi
+            '"ripples_random"': Handahófsgárur
+            '"ripples"': Gárur
+            '"snowflakes"': Snjór
+            '"text"': Nöfn laga
+            '"squiggles"': Hrafnaspark
+            '"galaxy"': Geimur
+            '"sparkles"': Glitrandi
+            '"spiral"': Spírall
+            '"disco"': Reitir
+            '"stars"': Stjörnur
+            '"music_wave"': Bylgjur
+          PALETTE:
+            '"rave"': Svarthvítt
+            '"cool"': Svalt
+            '"electronic"': Rafmagnað
+            '"iceCream"': Rjómaís
+            '"default"': Ljós
+            '"neon"': Neon
+            '"tropical"': Hitabelti
+            '"vintage"': Klassískt
+            '"warm"': Hlýlegt
+      Dancelab_setBackgroundEffectWithPaletteAI:
+        text: stilla bakgrunn {PALETTE} {EFFECT}
+        options:
+          EFFECT:
+            '"none"': Ekkert
+            '"rand"': "(Handahóf)"
+            '"quads"': Horn
+            '"circles"': Hringir
+            '"color_cycle"': Litir
+            '"diamonds"': Demantar
+            '"disco_ball"': Diskókúla
+            '"fireworks"': Flugeldar
+            '"flowers"': Blóm
+            '"growing_stars"': Vaxandi stjörnur
+            '"swirl"': Dáleiðsla
+            '"kaleidoscope"': Breytilegt mynstur
+            '"lasers"': Laser dansgólf
+            '"splatter"': Málningarslettur
+            '"rainbow"': Regnbogi
+            '"ripples_random"': Handahófsgárur
+            '"ripples"': Gárur
+            '"snowflakes"': Snjór
+            '"text"': Nöfn laga
+            '"galaxy"': Geimur
+            '"sparkles"': Glitrandi
+            '"spiral"': Spírall
+            '"disco"': Reitir
+            '"squiggles"': Hrafnaspark
+            '"starburst"': Stjörnublossi
+            '"stars"': Stjörnur
+            '"music_wave"': Bylgjur
+          PALETTE:
+            '"rave"': Svarthvítt
+            '"cool"': Svalt
+            '"electronic"': Rafmagnað
+            '"iceCream"': Rjómaís
+            '"default"': Ljós
+            '"neon"': Neon
+            '"rainbow"': Regnbogi
+            '"tropical"': Hitabelti
+            '"vintage"': Klassískt
+            '"warm"': Hlýlegt
+      Dancelab_setDanceSpeed:
+        text: stilla danshraða {SPRITE} á {SPEED}
+        options:
+          SPEED:
+            '1': venjulegt
+            '2': hratt
+            '4': mjög hratt
+            '0.5': hægt
+            '0.25': mjög hægt
+      Dancelab_setDanceSpeedEach:
+        text: stilla danshraða {GROUP} á {SPEED}
+        options:
+          GROUP:
+            sprites: allt
+            '"ALIEN"': allar geimverur
+            '"BEAR"': birnir
+            '"CAT"': allir kettir
+            '"DOG"': allir hundar
+            '"DUCK"': endur
+            '"FROG"': froskar
+            '"MOOSE"': allir elgir
+            '"PINEAPPLE"': ananasar
+            '"ROBOT"': öll vélmenni
+            '"SHARK"': hákarlar
+            '"SLOTH"': letidýr
+            '"UNICORN"': einhyrningar
+          SPEED:
+            '1': venjulegt
+            '2': hratt
+            '4': mjög hratt
+            '0.5': hægt
+            '0.25': mjög hægt
+      Dancelab_setForegroundEffect:
+        text: stilla á forgrunnshrifin {EFFECT}
+        options:
+          EFFECT:
+            '"none"': Ekkert
+            '"bubbles"': Sápukúlur
+            '"confetti"': Skraut
+            '"hearts_red"': Hjörtu
+            '"music_notes"': Tónlistarnótur
+            '"pineapples"': Ananasar
+            '"pizzas"': Pítsur
+            '"smiling_poop"': Kúkur
+            '"rain"': Rigning
+            '"floating_rainbows"': Regnbogar
+            '"smile_face"': Bros
+            '"spotlight"': Kastljós
+            '"color_lights"': Sviðsljós
+            '"raining_tacos"': Takós
+      Dancelab_setForegroundEffectExtended:
+        text: stilla á forgrunnshrifin {EFFECT}
+        options:
+          EFFECT:
+            '"none"': Ekkert
+            '"rand"': "(Handahóf)"
+            '"bubbles"': Sápukúlur
+            '"hearts_colorful"': Litrík hjörtu
+            '"confetti"': Skraut
+            '"emojis"': Tjákn
+            '"hearts_red"': Hjörtu
+            '"music_notes"': Tónlistarnótur
+            '"paint_drip"': Málningardropar
+            '"pineapples"': Ananasar
+            '"pizzas"': Pítsur
+            '"smiling_poop"': Kúkur
+            '"rain"': Rigning
+            '"floating_rainbows"': Regnbogar
+            '"smile_face"': Bros
+            '"spotlight"': Kastljós
+            '"color_lights"': Sviðsljós
+            '"exploding_stars"': Stjörnublossi
+            '"raining_tacos"': Takós
+      Dancelab_setProp:
+        text: 'stilla {SPRITE} {PROPERTY} á {VAL} '
+        options:
+          PROPERTY:
+            '"scale"': stærð
+            '"width"': breidd
+            '"height"': hæð
+            '"rotation"': snúningur
+            '"x"': lárétt staða
+            '"y"': lóðrétt staða
+      Dancelab_setPropEach:
+        text: stilla {GROUP} {PROPERTY} á {VAL}
+        options:
+          GROUP:
+            sprites: allt
+            '"ALIEN"': allar geimverur
+            '"BEAR"': birnir
+            '"CAT"': allir kettir
+            '"DOG"': allir hundar
+            '"DUCK"': endur
+            '"FROG"': froskar
+            '"MOOSE"': allir elgir
+            '"PINEAPPLE"': ananasar
+            '"ROBOT"': öll vélmenni
+            '"SHARK"': hákarlar
+            '"SLOTH"': letidýr
+            '"UNICORN"': einhyrningar
+          PROPERTY:
+            '"scale"': stærð
+            '"width"': breidd
+            '"height"': hæð
+            '"rotation"': snúningur
+            '"x"': lárétt staða
+            '"y"': lóðrétt staða
+            '"tint"': litur
+      Dancelab_setPropRandom:
+        text: handahófsstilla {SPRITE} {PROPERTY}
+        options:
+          PROPERTY:
+            '"scale"': stærð
+            '"width"': breidd
+            '"height"': hæð
+            '"rotation"': snúningur
+            '"x"': lárétt staða
+            '"y"': lóðrétt staða
+            '"tint"': litur
+      Dancelab_setPropRandomEach:
+        text: handahófsstilla {GROUP} {PROPERTY}
+        options:
+          GROUP:
+            sprites: allt
+            '"ALIEN"': allar geimverur
+            '"BEAR"': birnir
+            '"CAT"': allir kettir
+            '"DOG"': allir hundar
+            '"DUCK"': endur
+            '"FROG"': froskar
+            '"MOOSE"': allir elgir
+            '"PINEAPPLE"': ananasar
+            '"ROBOT"': öll vélmenni
+            '"SHARK"': hákarlar
+            '"SLOTH"': letidýr
+            '"UNICORN"': einhyrningar
+          PROPERTY:
+            '"scale"': stærð
+            '"width"': breidd
+            '"height"': hæð
+            '"rotation"': snúningur
+            '"x"': lárétt staða
+            '"y"': lóðrétt staða
+            '"tint"': litur
+      Dancelab_setTint:
+        text: stilla lit {SPRITE} á {VAL}
+      Dancelab_setTintEach:
+        text: stilla lit {THIS} á {VAL}
+        options:
+          THIS:
+            sprites: allt
+            '"ALIEN"': allar geimverur
+            '"BEAR"': birnir
+            '"CAT"': allir kettir
+            '"DOG"': allir hundar
+            '"DUCK"': endur
+            '"FROG"': froskar
+            '"MOOSE"': allir elgir
+            '"PINEAPPLE"': ananasar
+            '"ROBOT"': öll vélmenni
+            '"SHARK"': hákarlar
+            '"SLOTH"': letidýr
+            '"UNICORN"': einhyrningar
+      Dancelab_setTintEachInline:
+        text: stilla lit {THIS} á {VAL}
+        options:
+          THIS:
+            sprites: allt
+            '"ALIEN"': allar geimverur
+            '"BEAR"': birnir
+            '"CAT"': allir kettir
+            '"DOG"': allir hundar
+            '"DUCK"': endur
+            '"FROG"': froskar
+            '"MOOSE"': allir elgir
+            '"PINEAPPLE"': ananasar
+            '"ROBOT"': öll vélmenni
+            '"SHARK"': hákarlar
+            '"SLOTH"': letidýr
+            '"UNICORN"': einhyrningar
+      Dancelab_setTintInline:
+        text: stilla lit {SPRITE} á {VAL}
+      Dancelab_setVisible:
+        text: stilla sýnileika {SPRITE} á {VISIBILITY}
+        options:
+          VISIBILITY:
+            'true': sýnilegt
+            'false': ósýnilegt
+      Dancelab_setVisibleEach:
+        text: stilla sýnileika {THIS} á {VISIBILITY}
+        options:
+          THIS:
+            sprites: allt
+            '"ALIEN"': allar geimverur
+            '"BEAR"': birnir
+            '"CAT"': allir kettir
+            '"DOG"': allir hundar
+            '"DUCK"': endur
+            '"FROG"': froskar
+            '"MOOSE"': allir elgir
+            '"PINEAPPLE"': ananasar
+            '"ROBOT"': öll vélmenni
+            '"SHARK"': hákarlar
+            '"SLOTH"': letidýr
+            '"UNICORN"': einhyrningar
+          VISIBILITY:
+            'true': sýnilegt
+            'false': ósýnilegt
+      Dancelab_startMapping:
+        text: "{SPRITE} fær eiginleika {PROPERTY} eftir {RANGE}"
+        options:
+          PROPERTY:
+            '"scale"': stærð
+            '"width"': breidd
+            '"height"': hæð
+            '"rotation"': snúningur
+            '"x"': lárétt staða
+            '"y"': lóðrétt staða
+            '"tint"': litur
+          RANGE:
+            '"bass"': bassahljóð
+            '"mid"': miðhljóð
+            '"treble"': háhljóð
+      Dancelab_startMappingEach:
+        text: "{GROUP} færa eiginleika {PROPERTY} eftir {RANGE}"
+        options:
+          GROUP:
+            sprites: allt
+            '"ALIEN"': allar geimverur
+            '"BEAR"': birnir
+            '"CAT"': allir kettir
+            '"DOG"': allir hundar
+            '"DUCK"': endur
+            '"FROG"': froskar
+            '"MOOSE"': allir elgir
+            '"PINEAPPLE"': ananasar
+            '"ROBOT"': öll vélmenni
+            '"SHARK"': hákarlar
+            '"SLOTH"': letidýr
+            '"UNICORN"': einhyrningar
+          PROPERTY:
+            '"scale"': stærð
+            '"width"': breidd
+            '"height"': hæð
+            '"rotation"': snúningur
+            '"x"': lárétt staða
+            '"y"': lóðrétt staða
+            '"tint"': litur
+          RANGE:
+            '"bass"': bassahljóð
+            '"mid"': miðhljóð
+            '"treble"': háhljóð
+      Dancelab_stopMapping:
+        text: "{SPRITE} missir eiginleika {PROPERTY} eftir {RANGE}"
+        options:
+          PROPERTY:
+            '"scale"': stærð
+            '"width"': breidd
+            '"height"': hæð
+            '"rotation"': snúningur
+            '"x"': lárétt staða
+            '"y"': lóðrétt staða
+            '"direction"': stefna hreyfingar
+            '"tint"': litur
+          RANGE:
+            '"bass"': bassahljóð
+            '"mid"': miðhljóð
+            '"treble"': háhljóð
+      Dancelab_stopMappingEach:
+        text: "{GROUP} missir eiginleika {PROPERTY} eftir {RANGE}"
+        options:
+          GROUP:
+            sprites: allt
+            '"ALIEN"': allar geimverur
+            '"BEAR"': birnir
+            '"CAT"': allir kettir
+            '"DOG"': allir hundar
+            '"DUCK"': endur
+            '"FROG"': froskar
+            '"MOOSE"': allir elgir
+            '"PINEAPPLE"': ananasar
+            '"ROBOT"': öll vélmenni
+            '"SHARK"': hákarlar
+            '"SLOTH"': letidýr
+            '"UNICORN"': einhyrningar
+          PROPERTY:
+            '"scale"': stærð
+            '"width"': breidd
+            '"height"': hæð
+            '"rotation"': snúningur
+            '"x"': lárétt staða
+            '"y"': lóðrétt staða
+            '"direction"': stefna hreyfingar
+            '"tint"': litur
+          RANGE:
+            '"bass"': bassahljóð
+            '"mid"': miðhljóð
+            '"treble"': háhljóð
+      Dancelab_translateStrings:
+        text: þýða {STRING}
+        options:
+          STRING:
+            '"music_wave"': Bylgjur
+            '"ripples"': Gárur
+            '"ripples_random"': Handahófsgárur
+            '"quads"': Horn
+            '"flowers"': Blóm
+            '"popsicles"': Íspinnar
+            '"squiggles"': Hrafnaspark
+            '"growing_stars"': Vaxandi stjörnur
+            '"emojis"': Tjákn
+            '"hearts_colorful"': Hjörtu
+            '"paint_drio"': Málningardropar
+            '"exploding_stars"': Stjörnublossi
+            '"row_top"': efri röð
+            '"row_bottom"': neðri röð
+            '"column_left"': vinstri röð
+            '"column_right"': hægri röð
+            '"diamond"': demant
+            '"mural"': Veggmynd
+            '"safari"': Leiðangur
+            '"network"': Netkerfi
+            '"highway"': Hraðbraut
+            '"stream"': Straumur
+            '"tile"': Flís
+            '"shadow"': Skuggi
+            '"s"': s
+            '"t"': t
+            '"u"': u
+            '"v"': v
+            '"w"': w
+            '"x"': x
+            '"y"': 'y'
+            '"z"': z
+            '"0"': '0'
+            '"1"': '1'
+            '"2"': '2'
+            '"3"': '3'
+            '"4"': '4'
+            '"5"': '5'
+            '"6"': '6'
+            '"7"': '7'
+            '"8"': '8'
+            '"9"': '9'
+      Dancelab_whenKey:
+        text: þegar ýtt er á {KEY}
+        options:
+          KEY:
+            '"up"': upp
+            '"left"': vinstri
+            '"down"': niður
+            '"right"': hægri
+            '"space"': geimur
+            '"enter"': Enter
+            '"a"': a
+            '"b"': b
+            '"c"': c
+            '"d"': d
+            '"e"': e
+            '"f"': f
+            '"g"': g
+            '"h"': h
+            '"i"': i
+            '"j"': j
+            '"k"': k
+            '"l"': l
+            '"m"': m
+            '"n"': 'n'
+            '"o"': o
+            '"p"': p
+            '"q"': q
+            '"r"': r
+            '"s"': s
+            '"t"': t
+            '"u"': u
+            '"v"': v
+            '"w"': w
+            '"x"': x
+            '"y"': 'y'
+            '"z"': z
+            '"0"': '0'
+            '"1"': '1'
+            '"2"': '2'
+            '"3"': '3'
+            '"4"': '4'
+            '"5"': '5'
+            '"6"': '6'
+            '"7"': '7'
+            '"8"': '8'
+            '"9"': '9'
+      Dancelab_whenPeak:
+        text: þegar {RANGE} hæst
+        options:
+          RANGE:
+            '0': bassahljóð
+            '1': miðhljóð
+            '2': háhljóð
+      Dancelab_whenSetup:
+        text: uppstilling
+      Dancelab_whenSetup2:
+        text: uppstilling
+      DansBlocks_setForegroundEffect2:
+        options:
+          EFFECT:
+            '"bubbles"': Sápukúlur
+            '"confetti"': Skraut
+            '"hearts"': hjörtu
+            '"rain"': regn
+            '"starburst"': Stjörnublossi
+      DansBlocks_testShowVariable:
+        options:
+          COLOR:
+            '"blue"': blár
+            '"red"': rauður
+      GameDev_getVelocity:
+        text: "{SPRITE} {PROPERTY}"
+      GameDev_gravity:
+        options:
+          VELOCITY:
+            "-0.5": miðlungs
+      GameDev_playSoundOptions:
+        text: spilaHljóð {SOUND}
+        options:
+          SOUND:
+            "'sound://category_pop/bubble_pop_cluster_1.mp3'": bóla
+            "'sound://category_collect/clicky_crunch.mp3'": kremja
+            "'sound://category_instrumental/harpe_pluck_1.mp3'": harpa
+            "'sound://category_digital/jump_7.mp3'": hoppa
+      GameDev_playerJump:
+        options:
+          STRENGTH:
+            '13': miðlungs
+            '17': stór
+      GameDev_removeGroup:
+        options:
+          GROUP:
+            '"players"': leikmaður
+      GameDev_setGroup:
+        options:
+          GROUP:
+            '"players"': leikmaður
+      GameDev_spriteType:
+        options:
+          GROUP:
+            '"players"': leikmaður
+      gamelab_addBehaviorSimple:
+        text: vera {SPRITE} byrjar {BEHAVIOR}
+      gamelab_addTarget:
+        options:
+          OPT:
+            '"avoid"': forðast
+      gamelab_allSpritesWithAnimation:
+        text: "{ANIMATION}"
+      gamelab_atTime:
+        text: á tíma {N} {UNIT}
+        options:
+          UNIT:
+            '"seconds"': sekúndur
+            '"frames"': rammar
+      gamelab_bounceOff:
+        text: "{SPRITE} endurkastast af {TARGET}"
+      gamelab_changePropBy:
+        text: breyta {SPRITE} {PROPERTY} um {VAL}
+        options:
+          PROPERTY:
+            '"scale"': stærð
+            '"rotation"': snúningur
+            '"x"': x staða
+            '"y"': y staða
+            '"direction"': stefna hreyfingar
+            '"speed"': hraða
+      gamelab_checkTouching:
+        text: "{CONDITION} {SPRITE1} snertir {SPRITE2}"
+        options:
+          CONDITION:
+            '"when"': þegar
+            '"while"': meðan
+      gamelab_clickedOn:
+        text: þegar smellt á {SPRITE}
+      gamelab_clickedSpritePointer:
+        text: "{SPRITE}"
+      gamelab_comment:
+        text: 'athugasemd: {COMMENT}'
+      gamelab_costumeImage:
+        text: "{COSTUME}"
+      gamelab_countByAnimation:
+        text: fjöldi {SPRITE}
+      gamelab_createNewSprite:
+        text: "búa til nýja veru \n nafn {NAME} \n búningur {COSTUME} \n staður {LOCATION}"
+      gamelab_destroy:
+        text: fjarlægja {THIS}
+      gamelab_draggable:
+        text: er hægt að draga
+      gamelab_edgesDisplace:
+        text: brúnir hindra {SPRITE} að hreyfast
+      gamelab_everyInterval:
+        text: 'á {N} {UNIT} fresti '
+        options:
+          UNIT:
+            '"seconds"': sekúndur
+            '"frames"': rammar
+      gamelab_getAllSprites:
+        text: allir kvikar
+      gamelab_getProp:
+        text: "{SPRITE} {PROPERTY}"
+        options:
+          PROPERTY:
+            '"scale"': stærð
+            '"rotation"': snúningur
+            '"x"': x staða
+            '"y"': y staða
+            '"direction"': stefna hreyfingar
+            '"tint"': litur
+            '"speed"': hraða
+      gamelab_getThisSprite:
+        text: "{CHOICE} vera"
+        options:
+          CHOICE:
+            '"this"': þetta
+            '"other"': annað
+      gamelab_getTime:
+        text: tíminn í {UNIT}
+        options:
+          UNIT:
+            '"seconds"': sekúndur
+            '"frames"': rammar
+      gamelab_hideTitleScreen:
+        text: fela titilinn
+      gamelab_ifVarEquals:
+        text: |-
+          ef {NUM} ={VAL}
+          {STATEMENT}
+      gamelab_int10:
+        options:
+          VALUE:
+            '1': '1'
+            '2': '2'
+            '3': '3'
+            '4': '4'
+            '5': '5'
+            '6': '6'
+            '7': '7'
+            '8': '8'
+            '9': '9'
+            '10': '10'
+      gamelab_isCostumeEqual:
+        text: búningur {SPRITE} er {COSTUME}
+      gamelab_isKeyPressed:
+        text: ýtt er á {KEY}
+        options:
+          KEY:
+            '"up"': upp
+            '"down"': niður
+            '"left"': vinstri
+            '"right"': hægri
+            '"space"': geimur
+            '"a"': a
+            '"b"': b
+            '"c"': c
+            '"d"': d
+            '"e"': e
+            '"f"': f
+            '"g"': g
+            '"h"': h
+            '"i"': i
+            '"j"': j
+            '"k"': k
+            '"l"': l
+            '"m"': m
+            '"n"': 'n'
+            '"o"': o
+            '"p"': p
+            '"q"': q
+            '"r"': r
+            '"s"': s
+            '"t"': t
+            '"u"': u
+            '"v"': v
+            '"w"': w
+            '"x"': x
+            '"y"': 'y'
+            '"z"': z
+      gamelab_isTouchingEdges:
+        text: "{SPRITE} snertir brúnir"
+      gamelab_isTouchingSprite:
+        text: "{SPRITE} snertir {TARGET}"
+      gamelab_jumpTo:
+        text: "{SPRITE} hoppa til {LOCATION}"
+      gamelab_keyPressed:
+        text: "{CONDITION} {KEY} niðri"
+        options:
+          CONDITION:
+            '"when"': þegar
+            '"while"': meðan
+          KEY:
+            '"up"': upp
+            '"down"': niður
+            '"left"': vinstri
+            '"right"': hægri
+            '"space"': geimur
+            '"a"': a
+            '"b"': b
+            '"c"': c
+            '"d"': d
+            '"e"': e
+            '"f"': f
+            '"g"': g
+            '"h"': h
+            '"i"': i
+            '"j"': j
+            '"k"': k
+            '"l"': l
+            '"m"': m
+            '"n"': 'n'
+            '"o"': o
+            '"p"': p
+            '"q"': q
+            '"r"': r
+            '"s"': s
+            '"t"': t
+            '"u"': u
+            '"v"': v
+            '"w"': w
+            '"x"': x
+            '"y"': 'y'
+            '"z"': z
+      gamelab_layoutSprites:
+        text: stilla {GROUP} upp sem {FORMAT}
+        options:
+          FORMAT:
+            '"border"': rammi
+            '"circle"': hringur
+            '"grid"': fylking
+            '"top"': efri röð
+            '"row"': bekkur
+            '"bottom"': neðri röð
+            '"left"': vinstri röð
+            '"column"': í röð upp
+            '"right"': hægri röð
+      gamelab_locationAt:
+        text: 'staður x: {X} y: {Y}'
+      gamelab_locationModifier:
+        text: "{DISTANCE} dílar {DIRECTION} af {LOCATION}"
+        options:
+          DIRECTION:
+            '"North"': norður
+            '"East"': austur
+            '"South"': suður
+            '"West"': vestur
+      gamelab_locationMouse:
+        text: staður músar
+      gamelab_locationOf:
+        text: staður {SPRITE}
+      gamelab_location_picker:
+        text: "{LOCATION}"
+      gamelab_makeBurst:
+        options:
+          EFFECT:
+            '"burst"': springa
+            '"rain"': regn
+            '"spiral"': spírall
+      gamelab_makeNewSpriteAnon:
+        text: aalab búa til nýja {ANIMATION_NAME} veru á stað {LOCATION}
+      gamelab_makeNewSpriteGroup:
+        options:
+          FORMAT:
+            '"border"': rammi
+            '"circle"': hringur
+            '"grid"': fylking
+            '"top"': efri röð
+            '"row"': bekkur
+            '"bottom"': neðri röð
+            '"left"': vinstri röð
+            '"column"': í röð upp
+            '"right"': hægri röð
+      gamelab_makeNumSprites:
+        text: búa til {NUM} nýja {ANIMATION_NAME} kvika
+      gamelab_makeProjectile:
+        options:
+          DIRECTION:
+            '0': hægri
+            '90': niður
+            '180': vinstri
+            '270': upp
+      gamelab_makeSpritesWithSize:
+        options:
+          SIZE:
+            '50': miðlungs
+      gamelab_mirrorSprite:
+        text: "{SPRITE} snýr {DIRECTION}"
+        options:
+          DIRECTION:
+            '"right"': hægri
+            '"left"': vinstri
+      gamelab_mouseLocation:
+        text: staður músar
+      gamelab_moveBackward:
+        text: færa {SPRITE} {DISTANCE} díla aftur á bak
+      gamelab_moveForward:
+        text: færa {SPRITE} {DISTANCE} díla áfram
+      gamelab_moveInDirection:
+        text: færa {SPRITE} {DISTANCE} díla í {DIRECTION}
+        options:
+          DIRECTION:
+            '"North"': norður
+            '"East"': austur
+            '"South"': suður
+            '"West"': vestur
+      gamelab_moveToward:
+        text: færa {SPRITE} vegalengd {DISTANCE} til {TARGET}
+      gamelab_newSpritePointer:
+        text: "{SPRITE}"
+      gamelab_objectSpritePointer:
+        text: "{SPRITE}"
+      gamelab_patrollingUpDown:
+        text: rásar upp og niður
+      gamelab_playSound:
+        text: spilaHljóð {SOUND}
+      gamelab_playSoundOptions:
+        text: spilaHljóð {SOUND}
+        options:
+          SOUND:
+            "'sound://category_app/app_button_1.mp3'": hnappur
+            "'sound://category_collect/clicky_crunch.mp3'": kremja
+            "'sound://category_pop/bubble_pop_cluster_1.mp3'": bóla
+            "'sound://category_animals/bear.mp3'": Björn
+            "'sound://category_animals/cat.mp3'": köttur
+            "'sound://category_animals/cow.mp3'": kýr
+            "'sound://category_animals/pig.mp3'": svín
+            "'sound://category_animals/sheep.mp3'": kind
+            "'sound://category_animals/goat.mp3'": geit
+            "'sound://category_animals/chicken.mp3'": hænsn
+            "'sound://category_animals/rooster.mp3'": hani
+            "'sound://category_animals/elephant.mp3'": fíll
+            "'sound://category_animals/dolphin.mp3'": höfrungur
+            "'sound://category_animals/chick.mp3'": ungi
+            "'sound://category_animals/dog.mp3'": hundur
+            "'sound://category_animals/tiger.mp3'": tígur
+            "'sound://category_instrumental/harpe_pluck_1.mp3'": harpa
+            "'sound://category_retro/retro_game_ui_select_6.mp3'": velja
+            "'sound://category_digital/jump_7.mp3'": hoppa
+      gamelab_playSoundOptionsSoccer:
+        text: spilaHljóð {SOUND}
+        options:
+          SOUND:
+            "'sound://category_sports/Airhorn_SFX.mp3'": loftlúður
+            "'sound://category_sports/One_Whistle_SFX.mp3'": flauta
+      gamelab_playSoundOptionsSpace:
+        text: spilaHljóð {SOUND}
+      gamelab_playerBehaviors:
+        options:
+          BEHAVIOR:
+            draggable(): er hægt að draga
+      gamelab_pointInDirection:
+        text: beina {SPRITE} {DIRECTION}
+        options:
+          DIRECTION:
+            '"North"': norður
+            '"East"': austur
+            '"South"': suður
+            '"West"': vestur
+      gamelab_printText:
+        text: prenta {TEXT}
+      gamelab_randColor:
+        text: einhver litur
+      gamelab_randomColor:
+        text: einhver litur
+      gamelab_randomLocation:
+        text: staður af handahófi
+      gamelab_removeAllBehaviors:
+        text: "{SPRITE} hættir öllu"
+      gamelab_removeBehaviorSimple:
+        text: vera {SPRITE} hættir {BEHAVIOR}
+      gamelab_removeTint:
+        text: fjarlægja lit af {THIS}
+      gamelab_repeatForever:
+        text: endurtaka endalaust
+      gamelab_setAnimation:
+        text: breyta búningi {THIS} í {ANIMATION}
+      gamelab_setBackground:
+        text: stilla bakgrunnslitinn {COLOR}
+      gamelab_setBackgroundImage:
+        text: stilla bakgrunn á {IMG}
+        options:
+          IMG:
+            '"https://studio.code.org/blockly/media/skins/studio/background_cave.png"': hellir
+            '"https://studio.code.org/api/v1/animation-library/04L4sdTODkNZF1OHf4qO_I.Al3QP43wA/category_backgrounds/city.png"': borg
+            '"https://studio.code.org/blockly/media/skins/studio/background.png"': völlur
+            '"https://studio.code.org/blockly/media/skins/studio/background_desert.png"': eyðimörk
+            '"https://studio.code.org/blockly/media/skins/studio/background_space.png"': vetrarbraut
+            '"https://studio.code.org/blockly/media/skins/studio/background_grid.png"': fylking
+            '"https://studio.code.org/api/v1/animation-library/cJKusc1WPgWvCvgdwRX1gk8Zk0FggcVj/category_backgrounds/meadow.png"': hagi
+            '"https://studio.code.org/blockly/media/skins/studio/background_rainbow.png"': regnbogi
+            '"https://studio.code.org/blockly/media/skins/studio/background_scifi.png"': vísindaskáldskapur
+            '"https://studio.code.org/api/v1/animation-library/Thvd6E7yU59nfop.zZKGWKoR8VLZDTq./category_backgrounds/stage.png"': stig
+            '"https://studio.code.org/blockly/media/skins/studio/background_santa.png"': stjörnur
+            '"https://studio.code.org/api/v1/animation-library/RblQqWAuW0EkLfYuRVK4LRc0uY_76fvi/category_backgrounds/subway.png"': jarðlest
+            '"https://studio.code.org/api/v1/animation-library/INSgmsgsLuIk1Aqp7g72h9nLFez.NX0p/category_backgrounds/underground.png"': neðanjarðar
+            '"https://studio.code.org/blockly/media/skins/studio/background_underwater.png"': neðansjávar
+            '"https://studio.code.org/blockly/media/skins/studio/background_winter.png"': vetur
+            undefined: ekkert
+      gamelab_setBackgroundImageAs:
+        text: stilla bakgrunn á {IMG}
+      gamelab_setDefaultSpriteSize:
+        options:
+          SIZE:
+            '75': miðlungs
+      gamelab_setForegroundEffect:
+        options:
+          EFFECT:
+            '"bubbles"': Sápukúlur
+            '"confetti"': Skraut
+            '"hearts"': hjörtu
+            '"rain"': regn
+            '"starburst"': Stjörnublossi
+      gamelab_setPrompt:
+        text: biðja notanda {QUESTION} um breytu {VAR}
+      gamelab_setPromptWithChoices:
+        text: biðja notanda {QUESTION} um breytu {VAR} með valkosti {A}{B}{C}
+      gamelab_setProp:
+        text: stilla {SPRITE} {PROPERTY} á {VAL}
+        options:
+          PROPERTY:
+            '"scale"': stærð
+            '"rotation"': snúningur
+            '"x"': x staða
+            '"y"': y staða
+            '"direction"': stefna hreyfingar
+            '"speed"': hraða
+      gamelab_setProp_dropdown:
+        text: stilla {SPRITE} {PROPERTY} á {SIZE}
+        options:
+          PROPERTY:
+            '"scale"': stærð
+          SIZE:
+            '75': miðlungs
+      gamelab_setSizes:
+        text: stilla {SPRITE} {PROPERTY} á {N}%
+        options:
+          PROPERTY:
+            '"scale"': stærð
+            '"width"': breidd
+            '"height"': hæð
+      gamelab_setSpeed_dropdown:
+        options:
+          SIZE:
+            '3': hægt
+            '5': venjulegt
+            '7': hratt
+      gamelab_setTint:
+        text: breyta lit {THIS} í {COLOR}
+      gamelab_setupSim:
+        text: |-
+          stilla upp hermi þar sem
+          {SPRITE1N}{SPRITE1COSTUME}speed{SPRITE1SPEED}
+          {SPRITE2N}{SPRITE2COSTUME}speed{SPRITE2SPEED}
+          eru að safna
+          {SPRITE3N}{SPRITE3COSTUME}
+      gamelab_showTitleScreen:
+        text: sýna titilskjá {BREAK} titill {TITLE} texti {SUBTITLE}
+      gamelab_spriteClicked:
+        text: "{CONDITION} {SPRITE} ef smellt"
+        options:
+          CONDITION:
+            '"when"': þegar
+            '"while"': meðan
+      gamelab_spriteSay:
+        text: "{SPRITE} segir {SPEECH}"
+      gamelab_subjectSpritePointer:
+        text: "{SPRITE}"
+      gamelab_textVariableJoin:
+        text: "{VAR}{TEXT2}"
+      gamelab_tumbling:
+        text: veltist
+      gamelab_turn:
+        text: "{SPRITE} snýr {DIRECTION} {N} gráður"
+        options:
+          DIRECTION:
+            '"right"': hægri
+            '"left"': vinstri
+      gamelab_updateTitleWithColor:
+        text: sýna titilskjá {BREAK} titill {TITLE} litur {COLOR}
+      gamelab_whenDownArrow:
+        text: þegar ýtt er á ör niður
+      gamelab_whenKey:
+        text: þegar ýtt er á {KEY}
+        options:
+          KEY:
+            '"up"': upp
+            '"down"': niður
+            '"left"': vinstri
+            '"right"': hægri
+            '"space"': geimur
+            '"a"': a
+            '"w"': w
+            '"s"': s
+            '"d"': d
+      gamelab_whenLeftArrow:
+        text: þegar ýtt er á vinstri ör
+      gamelab_whenPromptAnswered:
+        text: þegar {VAR} er svarað
+      gamelab_whenRightArrow:
+        text: þegar ýtt er á hægri ör
+      gamelab_whenTouching:
+        text: þegar {SPRITE1} snertir {SPRITE2}
+      gamelab_whenUpArrow:
+        text: þegar ýtt er á ör upp
+      gamelab_whileDownArrow:
+        text: meðan ýtt er á ör niður
+      gamelab_whileKey:
+        text: meðan ýtt er á {KEY}
+        options:
+          KEY:
+            '"up"': upp
+            '"down"': niður
+            '"left"': vinstri
+            '"right"': hægri
+            '"space"': geimur
+            '"a"': a
+            '"w"': w
+            '"s"': s
+            '"d"': d
+      gamelab_whileLeftArrow:
+        text: meðan ýtt er á vinstri ör
+      gamelab_whileRightArrow:
+        text: meðan ýtt er á hægri ör
+      gamelab_whileTouching:
+        text: meðan {SPRITE1} snertir {SPRITE2}
+      gamelab_whileUpArrow:
+        text: meðan ýtt er á ör upp
+      gamelab_withPercentChance:
+        text: |-
+          ef {NUM}% líkindi
+          {STATEMENT}
+      gamelab_xLocationOf:
+        text: x hnit {SPRITE}
+      gamelab_yLocationOf:
+        text: y hnit {SPRITE}
+      KatiesBlocks_changeVelocity:
+        options:
+          PROPERTY:
+            '"velocityX"': stutt
+            '"velocityY"': lengi
+      KatiesBlocks_setVelocity:
+        text: stilla {SPRITE} {PROPERTY} á {VAL}
+      KatiesBlocks_tumbling:
+        text: veltist
+      Mikelab_addBehaviorSimple:
+        text: vera {SPRITE} byrjar {BEHAVIOR}
+      Mikelab_addTrainingData:
+        text: 'bæta við þjálfunargögnum: {NAME},{LOCATION}'
+        options:
+          NAME:
+            "{x: 201, y: 100}": hlutur
+            "{x: 200, y: 100}": fiskur
+          LOCATION:
+            "{x: randomNumber(51, 350), y: randomNumber(50, 350)}": fiskur
+            "{x: randomNumber(52, 350), y: randomNumber(50, 350)}": ekki fiskur
+            "{x: randomNumber(50, 350), y: randomNumber(50, 350)}": mitt-merki
+            "{x: randomNumber(53, 350), y: randomNumber(50, 350)}": ekki mitt-merki
+      Mikelab_allSpritesWithAnimation:
+        text: "{ANIMATION}"
+      Mikelab_beginDataCollection:
+        text: biðja notanda {QUESTION} um breytu {VAR} með valkosti {A}{B}{C}
+      Mikelab_changePropBy:
+        options:
+          PROPERTY:
+            '"scale"': stærð
+            '"rotation"': snúningur
+            '"x"': x staða
+            '"y"': y staða
+            '"direction"': stefna hreyfingar
+      Mikelab_createNewSprite:
+        options:
+          LOCATION:
+            "{x: 200, y: 100}": efst
+            "{x: 200, y: 300}": neðst
+            "{x: 100, y: 200}": vinstri
+            "{x: 300, y: 200}": hægri
+            "{x: 200, y: 200}": í miðju
+            "{x: 100, y: 100}": efst til vinstri
+            "{x: 300, y: 100}": efst til hægri
+            "{x: 100, y: 300}": neðst til vinstri
+            "{x: 300, y: 300}": neðst til hægri
+      Mikelab_getNext:
+        text: sækja næsta hlut
+      Mikelab_getProp:
+        options:
+          PROPERTY:
+            '"scale"': stærð
+            '"rotation"': snúningur
+            '"x"': x staða
+            '"y"': y staða
+            '"direction"': stefna hreyfingar
+      Mikelab_groupChangeAnim:
+        text: breyta {SELECT} {COSTUME} í {COSTUME2}
+        options:
+          SELECT:
+            '"all"': allt
+            '"this"': þetta
+      Mikelab_groupChangePropBy:
+        text: "{PROPERTY} eiginleiki {SELECT} {COSTUME} breytist um {VAL}"
+        options:
+          SELECT:
+            '"all"': allt
+            '"this"': þetta
+          PROPERTY:
+            '"scale"': stærð
+            '"rotation"': snúningur
+            '"x"': x staða
+            '"y"': y staða
+            '"direction"': stefna hreyfingar
+      Mikelab_groupCreateNewSprite:
+        text: búa til {COSTUME} á stað {LOCATION}
+        options:
+          LOCATION:
+            "{x: 200, y: 100}": efst
+            "{x: 200, y: 300}": neðst
+            "{x: 100, y: 200}": vinstri
+            "{x: 300, y: 200}": hægri
+            "{x: 200, y: 200}": í miðju
+            "{x: 100, y: 100}": efst til vinstri
+            "{x: 300, y: 100}": efst til hægri
+            "{x: 100, y: 300}": neðst til vinstri
+            "{x: 300, y: 300}": neðst til hægri
+      Mikelab_groupDestroy:
+        text: fjarlægja {SELECT} {COSTUME}
+        options:
+          SELECT:
+            '"all"': allt
+            '"this"': þetta
+      Mikelab_groupDisplace:
+        text: allir {COSTUME} hindra hreyfingu {COSTUME2}
+      Mikelab_groupEdgesDisplace:
+        text: brúnir hindra {COSTUME} að hreyfast
+      Mikelab_groupGetProp:
+        text: "{PROPERTY} eiginleiki {SELECT} {COSTUME}"
+        options:
+          SELECT:
+            '"average"': meðal
+            '"this"': þetta
+          PROPERTY:
+            '"scale"': stærð
+            '"rotation"': snúningur
+            '"x"': x staða
+            '"y"': y staða
+            '"direction"': stefna hreyfingar
+      Mikelab_groupRemoveAllBehaviors:
+        text: stöðva hegðun {SELECT} {COSTUME}
+        options:
+          SELECT:
+            '"all"': allt
+            '"this"': þetta
+      Mikelab_groupRemoveBehaviorSimple:
+        text: "{SELECT} {COSTUME} stöðvar {BEHAVIOR}"
+        options:
+          SELECT:
+            '"all"': allt
+            '"this"': þetta
+      Mikelab_groupRemoveTint:
+        text: fjarlægja lit úr {SELECT} {COSTUME}
+        options:
+          SELECT:
+            '"all"': allt
+            '"this"': þetta
+      Mikelab_groupSetProp:
+        text: breyta {PROPERTY} fyrir {SELECT} {COSTUME} í {VAL}
+        options:
+          SELECT:
+            '"all"': allt
+            '"this"': þetta
+          PROPERTY:
+            '"scale"': stærð
+            '"rotation"': snúningur
+            '"x"': x staða
+            '"y"': y staða
+            '"direction"': stefna hreyfingar
+      Mikelab_groupSetTint:
+        text: breyta lit {SELECT} {COSTUME} í {COLOR}
+        options:
+          SELECT:
+            '"all"': allt
+            '"this"': þetta
+      Mikelab_groupWhenClickedOn:
+        text: þegar smellt á {COSTUME}
+      Mikelab_groupWhenXTouchesY:
+        text: þegar {COSTUME} snertir {COSTUME2}
+      Mikelab_groupWhileClicked:
+        text: á meðan smellt er á {COSTUME}
+      Mikelab_groupWhileTouchingAny:
+        text: |-
+          á meðan {COSTUME} snertir {COSTUME2}
+          {STATEMENT}
+      Mikelab_hasBehavior:
+        text: hegðun {SPRITE} er nú {BEHAVIOR}
+      Mikelab_hideFish:
+        text: fjarlægja {TRASH}
+        options:
+          TRASH:
+            object: hlutur
+            fish: fiskur
+      Mikelab_ifDanceIs:
+        text: |-
+          ef {SPRITE} gerir {DANCE}
+          {DO1} {DO2}
+        options:
+          DANCE:
+            MOVES.ClapHigh: Háklappa
+            MOVES.Clown: Gangnam
+            MOVES.Dab: Dabba
+            MOVES.DoubleJam: Dobla niður
+            MOVES.Drop: Droppa
+            MOVES.Floss: Flossa
+            MOVES.Fresh: Freska
+            MOVES.Roll: Hlykkja
+            MOVES.Kick: Stjarna
+            MOVES.ThisOrThat: Þetta eða hitt
+            MOVES.Rest: Ekkert
+      Mikelab_ifLabel:
+        text: |-
+          ef {DANCE}
+          gera {DO1} annars {DO2}
+        options:
+          DANCE:
+            MOVES.ClapHigh: fiskur
+            MOVES.Clown: mitt-merki
+      Mikelab_ifRecognizeLabel:
+        text: |-
+          ef auðkenni hlut sem {DANCE}
+          gera {DO1} annars {DO2}
+        options:
+          DANCE:
+            MOVES.ClapHigh: fiskur
+            MOVES.Clown: mitt-merki
+      Mikelab_ifRecognizeLabelOnly:
+        text: |-
+          ef auðkenni hlut sem {DANCE}
+          gera {DO1}
+        options:
+          DANCE:
+            MOVES.ClapHigh: fiskur
+            MOVES.Clown: ekki mitt-merki
+      Mikelab_joinText:
+        text: "{TEXT} {NEXT}"
+      Mikelab_locationAt:
+        text: 'staður x: {X} y: {Y}'
+      Mikelab_location_picker:
+        text: "{LOCATION}"
+      Mikelab_poemTextJoin:
+        text: "{TEXT1} {VAR} {TEXT2}"
+      Mikelab_randomColor:
+        text: einhver litur
+      Mikelab_removeBehaviorSimple:
+        text: vera {SPRITE} hættir {BEHAVIOR}
+      Mikelab_repeatUntilComplete:
+        text: endurtaka endalaust
+      Mikelab_sendBad:
+        text: færa hlut til vinstri
+      Mikelab_sendGood:
+        text: færa hlut til hægri
+      Mikelab_setBG:
+        options:
+          BG:
+            '"https://studio.code.org/api/v1/animation-library/04L4sdTODkNZF1OHf4qO_I.Al3QP43wA/category_backgrounds/city.png"': borg
+            '"https://studio.code.org/api/v1/animation-library/cJKusc1WPgWvCvgdwRX1gk8Zk0FggcVj/category_backgrounds/meadow.png"': hagi
+            '"https://studio.code.org/api/v1/animation-library/Thvd6E7yU59nfop.zZKGWKoR8VLZDTq./category_backgrounds/stage.png"': stig
+            '"https://studio.code.org/api/v1/animation-library/RblQqWAuW0EkLfYuRVK4LRc0uY_76fvi/category_backgrounds/subway.png"': jarðlest
+            '"https://studio.code.org/api/v1/animation-library/INSgmsgsLuIk1Aqp7g72h9nLFez.NX0p/category_backgrounds/underground.png"': neðanjarðar
+      Mikelab_setProp:
+        options:
+          PROPERTY:
+            '"scale"': stærð
+            '"rotation"': snúningur
+            '"x"': x staða
+            '"y"': y staða
+            '"direction"': stefna hreyfingar
+      Mikelab_setupSim:
+        text: |-
+          stilla upp hermi þar sem
+          {SPRITE1N}{SPRITE1COSTUME}speed{SPRITE1SPEED}
+          {SPRITE2N}{SPRITE2COSTUME}speed{SPRITE2SPEED}
+          eru að safna
+          {SPRITE3N}{SPRITE3COSTUME}
+      Mikelab_showScoreboard:
+        options:
+          CORNER:
+            '"right"': hægri
+            '"left"': vinstri
+      Mikelab_showText:
+        options:
+          PREPOSITION:
+            '"below"': fyrir neðan
+      Mikelab_sprite:
+        text: "´ný {COSTUME} vera á stað {LOCATION}"
+        options:
+          LOCATION:
+            "{x: 200, y: 100}": efst
+            "{x: 200, y: 300}": neðst
+            "{x: 100, y: 200}": vinstri
+            "{x: 300, y: 200}": hægri
+            "{x: 200, y: 200}": í miðju
+            "{x: 100, y: 100}": efst til vinstri
+            "{x: 300, y: 100}": efst til hægri
+            "{x: 100, y: 300}": neðst til vinstri
+            "{x: 300, y: 300}": neðst til hægri
+      Mikelab_whenClickedOn:
+        text: þegar smellt á {SPRITE}
+      Mikelab_whenKeyPressed:
+        text: þegar ýtt er á {KEY}
+        options:
+          KEY:
+            '"up"': upp ör
+            '"down"': niður ör
+            '"left"': vinstri ör
+            '"right"': hægri ör
+            '"space"': bilslá
+            '"w"': V
+            '"a"': A
+            '"s"': S
+            '"d"': D
+      Mikelab_whenKeyReleased:
+        options:
+          KEY:
+            '"up"': upp ör
+            '"down"': niður ör
+            '"left"': vinstri ör
+            '"right"': hægri ör
+            '"space"': bilslá
+            '"w"': V
+            '"a"': A
+            '"s"': S
+            '"d"': D
+      Mikelab_whenMouseClicked:
+        text: þegar mús er smellt
+      Mikelab_whenYesNoClicked:
+        text: þegar smellt er á {KEY}
+        options:
+          KEY:
+            '"yes"': já
+            '"no"': nei
+      Mikelab_whileKeyPressed:
+        options:
+          KEY:
+            '"up"': upp ör
+            '"down"': niður ör
+            '"left"': vinstri ör
+            '"right"': hægri ör
+            '"space"': bilslá
+      Mikelab_xLocationOf:
+        text: x hnit {SPRITE}
+      Mikelab_yLocationOf:
+        text: y hnit {SPRITE}
+      Poetry_addFrame:
+        options:
+          BRUSH:
+            '"brick"': múrsteinn
+            '"fire"': skjóta
+            '"flowers"': blóm
+            '"hearts"': hjörtu
+            '"iceCream"': Rjómaís
+            '"leaves"': laufblöð
+            '"rainbow"': regnbogi
+            '"stars"': stjörnur
+            '"waves"': öldur
+      Poetry_makeBurst:
+        options:
+          EFFECT:
+            '"burst"': springa
+            '"rain"': regn
+            '"spiral"': spírall
+      Poetry_makeNewSpriteAnon:
+        text: aalab búa til nýja {ANIMATION_NAME} veru á stað {LOCATION}
+      Poetry_makeNumSprites:
+        text: búa til {NUM} nýja {ANIMATION_NAME} kvika
+      Poetry_playMusic:
+        options:
+          SOUND:
+            '"sound://category_nature/steady_campfire_loop.mp3"': varðeldur
+            '"sound://category_nature/forest_woodland_ambience_2.mp3"': skógur
+            '"sound://category_nature/summer_night_loop.mp3"': nótt
+            '"sound://category_background/ocean_waves.mp3"': úthaf
+            '"sound://category_background/rainforest_ambient_sound.mp3"': regnskógur
+            '"sound://category_background/wavering_wind.mp3"': syfjuleg/ur
+            '"sound://category_loops/stabilizing_breath_loop1.mp3"': hægt
+      Poetry_playSound:
+        text: spilaHljóð {SOUND}
+        options:
+          SOUND:
+            '"sound://category_bell/long_bell_notification.mp3"': bjalla
+            '"sound://category_pop/bubble_pop_cluster_2.mp3"': bóla
+            '"sound://category_jump/vibrant_game_jumping_up_1.mp3"': hoppa
+            '"sound://category_achievements/lighthearted_bonus_objective_5.mp3"': ljós
+      Poetry_playSoundOptionsSpace:
+        text: spilaHljóð {SOUND}
+      Poetry_setBackground:
+        text: stilla bakgrunnslitinn {COLOR}
+      Poetry_setBackgroundEffect:
+        options:
+          EFFECT:
+            '"bubbles"': Sápukúlur
+            '"clouds"': skýjað
+            '"confetti"': Skraut
+            '"hearts"': hjörtu
+            '"space"': Geimur
+            '"rain"': regn
+            '"ripples"': Gárur
+            '"colors"': Litir
+            '"stars"': Stjörnur
+            '"squiggles"': Hrafnaspark
+          PALETTE:
+            '"ocean"': úthaf
+            '"rainbow"': regnbogi
+            '"spring"': gormur
+            '"winter"': vetur
+      Poetry_setBackgroundImageAs:
+        text: stilla bakgrunn á {IMG}
+      Poetry_setForegroundEffect:
+        options:
+          EFFECT:
+            '"bubbles"': Sápukúlur
+            '"confetti"': Skraut
+            '"hearts"': hjörtu
+            '"rain"': regn
+            '"starburst"': Stjörnublossi
+      Poetry_startBehavior:
+        options:
+          BEHAVIOR:
+            '"swimming_left_and_right"': syndandi
+      Poetry_stopBehavior:
+        options:
+          BEHAVIOR:
+            '"swimming_left_and_right"': syndandi
+      Poetry_textVariableJoin:
+        text: "{VAR}{TEXT2}"
+      Poetry_whenLineShows:
+        options:
+          'N':
+            '0': "???"
+            '1': '1'
+            '2': '2'
+            '3': '3'
+            '4': '4'
+            '5': '5'
+            '6': '6'
+            '7': '7'
+            '8': '8'
+            '9': '9'
+            '10': '10'
+            '11': '11'
+            '12': '12'
+            '13': '13'
+            '14': '14'
+            '15': '15'
+      Poetry_whenPromptAnswered:
+        text: þegar {VAR} er svarað
+      RyanLab_moveForward:
+        text: færa áfram
+      RyanLab_turnLeft:
+        text: snúa til vinstri
+      RyanLab_turnRight:
+        text: snúa til hægri
+      Vector_createSpriteWith:
+        text: |-
+          búa til veru
+          gera {STATEMENT}
+      Vector_log:
+        text: skrá boð {MESSAGE}
+      Vector_positionCenter:
+        text: í miðju
+      Vector_push:
+        text: stilla hraða {VECTOR}
+      Vector_randomLocation:
+        text: staður af handahófi
+      Vector_setColor:
+        text: stilla lit á {COLOR}
+      Vector_setSize:
+        text: stilla breidd {WIDTH} hæð {HEIGHT}
+      Vector_teleportTo:
+        text: stilla stað á {POSITION}
+      Vector_vectorNorth:
+        text: norður
+      Vector_where:
+        text: allar verur með {PROPERTY} = {VALUE} gera {STATEMENT}
+        options:
+          PROPERTY:
+            "'shapeColor'": litur
+      aalab_layoutSprites:
+        options:
+          FORMAT:
+            '"grid"': fylking
+            '"border"': rammi
+            '"row"': bekkur
+            '"random"': eitthvað
+      aalab_someGraduallyStartIntervention:
+        options:
+          PORTION:
+            '1': allt
+      aalab_someStartIntervention:
+        options:
+          PORTION:
+            '1': allt
+      aalab_spriteSayChoices:
+        text: "{SPRITE} segir {SPEECH}"
+      binary_drawBin:
+        text: teikna tvíund {BIN}
+      binary_drawBinScreen:
+        text: |-
+          teikna skjá
+          {B1}
+          {B2}
+          {B3}
+          {B4}
+          {B5}
+          {B6}
+          {B7}
+          {B8}
+      binary_drawDec:
+        text: teikna tugatölu {DEC}
+      binary_drawPixelHere:
+        text: stilla díl {VAL}
+        options:
+          VAL:
+            '0': af
+            '1': á
+            '"toggle"': víxla
+      binary_drawString:
+        text: teikna streng {STR}
+      binary_goTo:
+        text: hoppa á {LOC}
+      binary_goToHome:
+        text: hoppa efst vinstri
+      binary_gridSize:
+        text: stilla stærð hnita {SIZE}
+      binary_move:
+        text: færa {DIR}
+        options:
+          DIR:
+            '"up"': upp
+            '"down"': niður
+            '"left"': vinstri
+            '"right"': hægri
+      binary_whenKey:
+        text: þegar ýtt er á {KEY}
+        options:
+          KEY:
+            '"up"': upp
+            '"down"': niður
+            '"left"': vinstri
+            '"right"': hægri
+            '"space"': geimur
+            '"a"': a
+            '"w"': w
+            '"s"': s
+            '"d"': d
+      craft_ifPath:
+        text: |-
+          ef slóð {DIR}
+          {STATEMENT}
+        options:
+          DIR:
+            "'ahead'": framfyrir
+            "'right'": til hægri
+            "'left'": til vinstri
+      craft_ifStandingOn:
+        text: |-
+          ef stendur á {TYPE}
+          {STATEMENT}
+        options:
+          TYPE:
+            "'blueCoralBlock'": blár kórall
+            "'redCoralBlock'": rauður kórall
+            "'sand'": sand
+            "'wool_blue'": djúpsjár
+            "'planksOak'": eikarplanka
+            "'seaLantern'": sælukt
+      craft_ifStandingOnLimit:
+        text: |-
+          ef stendur á {TYPE}
+          {STATEMENT}
+        options:
+          TYPE:
+            "'sand'": sand
+            "'darkPrismarine'": dökkt prismarín
+            "'seaLantern'": sælukt
+      craft_log:
+        text: skrá boð {MESSAGE}
+      craft_moveForward:
+        text: færa áfram
+      craft_placeBlock:
+        text: setja {blockType}
+        options:
+          blockType:
+            '"strippedOak"': afrifin eik
+            '"strippedDarkOak"': afrifin dökk eik
+            '"stoneBricks"': steinn
+            '"mossyStoneBricks"': mosavaxinn steinn
+            '"crackedStoneBricks"': sprunginn steinn
+            '"chiseledStoneBricks"': skrautskornir steinar
+            '"blueCoralBlock"': blár kórall
+            '"pinkCoralBlock"': bleikur kórall
+            '"magentaCoralBlock"': blárauður kórall
+            '"redCoralBlock"': rauður kórall
+            '"yellowCoralBlock"': gulur kórall
+            '"blueDeadCoralBlock"': dauður blár kórall
+            '"pinkDeadCoralBlock"': dauður bleikur kórall
+            '"magentaDeadCoralBlock"': dauður blárauður kórall
+            '"readDeadCoralBlock"': dauður rauður kórall
+            '"yellowDeadCoralBlock"': dauður gulur kórall
+            '"prismarine"': prismarín
+            '"darkPrismarine"': dökkt prismarín
+            '"seaLantern"': sælukt
+            '"packedIce"': ísklumpur
+            '"blueIce"': blár ís
+            '"blackConcrete"': svört steinsteypa
+            '"seaGrass"': sægras
+            '"kelp"': þang
+            '"polishedGranite"': slípað granít
+      craft_placePrismarine:
+        text: setja prísmarín
+      craft_placeTorch:
+        text: setja kyndil
+      craft_repeatUntilConduit:
+        text: |-
+          endurtaka þar til leiðsla fullgerð
+          {STATEMENT}
+      craft_repeatUntilGoal:
+        text: |-
+          endurtaka þar til marki náð
+          {STATEMENT}
+      craft_spawnEntity:
+        text: skapa {ENTITY}
+        options:
+          ENTITY:
+            '"cod"': þorskur
+            '"dolphin"': höfrungur
+            '"salmon"': lax
+            '"seaTurtle"': sæskjaldbaka
+            '"squid"': smokkfiskur
+            '"tropicalFish"': heitsjávarfiskur
+      craft_turn:
+        text: snúa {DIR}
+        options:
+          DIR:
+            right: hægri ↻
+            left: vinstri ↺
+      ecosystems_int10:
+        options:
+          VALUE:
+            '1': '1'
+            '2': '2'
+            '3': '3'
+            '4': '4'
+            '5': '5'
+            '6': '6'
+            '7': '7'
+            '8': '8'
+            '9': '9'
+            '10': '10'
+      storylab_printText:
+        text: prenta {TEXT}
+      storylab_setForegroundEffect2:
+        options:
+          EFFECT:
+            '"bubbles"': Sápukúlur
+            '"confetti"': Skraut
+            '"hearts"': hjörtu
+            '"rain"': regn
+            '"starburst"': Stjörnublossi

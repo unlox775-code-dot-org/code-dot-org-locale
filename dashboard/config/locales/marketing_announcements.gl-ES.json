@@ -1,0 +1,16 @@
+{
+  "gl-ES": {
+    "data": {
+      "marketing_announcements": {
+        "banners": {
+          "hoc-2023": {
+            "buttonText": "Aprender máis"
+          },
+          "superhero": {
+            "buttonText": "Aprende máis"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "banners": {
+    "superhero": {
+      "title": "Tulungan ang iyong mga mag-aaral na maging mga superhero!",
+      "body": "Sumali sa aming napakahalagang Professional Learning Program para sa mga guro sa gitna at mataas na paaralan.",
+      "buttonText": "Dagdagan ang Kaalaman"
+    },
+    "hoc-2023": {
+      "title": "Hour of Code: Pagigigng Malikhain gamit ang AI",
+      "body": "Sumali sa milyun-milyong tao sa buong mundo sa pag-organisa ng isang oras ng pag-coding, na may AI o walang AI at matuto kung paano gumagana ang AI. Maaaring gawin ito ng sinuman, saanman. Hindi kailangan ng karanasan.",
+      "buttonText": "Matuto nang higit pa"
+    },
+    "curriculum-launch-2024": {
+      "title": "Tuklasin ang bagong at na-update na kurikulum!",
+      "body": "Tuklasin ang aming pinakabagong mga yunit at mga mapagkukunan ng professional learning upang mag-inspire ng mga hinaharap na mga tech innovator.",
+      "buttonText": "Tingnan kung ano ang bago"
+    },
+    "progress-launch": {
+      "title": "Nag-level up na ang pagsubaybay sa progreso!",
+      "body": "Madaliang bantayan ang gawain ng mag-aaral, magbigay ng maagang feedback, at gawing simple ang pagmamarka gamit ang aming mabilis, subok na interface ng guro. Makatipid ng oras at makakuha ng mahalagang kaalaman sa pagganap ng iyong mga mag-aaral, lahat sa isang intuitibong tool.",
+      "buttonText": "Subukan ngayon"
+    }
+  }
+}

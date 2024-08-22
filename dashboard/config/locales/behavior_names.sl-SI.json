@@ -1,0 +1,23 @@
+{
+  "sl-SI": {
+    "data": {
+      "behavior_names": {
+        "csc_animal_adaptations_choice1": {
+          "moving NSEW with arrow keys": "premikanje NSEW s puščičnimi tipkami"
+        },
+        "csc_animal_adaptations_choice2": {
+          "moving NSEW with arrow keys": "premikanje NSEW s puščičnimi tipkami"
+        },
+        "csc_animal_adaptations_choice3": {
+          "moving NSEW with arrow keys": "premikanje NSEW s puščičnimi tipkami"
+        },
+        "csc_animal_adaptations_migration": {
+          "moving NSEW with arrow keys": "premikanje NSEW s puščičnimi tipkami"
+        },
+        "csc_ecosystems_solution3A_2023": {
+          "fishing": "ribolov"
+        }
+      }
+    }
+  }
+}

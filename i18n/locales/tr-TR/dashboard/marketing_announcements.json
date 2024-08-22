@@ -1,0 +1,24 @@
+{
+  "banners": {
+    "superhero": {
+      "title": "\nÖğrencilerinizin süper kahraman olmalarına yardımcı olun!",
+      "body": "Ortaokul ve lise eğitimcilerine yönelik son derece destekleyici Profesyonel Öğrenme Programımıza katılın.",
+      "buttonText": "Daha Fazla Bilgi Edinin"
+    },
+    "hoc-2023": {
+      "title": "Hour of Code: Yapay Zeka ile Yaratıcılık",
+      "body": "Yapay zeka ile veya yapay zeka olmadan bir saatlik kodlama düzenlemek ve yapay zekanın nasıl çalıştığını öğrenmek için dünya çapındaki milyonlara katılın. Herkes, her yerde bunu yapabilir. Deneyime gerek yok.",
+      "buttonText": "Daha fazlasını öğren"
+    },
+    "curriculum-launch-2024": {
+      "title": "Yeni ve güncellenmiş müfredatı keşfedin!",
+      "body": "Gelecekteki teknoloji yenilikçilerini ilham almak için en son birimlerimizi ve profesyonel öğrenme kaynaklarımızı keşfedin.",
+      "buttonText": "Yeniliklere bakın"
+    },
+    "progress-launch": {
+      "title": "Ilerleme takibi yeni seviyeye yükseldi!",
+      "body": "Öğrenci çalışmalarını zahmetsiz bir şekilde izleyin, zamanında geri bildirim sağlayın ve hızlı, öğretmen tarafından test edilmiş arayüzümüzle not verme işlemini kolaylaştırın. Zaman kazanın ve değerli içgörüler elde edin, hepsi tek bir sezgisel araçta.",
+      "buttonText": "Şimdi dene"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+---
+co:
+  data:
+    blocks:
+      RyanLab_moveForward:
+        text: avanzà
+      RyanLab_turnLeft:
+        text: girà à manca
+      RyanLab_turnRight:
+        text: girà à diritta
+      craft_ifStandingOn:
+        options:
+          TYPE:
+            "'planksOak'": tavula di querciu
+      craft_moveForward:
+        text: avanzà

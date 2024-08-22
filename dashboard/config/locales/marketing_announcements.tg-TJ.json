@@ -1,0 +1,22 @@
+{
+  "tg-TJ": {
+    "data": {
+      "marketing_announcements": {
+        "banners": {
+          "hoc-2023": {
+            "buttonText": "Маълумоти бештар"
+          },
+          "hoc-2023-dance-ai": {
+            "buttonText": "Маълумоти бештар"
+          },
+          "music-lab-launch": {
+            "buttonText": "Маълумоти бештар"
+          },
+          "superhero": {
+            "buttonText": "Маълумоти бештар"
+          }
+        }
+      }
+    }
+  }
+}

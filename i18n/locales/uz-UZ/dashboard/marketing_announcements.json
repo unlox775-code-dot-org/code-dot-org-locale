@@ -1,0 +1,24 @@
+{
+  "banners": {
+    "superhero": {
+      "title": "",
+      "body": "",
+      "buttonText": "Batafsil"
+    },
+    "hoc-2023": {
+      "title": "Dasturlash Soati: SI yordamida Ijodkorlik",
+      "body": "SI bilan yoki SIsiz dasturlash soatini tashkil qilish va SI qanday ishlashini o'rganish uchun dunyo bo'ylab millionlab odamlarga qo'shiling. Har kim, istalgan joyda uni amalga oshirishi mumkin. Tajribaga ega bo'lish kerak emas.",
+      "buttonText": "Ko‘proq bilish"
+    },
+    "curriculum-launch-2024": {
+      "title": "",
+      "body": "",
+      "buttonText": ""
+    },
+    "progress-launch": {
+      "title": "",
+      "body": "",
+      "buttonText": ""
+    }
+  }
+}

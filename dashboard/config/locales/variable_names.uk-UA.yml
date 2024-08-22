@@ -1,0 +1,40 @@
+---
+uk:
+  data:
+    variable_names:
+      Blue: Синя
+      Green: Зелена
+      Red: Червона
+      actor: виконавець
+      age: вік
+      answer: відповідь
+      binary: двійкова система
+      birds: птахи
+      cats: коти
+      color: колір
+      counter: лічильник
+      dogs: собаки
+      height: висота
+      honey: мед
+      i: i
+      left: ліворуч
+      length: довжина
+      meal: порція
+      name: ім’я
+      nectar: нектар
+      object: об'єкта
+      planet: планета
+      points: балів
+      random: випадковий
+      repeat: повторити
+      right: праворуч
+      score: додати бал
+      sides: сторони
+      size: розмір
+      speed: швидкість
+      startX: startX
+      type: тип
+      variable: змінна
+      width: ширина
+      wizard: чарівник
+      x: x

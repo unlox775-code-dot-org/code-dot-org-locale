@@ -1,0 +1,25 @@
+{
+  "pt-PT": {
+    "data": {
+      "marketing_announcements": {
+        "banners": {
+          "curriculum-launch-2024": {
+            "body": "Explore nossas últimas unidades e recursos de aprendizagem profissional para inspirar futuros inovadores da tecnologia.",
+            "buttonText": "Veja o que há de novo",
+            "title": "Descubra currículo novo e atualizado!"
+          },
+          "hoc-2023": {
+            "body": "Aderir a milhões em todo o mundo na organização de uma hora de codificação, com ou sem IA, e aprendendo como a IA funciona. Qualquer pessoa, em qualquer lugar, pode fazê-lo. Nenhuma experiência necessária.",
+            "buttonText": "Saber mais",
+            "title": "Hora do Código: Criatividade com IA"
+          },
+          "superhero": {
+            "body": "Aderir ao nosso altamente solidário Programa de Aprendizagem Profissional para educadores do ensino médio e secundário.",
+            "buttonText": "Saber mais",
+            "title": "Ajude seus alunos a se tornarem super-heróis!"
+          }
+        }
+      }
+    }
+  }
+}

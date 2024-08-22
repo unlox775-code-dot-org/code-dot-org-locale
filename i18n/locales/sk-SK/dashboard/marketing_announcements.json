@@ -1,0 +1,24 @@
+{
+  "banners": {
+    "superhero": {
+      "title": "Pomôžte svojim žiakom stať sa superhrdinami!",
+      "body": "Zapojte sa do nášho Programu odborného vzdelávania pre 2. stupeň základných škôl stredné školy.",
+      "buttonText": "Ďalšie informácie"
+    },
+    "hoc-2023": {
+      "title": "Hodina kódu: Kreativita pomocou AI",
+      "body": "Pridajte sa k miliónom ľudí po celom svete a zorganizujte Hodinu kódu s umelou inteligenciou alebo bez nej a naučte sa, ako funguje. Ktokoľvek a kdekoľvek sa môže zapojiť. Predchádzajúce skúsenosti nie sú potrebné.",
+      "buttonText": "Zistiť viac"
+    },
+    "curriculum-launch-2024": {
+      "title": "",
+      "body": "",
+      "buttonText": ""
+    },
+    "progress-launch": {
+      "title": "Sledovanie pokroku práve dosiahlo novú úroveň!",
+      "body": "S ľahkosťou sledujte prácu žiakov, poskytnite včasnú spätnú väzbu a zjednodušte hodnotenie pomocou našeho rýchleho, overeného učiteľského rozhrania. Ušetrite čas a získajte cenné poznatky o výkone vašich žiakov, všetko v jednom intuitívnom nástroji.",
+      "buttonText": "Skúsiť teraz"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "banners": {
+    "superhero": {
+      "title": "¡Ayuda a tus estudiantes a convertirse en superhéroes!",
+      "body": "Únete a nuestro altamente solidario Programa de Aprendizaje Profesional para educadores de secundaria y preparatoria.",
+      "buttonText": "Aprenda más"
+    },
+    "hoc-2023": {
+      "title": "Hora del Código: Creatividad con IA",
+      "body": "Súmate a millones de personas en todo el mundo y organiza una hora de programación para aprender cómo funciona la Inteligencia Artificial. Cualquiera, en cualquier lugar puede hacerlo sin necesidad de experiencia previa.",
+      "buttonText": "Aprende más"
+    },
+    "curriculum-launch-2024": {
+      "title": "¡Descubre el nuevo y actualizado plan de estudios!",
+      "body": "Explora nuestras últimas unidades y recursos de aprendizaje profesional para inspirar a futuros innovadores tecnológicos.",
+      "buttonText": "Mira las novedades"
+    },
+    "progress-launch": {
+      "title": "¡Hemos mejorado la barra de progreso!",
+      "body": "supervise el trabajo de los estudiantes, proporcione retroalimentación oportuna y simplifique la calificación con nuestra interfaz rápida y probada por maestros. Ahorre tiempo y obtenga información valiosa sobre el rendimiento de sus estudiantes, todo en una herramienta intuitiva.",
+      "buttonText": "Pruébelo ahora"
+    }
+  }
+}

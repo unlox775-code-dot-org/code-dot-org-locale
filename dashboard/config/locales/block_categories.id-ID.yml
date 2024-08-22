@@ -1,0 +1,36 @@
+---
+id:
+  data:
+    block_categories:
+      Actions: Aksi
+      Advanced: Tingkat lanjut
+      Behaviors: Perilaku
+      Brushes: Kuas
+      Category: Kategori
+      Color: Warna
+      Comment: Komentar
+      Comments: Komentar
+      Conditionals: Kondisi
+      Dancers: Pedansa
+      Default: Default
+      Effects: Efek
+      Events: Kegiatan
+      Functions: Fungsi
+      'Functions ': 'Function '
+      Game/Score: Permainan/Skor
+      Games/Score: Permainan/Skor
+      Groups: Grup
+      Input: Input
+      Location: Lokasi
+      Locations: Lokasi
+      Logic: Logika
+      Loops: Loop
+      Math: Matematika
+      Numbers: Nomor
+      Properties: Properti
+      Sprites: Sprites
+      Text: Teks
+      Variables: Variabel
+      'Variables ': 'Variable '
+      'Variables  ': 'Variable  '
+      World: Dunia

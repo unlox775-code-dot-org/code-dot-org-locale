@@ -1,0 +1,24 @@
+{
+  "banners": {
+    "superhero": {
+      "title": "Bantu siswa-siswa Anda menjadi superhero!",
+      "body": "Bergabunglah dengan Program Pembelajaran Profesional yang sangat mendukung kami untuk para pendidik sekolah menengah dan atas.",
+      "buttonText": "Pelajari lebih banyak"
+    },
+    "hoc-2023": {
+      "title": "Hour of Code: Kreativitas dengan AI",
+      "body": "Bergabunglah bersama jutaan orang di seluruh dunia dalam menyelenggarakan kegiatan coding satu jam, dengan atau tanpa AI dan mempelajari cara kerja AI. Siapapun, dan di manapun dapat  melakukannya. Tidak harus punya pengalaman.",
+      "buttonText": "Pelajari lebih lanjut"
+    },
+    "curriculum-launch-2024": {
+      "title": "Temukan kurikulum baru dan diperbarui!",
+      "body": "Jelajahi unit-unit terbaru kami dan sumber daya pembelajaran profesional untuk menginspirasi para inovator teknologi masa depan.",
+      "buttonText": "Lihat yang baru"
+    },
+    "progress-launch": {
+      "title": "Pelacakan kemajuan baru telah ditingkatkan!",
+      "body": "Monitor pekerjaan siswa dengan mudah, berikan umpan balik tepat waktu, dan sederhanakan penilaian dengan antarmuka yang cepat dan sudah diuji oleh guru kami. Hemat waktu dan peroleh wawasan berharga tentang kinerja siswa Anda, semua dalam satu alat yang intuitif.",
+      "buttonText": "Pelajari lebih banyak"
+    }
+  }
+}

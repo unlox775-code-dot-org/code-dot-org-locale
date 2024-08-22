@@ -1,0 +1,19 @@
+{
+  "cs-CZ": {
+    "data": {
+      "failure_message_override": {
+        "MC HOC 2016 Level 2-2": "Pomocí příkazů „posuňte se dopředu“ a „otočte“ k tomu, aby se vaše kuře pohybovalo.",
+        "MC HOC 2016 Level 3": "Použijte blok „navždy do“ a příkazy „posuňte se vpřed“ a „otočte“, abyste udrželi své kuře v putování.",
+        "MC HOC 2016 Level 4": "Pokud se všechna kuřata pohybují stejným směrem, použijte „turn random“, aby se kuřata náhodně otočila doleva nebo doprava.",
+        "MC HOC 2016 Level 5": "Zkuste použít „Navždy dělat“ s „Posunout krok směrem k hráči“.",
+        "MC HOC 2016 Level 6": "Použijte příkaz `spawn zombie` podmínkou `když je noc` k vytvoření alespoň tří zombie. Poté přidejte `posuň se o krok směrem k hráči` do jejich události `když jsou vytvořeni` s cyklem, který jim pomůže vás pronásledovat. Pokud jsou příliš rychlí, přidejte příkaz `čekej` k zpomalení jejich pohybu.",
+        "MC HOC 2016 Level 8": "Musíte použít explodujícíseho Creepera k vybuchnutí zdi, aby jste došli k své ovci.",
+        "MC HOC 2016 New Drop": "Pomocí kláves se šipkami přejdete k ovci a stiskněte mezerník nebo klikněte na herní desku pro použití ovce. A nezapomeňte do kódu přidat blok „Pustit“.",
+        "MC HOC 2016 New Spawn": "Umístěte `vytvořit ovci` pod `při spuštění`.",
+        "MC HOC 2016 New Walk": "Chcete-li otevřít dveře, stiskněte mezerník nebo se dotkněte herní desky, když jste před nemi. Běžte dovnitř, abyste pokračovali.",
+        "MC HOC 2016 SCORE LEVEL": "Pokud máte potíže s označením 5 golemů, zkuste změnit skóre na 2 za označení.",
+        "MC HOC 2016 Village Test": "Abyste vyhráli, musíte přimět Železného golema pronásledovat a zaútočit na zombie."
+      }
+    }
+  }
+}

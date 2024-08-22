@@ -1,0 +1,591 @@
+---
+ku:
+  data:
+    script:
+      name:
+        2021drafting:
+          lesson_groups:
+            lessonGroup-3:
+              display_name: گۆڕاوەکان
+        2022drafting:
+          lesson_groups:
+            lessonGroup-8:
+              display_name: كاژێری كۆدنووسی
+        Hour of Code:
+          name: كاژێری كۆدنووسی
+        contagion-pilot:
+          description_audience: پۆلەكانی 5
+        course1:
+          description_audience: تەمەنی ٤-٦
+          title: Ders 1
+        course2:
+          title: Ders 2
+        course3:
+          title: Ders 3
+        course4:
+          title: Ders 4
+        coursea-2019:
+          lesson_groups:
+            csf_loops:
+              display_name: گرێکان
+        coursea-2020:
+          lesson_groups:
+            csf_loops:
+              display_name: گرێکان
+        coursea-2021:
+          lesson_groups:
+            csf_loops:
+              display_name: گرێکان
+        coursea-2022:
+          lesson_groups:
+            csf_loops:
+              display_name: گرێکان
+        coursea-2023:
+          lesson_groups:
+            csf_loops:
+              display_name: گرێکان
+        coursea-2024:
+          lesson_groups:
+            csf_loops:
+              display_name: گرێکان
+        courseb-2019:
+          lesson_groups:
+            csf_loops:
+              display_name: گرێکان
+        courseb-2020:
+          lesson_groups:
+            csf_loops:
+              display_name: گرێکان
+        courseb-2021:
+          lesson_groups:
+            csf_loops:
+              display_name: گرێکان
+        courseb-2022:
+          lesson_groups:
+            csf_loops:
+              display_name: گرێکان
+        courseb-2023:
+          lesson_groups:
+            csf_loops:
+              display_name: گرێکان
+        courseb-2024:
+          lesson_groups:
+            csf_loops:
+              display_name: گرێکان
+        coursec-2019:
+          lesson_groups:
+            csf_loops:
+              display_name: گرێکان
+        coursec-2020:
+          lesson_groups:
+            csf_loops:
+              display_name: گرێکان
+        coursec-2021:
+          lesson_groups:
+            csf_loops:
+              display_name: گرێکان
+        coursec-2022:
+          lesson_groups:
+            csf_loops:
+              display_name: گرێکان
+        coursec-2023:
+          lesson_groups:
+            csf_loops:
+              display_name: گرێکان
+        coursec-2024:
+          lesson_groups:
+            csf_loops:
+              display_name: گرێکان
+        coursed-2019:
+          lesson_groups:
+            csf_conditionals:
+              display_name: مەرجیەکان
+            csf_loops:
+              display_name: گرێکان
+        coursed-2020:
+          lesson_groups:
+            csf_conditionals:
+              display_name: مەرجیەکان
+            csf_loops:
+              display_name: گرێکان
+        coursed-2021:
+          lesson_groups:
+            csf_conditionals:
+              display_name: مەرجیەکان
+            csf_loops:
+              display_name: گرێکان
+        coursed-2022:
+          lesson_groups:
+            csf_conditionals:
+              display_name: مەرجیەکان
+            csf_loops:
+              display_name: گرێکان
+        coursed-2023:
+          lesson_groups:
+            csf_conditionals:
+              display_name: مەرجیەکان
+            csf_loops:
+              display_name: گرێکان
+        coursed-2024:
+          lesson_groups:
+            csf_conditionals:
+              display_name: مەرجیەکان
+            csf_loops:
+              display_name: گرێکان
+        coursee-2019:
+          lesson_groups:
+            csf_functions:
+              display_name: فرمانەکان
+        coursee-2020:
+          lesson_groups:
+            csf_functions:
+              display_name: فرمانەکان
+        coursee-2021:
+          lesson_groups:
+            csf_functions:
+              display_name: فرمانەکان
+            csf_nested_loops:
+              display_name: مەرجیەکان
+        coursee-2022:
+          lesson_groups:
+            csf_functions:
+              display_name: فرمانەکان
+            csf_nested_loops:
+              display_name: مەرجیەکان
+        coursee-2023:
+          lesson_groups:
+            csf_functions:
+              display_name: فرمانەکان
+            csf_nested_loops:
+              display_name: مەرجیەکان
+        coursee-2024:
+          lesson_groups:
+            csf_functions:
+              display_name: فرمانەکان
+            csf_nested_loops:
+              display_name: مەرجیەکان
+        coursef-2019:
+          lesson_groups:
+            csf_variables:
+              display_name: گۆڕاوەکان
+        coursef-2020:
+          lesson_groups:
+            csf_variables:
+              display_name: گۆڕاوەکان
+        coursef-2021:
+          lesson_groups:
+            lessonGroup-8:
+              display_name: گۆڕاوەکان
+            lessonGroup-9:
+              display_name: لابردن
+        coursef-2022:
+          lesson_groups:
+            lessonGroup-8:
+              display_name: گۆڕاوەکان
+        coursef-2022-pilot:
+          lesson_groups:
+            lessonGroup-8:
+              display_name: گۆڕاوەکان
+        coursef-2023:
+          lesson_groups:
+            lessonGroup-4:
+              display_name: گۆڕاوەکان
+        coursef-2024:
+          lesson_groups:
+            lessonGroup-4:
+              display_name: گۆڕاوەکان
+        csa1-2023:
+          lessons:
+            lesson-6:
+              name: گرێکان
+        csa2-2023:
+          lessons:
+            lesson-4:
+              name: گۆڕاوەکان
+        csf-2021-pilot:
+          lesson_groups:
+            lessonGroup-3:
+              display_name: گۆڕاوەکان
+            variables:
+              display_name: گۆڕاوەکان
+        csf-2022-pilot:
+          lesson_groups:
+            lessonGroup-3:
+              display_name: گۆڕاوەکان
+        csl-vn:
+          lesson_groups:
+            csf_loops:
+              display_name: گرێکان
+        csp1-pilot-staging:
+          lesson_groups:
+            csp_conditionals:
+              display_name: مەرجیەکان
+            csp_functions:
+              display_name: فرمانەکان
+            csp_variables:
+              display_name: گۆڕاوەکان
+        csp10-pilot-staging:
+          lesson_groups:
+            csp_conditionals:
+              display_name: مەرجیەکان
+            csp_functions:
+              display_name: فرمانەکان
+            csp_variables:
+              display_name: گۆڕاوەکان
+        csp2-pilot-staging:
+          lesson_groups:
+            csp_conditionals:
+              display_name: مەرجیەکان
+            csp_functions:
+              display_name: فرمانەکان
+            csp_variables:
+              display_name: گۆڕاوەکان
+        csp4-2020:
+          lesson_groups:
+            csp_conditionals:
+              display_name: مەرجیەکان
+            csp_functions:
+              display_name: فرمانەکان
+            csp_variables:
+              display_name: گۆڕاوەکان
+        csp4-2021:
+          lesson_groups:
+            csp_conditionals:
+              display_name: مەرجیەکان
+            csp_functions:
+              display_name: فرمانەکان
+            csp_variables:
+              display_name: گۆڕاوەکان
+        csp4-2022:
+          lesson_groups:
+            csp_conditionals:
+              display_name: مەرجیەکان
+            csp_functions:
+              display_name: فرمانەکان
+            csp_variables:
+              display_name: گۆڕاوەکان
+        csp4-2023:
+          lesson_groups:
+            csp_conditionals:
+              display_name: مەرجیەکان
+            csp_functions:
+              display_name: فرمانەکان
+            csp_variables:
+              display_name: گۆڕاوەکان
+        csp4-2024:
+          lesson_groups:
+            csp_conditionals:
+              display_name: مەرجیەکان
+            csp_functions:
+              display_name: فرمانەکان
+            csp_variables:
+              display_name: گۆڕاوەکان
+        csp4-pilot:
+          lesson_groups:
+            csp_conditionals:
+              display_name: مەرجیەکان
+            csp_functions:
+              display_name: فرمانەکان
+            csp_variables:
+              display_name: گۆڕاوەکان
+        csp4-pilot-staging:
+          lesson_groups:
+            csp_conditionals:
+              display_name: مەرجیەکان
+            csp_functions:
+              display_name: فرمانەکان
+            csp_variables:
+              display_name: گۆڕاوەکان
+        csp4-preview:
+          lesson_groups:
+            csp_conditionals:
+              display_name: مەرجیەکان
+            csp_functions:
+              display_name: فرمانەکان
+            csp_variables:
+              display_name: گۆڕاوەکان
+        csp5-2020:
+          lesson_groups:
+            csp_lists:
+              display_name: لیستەکان
+            csp_loops:
+              display_name: گرێکان
+        csp5-2021:
+          lesson_groups:
+            csp_lists:
+              display_name: لیستەکان
+            csp_loops:
+              display_name: گرێکان
+        csp5-2022:
+          lesson_groups:
+            csp_lists:
+              display_name: لیستەکان
+            csp_loops:
+              display_name: گرێکان
+        csp5-2023:
+          lesson_groups:
+            csp_loops:
+              display_name: گرێکان
+        csp5-pilot:
+          lesson_groups:
+            csp_lists:
+              display_name: لیستەکان
+            csp_loops:
+              display_name: گرێکان
+        csp5-pilot-staging:
+          lesson_groups:
+            csp_lists:
+              display_name: لیستەکان
+            csp_loops:
+              display_name: گرێکان
+        csp6-2021:
+          lesson_groups:
+            csp_unit6_2020:
+              display_name: خوارزمیەکان
+        csp6-2023:
+          lesson_groups:
+            csp_unit6_2020:
+              display_name: لیستەکان
+            lessonGroup-3:
+              display_name: گرێکان
+        csp6-2024:
+          lesson_groups:
+            csp_unit6_2020:
+              display_name: لیستەکان
+            lessonGroup-3:
+              display_name: گرێکان
+        csp6-pilot-staging:
+          lesson_groups:
+            csp_conditionals:
+              display_name: مەرجیەکان
+            csp_functions:
+              display_name: فرمانەکان
+            csp_variables:
+              display_name: گۆڕاوەکان
+        csp8-pilot-staging:
+          lesson_groups:
+            csp_conditionals:
+              display_name: مەرجیەکان
+            csp_functions:
+              display_name: فرمانەکان
+            csp_variables:
+              display_name: گۆڕاوەکان
+        csp9-pilot-staging:
+          lesson_groups:
+            csp_conditionals:
+              display_name: مەرجیەکان
+            csp_functions:
+              display_name: فرمانەکان
+            csp_variables:
+              display_name: گۆڕاوەکان
+        cspplayground:
+          lesson_groups:
+            csp_conditionals:
+              display_name: مەرجیەکان
+            csp_functions:
+              display_name: فرمانەکان
+            csp_variables:
+              display_name: گۆڕاوەکان
+        dlp21-csd:
+          lesson_groups:
+            lessonGroup-2:
+              description: تاقیکردنەوە
+        dlp21-csp-mod4:
+          lesson_groups:
+            lessonGroup-2:
+              display_name: قۆناغی 1
+            lessonGroup-3:
+              display_name: قۆناغی 2
+        express-2019:
+          lesson_groups:
+            csf_conditionals:
+              display_name: مەرجیەکان
+            csf_functions:
+              display_name: فرمانەکان
+            csf_loops:
+              display_name: گرێکان
+            csf_variables:
+              display_name: گۆڕاوەکان
+        express-2020:
+          lesson_groups:
+            csf_conditionals:
+              display_name: مەرجیەکان
+            csf_functions:
+              display_name: فرمانەکان
+            csf_loops:
+              display_name: گرێکان
+            csf_variables:
+              display_name: گۆڕاوەکان
+        express-2021:
+          lesson_groups:
+            csf_conditionals:
+              display_name: مەرجیەکان
+            csf_functions:
+              display_name: فرمانەکان
+            csf_loops:
+              display_name: گرێکان
+            csf_variables:
+              display_name: گۆڕاوەکان
+        express-2022:
+          lesson_groups:
+            csf_conditionals:
+              display_name: مەرجیەکان
+            csf_functions:
+              display_name: فرمانەکان
+            csf_loops:
+              display_name: گرێکان
+            csf_variables:
+              display_name: گۆڕاوەکان
+        express-2023:
+          lesson_groups:
+            csf_conditionals:
+              display_name: مەرجیەکان
+            csf_functions:
+              display_name: فرمانەکان
+            csf_loops:
+              display_name: گرێکان
+            csf_variables:
+              display_name: گۆڕاوەکان
+        express-2024:
+          lesson_groups:
+            csf_conditionals:
+              display_name: مەرجیەکان
+            csf_functions:
+              display_name: فرمانەکان
+            csf_loops:
+              display_name: گرێکان
+            csf_variables:
+              display_name: گۆڕاوەکان
+            lessonGroup-4:
+              display_name: گرێکان
+            lessonGroup-5:
+              display_name: مەرجیەکان
+            lessonGroup-6:
+              display_name: فرمانەکان
+            lessonGroup-7:
+              display_name: گۆڕاوەکان
+        gamelab:
+          title: تاقیگەی یاری
+        gettingstarted-k5:
+          lessons:
+            lesson-1:
+              name: تاقیکردنەوە
+            lesson-2:
+              name: t
+        grade1:
+          title: پۆلەكانی 1
+        grade3:
+          title: پۆلەكانی 3
+        grade4:
+          title: پۆلەكانی 4
+        grade5:
+          title: پۆلەكانی 5
+        jigsaw:
+          title: مەتەڵە وێنە
+        k5-unplugged:
+          lesson_groups:
+            lessonGroup-10:
+              display_name: گۆڕاوەکان
+            lessonGroup-3:
+              display_name: گرێکان
+            lessonGroup-8:
+              display_name: مەرجیەکان
+            lessonGroup-9:
+              display_name: فرمانەکان
+        netsim:
+          title: هاوشێوەسازی ئینتەرنێت
+        nevada-standards-aligned-fifth-grade-2023:
+          lesson_groups:
+            lessonGroup-3:
+              display_name: مەرجیەکان
+            lessonGroup-5:
+              display_name: گۆڕاوەکان
+        nevada-standards-aligned-first-grade-2023:
+          lesson_groups:
+            lessonGroup-4:
+              display_name: گرێکان
+        nevada-standards-aligned-fourth-grade-2023:
+          lesson_groups:
+            lessonGroup-4:
+              display_name: فرمانەکان
+        nevada-standards-aligned-kindergarten-2023:
+          lesson_groups:
+            lessonGroup-4:
+              display_name: گرێکان
+        nevada-standards-aligned-second-grade-2023:
+          lesson_groups:
+            lessonGroup-4:
+              display_name: گرێکان
+        nevada-standards-aligned-third-grade-2023:
+          lesson_groups:
+            lessonGroup-6:
+              display_name: گرێکان
+        pre-express-2019:
+          lesson_groups:
+            csf_loops:
+              display_name: گرێکان
+        pre-express-2020:
+          lesson_groups:
+            csf_loops:
+              display_name: گرێکان
+        pre-express-2021:
+          lesson_groups:
+            csf_loops:
+              display_name: گرێکان
+        pre-express-2022:
+          lesson_groups:
+            csf_loops:
+              display_name: گرێکان
+        pre-express-2023:
+          lesson_groups:
+            csf_loops:
+              display_name: گرێکان
+        pre-express-2024:
+          lesson_groups:
+            csf_loops:
+              display_name: گرێکان
+            lessonGroup-3:
+              display_name: گرێکان
+        self-paced-pl-k5-2024-1:
+          lessons:
+            lesson-3:
+              name: گرێکان
+            lesson-4:
+              name: مەرجیەکان
+          title: پێشەكیەک بۆ زانستی کۆمپیوتەر
+        self-paced-pl-k5-2024-2:
+          lessons:
+            lesson-4:
+              name: ڕەفتارەکان
+        self-paced-pl-microbit-2024-1:
+          lessons:
+            lesson-2:
+              name: گرێکان
+            lesson-4:
+              name: مەرجیەکان
+            lesson-5:
+              name: فرمانەکان
+        soccer:
+          name: یاری تۆپی پێ
+        test-nv-coursea-2023:
+          lesson_groups:
+            lessonGroup-4:
+              display_name: گرێکان
+        time4cs-control-unit-1:
+          lesson_groups:
+            csf_conditionals:
+              display_name: مەرجیەکان
+            csf_loops:
+              display_name: گرێکان
+        time4cs-control-unit-2:
+          lesson_groups:
+            csf_conditionals:
+              display_name: مەرجیەکان
+            csf_functions:
+              display_name: فرمانەکان
+        time4cs-experiment-unit-1:
+          lesson_groups:
+            csf_conditionals:
+              display_name: مەرجیەکان
+            csf_loops:
+              display_name: گرێکان

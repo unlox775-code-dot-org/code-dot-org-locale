@@ -1,0 +1,206 @@
+{
+  "fa-IR": {
+    "data": {
+      "reference_guides": {
+        "csd-2022/accelerometer-events": {
+          "display_name": "رویدادهای شتاب سنج"
+        },
+        "csd-2022/app-lab": {
+          "display_name": "لابراتوار اپ"
+        },
+        "csd-2022/applab-overview": {
+          "display_name": "مرور کلی"
+        },
+        "csd-2022/board-events": {
+          "display_name": "رویدادهای بورد"
+        },
+        "csd-2022/circuit-playground": {
+          "display_name": "مرور کلی زمین بازی مدار"
+        },
+        "csd-2022/collision-detection": {
+          "display_name": "تشخیص تصادم"
+        },
+        "csd-2022/css-overview": {
+          "display_name": "مرور کلی"
+        },
+        "csd-2022/design-mode": {
+          "display_name": "حالت طراحی"
+        },
+        "csd-2022/for-loops": {
+          "display_name": "حلقه های \"برای\""
+        },
+        "csd-2022/functions": {
+          "display_name": "توابع"
+        },
+        "csd-2022/game-lab": {
+          "display_name": "لابراتوار بازی"
+        },
+        "csd-2022/game-lab-overview": {
+          "display_name": "مرور کلی"
+        },
+        "csd-2022/html-overview": {
+          "display_name": "مرور کلی"
+        },
+        "csd-2022/introduction-to-ai-lab": {
+          "display_name": "معرفی آزمایشگاه هوش مصنوعی"
+        },
+        "csd-2022/javascript": {
+          "display_name": "ویژوال بیسیک"
+        },
+        "csd-2022/javascript-overview": {
+          "display_name": "مرور کلی"
+        },
+        "csd-2022/lists": {
+          "display_name": "لیست ها"
+        },
+        "csd-2022/maker-toolkit": {
+          "display_name": "جعبه ابزار Maker"
+        },
+        "csd-2022/maker-toolkit-overview": {
+          "display_name": "مرور کلی"
+        },
+        "csd-2022/model-cards-in-ai-lab": {
+          "display_name": "کارت‌های مدل در آزمایشگاه هوش مصنوعی"
+        },
+        "csd-2022/other": {
+          "display_name": "دیگر"
+        },
+        "csd-2022/other-overview": {
+          "display_name": "مرور کلی"
+        },
+        "csd-2022/patterns-overview": {
+          "display_name": "مرور کلی"
+        },
+        "csd-2022/playing-notes": {
+          "display_name": "نکات بازی"
+        },
+        "csd-2022/problem-solving-process": {
+          "display_name": "فرایند حل مسئله"
+        },
+        "csd-2022/problem-solving-process-general": {
+          "display_name": "فرایند حل مسئله"
+        },
+        "csd-2022/sprite-properties": {
+          "display_name": "ویژگی‌های اسپرایت"
+        },
+        "csd-2022/sprites": {
+          "display_name": "پری"
+        },
+        "csd-2022/variables": {
+          "display_name": "متغیرها"
+        },
+        "csd-2022/velocity": {
+          "display_name": "سرعت"
+        },
+        "csd-2022/velocity-and-the-counter-pattern": {
+          "display_name": "الگوی شمارشگر و سرعت"
+        },
+        "csd-2022/web-lab": {
+          "display_name": "لابراتوار شبکه"
+        },
+        "csd-2022/which-type-of-chart": {
+          "content": "![](https://curriculum.code.org/media/uploads/Screenshot-2020-02-27-at-10.56.17-PM.png)"
+        },
+        "csd-2024/accelerometer-events": {
+          "display_name": "رویدادهای شتاب سنج"
+        },
+        "csd-2024/app-lab": {
+          "display_name": "لابراتوار اپ"
+        },
+        "csd-2024/applab-overview": {
+          "display_name": "مرور کلی"
+        },
+        "csd-2024/board-events": {
+          "display_name": "رویدادهای بورد"
+        },
+        "csd-2024/circuit-playground": {
+          "display_name": "مرور کلی زمین بازی مدار"
+        },
+        "csd-2024/collision-detection": {
+          "display_name": "تشخیص تصادم"
+        },
+        "csd-2024/css-overview": {
+          "display_name": "مرور کلی"
+        },
+        "csd-2024/design-mode": {
+          "display_name": "حالت طراحی"
+        },
+        "csd-2024/for-loops": {
+          "display_name": "حلقه های \"برای\""
+        },
+        "csd-2024/functions": {
+          "display_name": "توابع"
+        },
+        "csd-2024/game-lab": {
+          "display_name": "لابراتوار بازی"
+        },
+        "csd-2024/game-lab-overview": {
+          "display_name": "مرور کلی"
+        },
+        "csd-2024/html-overview": {
+          "display_name": "مرور کلی"
+        },
+        "csd-2024/introduction-to-ai-lab": {
+          "display_name": "معرفی آزمایشگاه هوش مصنوعی"
+        },
+        "csd-2024/javascript": {
+          "display_name": "ویژوال بیسیک"
+        },
+        "csd-2024/javascript-overview": {
+          "display_name": "مرور کلی"
+        },
+        "csd-2024/lists": {
+          "display_name": "لیست ها"
+        },
+        "csd-2024/maker-toolkit": {
+          "display_name": "جعبه ابزار Maker"
+        },
+        "csd-2024/maker-toolkit-overview": {
+          "display_name": "مرور کلی"
+        },
+        "csd-2024/model-cards-in-ai-lab": {
+          "display_name": "کارت‌های مدل در آزمایشگاه هوش مصنوعی"
+        },
+        "csd-2024/other": {
+          "display_name": "دیگر"
+        },
+        "csd-2024/other-overview": {
+          "display_name": "مرور کلی"
+        },
+        "csd-2024/patterns-overview": {
+          "display_name": "مرور کلی"
+        },
+        "csd-2024/playing-notes": {
+          "display_name": "نکات بازی"
+        },
+        "csd-2024/problem-solving-process": {
+          "display_name": "فرایند حل مسئله"
+        },
+        "csd-2024/problem-solving-process-general": {
+          "display_name": "فرایند حل مسئله"
+        },
+        "csd-2024/sprite-properties": {
+          "display_name": "ویژگی‌های اسپرایت"
+        },
+        "csd-2024/sprites": {
+          "display_name": "پری"
+        },
+        "csd-2024/variables": {
+          "display_name": "متغیرها"
+        },
+        "csd-2024/velocity": {
+          "display_name": "سرعت"
+        },
+        "csd-2024/velocity-and-the-counter-pattern": {
+          "display_name": "الگوی شمارشگر و سرعت"
+        },
+        "csd-2024/web-lab": {
+          "display_name": "لابراتوار شبکه"
+        },
+        "csd-2024/which-type-of-chart": {
+          "content": "![](https://curriculum.code.org/media/uploads/Screenshot-2020-02-27-at-10.56.17-PM.png)"
+        }
+      }
+    }
+  }
+}

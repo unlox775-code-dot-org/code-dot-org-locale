@@ -1,0 +1,17 @@
+---
+hu:
+  data:
+    parameter_names:
+      actor: szereplő
+      color: szín
+      counter: counter
+      height: magasság
+      honey: méz
+      left: balra
+      length: length
+      min: min
+      points: pontok
+      size: méret
+      speed: sebesség
+      theGuess: aTipp
+      width: szélesség

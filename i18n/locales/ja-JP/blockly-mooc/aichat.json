@@ -1,0 +1,7 @@
+{
+  "aichatWorkspaceHeader": "AI チャット",
+  "continue": "次へ",
+  "startOverAichatModelCustomizations": "このレベルを開始状態にリセットし、追加または変更したモデルのカスタマイズやモデルカード情報を削除します。",
+  "waitingForChatResponse": "返事を待っています...",
+  "whatIsPersonalInformation": "個人情報とはどのようなものですか？"
+}

@@ -1,0 +1,19 @@
+{
+  "addFile": "Přidat soubor",
+  "addSubFolder": "Přidat podsložku",
+  "deleteFile": "Smazat soubor",
+  "deleteFolder": "Smazat složku",
+  "duplicateFileError": "Název souboru {fileName} je už v tomto projektu používán. Vyberte prosím jiný název.",
+  "duplicateSupportFileError": "Název souboru {fileName} je už na této úrovni kódu podpory užíván. Vyberte prosím jiný název.",
+  "folderExistsError": "Složka již existuje s tímto názvem",
+  "makeStarter": "Vytvoř spouštěcí soubor",
+  "makeSupport": "Vytvoř soubor podpory",
+  "makeValidation": "Vytvoř ověřovací soubor",
+  "moveFile": "Přesunout soubor",
+  "moveFilePrompt": "Prosím zadejte cílovou složku",
+  "newFilePrompt": "Prosím, pojmenujte svůj nový soubor",
+  "newFolderPrompt": "Prosím, pojmenujte svůj nový soubor",
+  "noFileExtensionError": "Prosím uveďte příponu souboru",
+  "renameFile": "Přejmenovat soubor",
+  "renameFolder": "Přejmenovat složku"
+}

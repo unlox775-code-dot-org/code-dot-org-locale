@@ -1,0 +1,24 @@
+{
+  "banners": {
+    "superhero": {
+      "title": "",
+      "body": "",
+      "buttonText": "Mehr erfahren"
+    },
+    "hoc-2023": {
+      "title": "Hour of Code – Kreativität mit KI",
+      "body": "Schließen Sie sich Millionen Menschen auf der ganzen Welt an und veranstalten Sie eine Hour of Code mit oder ohne KI und lernen Sie, wie KI funktioniert. Jeder kann überall mitmachen, auch ohne Informatikkenntnisse oder Erfahrung.",
+      "buttonText": "Mehr erfahren"
+    },
+    "curriculum-launch-2024": {
+      "title": "",
+      "body": "",
+      "buttonText": ""
+    },
+    "progress-launch": {
+      "title": "",
+      "body": "",
+      "buttonText": ""
+    }
+  }
+}

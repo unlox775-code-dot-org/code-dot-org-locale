@@ -1,0 +1,29 @@
+{
+  "banners": {
+    "superhero": {
+      "title": "",
+      "body": "",
+      "buttonText": ""
+    },
+    "hoc-2023": {
+      "title": "",
+      "body": "",
+      "buttonText": ""
+    },
+    "hoc-2023-dance-ai": {
+      "title": "",
+      "body": "",
+      "buttonText": ""
+    },
+    "ai-teaching-assistant": {
+      "title": "",
+      "body": "",
+      "buttonText": ""
+    },
+    "music-lab-launch": {
+      "title": "",
+      "body": "",
+      "buttonText": ""
+    }
+  }
+}

@@ -1,0 +1,35 @@
+uz:
+  data:
+    block_categories:
+      Actions: Harakatlar
+      Advanced: Chuqurlashtirilgan
+      Behaviors: Xatti-harakatlar
+      Brushes: Choʻtkalar
+      Category: Turkum
+      Color: Rang
+      Comment: Fikr
+      Comments: Fikrlar
+      Conditionals: Shartli bayonotlar
+      Dancers: Raqqoslar
+      Default: Standart
+      Effects: Ta'sirlari
+      Events: Hodisalar
+      Functions: Funksiyalar
+      'Functions ': 'Funksiyalar '
+      Game/Score: O‘yin/Hisob
+      Games/Score: O‘yinlar/Hisob
+      Groups: Guruhlar
+      Input: Kiritish
+      Location: Manzil
+      Locations: Joylashuvlar
+      Logic: Mantiq
+      Loops: Sikllar
+      Math: Matematik
+      Numbers: Sonlar
+      Properties: Xususiyatlar
+      Sprites: Spraytlar
+      Text: Matn
+      Variables: O‘zgaruvchilar
+      'Variables ': 'Oʻzgaruvchilar '
+      'Variables  ': 'Oʻzgaruvchilar  '
+      World: Dunyo

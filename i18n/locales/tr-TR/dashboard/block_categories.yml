@@ -1,0 +1,38 @@
+tr:
+  data:
+    block_categories:
+      Actions: İşlemler
+      Advanced: İleri seviye
+      Behaviors: Davranışlar
+      'Behaviors ': 'Davranışlar '
+      Brushes: Fırçalar
+      Category: Kategori
+      Color: Renk
+      Comment: Yorum
+      Comments: Yorumlar
+      Conditionals: Koşullar
+      Dancers: Dansçılar
+      Default: Varsayılan
+      Effects: Efektler
+      Events: Olaylar
+      Functions: Fonksiyonlar
+      'Functions ': 'Fonksiyonlar'
+      Game/Score: Oyun/Skor
+      Games/Score: Oyunlar/skor
+      Groups: Gruplar
+      Input: Girdi
+      Location: Konum
+      Locations: Konumlar
+      Logic: Mantık
+      Loops: Döngüler
+      Math: Matematik
+      Numbers: Sayılar
+      Picker: Seçici
+      Prebuilt: Önceden oluşturulmuş
+      Properties: Özellikler
+      Sprites: Hareketli Nesneler
+      Text: yazı
+      Variables: Değişkenler
+      'Variables ': 'Değişkenler'
+      'Variables  ': 'Değişkenler  '
+      World: Dünya

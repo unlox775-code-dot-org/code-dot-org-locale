@@ -1,0 +1,76 @@
+{
+  "it-IT": {
+    "data": {
+      "validations": {
+        "musiclab_intro_change_sound": {
+          "musiclab_intro_change_sound_38551dcf-dfaf-4e47-8774-bd9f02621036": "Ottimo lavoro. Hai modificato il suono con successo.",
+          "musiclab_intro_change_sound_7a7f2fdb-0458-4b63-9a0a-7a19180b67f2": "Ottimo lavoro. Hai modificato il suono con successo.",
+          "musiclab_intro_change_sound_7eda7f13-3a56-42b1-a717-825eb8b01acf": "Per favore [modifica](#clickable=play-sound-block-workspace) il suono.",
+          "musiclab_intro_change_sound_e63fb4ba-f0d0-495e-bea2-82f0d20f0477": "Ottimo lavoro. Hai modificato il suono con successo.",
+          "musiclab_intro_change_sound_f2594aee-b7e0-461e-95c5-8edab4d0c41a": "Ottimo lavoro. Hai modificato il suono con successo."
+        },
+        "musiclab_intro_function": {
+          "musiclab_intro_function_46d4cb8f-7dcf-4b78-b963-ca78d8cb439f": "Riproduci un suono usando la funzione.",
+          "musiclab_intro_function_b6e6f37e-268f-42d2-bef5-62968613af46": "Ottimo lavoro. Hai usato con successo la funzione per riprodurre un suono."
+        },
+        "musiclab_intro_play_sound": {
+          "musiclab_intro_play_sound_10152a9d-29b4-46e9-9080-9ad7a8937433": "Trascina il blocco [riproduci](#clickable=play-sound-block) e attaccalo a [quando si clicca su \"Esegui\"](#clickable=when-run-block).",
+          "musiclab_intro_play_sound_34517aac-bcf5-4183-a71d-fafd0498e499": "Ottimo lavoro. Hai riprodotto il suono con successo."
+        },
+        "musiclab_intro_play_together": {
+          "musiclab_intro_play_together_5c2b8269-32d0-4798-b3e8-d679cb2a4be6": "Ottimo lavoro. Hai riprodotto con successo due suoni contemporaneamente.",
+          "musiclab_intro_play_together_92348942-2028-4cc9-bd77-bc96b4ce57a9": "È ottimo che tu abbia riprodotto un suono, ma ora devi riprodurne due conetmporaneamente.",
+          "musiclab_intro_play_together_ca6210c5-fb7e-473e-9428-d50c81e6faca": "Per favore, riproduci due suoni contemporaneamente."
+        },
+        "musiclab_intro_repeat": {
+          "musiclab_intro_repeat_28936cc0-3bfc-4c00-8319-5886b587b29c": "È andata bene, hai riprodotto un suono due volte. Ora riproducilo tre volte.",
+          "musiclab_intro_repeat_41276380-4fc4-48cb-be28-b6be5dfb8dd5": "Hai riprodotto un suono una volta. Ora riproducilo tre volte usando il blocco [ripeti](#clickable=repeat-block).",
+          "musiclab_intro_repeat_b2a9ed31-f16f-45ac-9aaa-ab45620d6cd6": "Riproduci un suono tre volte. Collega un blocco [ripeti](#clickable=repeat-block) al blocco [quando si clicca su \"Esegui\"](#clickable=when-run-block). Poi metti all'interno un blocco [riproduci](#clickable=play-sound-block).",
+          "musiclab_intro_repeat_eaf348ed-21a0-499e-89a8-2f5beff52dd7": "Ottimo lavoro. Hai riprodotto tre suoni con successo."
+        },
+        "musiclab_intro_trigger": {
+          "musiclab_intro_trigger_063936aa-e4fc-4654-b695-1cb2f1ad989d": "Riproduci un suono usando l'attivazione.",
+          "musiclab_intro_trigger_5a0ba9ef-12ef-42eb-8377-c80ef540bbb0": "Ottimo lavoro. Hai riprodotto il suono con l'attivazione."
+        },
+        "musiclab_tutorial_change_sound": {
+          "musiclab_intro_change_sound_v2_6054328e-dc95-47fe-8c65-980ce00299f1": "Ottimo lavoro! Hai aggiunto nuovi suoni alla tua canzone.",
+          "musiclab_intro_change_sound_v2_9ddfc062-5d48-4090-aa06-ff26c4a75916": "Aggiungi almeno un altro suono."
+        },
+        "musiclab_tutorial_drums": {
+          "musiclab_intro_drums_v2_8a21d216-d589-4129-b695-bf32dd4440e8": "Aggiungi il blocco [riproduci batteria](#clickable=play-drums-block) e crea le tue basi ritmiche!",
+          "musiclab_intro_drums_v2_d5c7c777-c009-470d-99b6-1a2e60be22df": "Sembra fantastico!",
+          "musiclab_tutorial_drums_25bc1092-ffea-4236-b867-a7e47c85914c": "Clicca sul blocco [riproduci batteria](#clickable=play-drums-block) e usa il generatore di basi per creare una base personalizzata."
+        },
+        "musiclab_tutorial_function": {
+          "musiclab_intro_function_elementary_328ae4f1-4120-4555-bfba-4654bd618fd8": "Ottimo lavoro. Hai usato con successo la funzione per riprodurre un suono.",
+          "musiclab_intro_function_elementary_33cfaef2-2b2e-4e45-93b8-88632b06f78a": "Collega il blocco \"chorus\" sotto al blocco [quando si clicca su \"Esegui\"](#clickable=when-run-block) per riprodurre i suoni presenti nella funzione."
+        },
+        "musiclab_tutorial_notes": {
+          "musiclab_intro_notes_v2_a40492dc-818f-4e02-ba2e-e7de19e291df": "Prova il blocco [riproduci note](#clickable=play-notes-block) e componi la tua melodia.",
+          "musiclab_intro_notes_v2_ca10f1fe-8755-49d5-864f-83772a128e36": "Grande! Hai composto la tua melodia. ",
+          "musiclab_tutorial_notes_cdc6aa6b-b5a7-45d2-92e2-410eb5c4d3bc": "Clicca sul blocco [riproduci note](#clickable=play-notes-block) e usa la tastiera per creare una melodia personalizzata. "
+        },
+        "musiclab_tutorial_play_sound": {
+          "musiclab_intro_play_sound_10152a9d-29b4-46e9-9080-9ad7a8937433": "Hai trovato il pulsante Esegui! Ora, trascina il blocco [riproduci](#clickable=play-sound-block) e collegalo sotto a [quando si clicca su \"Esegui\"](#clickable=when-run-block).",
+          "musiclab_intro_play_sound_34517aac-bcf5-4183-a71d-fafd0498e499": "Ottimo lavoro.  Hai riprodotto un suono!"
+        },
+        "musiclab_tutorial_play_together": {
+          "musiclab_intro_play_together_elementary_a73d098d-932c-416e-9d5a-4585178fe866": "Hai fatto un ottimo lavoro riproducendo un suono; ora prova a far riprodurre due suoni insieme. Aggiungi due blocchi [riproduci](#clickable=play-sound-block-workspace) _nel_ blocco [riproduci insieme](#clickable=play-sounds-together-block-workspace).",
+          "musiclab_intro_play_together_elementary_b1ec52da-2b60-4e02-8512-60495bbb79e6": "Ottimo lavoro. Quei due suoni sono fantastici insieme!",
+          "musiclab_intro_play_together_elementary_c5abfcf3-0d24-4405-9249-aeb85e0a01ce": "Fai riprodurre due suoni insieme. Suggerimento: prova a usare due tipi di suoni diversi da riprodurre contemporaneamente, come delle percussioni e un basso!",
+          "musiclab_tutorial_play_together_ebbe089b-ecdc-4cd8-9555-c38271706f31": "Non è ancora stato riprodotto alcun suono. Trascina un blocco [riproduci insieme](#clickable=play-sounds-together-block) sotto al blocco [quando si clicca su \"Esegui\"](#clickable=when-run-block). Poi, aggiungi due blocchi [riproduci](#clickable=play-sound-block-workspace) _dentro_ al blocco [riproduci insieme](#clickable=play-sounds-together-block-workspace)."
+        },
+        "musiclab_tutorial_repeat": {
+          "musiclab_intro_repeat_elementary_1eaff1ec-353f-48fb-8a07-383e4dd1f918": "Ottimo lavoro. Hai riprodotto un suono tre volte!",
+          "musiclab_intro_repeat_elementary_7870662b-99f3-4920-9a0e-f03a9386bb34": "Riproduci un suono tre volte. Collega un blocco [ripeti](#clickable=repeat-block) al blocco [quando si clicca su \"Esegui\"](#clickable=when-run-block). Poi trascina all'interno un blocco [riproduci](#clickable=play-sound-block).",
+          "musiclab_intro_repeat_elementary_81debb7d-9c0a-466c-b618-a6f5639e0b1b": "Hai ripetuto un suono due volte. Ora fallo riprodurre [tre](#clickable=repeat-block-field-workspace) volte.",
+          "musiclab_intro_repeat_elementary_ef93b774-6a6b-4364-8e37-85ce20e15450": "Hai riprodotto un suono una volta. Ora fallo ripetere tre volte scrivendo [3](#clickable=repeat-block-field-workspace) nel blocco [ripeti](#clickable=repeat-block)."
+        },
+        "musiclab_tutorial_trigger": {
+          "musiclab_intro_trigger_elementary_55abe67c-58ad-4ce2-aab9-172acb91a090": "Finora non è stato ancora attivato nulla.",
+          "musiclab_intro_trigger_elementary_7d8f341d-9582-4fc8-8622-464260ce978c": "Ottimo lavoro. Hai riprodotto il suono con l'attivazione."
+        }
+      }
+    }
+  }
+}

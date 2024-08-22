@@ -1,0 +1,176 @@
+{
+  "ky-KG": {
+    "data": {
+      "vocabularies": {
+        "variable/csd/2021": {
+          "word": "Өзгөрмө"
+        },
+        "conditionals/csd/2021": {
+          "word": "Шартуулар"
+        },
+        "abstraction/csd/2021": {
+          "word": "Абстракция"
+        },
+        "function/csd/2021": {
+          "word": "Функция"
+        },
+        "conditionals/coursed/2021": {
+          "word": "Шартуулар"
+        },
+        "function/coursee/2021": {
+          "word": "Функция"
+        },
+        "conditionals/coursee/2021": {
+          "word": "Шартуулар"
+        },
+        "define/coursee/2021": {
+          "word": "Аныктоо"
+        },
+        "variable/coursef/2021": {
+          "word": "Өзгөрмө"
+        },
+        "define/coursef/2021": {
+          "word": "Аныктоо"
+        },
+        "conditionals/express/2021": {
+          "word": "Шартуулар"
+        },
+        "function/express/2021": {
+          "word": "Функция"
+        },
+        "variable/express/2021": {
+          "word": "Өзгөрмө"
+        },
+        "define/express/2021": {
+          "word": "Аныктоо"
+        },
+        "variable/csd/2022": {
+          "word": "Өзгөрмө"
+        },
+        "conditionals/csd/2022": {
+          "word": "Шартуулар"
+        },
+        "abstraction/csd/2022": {
+          "word": "Абстракция"
+        },
+        "function/csd/2022": {
+          "word": "Функция"
+        },
+        "conditionals/coursed/2022": {
+          "word": "Шартуулар"
+        },
+        "function/coursee/2022": {
+          "word": "Функция"
+        },
+        "conditionals/coursee/2022": {
+          "word": "Шартуулар"
+        },
+        "define/coursee/2022": {
+          "word": "Аныктоо"
+        },
+        "variable/coursef/2022": {
+          "word": "Өзгөрмө"
+        },
+        "define/coursef/2022": {
+          "word": "Аныктоо"
+        },
+        "conditionals/express/2022": {
+          "word": "Шартуулар"
+        },
+        "function/express/2022": {
+          "word": "Функция"
+        },
+        "variable/express/2022": {
+          "word": "Өзгөрмө"
+        },
+        "define/express/2022": {
+          "word": "Аныктоо"
+        },
+        "code/csc-adaptations/2023": {
+          "word": "Код жазуу"
+        },
+        "code/csc-ecosystems/2023": {
+          "word": "Код жазуу"
+        },
+        "conditionals/csc-ecosystems/2023": {
+          "word": "Шартуулар"
+        },
+        "variable/csc-ecosystems/2023": {
+          "word": "Өзгөрмө"
+        },
+        "code/csc-mappinglandmarks/2023": {
+          "word": "Код жазуу"
+        },
+        "artist/csc-starquilts/2023": {
+          "word": "Сүрөтчү"
+        },
+        "code/poetry/2023": {
+          "word": "Код жазуу"
+        },
+        "variable/csd/2023": {
+          "word": "Өзгөрмө"
+        },
+        "conditionals/csd/2023": {
+          "word": "Шартуулар"
+        },
+        "abstraction/csd/2023": {
+          "word": "Абстракция"
+        },
+        "function/csd/2023": {
+          "word": "Функция"
+        },
+        "conditionals/coursed/2023": {
+          "word": "Шартуулар"
+        },
+        "function/coursee/2023": {
+          "word": "Функция"
+        },
+        "conditionals/coursee/2023": {
+          "word": "Шартуулар"
+        },
+        "define/coursee/2023": {
+          "word": "Аныктоо"
+        },
+        "variable/coursef/2023": {
+          "word": "Өзгөрмө"
+        },
+        "define/coursef/2023": {
+          "word": "Аныктоо"
+        },
+        "conditionals/express/2023": {
+          "word": "Шартуулар"
+        },
+        "function/express/2023": {
+          "word": "Функция"
+        },
+        "variable/express/2023": {
+          "word": "Өзгөрмө"
+        },
+        "define/express/2023": {
+          "word": "Аныктоо"
+        },
+        "conditionals/aquatic/unversioned": {
+          "word": "Шартуулар"
+        },
+        "loops/aquatic/unversioned": {
+          "word": "Циклдер"
+        },
+        "code/artist/unversioned": {
+          "word": "Код жазуу"
+        },
+        "function/hero/unversioned": {
+          "word": "Функция"
+        },
+        "code/poem-art/2021": {
+          "word": "Код жазуу"
+        },
+        "code/sports/unversioned": {
+          "word": "Код жазуу"
+        },
+        "code/dance-ai/2023": {
+          "word": "Код жазуу"
+        }
+      }
+    }
+  }
+}

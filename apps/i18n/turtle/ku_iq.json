@@ -1,0 +1,19 @@
+{
+  "blocksUsed": "Blok yêt mijûl: %1",
+  "branches": "Çeq",
+  "catColour": "ڕەنگ",
+  "catControl": "گرێکان",
+  "catLogic": "لۆژيك",
+  "catMath": "بیرکاری",
+  "catProcedures": "فرمانەکان",
+  "catTurtle": "کردەوەکان",
+  "catVariables": "گۆڕاوەکان",
+  "colourTooltip": "ڕەنكی قەڵەمەكە دەگۆرێ.",
+  "controlsForInputFromToBy": "لە %1 بۆ %2 لە لایەن %3",
+  "controlsForInputWith": "ژماردن لەگەڵ",
+  "createACircle": "بازنێك دروست بكە",
+  "drawACircle": "بازنێك دروست بكە",
+  "drawAFlower": "گوڵێك دروست بكە",
+  "drawAHexagon": "شەش لا دروست بكە",
+  "drawAHouse": "ماڵێك دروست بكە"
+}

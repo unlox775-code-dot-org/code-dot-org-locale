@@ -1,0 +1,83 @@
+---
+en-GB:
+  activerecord:
+    attributes:
+      user:
+        age: Age
+        current_password: Current password
+        email: Email
+        finish_sign_up_header_error: 'Please correct the following errors:'
+        gender: Gender
+        gender_student_input: Gender
+        gender_teacher_input: Gender
+        name: Display Name
+        password: Password
+        password_confirmation: Password confirmation
+        username: Username
+  beta: beta
+  cancel: Cancel
+  certificate_hour_of_code: The Hour of Code
+  continue: Continue
+  copy: Copy
+  crud:
+    edit: editar
+    submit: Submit
+  dialog:
+    ok: OK
+    startover_cancel: Cancel
+    startover_ok: Start Over
+    startover_title: Are you sure you want to start over?
+  errors:
+    messages:
+      not_saved: 'Please correct the following errors:'
+  hello: Hello World
+  home:
+    trynow: Try now
+  nav:
+    header:
+      donate: Donate
+      educate_hoc: The Hour of Code
+    user:
+      create: Create
+      infinity: Infinity
+  next_page: Next page
+  or: or
+  password:
+    reset_form:
+      submit: Submit
+  pd:
+    form_entries:
+      email_opt_in:
+        opt_in_no: 'No'
+        opt_in_yes: 'Yes'
+      subjects:
+        cs: Computer Science
+        math: Mathematics
+    form_labels:
+      email: Email
+  project:
+    name: Name
+    saved: Saved
+  race_interstitial:
+    submit: Submit
+  section:
+    type:
+      email: Email
+  signin_form:
+    login: Email
+    password: Password
+  signup_form:
+    age: Age
+    email_preference_no: 'No'
+    email_preference_yes: 'Yes'
+    share_teacher_email_reg_partner_preference_no: 'No'
+    share_teacher_email_reg_partner_preference_yes: 'Yes'
+  submit: Submit
+  teacher:
+    panel:
+      answer_viewer: Teacher Panel
+  terms_interstitial:
+    print: Print
+  upsell:
+    widgets:
+      audience: Ages 14+

@@ -1,0 +1,20 @@
+{
+  "bg-BG": {
+    "data": {
+      "marketing_announcements": {
+        "banners": {
+          "hoc-2023": {
+            "buttonText": "Научете повече"
+          },
+          "progress-launch": {
+            "buttonText": "Опитай сега",
+            "title": "Проследяването на напредъка току-що се изравни!"
+          },
+          "superhero": {
+            "buttonText": "Научете повече"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,570 @@
+---
+nl:
+  data:
+    unplugged:
+      BigEvent:
+        desc: Leerlingen worden bekend gemaakt met het programmeerconcept van "events",
+          wat acties zijn waar een computer constant naar kijkt. De leraar drukt op
+          knoppen van een papieren afstandsbediening en leerlingen reageren hierop,
+          afhankelijk van welke knop ingedrukt is.
+        title: De grote gebeurtenis
+      BigEvent_2018:
+        desc: Leerlingen worden bekend gemaakt met het programmeerconcept van "events",
+          wat acties zijn waar een computer constant naar kijkt. De leraar drukt op
+          knoppen van een papieren afstandsbediening en leerlingen reageren hierop,
+          afhankelijk van welke knop ingedrukt is.
+        title: De grote gebeurtenis
+      BigEvent_2019:
+        desc: Leerlingen worden bekend gemaakt met het programmeerconcept van "events",
+          wat acties zijn waar een computer constant naar kijkt. De leraar drukt op
+          knoppen van een papieren afstandsbediening en leerlingen reageren hierop,
+          afhankelijk van welke knop ingedrukt is.
+        title: De grote gebeurtenis
+      BinaryBracelets:
+        desc: Leerlingen maken armbanden als een binaire weergave van de eerste letter
+          van hun naam. Leerlingen leren dat gegevens op meer dan een manier weergegeven
+          en opgeslagen kunnen worden.
+        title: Binaire armbanden
+      BinaryBracelets_2018:
+        desc: Leerlingen maken armbanden als een binaire weergave van de eerste letter
+          van hun naam. Leerlingen leren dat gegevens op meer dan een manier weergegeven
+          en opgeslagen kunnen worden.
+        title: Binaire armbanden
+      BinaryBracelets_2019:
+        desc: Leerlingen maken armbanden als een binaire weergave van de eerste letter
+          van hun naam. Leerlingen leren dat gegevens op meer dan een manier weergegeven
+          en opgeslagen kunnen worden.
+        title: Binaire armbanden
+      BinaryImages:
+        desc: Hoewel veel mensen binair zien als enkel nullen en enen, leerde onze
+          vorige lessen de leerlingen dat informatie weergegeven kan worden in een
+          verscheidenheid van binaire opties. In deze les gaan we nog een stapje verder
+          door te tonen hoe een computer nog meer complexe informatie (zoals afbeeldingen
+          en kleuren) binair kan opslaan.
+        title: Binaire afbeeldingen
+      BinaryImages_2018:
+        desc: Hoewel veel mensen binair zien als enkel nullen en enen, leerde onze
+          vorige lessen de leerlingen dat informatie weergegeven kan worden in een
+          verscheidenheid van binaire opties. In deze les gaan we nog een stapje verder
+          door te tonen hoe een computer nog meer complexe informatie (zoals afbeeldingen
+          en kleuren) binair kan opslaan.
+        title: Binaire afbeeldingen
+      BinaryImages_2019:
+        desc: Hoewel veel mensen binair zien als enkel nullen en enen, leerde onze
+          vorige lessen de leerlingen dat informatie weergegeven kan worden in een
+          verscheidenheid van binaire opties. In deze les gaan we nog een stapje verder
+          door te tonen hoe een computer nog meer complexe informatie (zoals afbeeldingen
+          en kleuren) binair kan opslaan.
+        title: Binaire afbeeldingen
+      Booleans:
+        desc: Booleans zijn het vierde en laatste gegevenstype dat je in deze cursus
+          leert kennen. In deze praktijkopdracht zul je leren wat Booleans zijn en
+          hoe ze ons helpen om functies te schrijven die logisch denken
+        title: Booleans en logica
+      BuildingAFoundation:
+        desc: Leerlingen bouwen een structuur, waarbij ze alleen de gegeven materialen
+          gebruiken. Structuren moeten afgeronde taak zijn (een bepaalde hoogte bereiken
+          of een bepaald gewicht kunnen dragen), en de leerlingen bespreken het concept
+          van doorzetten als het lastig wordt.
+        title: Een Basis Bouwen
+      BuildingAFoundation_2019:
+        desc: 'vertaling ontbreekt: nl-US.data.unplugged.BuildingAFoundation_2018.desc'
+        title: 'vertaling ontbreekt: nl-US.data.unplugged.BuildingAFoundation_2018.title'
+      CollisionDetection:
+        desc: Bepalen wanneer objecten op het scherm elkaar raken is een belangrijk
+          aspect van de meeste spellen. In deze les zullen we kijken hoe de stelling
+          van Pythagoras en de afstandsformule kunnen worden gebruikt voor het meten
+          van de afstand tussen twee punten op een plat vlak, om vervolgens te beslissen
+          of die twee punten (of spelfiguren) elkaar raken.
+        title: Botsingdetectie en de stelling van Pythagoras
+      ComputationalThinking:
+        desc: Leerlingen gebruiken stappen van Computational Thinking(ontleden, patroonherkenning,
+          abstractie, algoritmes) om uit te vinden hoe je een spel speelt zonder het
+          kennen van de instructies.
+        title: Rekenend Denken
+      Conditionals:
+        desc: Om voorwaardelijke instructies te leren gaan leerlingen een kaartspel
+          spelen en regels maken als "als ik een rode kaar trek, krijg ik een punt"
+          en "als ik een zwarte kaart krijg, krijg jij een punt".
+        title: Voorwaardelijke instructies
+      ConditionalsPiecewiseFunctions:
+        desc: De parameters die we aan functies meegeven zorgen ervoor dat de uitvoer
+          varieert volgens een vast patroon. Stel dat we met parameters met enkele
+          waarden een uitvoer willen maken volgens een specifiek patroon en met andere
+          waarden volgens een ander patroon. Dat is waar voorwaardelijke instructies
+          voor nodig zijn...
+        title: Conditionele en stuksgewijze functies
+      Conditionals_2018:
+        desc: Om voorwaardelijke instructies te leren gaan leerlingen een kaartspel
+          spelen en regels maken als "als ik een rode kaar trek, krijg ik een punt"
+          en "als ik een zwarte kaart krijg, krijg jij een punt".
+        title: Voorwaardelijke instructies
+      Conditionals_2019:
+        desc: Om voorwaardelijke instructies te leren gaan leerlingen een kaartspel
+          spelen en regels maken als "als ik een rode kaar trek, krijg ik een punt"
+          en "als ik een zwarte kaart krijg, krijg jij een punt".
+        title: Voorwaardelijke instructies
+      Contracts:
+        desc: Functiedeclaraties helpen ons functies te begrijpen en ze te kunnen
+          bespreken. In deze les behandelen hoe een functiedeclaratie ons kan helpen
+          om een nieuwe programmeertaal of een functie te begrijpen.
+        title: Ontwerp, Domein en Bereik
+      Crowdsourcing:
+        desc: Leerlingen gebruiken crowdsourcing, een probleemoplossende techniek
+          die gangbaar is in de computerkunde, om gezamenlijk als klas een opdracht
+          efficiënter uit te voeren dan wanneer een leerling het alleen zou proberen.
+        title: Crowdsourcing
+      Crowdsourcing_2019:
+        desc: 'vertaling ontbreekt: nl-US.data.unplugged.Crowdsourcing_2018.desc'
+        title: 'vertaling ontbreekt: nl-US.data.unplugged.Crowdsourcing_2018.title'
+      DesignRecipe:
+        desc: Op het vorige niveau schreven de leerlingen enkele zeer simpele functies.
+          Meer geavanceerde functies vereisen echter een meer doordachte aanpak. Het
+          Design Recipe is een gestructureerde aanpak om functies te schrijven, die
+          eveneens het schrijven van testcases voorschrijft om te verzekeren dat de
+          functie werkt zoals verwacht.
+        title: Het ontwerp Recept
+      DiceRace:
+        desc: Deze les behandelt manieren waarop we algoritmen in het dagelijks leven
+          gebruiken. Als onderdeel hiervan zullen leerlingen een algoritme bepalen
+          en opschrijven voor een dobbelsteen-racespel.
+        title: 'Algoritmen in het echt: Dobbelstenenrace'
+      DigitalCitizenship:
+        desc: Leerlingen onderzoeken het verschil tussen privé-informatie en persoonlijke
+          informatie, waarbij ze het onderscheid maken tussen wat veilig is om on-line
+          te delen, en wat niet.
+        title: Digitaal Burgerschap
+      DigitalFootprint:
+        desc: Leerkrachten introduceren de leerlingen dat het online maken van persoonlijke
+          gegevens een digitale voetprent van "slierten" maakt die gevolgen hebben.
+        title: Jouw Digitale Voetafdruk
+      DigitalFootprint_2018:
+        desc: Leerkrachten introduceren de leerlingen dat het online maken van persoonlijke
+          gegevens een digitale voetprent van "slierten" maakt die gevolgen hebben.
+        title: Jouw Digitale Voetafdruk
+      DigitalFootprint_2019:
+        desc: Leerkrachten introduceren de leerlingen dat het online maken van persoonlijke
+          gegevens een digitale voetprent van "slierten" maakt die gevolgen hebben.
+        title: Jouw Digitale Voetafdruk
+      EnvelopeVariables:
+        desc: Variabelen zorgen voor een veel vrijheid in informatica. Deze les helpt
+          uit te leggen wat variabelen zijn en hoe we ze kunnen gebruiken op vele
+          verschillende manieren. Gebruik deze activiteit voordat (of in combinatie
+          met) de les over abstractie.
+        title: Envelop variabelen
+      EnvelopeVariables_2019:
+        desc: 'vertaling ontbreekt: nl-US.data.unplugged.EnvelopeVariables_2018.desc'
+        title: 'vertaling ontbreekt: nl-US.data.unplugged.EnvelopeVariables_2018.title'
+      ForLoopFun:
+        desc: We weten dat lussen ons helpen om stappen te herhalen, nu gaan we leren
+          om gebruik te maken van lussen met extra structuur.
+        title: For Lus fun
+      ForLoopFun_2019:
+        desc: 'vertaling ontbreekt: nl-US.data.unplugged.ForLoopFun_2018.desc'
+        title: 'vertaling ontbreekt: nl-US.data.unplugged.ForLoopFun_2018.title'
+      FunctionalSuncatchers:
+        desc: Leerlingen maken een algoritme met variabelen en functies(stukjes code
+          die je vaker wilt gebruiken) om zonnevangers te maken met behulp van snoeren
+          en kralen.
+        title: Functionele Zonnevangers
+      GettingLoopy:
+        desc: Deze les behandelt het programmeerconcept van lussen (herhaalde instructies)
+          door middel van een dansactiviteit. Leerlingen zullen een eenvoudige choreografie
+          leren, waarna ze de instructie krijgen om het te herhalen.
+        title: Rondjes lopen
+      GettingLoopy_2018:
+        desc: Deze les behandelt het programmeerconcept van lussen (herhaalde instructies)
+          door middel van een dansactiviteit. Leerlingen zullen een eenvoudige choreografie
+          leren, waarna ze de instructie krijgen om het te herhalen.
+        title: Rondjes lopen
+      GettingLoopy_2019:
+        desc: Deze les behandelt het programmeerconcept van lussen (herhaalde instructies)
+          door middel van een dansactiviteit. Leerlingen zullen een eenvoudige choreografie
+          leren, waarna ze de instructie krijgen om het te herhalen.
+        title: Rondjes lopen
+      GoingPlacesSafely:
+        desc: Het internet is een krachtige, maar soms gevaarlijke plek. Leraren vertellen
+          hoe je het veilig kunt houden wanneer je op internet surft.
+        title: Veilig Reizen
+      GoingPlacesSafely_2018:
+        desc: Het internet is een krachtige, maar soms gevaarlijke plek. Leraren vertellen
+          hoe je het veilig kunt houden wanneer je op internet surft.
+        title: Veilig Reizen
+      GoingPlacesSafely_2019:
+        desc: Het internet is een krachtige, maar soms gevaarlijke plek. Leraren vertellen
+          hoe je het veilig kunt houden wanneer je op internet surft.
+        title: Veilig Reizen
+      GraphPaperProgramming:
+        desc: Leerlingen schrijven een algoritme (een reeks instructies) waarbij ze
+          een set van vooraf gedefinieerde opdrachten gebruiken om hun klasgenoten
+          aanwijzingen te geven hoe ze een tekening moeten namaken.
+        title: Programmeren op Ruitjespapier
+      GraphPaperProgramming_2018:
+        desc: Leerlingen schrijven een algoritme (een reeks instructies) waarbij ze
+          een set van vooraf gedefinieerde opdrachten gebruiken om hun klasgenoten
+          aanwijzingen te geven hoe ze een tekening moeten namaken.
+        title: Programmeren op Ruitjespapier
+      GraphPaperProgramming_2019:
+        desc: Leerlingen schrijven een algoritme (een reeks instructies) waarbij ze
+          een set van vooraf gedefinieerde opdrachten gebruiken om hun klasgenoten
+          aanwijzingen te geven hoe ze een tekening moeten namaken.
+        title: Programmeren op Ruitjespapier
+      Internet:
+        desc: Leerlingen versturen berichten die verschillende transmissiemethoden
+          van internet voorstellen, waarbij ze velletjes papier gebruiken.
+        title: Internet
+      Internet_2019:
+        desc: 'vertaling ontbreekt: nl-US.data.unplugged.Internet_2018.desc'
+        title: 'vertaling ontbreekt: nl-US.data.unplugged.Internet_2018.title'
+      MadGlibs:
+        desc: Abstract denken is een van de belangrijkste vaardigheid voor een informaticus.
+          Deze activiteit stelt je leerlingen in staat om verhalen te analyseren om
+          verschillen te vinden en deze te abstraheren. Deze geabstraheerde verhalen
+          worden sjablonen voor plezier en gekke nieuwe.
+        title: Gekke Glibs
+      MoveIt:
+        desc: Leerlingen maken eenvoudige algoritmen (reeks instructies) om een figuurtje
+          door een doolhof te bewegen waarbij ze een enkel commando gebruiken.
+        title: Beweeg, Beweeg
+      MoveItMoveIt_2018:
+        title: verplaats het, verplaats het
+      MoveItMoveIt_2019:
+        title: verplaats het, verplaats het
+      PaperPlanes:
+        desc: Deze les Laat zien hoe we dagelijks algoritmes gebruiken, met name bij
+          het maken van papieren vliegtuigjes. Deze les richt zich op het grotere
+          geheel van computerkunde en hoe algoritmen een hoofdrol spelen.
+        title: 'Algoritmen in het echt: Papieren Vliegtuigjes'
+      PaperPlanes_2018:
+        desc: Deze les Laat zien hoe we dagelijks algoritmes gebruiken, met name bij
+          het maken van papieren vliegtuigjes. Deze les richt zich op het grotere
+          geheel van computerkunde en hoe algoritmen een hoofdrol spelen.
+        title: 'Algoritmen in het echt: Papieren Vliegtuigjes'
+      PaperPlanes_2019:
+        desc: Deze les Laat zien hoe we dagelijks algoritmes gebruiken, met name bij
+          het maken van papieren vliegtuigjes. Deze les richt zich op het grotere
+          geheel van computerkunde en hoe algoritmen een hoofdrol spelen.
+        title: 'Algoritmen in het echt: Papieren Vliegtuigjes'
+      PlantASeed:
+        desc: Deze les laat zien hoe we algoritmen in het dagelijkse leven gebruiken,
+          waarbij het planten van een zaadje als voorbeeld wordt gebruikt. Het richt
+          zich ook op het grotere geheel van computerkunde en hoe algoritmen een belangrijke
+          rol spelen.
+        title: 'Algoritmen in het echte leven: Plant een zaadje'
+      PlantASeed_2018:
+        desc: Deze les laat zien hoe we algoritmen in het dagelijkse leven gebruiken,
+          waarbij het planten van een zaadje als voorbeeld wordt gebruikt. Het richt
+          zich ook op het grotere geheel van computerkunde en hoe algoritmen een belangrijke
+          rol spelen.
+        title: 'Algoritmen in het echte leven: Plant een zaadje'
+      PlantASeed_2019:
+        desc: Deze les laat zien hoe we algoritmen in het dagelijkse leven gebruiken,
+          waarbij het planten van een zaadje als voorbeeld wordt gebruikt. Het richt
+          zich ook op het grotere geheel van computerkunde en hoe algoritmen een belangrijke
+          rol spelen.
+        title: 'Algoritmen in het echte leven: Plant een zaadje'
+      RelayProgramming:
+        desc: Leerlingen doen een estafetteloop warbij ze over het schoolplein heen
+          en weer rennen om een algoritme te schrijven dat gebaseerd is op een " GrafiekPapier
+          Programmeren" afbeelding. Ze kunnen slechts één instructie tegelijk schrijven,
+          en als zich ergens een fout voordoet moeten ze alles wissen en teruggaan
+          naar dat punt.
+        title: Estafetteprogrammeren
+      RelayProgramming_2018:
+        title: Estafette Programmeren
+      RelayProgramming_2018_2019:
+        title: Estafette Programmeren
+      SongwritingParameters:
+        desc: Leerlingen gebruiken het idee van het refrein in een liedje om over
+          het doorgeven van parameters te leren (welke een functie aanpassen zonder
+          de hele functie opnieuw te moeten schrijven).
+        title: Songwriting
+      SongwritingParameters_2019:
+        desc: 'vertaling ontbreekt: nl-US.data.unplugged.SongwritingParameters_2018.desc'
+        title: 'vertaling ontbreekt: nl-US.data.unplugged.SongwritingParameters_2018.title'
+      SongwritingWithParameters:
+        desc: 'Een van de meest prachtige structuren in de informatica wereld is de
+          functie. Functies (soms procedures genoemd) zijn mini programma''s die telkens
+          opnieuw kunnen gebruikt worden binnen het grotere geheel van je programma.
+          Deze les helpt leerlingen intuïtief te begrijpen waarom brokken code samenvoegen
+          in functies een nuttige praktijk is.  '
+        title: Songwriting met Parameters
+      TangramAlgorithms:
+        desc: Deze les toont ons iets belangrijks over algoritmen. Als u een algoritme
+          eenvoudig houd zijn er veel manieren om het te gebruiken. Als u ervoor wilt
+          zorgen dat iedereen eindigt met het zelfde ding, dan heeft het algoritme
+          meer detail nodig.
+        title: Tangram Algoritmen
+      Unplug1:
+        desc: Deze les behandelt het begrip informatica en zal uitleg geven over wat
+          een informaticus of ict' er doet. Het geeft studenten ook de kans om de
+          rol van informaticus in te nemen. Aan het eind van de activiteit heeft elke
+          student een aandenken om naar huis mee te nemen van wat hij of zij geleerd
+          heeft. U zou in de geneigd kunnen zijn om bij jonge kinderen de woordenschat
+          over te slaan die samengaat met de volgende lessen, maar door ze nu op een
+          leuke en speelse wijze te presenteren is het veel effectiever dan wachten
+          op diepergaande  situaties.
+        title: Inleiding Informatica
+      Unplug10:
+        desc: In deze les zullen leerlingen doen alsof ze door het Internet stromen,
+          terwijl ze leren over webadressen, IP's en de DNS.
+        title: Het Internet
+      Unplug11:
+        desc: De uiteindelijke terugblik op de eerste 20-uur serie zal de klas helpen
+          om al hun favoriete momenten opnieuw te beleven, terwijl ze vervolgstappen
+          krijgen aangereikt die ze zelf kunnen nemen als ze interesse hebben om hun
+          reis in computerkunde voort te zetten.
+        title: Terugblik
+      Unplug2:
+        desc: Met niets anders dan pen en papier zullen leerlingen de vier stappen
+          van computerdenken leren. Na een korte inleiding worden de leerlingen in
+          groepen verdeeld waarin ze aanwijzingen moeten opstellen voor andere leerlingen
+          om een specifiek monster (uit een gids met vooraf geselecteerde monsters)
+          te tekenen. De totale opdracht moet worden ontleed, waarna de groepen alle
+          monsters in de gids moeten analyseren op basis van patronen en verschillende
+          details van de monsters eruit halen om vervolgens een algoritme (aanwijzingen)
+          voor een andere groep te maken om een specifiek monster te tekenen. De groepen
+          ruilen vervolgens algoritmes met een andere groep, en tekenen een monster
+          dat het algoritme aangeeft. Is de tekening wat de oorspronkelijke groep
+          bedoelde?
+        title: Rekenend Denken
+      Unplug3:
+        desc: Door elkaar te programmeren om tekeningen te maken, zullen de leerlingen
+          beginnen te begrijpen wat programmeren nu eigenlijk is. De klas begint met
+          elkaar instructies geven om vakjes op ruitjespapier in te kleuren, om zo
+          de bestaande tekening na te maken. Als er tijd is, kan de les worden afgesloten
+          met tekeningen die de leerlingen zelf maken.
+        title: Programmeren op Ruitjespapier
+      Unplug4:
+        desc: Deze les gaat over algoritmen. Met tangram-vormen en ruitjespapier zal
+          de eerste oefening aantonen hoe belangrijk het is om iedere instructie zo
+          helder en eenduidig mogelijk te maken. Naderhand zal de klas ontdekken op
+          hoeveel manieren je papier tot een rechthoek kunt vouwen, waarbij ze kunnen
+          zien hoe sommige methoden meer of minder vouwen vereisen dan andere.
+        title: Algoritmen
+      Unplug5:
+        desc: In deze les zullen de leerlingen een zonnevanger maken van draad, kralen
+          en een speciale hanger. De leerlingen zullen een serie van herhalende stappen
+          volgen, waarna ze gevraagd wordt om bepaalde groepen van "activiteiten"
+          aan te wijzen die meermalen worden herhaald. Als de activiteiten eenmaal
+          zijn gedefinieerd, zullen ze vanuit een hoofdprogramma worden aangeroepen
+          en zal het totale prachtige creatieproces op één vel papier worden vastgelegd.
+          Het uiteindelijke programma zal aan de hele klas worden voorgelegd, onafhankelijk
+          van het soort draad, kralen en hangers. Om dit goed te kunnen doen moeten
+          de leerlingen de details van hun materialen "abstraheren" en vage beschrijvingen
+          maken voor wat men aan materiaal heeft. Dit gebruik van generieke aanduidingen
+          is een geweldige introductie in variabelen.
+        title: Functies
+      Unplug6:
+        desc: Dit is een spel voor de hele klas. Na uitleg van het idee van condities,
+          if-commando's en lussen, kan de klas samen oefenen met een vooraf geschreven
+          programma, een set speelkaarten en een dosis toeval.
+        title: Voorwaarden
+      Unplug7:
+        desc: Het lezen van liedteksten is een redelijk intuïtieve activiteit voor
+          de meeste leerlingen. We zullen een activiteit nemen die algemeen bekend
+          is en deze verplaatsen naar een degelijke les over het definiëren en aanroepen
+          van functies. Als leerlingen eenmaal bekend zijn met het definieer/aanroepproces
+          zullen we extra mogelijkheden gaan toevoegen die horen bij het doorgeven
+          van parameters in de functieaanroep.
+        title: Liedjes Schrijven
+      Unplug8:
+        desc: Deze activiteit combineert de alledaagse routine van uw leerlingen en
+          een Mad-Lib-stijl denkspel om uw klas de effectiviteit van abstractie te
+          leren.
+        title: Abstractie
+      Unplug9:
+        desc: Deze les zal een idee gebruiken van de voorgaande activiteit (4. Ruitjespapier
+          Programmeren) en die vaardigheden gebruiken om de nadruk te leggen op het
+          belang van het afronden van programma's die sequentieel lopen en het regelmatig
+          op "bugs" controleren van programma's.
+        title: Estafette Programmeren
+      UnplugHappyMaps:
+        desc: Leerlingen maken eenvoudige algoritmen (reeks instructies) om een figuurtje
+          door een doolhof te bewegen waarbij ze een enkel commando gebruiken.
+        title: Vrolijke Routes
+      UnplugHappyMaps_2018:
+        desc: Leerlingen maken eenvoudige algoritmen (reeks instructies) om een figuurtje
+          door een doolhof te bewegen waarbij ze een enkel commando gebruiken.
+        title: Vrolijke Routes
+      UnplugHappyMaps_2019:
+        desc: Leerlingen maken eenvoudige algoritmen (reeks instructies) om een figuurtje
+          door een doolhof te bewegen waarbij ze een enkel commando gebruiken.
+        title: Vrolijke Routes
+      Unplugged- Melissa Sandbox:
+        title: Unplugged
+      VideoGamesCoordinatePlanes:
+        desc: Ontdek hoe de videospellen die je graag speelt, onder de motorkap eigenlijk
+          wiskunde gebruiken! Ontdek hoe wiskundige formules en het coördinatenstelsel
+          ons kunnen leren hoe videospellen werken en begin dan met het ontwerpen
+          van het videospel dat jij gaat maken.
+        title: Video games en coördinatenstelsels
+      courseABC_unplugged_bigEvent:
+        desc: Leerlingen worden bekend gemaakt met het programmeerconcept van "events",
+          wat acties zijn waar een computer constant naar kijkt. De leraar drukt op
+          knoppen van een papieren afstandsbediening en leerlingen reageren hierop,
+          afhankelijk van welke knop ingedrukt is.
+        title: De grote gebeurtenis
+      courseAB_unplugged_plantASeed:
+        desc: Deze les laat zien hoe we algoritmen in het dagelijkse leven gebruiken,
+          waarbij het planten van een zaadje als voorbeeld wordt gebruikt. Het richt
+          zich ook op het grotere geheel van computerkunde en hoe algoritmen een belangrijke
+          rol spelen.
+        title: 'Algoritmen in het echte leven: Plant een zaadje'
+      courseA_unplugged_goingPlacesSafely:
+        desc: Het internet is een krachtige, maar soms gevaarlijke plek. Leraren vertellen
+          hoe je het veilig kunt houden wanneer je op internet surft.
+        title: Veilig Reizen
+      courseA_unplugged_happyMaps:
+        desc: Leerlingen maken eenvoudige algoritmen (reeks instructies) om een figuurtje
+          door een doolhof te bewegen waarbij ze een enkel commando gebruiken.
+        title: Vrolijke Routes
+      courseA_unplugged_loops:
+        desc: In deze les leert je over lussen!
+      courseA_unplugged_loops_2018:
+        desc: In deze les leert je over lussen!
+      courseA_unplugged_loops_2019:
+        desc: In deze les leert je over lussen!
+      courseB_unplugged_MRF:
+        desc: In deze les 'programmeer' je je vrienden!
+        title: Unplugged Activiteit
+      courseB_unplugged_MRF_2018:
+        title: My Robotic Friends
+      courseB_unplugged_MRF_2019:
+        title: My Robotic Friends
+      courseB_unplugged_digitalFootprint:
+        desc: Leerkrachten introduceren de leerlingen dat het online maken van persoonlijke
+          gegevens een digitale voetprent van "slierten" maakt die gevolgen hebben.
+        title: Jouw Digitale Voetafdruk
+      courseB_unplugged_loopyMRF:
+        desc: Net als in "Mijn Robot vrienden", zal je je vrienden "programmeren",
+          maar deze keer met loops!
+        title: Unplugged Activiteit
+      courseC_Unplugged_ScreenOutTheMean:
+        desc: Vandaag leert je wat je kunt doen als iemand online gemeen doet.
+        title: Unplugged Activiteit
+      courseC_Unplugged_ScreenOutTheMean_2018:
+        desc: Vandaag leert je wat je kunt doen als iemand online gemeen doet.
+        title: Unplugged Activiteit
+      courseC_Unplugged_ScreenOutTheMean_2019:
+        desc: Vandaag leert je wat je kunt doen als iemand online gemeen doet.
+        title: Unplugged Activiteit
+      courseC_unplugged_binaryBracelets:
+        desc: Leerlingen maken armbanden als een binaire weergave van de eerste letter
+          van hun naam. Leerlingen leren dat gegevens op meer dan een manier weergegeven
+          en opgeslagen kunnen worden.
+        title: Binaire armbanden
+      courseC_unplugged_buildingAFoundation:
+        desc: Leerlingen bouwen een structuur, waarbij ze alleen de gegeven materialen
+          gebruiken. Structuren moeten afgeronde taak zijn (een bepaalde hoogte bereiken
+          of een bepaald gewicht kunnen dragen), en de leerlingen bespreken het concept
+          van doorzetten als het lastig wordt.
+        title: Een Basis Bouwen
+      courseC_unplugged_gettingLoopy:
+        desc: Deze les behandelt het programmeerconcept van lussen (herhaalde instructies)
+          door middel van een dansactiviteit. Leerlingen zullen een eenvoudige choreografie
+          leren, waarna ze de instructie krijgen om het te herhalen.
+        title: Rondjes lopen
+      courseC_unplugged_paperPlanes:
+        desc: Deze les Laat zien hoe we dagelijks algoritmes gebruiken, met name bij
+          het maken van papieren vliegtuigjes. Deze les richt zich op het grotere
+          geheel van computerkunde en hoe algoritmen een hoofdrol spelen.
+        title: 'Algoritmen in het echt: Papieren Vliegtuigjes'
+      courseD_unplugged_binaryImages:
+        desc: Hoewel veel mensen binair zien als enkel nullen en enen, leerde onze
+          vorige lessen de leerlingen dat informatie weergegeven kan worden in een
+          verscheidenheid van binaire opties. In deze les gaan we nog een stapje verder
+          door te tonen hoe een computer nog meer complexe informatie (zoals afbeeldingen
+          en kleuren) binair kan opslaan.
+        title: Binaire afbeeldingen
+      courseD_unplugged_conditionalsCards:
+        desc: Om voorwaardelijke instructies te leren gaan leerlingen een kaartspel
+          spelen en regels maken als "als ik een rode kaar trek, krijg ik een punt"
+          en "als ik een zwarte kaart krijg, krijg jij een punt".
+        title: Statements met Kaarten
+      courseD_unplugged_digitalCitizenship:
+        desc: Vandaag leert je wat het betekent om een digitale burger te zijn.
+        title: Unplugged Activiteit
+      courseD_unplugged_digitalCitizenship_2018:
+        desc: Vandaag leert je wat het betekent om een digitale burger te zijn.
+        title: Unplugged Activiteit
+      courseD_unplugged_digitalCitizenship_2019:
+        desc: Vandaag leert je wat het betekent om een digitale burger te zijn.
+        title: Unplugged Activiteit
+      courseD_unplugged_graphPaperProgramming:
+        desc: Leerlingen schrijven een algoritme (een reeks instructies) waarbij ze
+          een set van vooraf gedefinieerde opdrachten gebruiken om hun klasgenoten
+          aanwijzingen te geven hoe ze een tekening moeten namaken.
+        title: Programmeren op Ruitjespapier
+      courseD_unplugged_relayProgramming:
+        desc: Leerlingen doen een estafetteloop warbij ze over het schoolplein heen
+          en weer rennen om een algoritme te schrijven dat gebaseerd is op een " GrafiekPapier
+          Programmeren" afbeelding. Ze kunnen slechts één instructie tegelijk schrijven,
+          en als zich ergens een fout voordoet moeten ze alles wissen en teruggaan
+          naar dat punt.
+        title: Estafette Programmeren
+      courseE_unplugged_crowdsourcing:
+        desc: Leerlingen gebruiken crowdsourcing, een probleemoplossende techniek
+          die gangbaar is in de computerkunde, om gezamenlijk als klas een opdracht
+          efficiënter uit te voeren dan wanneer een leerling het alleen zou proberen.
+        title: Crowdsourcing
+      courseE_unplugged_diceRace:
+        desc: Deze les behandelt manieren waarop we algoritmen in het dagelijks leven
+          gebruiken. Als onderdeel hiervan zullen leerlingen een algoritme bepalen
+          en opschrijven voor een dobbelsteen-racespel.
+        title: 'Algoritmen in het echt: Dobbelstenenrace'
+      courseE_unplugged_internet:
+        desc: Leerlingen versturen berichten die verschillende transmissiemethoden
+          van internet voorstellen, waarbij ze velletjes papier gebruiken.
+        title: Internet
+      courseE_unplugged_privateInformation:
+        desc: Vandaag leert je het verschil tussen privé en persoonlijke informatie!
+        title: 'Gezond verstand onderwijs: Privé en persoonlijke informatie '
+      courseE_unplugged_songwriting:
+        desc: Leerlingen gebruiken het idee van het refrein in een liedje om over
+          het doorgeven van parameters te leren (welke een functie aanpassen zonder
+          de hele functie opnieuw te moeten schrijven).
+        title: Songwriting
+      courseE_unplugged_songwritingParameters:
+        desc: Leerlingen gebruiken het idee van het refrein in een liedje om over
+          het doorgeven van parameters te leren (welke een functie aanpassen zonder
+          de hele functie opnieuw te moeten schrijven).
+        title: Liedjes schrijven met Parameters
+      courseF_unplugged_envelopeVariables:
+        desc: Variabelen zorgen voor een veel vrijheid in informatica. Deze les helpt
+          uit te leggen wat variabelen zijn en hoe we ze kunnen gebruiken op vele
+          verschillende manieren. Gebruik deze activiteit voordat (of in combinatie
+          met) de les over abstractie.
+        title: Envelop variabelen
+      courseF_unplugged_forLoopFun:
+        desc: We weten dat lussen ons helpen om stappen te herhalen, nu gaan we leren
+          om gebruik te maken van lussen met extra structuur.
+        title: For Lus fun
+      courseF_unplugged_powerOfWords:
+        desc: Vandaag leert je wat je kunt doen als iemand online gemeen doet.
+        title: Unplugged Activiteit
+      courseF_unplugged_powerOfWords_2019:
+        desc: 'vertaling ontbreekt: nl-US.data.unplugged.courseF_unplugged_powerOfWords_2018.desc'
+        title: 'vertaling ontbreekt: nl-US.data.unplugged.courseF_unplugged_powerOfWords_2018.title'
+      courseF_unplugged_songwritingParameters:
+        desc: 'Een van de meest prachtige structuren in de informatica wereld is de
+          functie. Functies (soms procedures genoemd) zijn mini programma''s die telkens
+          opnieuw kunnen gebruikt worden binnen het grotere geheel van je programma.
+          Deze les helpt leerlingen intuïtief te begrijpen waarom brokken code samenvoegen
+          in functies een nuttige praktijk is.  '
+        title: Songwriting met Parameters
+      courseF_unplugged_tangrams:
+        desc: Deze les toont ons iets belangrijks over algoritmen. Als u een algoritme
+          eenvoudig houd zijn er veel manieren om het te gebruiken. Als u ervoor wilt
+          zorgen dat iedereen eindigt met het zelfde ding, dan heeft het algoritme
+          meer detail nodig.
+        title: Tangram Algoritmen
+      deeper learning description:
+        desc: 'vertaling ontbreekt: nl-US.data.unplugged.desc'
+      timeforcs_demo_conditionals:
+        desc: Om voorwaardelijke instructies te leren gaan leerlingen een kaartspel
+          spelen en regels maken als "als ik een rode kaar trek, krijg ik een punt"
+          en "als ik een zwarte kaart krijg, krijg jij een punt".
+        title: Voorwaardelijke instructies
+      timeforcs_demo_crowdsourcing:
+        title: Crowdsourcing

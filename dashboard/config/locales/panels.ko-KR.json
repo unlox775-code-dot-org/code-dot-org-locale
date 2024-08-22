@@ -1,0 +1,47 @@
+{
+  "ko-KR": {
+    "data": {
+      "panels": {
+        "music_lab_intro_panels_start2": {
+          "musiclab_intro_panels_start_v2-415ec56a-f841-421b-adff-b680e8d4ca35": "#### ✨ Music Lab에 오신 걸 환영합니다 ✨\n\n코드로 음악을 만들 준비가 되셨나요! ",
+          "musiclab_intro_panels_start_v2-623c36d1-b475-414b-8e2f-da7d27012391": "### 사운드 변경\n\n사운드 블록을 클릭하면 사운드 라이브러리에 액세스할 수 있습니다. \n\n원하는 사운드는 무엇이든 선택해보세요!",
+          "musiclab_intro_panels_start_v2-d2e2064a-8f39-452f-81f5-aab175d5a165": "#### 튜토리얼 사용하기\n\n<p style=\"color: black;\"><span style=\"color: #009EB0;\">→</span> 1. 안내 사항을 읽어보세요.</p>\n\n<p style=\"color: black;\"><span style=\"color: #ED6060;\">→</span> 2. 블록을 작업 공간으로 드래그하세요.</p>\n\n<p style=\"color: black;\"><span style=\"color: #FFA400;\">→</span> 3. ▶ 실행을 누르면 노래가 시작됩니다.</p>\n\n<p style=\"color: black;\"><span style=\"color: #9660BF;\">→</span>  4. 다음 단계로 가려면 계속을 누르세요.</p>"
+        },
+        "musiclab_intro_panels_end_2": {
+          "musiclab_intro_panels_end-70b08fdd-abbf-42bb-bdc9-d406bb513faf": "#### 이제 다 되었어요!\n\n기본 사항을 배웠으니 이제 나만의 믹스를 만들 준비가 되었습니다! 사운드 라이브러리를 꼭 살펴보세요. 멋진 트랙을 만들기 위해 탐색하고 사용해야 할 것이 아주 많습니다.\n\n툴박스에서 더 많은 새로운 기능을 볼 수 있습니다.\n\n-   비트 메이킹 블록\n\n-   리버브 및 필터 같은 사운드 효과\n\n-   신디사이저 블록\n\n-   연주되는 것을 랜덤화하는 블록\n\n ... 등 많은 것을 볼 수 있어요! 즐겁게 해보세요!\n\n<a href=\"https://code.org/files/online-coding-party-2024-1-music.png\">온라인 코딩 파티 인증서 받으러 가기! (과학기술정보통신부 인증)</a>"
+        },
+        "musiclab_intro_panels_function": {
+          "musiclab_intro_panels_function-e62e1783-6e0c-4dfb-9300-5dd081a80614": "다음과 같이 이름이 일치하는 블록을 사용하여 새 함수를 “호출”할 수 있습니다."
+        },
+        "musiclab_intro_panels_function_2": {
+          "musiclab_intro_panels_function-b2da9c67-9c99-42b2-9c72-c2e576663899": "Music Lab의 멋진 기능은 블록 세트를 가져와 자신의 블록에 넣을 수 있다는 것입니다. 코딩에서는 이를 _함수_ 만들기라고 합니다.",
+          "musiclab_intro_panels_function-e62e1783-6e0c-4dfb-9300-5dd081a80614": "다음과 같이 이름이 일치하는 블록을 사용하여 새 함수를 “호출”할 수 있습니다."
+        },
+        "musiclab_intro_panels_start_2": {
+          "musiclab_intro_panels_start-421d64b2-c4db-42cb-ac1f-de66a4d22fa7": "#### Music Lab에 오신 것을 환영합니다!\n\nMusic Lab에서는 코드를 사용하여 음악을 믹스, 리믹스, 연주할 수 있습니다. 코드나 음악에 대해 잘 모르더라도 걱정하지 마세요! 약간의 시간과 어느 정도의 호기심만 있으면 나만의 창작물을 만들 수 있습니다."
+        },
+        "musiclab_tutorial_panels_function": {
+          "musiclab_intro_panels_function_pdx-952b5575-5487-40c6-8a7e-4e37339d81d3": "### 새 함수를 사용하세요!\n\n이제 함수 이름이 있는 블록을 선택하여 언제든지 새 함수를 사용할 수 있습니다. \n\n실행 키를 누르면 이 새 블록이 함수를 **호출**합니다. ",
+          "musiclab_intro_panels_function_pdx-f1f658c0-64a9-471c-9f2a-399ba1ea8538": "### 함수\n\n호출할 때마다 특정 코드 조각을 재생하는 **함수**를 생성하세요. \n\n**가장 먼저** 원하는 사운드를 사용하여 함수를 만드세요."
+        },
+        "musiclab_tutorial_panels_notes": {
+          "musiclab_intro_panels_trigger_pdx-5586b57a-0a71-4d94-bdd7-125e9d4af278": "### 나만의 멜로디를 만들어보세요!\n\n**음표 재생** 블록을 사용하여 나만의 멜로디를 작곡해보세요.",
+          "musiclab_intro_panels_trigger_pdx-7930c016-c450-4b4a-9c73-641b2ea86a37": "### 나만의 비트를 만들어보세요!\n\n**드럼 재생** 블록을 사용하여 나만의 비트를 만들어보세요.\n\n즐거운 시간 보내세요!"
+        },
+        "musiclab_tutorial_panels_playtogether": {
+          "musiclab_intro_panels_playtogether_pdx-a5066092-2920-4c8d-89ea-00b7a8531ad0": "### 함께 재생하세요\n\n사운드를 동시에 재생하세요! 두 개 이상의 사운드를 **함께 재생** 블록으로 드래그하세요."
+        },
+        "musiclab_tutorial_panels_repeat": {
+          "musiclab_intro_panels_playtogether_pdx-a0d88b4a-e9a8-4641-8ec9-3ce98e7a1cc4": "### 사운드 반복\n\n사운드를 선택하고 반복 블록을 사용하여 재생할 횟수를 설정합니다."
+        },
+        "musiclab_tutorial_panels_trigger": {
+          "musiclab_intro_panels_trigger_pdx-5586b57a-0a71-4d94-bdd7-125e9d4af278": "### 라이브 음악 재생하기!\n\n트리거를 사용하여 라이브 음악을 재생할 수 있습니다. \n\n먼저, **트리거** 블록을 재생하려는 사운드로 코딩하세요.",
+          "musiclab_intro_panels_trigger_pdx-7930c016-c450-4b4a-9c73-641b2ea86a37": "그 다음 노래가 재생되는 동안 새 사운드를 **트리거**합니다."
+        },
+        "usiclab_tutorial_panels_end": {
+          "musiclab_intro_panels_end_pdx-88ca8817-6cb7-4c5b-a08a-69fc2267eb0b": "#### 🎶 잼을 할 준비가 되었나요?🎶\n\n기본을 배웠으니 이제 나만의 노래를 만들 준비가 되었네요! \n\n도구 상자에서 새로운 사운드와 커스터마이징을 모두 확인해 보세요. \n\n시작하려면 계속을 클릭하세요. "
+        }
+      }
+    }
+  }
+}

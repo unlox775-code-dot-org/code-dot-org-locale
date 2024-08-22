@@ -1,0 +1,25 @@
+{
+  "pl-PL": {
+    "data": {
+      "marketing_announcements": {
+        "banners": {
+          "curriculum-launch-2024": {
+            "body": "Odkryj nasze najnowsze jednostki i materiały szkoleniowe, aby zainspirować przyszłych innowatorów technologicznych.",
+            "buttonText": "Zobacz, co nowego",
+            "title": "Odkryj nowy i zaktualizowany program nauczania!"
+          },
+          "hoc-2023": {
+            "body": "Dołącz do milionów ludzi na całym świecie organizując Godzinę Kodowania ze sztuczną inteligencją lub bez niej i ucząc się, jak działa sztuczna inteligencja. Każdy, gdziekolwiek może to zrobić. Nie potrzeba doświadczenia.",
+            "buttonText": "Dowiedz się więcej",
+            "title": "Godzina Kodowania: Kreatywność dzięki sztucznej inteligencji"
+          },
+          "superhero": {
+            "body": "Dołącz do naszego wysoce wspierającego programu rozwoju zawodowego dla nauczycieli.",
+            "buttonText": "Dowiedz się więcej",
+            "title": "Pomóż swoim uczniom stać się superbohaterami!"
+          }
+        }
+      }
+    }
+  }
+}

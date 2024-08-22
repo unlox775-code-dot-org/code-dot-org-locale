@@ -1,0 +1,183 @@
+#Files in the config/locales directory are used for internationalization
+#and are automatically loaded by Rails. If you want to use locales other
+#than English, add the necessary files in this directory.
+#To use the locales, use `I18n.t`:
+#I18n.t 'hello'
+#In views, this is aliased to just `t`:
+#<%= t('hello') %>
+#To use a different locale, set it with `I18n.locale`:
+#I18n.locale = :es
+#This would use the information in config/locales/es.yml.
+#The following keys must be escaped otherwise they will not be retrieved by
+#the default I18n backend:
+#true, false, on, off, yes, no
+#Instead, surround them with single quotes.
+#en:
+#'true': 'foo'
+#To learn more, please read the Rails Internationalization guide
+#available at https://guides.rubyonrails.org/i18n.html.
+tg:
+  activerecord:
+    attributes:
+      user:
+        email: 'Почтаи электронӣ'
+        username: 'Номи корбар'
+        password: 'Парол'
+        password_confirmation: 'Тасдиқи парол'
+        current_password: 'Пароли ҷорӣ'
+        locale: 'Забон'
+        gender: 'Ҷинс'
+        gender_student_input: 'Ҷинс'
+        gender_teacher_input: 'Ҷинс'
+        edit_header: 'Таҳрир кардани тафсилоти ҳисоб'
+  hello: "Салом ҷаҳон"
+  submit: Пешниҳод кардан
+  to_close: Пӯшидан
+  stage: "Давра"
+  puzzle: "Муаммо"
+  trophies: "Ҷомҳо"
+  courses: 'Дарсҳо'
+  of: "аз"
+  more: "БЕШТАР"
+  less: "КАМТАР"
+  prize: 'ҷоиза'
+  more_info: 'маълумоти бештар'
+  auth:
+    signed_in: 'Ворид шудед!'
+    facebook: 'Фейсбук'
+  signup_form:
+    submit: 'Худро ба қайд гиред'
+    teacher: 'Шумо муаллим ҳастед?'
+    user_type_student: "Донишҷӯ"
+    user_type_teacher: "Муаллим"
+  school_info:
+    other: 'Дигар'
+  signin_form:
+    login: 'Почтаи электронӣ'
+    password: 'Парол'
+    remember: 'Маро дар хотир доред'
+    submit: 'Ворид шудан'
+  signinsection:
+    login: 'Ворид шудан'
+  password:
+    reset_form:
+      email: 'Суроғаи почтаи электронӣ'
+      submit: 'Пешниҳод кардан'
+    change_form:
+      title: 'Тағйир додани пароли худ'
+      new_password: 'Пароли нав'
+      confirm_password: 'Пароли навро тасдиқ кунед'
+      submit: 'Тағйир додани пароли ман'
+  welcome_email:
+    subject: 'Ба дарси ман ҳамроҳ шавед (дар Code.org)'
+  section:
+    type:
+      email: 'Почтаи электронӣ'
+  follower:
+    invite_sent: 'Даъват фиристода шуд'
+    added_teacher: '%{name} ҳамчун муаллими шумо илова карда шуд'
+    error:
+      signed_in: 'Лутфан, пеш аз идома бароед'
+      username_not_found: 'Номи корбари %{username} ёфт нашуд'
+      username_in_use: '%{username} аллакай вуҷуд дорад, лутфан, дигареро интихоб намоед'
+  crud:
+    new_model: '%{model}-и нав'
+    show: 'Намоиш додан'
+    edit: 'Таҳрир кардан'
+    edit_model: 'Таҳрир кардани %{model}'
+    update: 'Навсозӣ кардан'
+    submit: 'Пешниҳод кардан'
+    destroy: 'Вайрон кардан'
+    back: 'Бозгашт'
+    confirm: 'Мутмаин ҳастед?'
+    created: '%{model} бо муваффақият эҷод карда шуд.'
+    updated: '%{model} бо муваффақият навсозӣ карда шуд.'
+  nav:
+    header:
+      sign_in_to_save: 'Барои захира кардани муваффақият, ворид шавед'
+      project_gallery: "Лоиҳаҳо"
+      educate_hoc: "Соати рамз"
+      stats: "Омор"
+    user:
+      label: 'Салом %{username}'
+      settings: 'Ҳисоби ман'
+      logout: 'Хориҷ шудан'
+      signin: 'Ворид шудан'
+      create: 'Сохтан'
+    popup:
+      progress: 'Муваффақияти шумо'
+      close: 'ПӮШИДАН'
+      puzzle_map: 'Давраҳо'
+      prizes_link: 'маълумоти бештар'
+  teacher:
+    title:
+      other: 'Муаллимони шумо:'
+    panel:
+      student: 'Донишҷӯ'
+  user:
+    new_password_hint: "(агар нахоҳед, ки онро тағйир диҳед, холӣ монед)"
+    update_email: "Навсозӣ кардан"
+    remove_parent_email_label: "Тоза кардан"
+  home:
+    student_reg_link: 'Донишҷӯ'
+    online: онлайн
+    view_course: Намоиш додани дарс
+    trynow: 'Маълумоти бештар'
+  certificate_hour_of_code: "Соати рамз"
+  gender:
+    male: 'Мард'
+    female: 'Зан'
+  user_type:
+    student: 'Донишҷӯ'
+    teacher: 'Муаллим'
+  footer:
+    more: 'БЕШТАР'
+    feedback: 'Таъмини изҳори назар'
+    support: 'Дастгирӣ'
+  reference_area:
+    title: 'Кумак лозим аст?'
+  compatibility:
+    upgrade:
+      link: "Маълумоти бештар"
+  upsell:
+    widgets:
+      audience: "Синну сол: 14+"
+  race_interstitial:
+    races:
+      other: "Дигар"
+    submit: "Пешниҳод кардан"
+    decline: "Пӯшидан"
+  progress:
+    in_progress: иҷро мешавад
+  project:
+    projects: "Лоиҳаҳо"
+    create: "Эҷод кардани лоиҳа"
+    new: "Эҷод кардани нав"
+    exit: "Бозгашт ба дарс"
+    project_gallery: "Лоиҳаҳо"
+    share_title: Лоиҳаи худро мубодила кунед
+    share_copy_link: "Нусхабардории пайванд:"
+    name: "Ном"
+    updated: "Навсозӣ шуд"
+    project_type: "Навъи лоиҳа"
+    abuse:
+      report_abuse_form:
+        abuse_type:
+          other: 'Дигар'
+  pd:
+    form_labels:
+      email: 'Почтаи электронӣ'
+    form_entries:
+      gender:
+        male: 'Мард'
+        female: 'Зан'
+      subjects:
+        other: "Дигар"
+      resources:
+        other: "Дигар"
+      robotics:
+        other: "Дигар"
+      workshop_course:
+        other: 'Дигар'
+  cookie_banner:
+    accept: 'Ман розӣ ҳастам'

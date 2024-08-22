@@ -1,0 +1,892 @@
+{
+  "my-MM": {
+    "data": {
+      "function_definitions": {
+        "2-3 Artist 11": {
+          "x": {
+            "name": "×"
+          }
+        },
+        "Course 4 Play Lab Params 1": {
+          "jump": {
+            "name": "ခုန်ပါ"
+          }
+        },
+        "Course 4 Play Lab Params 10": {
+          "score_points": {
+            "parameters": {
+              "points": "ရမှတ်"
+            }
+          }
+        },
+        "Course 4 Play Lab Params 2": {
+          "jump": {
+            "name": "ခုန်ပါ"
+          }
+        },
+        "Course 4 Play Lab Params 3": {
+          "jump": {
+            "name": "ခုန်ပါ",
+            "parameters": {
+              "actor": "ဇာတ်ကောင်"
+            }
+          }
+        },
+        "Course 4 Play Lab Params 4": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "Course 4 Play Lab Params 5": {
+          "patrol": {
+            "parameters": {
+              "actor": "ဇာတ်ကောင်"
+            }
+          }
+        },
+        "Course 4 Play Lab Params 6": {
+          "patrol": {
+            "parameters": {
+              "actor": "ဇာတ်ကောင်"
+            }
+          }
+        },
+        "Course 4 Play Lab Params 7": {
+          "patrol": {
+            "parameters": {
+              "actor": "ဇာတ်ကောင်",
+              "speed": "အရှိန်"
+            }
+          }
+        },
+        "Course 4 Play Lab Params 8": {
+          "patrol": {
+            "parameters": {
+              "actor": "ဇာတ်ကောင်",
+              "speed": "အရှိန်"
+            }
+          }
+        },
+        "Course 4 Play Lab Params 9": {
+          "score_points": {
+            "parameters": {
+              "points": "ရမှတ်"
+            }
+          }
+        },
+        "Course 4 SCF 3": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "Course E: Frozen Project_examples2022": {
+          "draw a pinwheel": {
+            "parameters": {
+              "repeat": "ထပ်မံ ပြုလုပ်ပါ"
+            }
+          },
+          "draw a star": {
+            "parameters": {
+              "points": "ရမှတ်"
+            }
+          }
+        },
+        "Course E: Frozen Project_examples_2021": {
+          "draw a pinwheel": {
+            "parameters": {
+              "repeat": "ထပ်မံ ပြုလုပ်ပါ"
+            }
+          },
+          "draw a star": {
+            "parameters": {
+              "points": "ရမှတ်"
+            }
+          }
+        },
+        "Course E: Frozen Project_examples_2023": {
+          "draw a pinwheel": {
+            "parameters": {
+              "repeat": "ထပ်မံ ပြုလုပ်ပါ"
+            }
+          },
+          "draw a star": {
+            "parameters": {
+              "points": "ရမှတ်"
+            }
+          }
+        },
+        "Course E: Play Lab Project": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "Course F: Artist Project_Flowers_examples_2021": {
+          "draw a pinwheel": {
+            "parameters": {
+              "repeat": "ထပ်မံ ပြုလုပ်ပါ"
+            }
+          },
+          "draw a star": {
+            "parameters": {
+              "points": "ရမှတ်"
+            }
+          }
+        },
+        "CourseD_EOC_artist": {
+          "draw a pinwheel": {
+            "parameters": {
+              "repeat": "ထပ်မံ ပြုလုပ်ပါ"
+            }
+          },
+          "draw a star": {
+            "parameters": {
+              "points": "ရမှတ်"
+            }
+          }
+        },
+        "CourseD_EOC_artist2022": {
+          "draw a pinwheel": {
+            "parameters": {
+              "repeat": "ထပ်မံ ပြုလုပ်ပါ"
+            }
+          },
+          "draw a star": {
+            "parameters": {
+              "points": "ရမှတ်"
+            }
+          }
+        },
+        "CourseD_EOC_artist_2021": {
+          "draw a pinwheel": {
+            "parameters": {
+              "repeat": "ထပ်မံ ပြုလုပ်ပါ"
+            }
+          },
+          "draw a star": {
+            "parameters": {
+              "points": "ရမှတ်"
+            }
+          }
+        },
+        "CourseD_EOC_artist_2023": {
+          "draw a pinwheel": {
+            "parameters": {
+              "repeat": "ထပ်မံ ပြုလုပ်ပါ"
+            }
+          },
+          "draw a star": {
+            "parameters": {
+              "points": "ရမှတ်"
+            }
+          }
+        },
+        "CourseD_EOC_artist_example2021": {
+          "draw a pinwheel": {
+            "parameters": {
+              "repeat": "ထပ်မံ ပြုလုပ်ပါ"
+            }
+          },
+          "draw a star": {
+            "parameters": {
+              "points": "ရမှတ်"
+            }
+          }
+        },
+        "CourseD_EOC_artist_example20212022": {
+          "draw a pinwheel": {
+            "parameters": {
+              "repeat": "ထပ်မံ ပြုလုပ်ပါ"
+            }
+          },
+          "draw a star": {
+            "parameters": {
+              "points": "ရမှတ်"
+            }
+          }
+        },
+        "CourseD_EOC_artist_example2021_2023": {
+          "draw a pinwheel": {
+            "parameters": {
+              "repeat": "ထပ်မံ ပြုလုပ်ပါ"
+            }
+          },
+          "draw a star": {
+            "parameters": {
+              "points": "ရမှတ်"
+            }
+          }
+        },
+        "Find the Wizard": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "FoodFight": {
+          "score_points": {
+            "parameters": {
+              "points": "ရမှတ်"
+            }
+          }
+        },
+        "Geometric Sun": {
+          "diamond": {
+            "name": "စိန်"
+          }
+        },
+        "Geometric Sun_2018": {
+          "diamond": {
+            "name": "စိန်"
+          }
+        },
+        "InspirationalArtwork": {
+          "draw spiral circle": {
+            "parameters": {
+              "size": "အရွယ်အစား"
+            }
+          }
+        },
+        "InspirationalArtwork_2018": {
+          "draw spiral circle": {
+            "parameters": {
+              "size": "အရွယ်အစား"
+            }
+          }
+        },
+        "NEW Course 4 Artist Params 10": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "NEW Course 4 Artist Params 11": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "NEW Course 4 Artist Params 15": {
+          "draw a pinwheel": {
+            "parameters": {
+              "repeat": "ထပ်မံ ပြုလုပ်ပါ"
+            }
+          },
+          "draw a star": {
+            "parameters": {
+              "points": "ရမှတ်"
+            }
+          }
+        },
+        "NEW Course 4 Artist Params 2": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "NEW Course 4 Artist Params 9": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "NEW Course 4 Play Lab Params 11": {
+          "jump": {
+            "name": "ခုန်ပါ",
+            "parameters": {
+              "actor": "ဇာတ်ကောင်"
+            }
+          },
+          "patrol": {
+            "parameters": {
+              "actor": "ဇာတ်ကောင်",
+              "speed": "အရှိန်"
+            }
+          }
+        },
+        "New Artist Project": {
+          "draw a pinwheel": {
+            "parameters": {
+              "repeat": "ထပ်မံ ပြုလုပ်ပါ"
+            }
+          },
+          "draw a star": {
+            "parameters": {
+              "points": "ရမှတ်"
+            }
+          }
+        },
+        "New Play Lab Project": {
+          "jump": {
+            "name": "ခုန်ပါ",
+            "parameters": {
+              "actor": "ဇာတ်ကောင်"
+            }
+          },
+          "patrol": {
+            "parameters": {
+              "actor": "ဇာတ်ကောင်",
+              "speed": "အရှိန်"
+            }
+          }
+        },
+        "allthethings_spritelab_functions": {
+          "set background": {
+            "name": "နောက်ခံကို သတ်မှတ်ပါ"
+          }
+        },
+        "course3_artist_functions_challenge1": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "course3_artist_functions_challenge2": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "course3_bee_functions_challenge1": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "course3_bee_functions_challenge2": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "course4_artist_functions_challenge2": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "course4_artist_fwp_challenge1": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseC_artist_prog3": {
+          "draw flame": {
+            "parameters": {
+              "x": "×"
+            }
+          }
+        },
+        "courseC_artist_prog32022": {
+          "draw flame": {
+            "parameters": {
+              "x": "×"
+            }
+          }
+        },
+        "courseC_artist_prog3_2018": {
+          "draw flame": {
+            "parameters": {
+              "x": "×"
+            }
+          }
+        },
+        "courseC_artist_prog3_2019": {
+          "draw flame": {
+            "parameters": {
+              "x": "×"
+            }
+          }
+        },
+        "courseC_artist_prog3_2020": {
+          "draw flame": {
+            "parameters": {
+              "x": "×"
+            }
+          }
+        },
+        "courseC_artist_prog3_2021": {
+          "draw flame": {
+            "parameters": {
+              "x": "×"
+            }
+          }
+        },
+        "courseC_artist_prog3_2023": {
+          "draw flame": {
+            "parameters": {
+              "x": "×"
+            }
+          }
+        },
+        "courseC_data wizard": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseC_data wizard2022": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseC_data wizard_2020": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseC_data wizard_2021": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseC_data wizard_2023": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_concept1": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_concept_challenge1": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_concept_challenge1_2018": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions10": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions102022": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions10_2018": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions10_2019": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions10_2020": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions10_2021": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions10_2023": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions8": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions82022": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions8_2018": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions8_2019": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions8_2020": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions8_2021": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions8_2023": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions8a2022": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions8a_2018": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions8a_2019": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions8a_2020": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions8a_2021": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions8a_2023": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions8b2022": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions8b_2018": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions8b_2019": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions8b_2020": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions8b_2021": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions8b_2023": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions8c2022": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions8c_2018": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions8c_2019": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions8c_2020": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions8c_2021": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions8c_2023": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions9": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions92022": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions9_2018": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions9_2019": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions9_2020": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions9_2021": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions9_2023": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions_challenge1": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions_challenge12022": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions_challenge1_2018": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions_challenge1_2019": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions_challenge1_2020": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions_challenge1_2021": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions_challenge1_2023": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions_challenge2": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions_challenge22022": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions_challenge2_2018": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions_challenge2_2019": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions_challenge2_2020": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions_challenge2_2021": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions_challenge2_2023": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions_predict2": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions_predict22022": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions_predict2_2018": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions_predict2_2019": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions_predict2_2020": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions_predict2_2021": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_artist_functions_predict2_2023": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_bee_functions1": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_bee_functions_challenge1": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_bee_functions_challenge2": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_farmer_concept1": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_farmer_concept2": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_farmer_concept3": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_playLab_scaffold1": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_playLab_scaffold2": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_playLab_scaffold3": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseE_playLab_scaffold4": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseF_artist_fwp1": {
+          "Make gingham": {
+            "parameters": {
+              "size": "အရွယ်အစား"
+            }
+          },
+          "checker": {
+            "parameters": {
+              "size": "အရွယ်အစား"
+            }
+          },
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseF_artist_fwp2": {
+          "Make gingham": {
+            "parameters": {
+              "size": "အရွယ်အစား"
+            }
+          },
+          "checker": {
+            "parameters": {
+              "size": "အရွယ်အစား"
+            }
+          },
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseF_artist_fwp3": {
+          "draw a square2": {
+            "parameters": {
+              "size": "အရွယ်အစား"
+            }
+          },
+          "filled square": {
+            "parameters": {
+              "size": "အရွယ်အစား"
+            }
+          }
+        },
+        "courseF_artist_fwp7": {
+          "draw a spiral edge": {
+            "parameters": {
+              "min": "အနည်းဆုံး"
+            }
+          }
+        },
+        "courseF_artist_fwp8": {
+          "draw a spiral edge": {
+            "parameters": {
+              "min": "အနည်းဆုံး"
+            }
+          }
+        },
+        "courseF_artist_fwp9": {
+          "draw a pinwheel": {
+            "parameters": {
+              "repeat": "ထပ်မံ ပြုလုပ်ပါ"
+            }
+          },
+          "draw a spiral edge": {
+            "parameters": {
+              "min": "အနည်းဆုံး"
+            }
+          },
+          "draw a star": {
+            "parameters": {
+              "points": "ရမှတ်"
+            }
+          }
+        },
+        "courseF_artist_fwp_challenge1": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseF_artist_fwp_challenge2": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        },
+        "courseF_bee_functions8a": {
+          "do something": {
+            "name": "တစ်ခုခုကို ပြုလုပ်ပါ"
+          }
+        }
+      }
+    }
+  }
+}

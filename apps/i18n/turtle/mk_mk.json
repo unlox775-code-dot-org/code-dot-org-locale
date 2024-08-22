@@ -1,0 +1,12 @@
+{
+  "catControl": "Лупови",
+  "catLogic": "Логика",
+  "catMath": "Математика",
+  "catTurtle": "Акции",
+  "catVariables": "Променливи",
+  "controlsForInputFromToBy": "од %1 до %2 по %3",
+  "controlsForInputWith": "број со",
+  "drawATree": "Нацртај дрво",
+  "forward": "напред",
+  "jump": "Рипај "
+}

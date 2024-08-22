@@ -1,0 +1,15 @@
+{
+  "selectDataset": "Selecione o conjunto de dados que gostaria de usar.",
+  "uploadedDataset": "Acabaste de fazer o “upload” de um conjunto de dados.",
+  "selectedDataset": "Acabaste de selecionar um conjunto de dados.",
+  "dataDisplayLabel": "Escolha uma coluna para prever.",
+  "dataDisplayFeatures": "Escolha uma ou mais colunas como entradas para ajudar a fazer a previsão.",
+  "selectedFeatureNumerical": "Acabaste de selecionar um recurso numérico.",
+  "selectedFeatureCategorical": "Acabaste de selecionar um recurso categórico.",
+  "trainModel": "O seu modelo está a ser treinado.",
+  "generateResults": "O seu modelo está a ser testado.",
+  "results": "Analise os resultados.",
+  "resultsDetails": "Detalhes dos resultados estão sendo mostrados.",
+  "saveModel": "Salve o modelo treinado para uso no App Lab.",
+  "modelSummary": "Treinou e salvou o seu modelo com sucesso. Reveja os detalhes do seu modelo e clique em Concluir para usar o seu modelo treinado no App Lab."
+}

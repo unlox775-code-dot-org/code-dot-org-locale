@@ -1,0 +1,44 @@
+{
+  "pt-PT": {
+    "data": {
+      "panels": {
+        "music_lab_intro_panels_start2": {
+          "musiclab_intro_panels_start_v2-415ec56a-f841-421b-adff-b680e8d4ca35": "#### ✨ Bem-vindo ao Laboratório de Música ✨\n\nPrepare-se para fazer música com código!",
+          "musiclab_intro_panels_start_v2-623c36d1-b475-414b-8e2f-da7d27012391": "### Altere o som\n\nClique no bloco de som para acessar a biblioteca de sons. \n\nEscolha qualquer som que você gostar!",
+          "musiclab_intro_panels_start_v2-d2e2064a-8f39-452f-81f5-aab175d5a165": "#### Usando o tutorial\n\n<p style=\"color: black;\"><span style=\"color: #009EB0;\">→</span> 1. Leia as instruções.</p>\n\n<p style=\"color: black;\"><span style=\"color: #ED6060;\">→</span> 2. Arraste os blocos para a área de trabalho.</p>\n\n<p style=\"color: black;\"><span style=\"color: #FFA400;\">→</span> 3. Pressione ▶ Executar para iniciar sua música.</p>\n\n<p style=\"color: black;\"><span style=\"color: #9660BF;\">→</span>  4. Pressione Continuar para o próximo nível."
+        },
+        "musiclab_intro_panels_end_2": {
+          "musiclab_intro_panels_end-70b08fdd-abbf-42bb-bdc9-d406bb513faf": "#### Você está pronto!\n\nVocê aprendeu o básico e agora está pronto para fazer sua própria mistura! Certifique-se de explorar a biblioteca de sons - há muito para explorar e usar para fazer uma faixa incrível.\n\nVocê verá ainda mais coisas novas na caixa de ferramentas, incluindo:\n\n-   Um bloco de criação de batidas\n\n-   Efeitos sonoros como reverb e filtro\n\n-   Um bloco sintetizador\n\n-   Um bloco para randomizar o que é tocado\n\n ...e mais! Divirta-se!"
+        },
+        "musiclab_intro_panels_function_2": {
+          "musiclab_intro_panels_function-b2da9c67-9c99-42b2-9c72-c2e576663899": "Uma característica legal no Music Lab é que você pode pegar um conjunto de blocos e colocá-los em seu próprio bloco. Na codificação, isso é chamado de fazer uma _função_.",
+          "musiclab_intro_panels_function-e62e1783-6e0c-4dfb-9300-5dd081a80614": "Você pode \"chamar\" sua nova função usando o bloco com o nome correspondente, assim."
+        },
+        "musiclab_intro_panels_start_2": {
+          "musiclab_intro_panels_start-421d64b2-c4db-42cb-ac1f-de66a4d22fa7": "#### Bem-vindo ao Music Lab!\n\nO Music Lab permite que você misture, remisture e até mesmo execute música usando código. Não se preocupe se você não sabe muito sobre código, ou até mesmo música! Tudo que você precisa é um pouco de tempo e alguma curiosidade para começar a fazer suas próprias criações."
+        },
+        "musiclab_tutorial_panels_function": {
+          "musiclab_intro_panels_function_pdx-952b5575-5487-40c6-8a7e-4e37339d81d3": "### Use sua nova função!\n\nAgora, você pode usar sua nova função a qualquer momento escolhendo o bloco com o nome da sua função. \n\nEste novo bloco irá **chamar** sua função quando você pressionar Executar.",
+          "musiclab_intro_panels_function_pdx-f1f658c0-64a9-471c-9f2a-399ba1ea8538": "### Funções\n\nCriar uma **função** para reproduzir um trecho específico de código sempre que for chamado. \n\n**Primeiro**, construa sua função usando os sons que você gosta."
+        },
+        "musiclab_tutorial_panels_notes": {
+          "musiclab_intro_panels_trigger_pdx-5586b57a-0a71-4d94-bdd7-125e9d4af278": "### Componha sua própria melodia!\n\nUse o bloco **play notes** para compor sua própria melodia.",
+          "musiclab_intro_panels_trigger_pdx-7930c016-c450-4b4a-9c73-641b2ea86a37": "### Crie suas próprias batidas!\n\nUse o bloco **tocar bateria** para criar suas próprias batidas.\n\nDivirta-se!"
+        },
+        "musiclab_tutorial_panels_playtogether": {
+          "musiclab_intro_panels_playtogether_pdx-a5066092-2920-4c8d-89ea-00b7a8531ad0": "### Tocar Juntos\n\nToque sons ao mesmo tempo! Arraste dois ou mais sons para o bloco **tocar juntos**."
+        },
+        "musiclab_tutorial_panels_repeat": {
+          "musiclab_intro_panels_playtogether_pdx-a0d88b4a-e9a8-4641-8ec9-3ce98e7a1cc4": "### Repita um som\n\nEscolha um som e defina o número de vezes para tocá-lo usando um bloco de repetição."
+        },
+        "musiclab_tutorial_panels_trigger": {
+          "musiclab_intro_panels_trigger_pdx-5586b57a-0a71-4d94-bdd7-125e9d4af278": "### Toque Música Ao Vivo!\n\nVocê pode usar gatilhos para tocar música ao vivo. \n\nPrimeiro, codifique seu bloco **gatilho** com o som que deseja que ele toque.",
+          "musiclab_intro_panels_trigger_pdx-7930c016-c450-4b4a-9c73-641b2ea86a37": "Então, **acione** seus novos sons enquanto sua música está sendo tocada."
+        },
+        "usiclab_tutorial_panels_end": {
+          "musiclab_intro_panels_end_pdx-88ca8817-6cb7-4c5b-a08a-69fc2267eb0b": "#### 🎶 Pronto para tocar? 🎶\n\nVocê aprendeu o básico e agora está pronto para fazer sua própria música! \n\nConfira todos os novos sons e customizações na caixa de ferramentas. \n\nClique em Continuar para começar. "
+        }
+      }
+    }
+  }
+}

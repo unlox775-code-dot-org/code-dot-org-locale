@@ -1,0 +1,248 @@
+{
+  "sq-AL": {
+    "data": {
+      "reference_guides": {
+        "csd-2022/accuracy-in-ai-lab": {
+          "display_name": "Saktësia në Al Lab"
+        },
+        "csd-2022/animation-tab": {
+          "display_name": "Tabela e animacionit"
+        },
+        "csd-2022/app-lab": {
+          "display_name": "Laboratori i Aplikacioneve"
+        },
+        "csd-2022/applab-overview": {
+          "display_name": "Përmbledhje"
+        },
+        "csd-2022/body-styling": {
+          "display_name": "Stilimi i trupit"
+        },
+        "csd-2022/classes": {
+          "display_name": "Klasat"
+        },
+        "csd-2022/color-lights": {
+          "display_name": "Dritat me ngjyra"
+        },
+        "csd-2022/creating-a-survey": {
+          "display_name": "Krijimi i një formulari"
+        },
+        "csd-2022/css": {
+          "display_name": "CSS"
+        },
+        "csd-2022/css-overview": {
+          "display_name": "Përmbledhje"
+        },
+        "csd-2022/design-mode": {
+          "display_name": "dan is a masive dick- "
+        },
+        "csd-2022/for-loops": {
+          "display_name": "Për Ciklet"
+        },
+        "csd-2022/functions": {
+          "display_name": "funksione"
+        },
+        "csd-2022/game-lab": {
+          "display_name": "Game Lab"
+        },
+        "csd-2022/game-lab-overview": {
+          "display_name": "Përmbledhje"
+        },
+        "csd-2022/html": {
+          "display_name": "HTML"
+        },
+        "csd-2022/html-overview": {
+          "display_name": "Përmbledhje"
+        },
+        "csd-2022/importing-a-model-in-app-lab": {
+          "display_name": "Importimi i një modeli në App Lab"
+        },
+        "csd-2022/javascript": {
+          "display_name": "JavaScript"
+        },
+        "csd-2022/javascript-overview": {
+          "display_name": "Përmbledhje"
+        },
+        "csd-2022/lists": {
+          "display_name": "Listat"
+        },
+        "csd-2022/maker-toolkit": {
+          "display_name": "Paketa e veglave të krijuesit"
+        },
+        "csd-2022/maker-toolkit-overview": {
+          "display_name": "Përmbledhje"
+        },
+        "csd-2022/other": {
+          "display_name": "Të tjera/ë"
+        },
+        "csd-2022/other-overview": {
+          "display_name": "Përmbledhje"
+        },
+        "csd-2022/patterns-overview": {
+          "display_name": "Përmbledhje"
+        },
+        "csd-2022/selecting-a-label": {
+          "display_name": "Përzgjedhja e një etikete"
+        },
+        "csd-2022/selecting-features": {
+          "display_name": "Përzgjedhja e Veçorive"
+        },
+        "csd-2022/sprites": {
+          "display_name": "Sprites"
+        },
+        "csd-2022/style-sheets": {
+          "display_name": "Fletët e stilimit"
+        },
+        "csd-2022/taking-input-with-getproperty": {
+          "display_name": "Marrja e inputit me getProperty"
+        },
+        "csd-2022/text-properties": {
+          "display_name": "Tiparet e tekstit"
+        },
+        "csd-2022/using-data-with-categorical-features": {
+          "display_name": "Përdorimi i të dhënave me veçori kategorike"
+        },
+        "csd-2022/using-data-with-numerical-features": {
+          "display_name": "Përdorimi i të dhënave me veçori numerike"
+        },
+        "csd-2022/variables": {
+          "display_name": "variabla"
+        },
+        "csd-2022/introduction-to-ai-lab": {
+          "display_name": "Hyrje në AI Lab"
+        },
+        "csd-2022/model-cards-in-ai-lab": {
+          "display_name": "Kartat e modelit në App Lab"
+        },
+        "csd-2022/problem-solving-process": {
+          "display_name": "Procesi i zgjidhjes së problemeve"
+        },
+        "csd-2022/problem-solving-process-general": {
+          "display_name": "Procesi i zgjidhjes së problemeve"
+        },
+        "csd-2022/velocity": {
+          "display_name": "Shpejtësia"
+        },
+        "csd-2024/accuracy-in-ai-lab": {
+          "display_name": "Saktësia në Al Lab"
+        },
+        "csd-2024/animation-tab": {
+          "display_name": "Tabela e animacionit"
+        },
+        "csd-2024/app-lab": {
+          "display_name": "Laboratori i Aplikacioneve"
+        },
+        "csd-2024/applab-overview": {
+          "display_name": "Përmbledhje"
+        },
+        "csd-2024/body-styling": {
+          "display_name": "Stilimi i trupit"
+        },
+        "csd-2024/classes": {
+          "display_name": "Klasat"
+        },
+        "csd-2024/color-lights": {
+          "display_name": "Dritat me ngjyra"
+        },
+        "csd-2024/creating-a-survey": {
+          "display_name": "Krijimi i një formulari"
+        },
+        "csd-2024/css": {
+          "display_name": "CSS"
+        },
+        "csd-2024/css-overview": {
+          "display_name": "Përmbledhje"
+        },
+        "csd-2024/design-mode": {
+          "display_name": "dan is a masive dick- "
+        },
+        "csd-2024/for-loops": {
+          "display_name": "Për Ciklet"
+        },
+        "csd-2024/functions": {
+          "display_name": "funksione"
+        },
+        "csd-2024/game-lab": {
+          "display_name": "Game Lab"
+        },
+        "csd-2024/game-lab-overview": {
+          "display_name": "Përmbledhje"
+        },
+        "csd-2024/html": {
+          "display_name": "HTML"
+        },
+        "csd-2024/html-overview": {
+          "display_name": "Përmbledhje"
+        },
+        "csd-2024/importing-a-model-in-app-lab": {
+          "display_name": "Importimi i një modeli në App Lab"
+        },
+        "csd-2024/introduction-to-ai-lab": {
+          "display_name": "Hyrje në AI Lab"
+        },
+        "csd-2024/javascript": {
+          "display_name": "JavaScript"
+        },
+        "csd-2024/javascript-overview": {
+          "display_name": "Përmbledhje"
+        },
+        "csd-2024/lists": {
+          "display_name": "Listat"
+        },
+        "csd-2024/maker-toolkit": {
+          "display_name": "Paketa e veglave të krijuesit"
+        },
+        "csd-2024/maker-toolkit-overview": {
+          "display_name": "Përmbledhje"
+        },
+        "csd-2024/model-cards-in-ai-lab": {
+          "display_name": "Kartat e modelit në App Lab"
+        },
+        "csd-2024/other": {
+          "display_name": "Të tjera/ë"
+        },
+        "csd-2024/other-overview": {
+          "display_name": "Përmbledhje"
+        },
+        "csd-2024/patterns-overview": {
+          "display_name": "Përmbledhje"
+        },
+        "csd-2024/problem-solving-process": {
+          "display_name": "Procesi i zgjidhjes së problemeve"
+        },
+        "csd-2024/problem-solving-process-general": {
+          "display_name": "Procesi i zgjidhjes së problemeve"
+        },
+        "csd-2024/selecting-a-label": {
+          "display_name": "Përzgjedhja e një etikete"
+        },
+        "csd-2024/selecting-features": {
+          "display_name": "Përzgjedhja e Veçorive"
+        },
+        "csd-2024/sprites": {
+          "display_name": "Sprites"
+        },
+        "csd-2024/style-sheets": {
+          "display_name": "Fletët e stilimit"
+        },
+        "csd-2024/taking-input-with-getproperty": {
+          "display_name": "Marrja e inputit me getProperty"
+        },
+        "csd-2024/text-properties": {
+          "display_name": "Tiparet e tekstit"
+        },
+        "csd-2024/using-data-with-categorical-features": {
+          "display_name": "Përdorimi i të dhënave me veçori kategorike"
+        },
+        "csd-2024/using-data-with-numerical-features": {
+          "display_name": "Përdorimi i të dhënave me veçori numerike"
+        },
+        "csd-2024/variables": {
+          "display_name": "variabla"
+        },
+        "csd-2024/velocity": {
+          "display_name": "Shpejtësia"
+        }
+      }
+    }
+  }
+}

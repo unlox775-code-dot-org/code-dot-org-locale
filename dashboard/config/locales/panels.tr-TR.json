@@ -1,0 +1,47 @@
+{
+  "tr-TR": {
+    "data": {
+      "panels": {
+        "music_lab_intro_panels_start2": {
+          "musiclab_intro_panels_start_v2-415ec56a-f841-421b-adff-b680e8d4ca35": "#### ✨ Müzik Laboratuvarı'na hoş geldiniz ✨\n\nKodla müzik yapmaya hazır olun!",
+          "musiclab_intro_panels_start_v2-623c36d1-b475-414b-8e2f-da7d27012391": "### Sesi değiştir\n\nSes kitaplığına erişmek için, ses bloğuna tıklayın.\n\nBeğendiğiniz herhangi bir sesi seçin!",
+          "musiclab_intro_panels_start_v2-d2e2064a-8f39-452f-81f5-aab175d5a165": "#### Öğreticiyi kullanma\n\n<p style=\"color: black;\"><span style=\"color: #009EB0;\">→</span> 1. Talimatları okuyun.</p>\n\n<p style=\"color: black;\"><span style=\"color: #ED6060;\">→</span> 2. Blokları çalışma alanına sürükleyin.</p>\n\n<p style=\"color: black;\"><span style=\"color: #FFA400;\">→</span> 3. Şarkınızı başlatmak için ▶ Çalıştır'a basın.</p>\n\n<p style=\"color: black;\"><span style=\"color: #9660BF;\">→</span> 4. Bir sonraki seviye için Devam'a basın.</p>"
+        },
+        "musiclab_intro_panels_end_2": {
+          "musiclab_intro_panels_end-70b08fdd-abbf-42bb-bdc9-d406bb513faf": "#### İlerlemeye hazırsın!\n\nTemelleri öğrendiniz ve artık kendi miksinizi yapmaya hazırsınız! Ses kitaplığını mutlaka inceleyin; harika bir parça oluşturmak için keşfedilecek ve kullanılacak çok şey var.\n\nAraç kutusunda aşağıdakiler de dahil olmak üzere daha da fazla yeni şey göreceksiniz:\n\n-   Ritim yaratan bir blok\n\n-   Yankı ve filtre gibi ses efektleri\n\n-   Bir sentezleyici bloğu\n\n-   Çalınacakları rastgele seçmek için bir blok\n\n ...ve dahası! İyi eğlenceler!"
+        },
+        "musiclab_intro_panels_function": {
+          "musiclab_intro_panels_function-e62e1783-6e0c-4dfb-9300-5dd081a80614": "Yeni işlevinizi, bunun gibi eşleşen adla bloğu kullanarak \"çağırabilirsiniz\"."
+        },
+        "musiclab_intro_panels_function_2": {
+          "musiclab_intro_panels_function-b2da9c67-9c99-42b2-9c72-c2e576663899": "Müzik Lab'ın harika bir özelliği, bir dizi blok alıp bunları kendi bloğunuza yerleştirebilmenizdir. Kodlamada buna _işlev_ yapmak denir.",
+          "musiclab_intro_panels_function-e62e1783-6e0c-4dfb-9300-5dd081a80614": "Yeni işlevinizi, bunun gibi eşleşen adla bloğu kullanarak \"çağırabilirsiniz\"."
+        },
+        "musiclab_intro_panels_start_2": {
+          "musiclab_intro_panels_start-421d64b2-c4db-42cb-ac1f-de66a4d22fa7": "#### Müzik Laboratuvarı'na hoş geldiniz!\n\nMüzik Lab, kod kullanarak müzik mikslemenize, remikslemenize ve hatta performans sergilemenize olanak tanır. Kod ve hatta müzik hakkında fazla bir şey bilmiyorsanız, endişelenmeyin! Kendi kreasyonlarınızı yapmaya başlamak için tek ihtiyacınız olan biraz zaman ve biraz merak."
+        },
+        "musiclab_tutorial_panels_function": {
+          "musiclab_intro_panels_function_pdx-952b5575-5487-40c6-8a7e-4e37339d81d3": "### Yeni işlevinizi kullanın!\n\nArtık fonksiyonunuzun adını taşıyan bloğu seçerek, yeni fonksiyonunuzu istediğiniz zaman kullanabilirsiniz.\n\nBu yeni blok, Çalıştır'a bastığınızda işlevinizi **çağıracaktır**.",
+          "musiclab_intro_panels_function_pdx-f1f658c0-64a9-471c-9f2a-399ba1ea8538": "### İşlevler\n\nBelirli bir kod parçasını her çağrıldığında oynatmak için, bir **işlev** oluşturun.\n\n**Önce** beğendiğiniz sesleri kullanarak, işlevinizi oluşturun."
+        },
+        "musiclab_tutorial_panels_notes": {
+          "musiclab_intro_panels_trigger_pdx-5586b57a-0a71-4d94-bdd7-125e9d4af278": "### Kendi melodinizi besteleyin!\n\nKendi melodinizi oluşturmak için, **notaları çal** bloğunu kullanın.",
+          "musiclab_intro_panels_trigger_pdx-7930c016-c450-4b4a-9c73-641b2ea86a37": "### Kendi ritimlerinizi besteleyin!\n\nKendi ritimlerinizi bestelemek için, **davul çal** bloğunu kullanın.\n\nİyi eğlenceler!"
+        },
+        "musiclab_tutorial_panels_playtogether": {
+          "musiclab_intro_panels_playtogether_pdx-a5066092-2920-4c8d-89ea-00b7a8531ad0": "### Birlikte oynatmak\n\nSesleri aynı anda çalın! İki veya daha fazla sesi **birlikte oynat** bloğuna sürükleyin."
+        },
+        "musiclab_tutorial_panels_repeat": {
+          "musiclab_intro_panels_playtogether_pdx-a0d88b4a-e9a8-4641-8ec9-3ce98e7a1cc4": "### Bir sesi tekrarlama\n\nBir ses seçin ve tekrarla bloğunu kullanarak, bu sesin kaç kez çalınacağını ayarlayın."
+        },
+        "musiclab_tutorial_panels_trigger": {
+          "musiclab_intro_panels_trigger_pdx-5586b57a-0a71-4d94-bdd7-125e9d4af278": "### Canlı Müzik Çalın!\n\nCanlı müzik çalmak için, tetikleyicileri kullanabilirsiniz.\n\nÖncelikle, **tetik** bloğunuzu çalmasını istediğiniz sesle kodlayın.",
+          "musiclab_intro_panels_trigger_pdx-7930c016-c450-4b4a-9c73-641b2ea86a37": "Ardından, şarkınız çalarken, yeni seslerinizi **tetikleyin**."
+        },
+        "usiclab_tutorial_panels_end": {
+          "musiclab_intro_panels_end_pdx-88ca8817-6cb7-4c5b-a08a-69fc2267eb0b": "#### 🎶 Karıştırmaya hazır mısınız? 🎶\n\nTemelleri öğrendiniz ve artık kendi şarkınızı yapmaya hazırsınız!\n\nAraç kutusundaki tüm yeni seslere ve özelleştirmelere göz atın.\n\nBaşlamak için Devam'ı tıklayın."
+        }
+      }
+    }
+  }
+}

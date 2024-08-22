@@ -1,0 +1,12 @@
+{
+  "de-DE": {
+    "data": {
+      "panels": {
+        "music_lab_intro_panels_start2": {
+          "musiclab_intro_panels_start_v2-415ec56a-f841-421b-adff-b680e8d4ca35": "#### ✨ Willkommen im Music Lab ✨\n\nMachen dich bereit,  um mit Code zu musizieren!",
+          "musiclab_intro_panels_start_v2-d2e2064a-8f39-452f-81f5-aab175d5a165": "#### Verwendung der Anleitung\n\n<p style=\"color: black;\"><span style=\"color: #009EB0;\">→</span> 1. Lies die Anweisungen.</p>\n\n<p style=\"color: black;\"><span style=\"color: #ED6060;\">→</span> 2. Ziehe Blöcke in den Arbeitsbereich.</p>\n\n<p style=\"color: black;\"><span style=\"color: #FFA400;\">→</span> 3. Drücke ▶ Abspielen, um dein Lied zu starten.</p>\n\n<p style=\"color: black;\"><span style=\"color: #9660BF;\">→</span>  4. Drücke Weiter für das nächste Level.</p>"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "my-MM": {
+    "data": {
+      "reference_guides": {
+        "csd-2022/lists": {
+          "display_name": "စာရင်းများ"
+        },
+        "csd-2022/variables": {
+          "display_name": "Variables"
+        },
+        "csd-2022/web-lab": {
+          "display_name": "Web Lab"
+        },
+        "csd-2024/lists": {
+          "display_name": "စာရင်းများ"
+        },
+        "csd-2024/variables": {
+          "display_name": "Variables"
+        },
+        "csd-2024/web-lab": {
+          "display_name": "Web Lab"
+        }
+      }
+    }
+  }
+}

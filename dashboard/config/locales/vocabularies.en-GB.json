@@ -1,0 +1,125 @@
+{
+  "en-GB": {
+    "data": {
+      "vocabularies": {
+        "variable/csd/2021": {
+          "word": "Variable"
+        },
+        "function/csd/2021": {
+          "word": "Function"
+        },
+        "function/coursee/2021": {
+          "word": "Function"
+        },
+        "define/coursee/2021": {
+          "word": "Define"
+        },
+        "variable/coursef/2021": {
+          "word": "Variable"
+        },
+        "define/coursef/2021": {
+          "word": "Define"
+        },
+        "function/express/2021": {
+          "word": "Function"
+        },
+        "variable/express/2021": {
+          "word": "Variable"
+        },
+        "define/express/2021": {
+          "word": "Define"
+        },
+        "variable/csd/2022": {
+          "word": "Variable"
+        },
+        "function/csd/2022": {
+          "word": "Function"
+        },
+        "function/coursee/2022": {
+          "word": "Function"
+        },
+        "define/coursee/2022": {
+          "word": "Define"
+        },
+        "variable/coursef/2022": {
+          "word": "Variable"
+        },
+        "define/coursef/2022": {
+          "word": "Define"
+        },
+        "function/express/2022": {
+          "word": "Function"
+        },
+        "variable/express/2022": {
+          "word": "Variable"
+        },
+        "define/express/2022": {
+          "word": "Define"
+        },
+        "code/csc-adaptations/2023": {
+          "word": "Code"
+        },
+        "code/csc-ecosystems/2023": {
+          "word": "Code"
+        },
+        "variable/csc-ecosystems/2023": {
+          "word": "Variable"
+        },
+        "code/csc-mappinglandmarks/2023": {
+          "word": "Code"
+        },
+        "code/poetry/2023": {
+          "word": "Code"
+        },
+        "variable/csd/2023": {
+          "word": "Variable"
+        },
+        "function/csd/2023": {
+          "word": "Function"
+        },
+        "function/coursee/2023": {
+          "word": "Function"
+        },
+        "define/coursee/2023": {
+          "word": "Define"
+        },
+        "variable/coursef/2023": {
+          "word": "Variable"
+        },
+        "define/coursef/2023": {
+          "word": "Define"
+        },
+        "function/express/2023": {
+          "word": "Function"
+        },
+        "variable/express/2023": {
+          "word": "Variable"
+        },
+        "define/express/2023": {
+          "word": "Define"
+        },
+        "loops/aquatic/unversioned": {
+          "word": "Loops"
+        },
+        "code/artist/unversioned": {
+          "word": "Code"
+        },
+        "function/hero/unversioned": {
+          "word": "Function"
+        },
+        "code/poem-art/2021": {
+          "word": "Code"
+        },
+        "code/sports/unversioned": {
+          "word": "Code"
+        },
+        "code/dance-ai/2023": {
+          "word": "Code"
+        },
+        "loops/music-tutorial-2024/unversioned": {
+          "word": "Loops"
+        }
+      }
+    }
+  }
+}

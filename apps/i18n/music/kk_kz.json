@@ -1,0 +1,18 @@
+{
+  "blockly_blockPlaySoundAtMeasureTooltip": "дыбыс ойнау",
+  "blockly_blockPlaySoundTooltip": "дыбыс ойнау",
+  "blockly_blockWhenRun": "қосу кезінде",
+  "blockly_blockWhenRunTooltip": "қосу кезінде",
+  "blockly_toolboxCategoryEvents": "Шаралар",
+  "blockly_toolboxCategoryFunctions": "Функциялар",
+  "blockly_toolboxCategoryLogic": "Логика",
+  "blockly_toolboxCategoryMath": "Математика",
+  "blockly_toolboxCategoryVariables": "Айнымалылар",
+  "continue": "Жалғастыру",
+  "effectsLabelsMedium": "Орта",
+  "panelHeaderInstructions": "Нұсқаулар",
+  "panelHeaderWorkspace": "Жұмыс аумағы: ",
+  "share": "Бөлісу",
+  "soundsFilterAll": "Барлығы",
+  "startOver": "Басынан бастау"
+}

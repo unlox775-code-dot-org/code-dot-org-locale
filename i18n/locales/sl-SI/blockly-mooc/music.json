@@ -1,0 +1,21 @@
+{
+  "blockly_blockPlaySoundTooltip": "predvajaj zvok",
+  "blockly_blockPlaySoundAtMeasureTooltip": "predvajaj zvok",
+  "blockly_blockWhenRun": "ob zagonu",
+  "blockly_blockWhenRunTooltip": "ob zagonu",
+  "blockly_functionNamePlaceholder": "moja funkcija",
+  "blockly_toolboxCategoryEffects": "Učinki",
+  "blockly_toolboxCategoryEvents": "Dogodki",
+  "blockly_toolboxCategoryFunctions": "Funkcije",
+  "blockly_toolboxCategoryLogic": "Logika",
+  "blockly_toolboxCategoryMath": "Matematika",
+  "blockly_toolboxCategoryVariables": "Spremenljivke",
+  "share": "Deli",
+  "startOver": "Začni znova",
+  "panelHeaderInstructions": "Navodila",
+  "panelHeaderWorkspace": "Delovni prostor: ",
+  "continue": "Nadaljuj",
+  "soundsFilterAll": "Vse",
+  "soundsFilterEffects": "Učinki",
+  "effectsLabelsMedium": "Srednje težko"
+}

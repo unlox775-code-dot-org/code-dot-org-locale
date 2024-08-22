@@ -1,0 +1,76 @@
+{
+  "vi-VN": {
+    "data": {
+      "validations": {
+        "musiclab_intro_change_sound": {
+          "musiclab_intro_change_sound_38551dcf-dfaf-4e47-8774-bd9f02621036": "Xuất sắc. Bạn đã thay đổi âm thanh thành công.",
+          "musiclab_intro_change_sound_7a7f2fdb-0458-4b63-9a0a-7a19180b67f2": "Xuất sắc. Bạn đã thay đổi âm thanh thành công.",
+          "musiclab_intro_change_sound_7eda7f13-3a56-42b1-a717-825eb8b01acf": "Vui lòng [thay đổi](#clickable=play-sound-block-workspace) âm thanh.",
+          "musiclab_intro_change_sound_e63fb4ba-f0d0-495e-bea2-82f0d20f0477": "Xuất sắc. Bạn đã thay đổi âm thanh thành công.",
+          "musiclab_intro_change_sound_f2594aee-b7e0-461e-95c5-8edab4d0c41a": "Xuất sắc. Bạn đã thay đổi âm thanh thành công."
+        },
+        "musiclab_intro_function": {
+          "musiclab_intro_function_46d4cb8f-7dcf-4b78-b963-ca78d8cb439f": "Vui lòng phát âm thanh bằng cách sử dụng hàm.",
+          "musiclab_intro_function_b6e6f37e-268f-42d2-bef5-62968613af46": "Xuất sắc. Bạn đã sử dụng hàm để phát âm thanh thành công."
+        },
+        "musiclab_intro_play_sound": {
+          "musiclab_intro_play_sound_10152a9d-29b4-46e9-9080-9ad7a8937433": "Đặt [play](#clickable=play-sound-block) và đính kèm khối vào [when run](#clickable=when-run-block).",
+          "musiclab_intro_play_sound_34517aac-bcf5-4183-a71d-fafd0498e499": "Xuất sắc. Bạn đã phát âm thanh thành công."
+        },
+        "musiclab_intro_play_together": {
+          "musiclab_intro_play_together_5c2b8269-32d0-4798-b3e8-d679cb2a4be6": "Xuất sắc. Bạn đã phát hai âm thanh cùng một lúc thành công.",
+          "musiclab_intro_play_together_92348942-2028-4cc9-bd77-bc96b4ce57a9": "Phát một âm thanh thì tốt rồi đó, nhưng bạn cần phát hai âm thanh cùng một lúc.",
+          "musiclab_intro_play_together_ca6210c5-fb7e-473e-9428-d50c81e6faca": "Vui lòng phát hai âm thanh cùng một lúc."
+        },
+        "musiclab_intro_repeat": {
+          "musiclab_intro_repeat_28936cc0-3bfc-4c00-8319-5886b587b29c": "Phát một âm thanh hai lần thì tốt rồi đó. Vui lòng phát thử ba lần.",
+          "musiclab_intro_repeat_41276380-4fc4-48cb-be28-b6be5dfb8dd5": "Bạn đã phát một âm thanh một lần. Vui lòng phát ba lần bằng cách sử dụng khối [repeat](#clickable=repeat-block).",
+          "musiclab_intro_repeat_b2a9ed31-f16f-45ac-9aaa-ab45620d6cd6": "Vui lòng phát một âm thanh ba lần. Đã đính kèm khối [lặp lại](#clickable=repeat-block) vào [khi khởi chạy](#clickable=when-run-block). Sau đó đặt khối [phát](#clickable=play-sound-block) vào bên trong.",
+          "musiclab_intro_repeat_eaf348ed-21a0-499e-89a8-2f5beff52dd7": "Xuất sắc. Bạn đã phát ba âm thanh thành công."
+        },
+        "musiclab_intro_trigger": {
+          "musiclab_intro_trigger_063936aa-e4fc-4654-b695-1cb2f1ad989d": "Vui lòng phát âm thanh bằng cách kích hoạt.",
+          "musiclab_intro_trigger_5a0ba9ef-12ef-42eb-8377-c80ef540bbb0": "Xuất sắc. Bạn đã phát âm thanh bằng cách kích hoạt thành công."
+        },
+        "musiclab_tutorial_change_sound": {
+          "musiclab_intro_change_sound_v2_6054328e-dc95-47fe-8c65-980ce00299f1": "Làm tốt lắm! Bạn đã thêm âm thanh mới vào bài hát của mình. ",
+          "musiclab_intro_change_sound_v2_9ddfc062-5d48-4090-aa06-ff26c4a75916": "Hãy thêm ít nhất một âm thanh nữa."
+        },
+        "musiclab_tutorial_drums": {
+          "musiclab_intro_drums_v2_8a21d216-d589-4129-b695-bf32dd4440e8": "Hãy thêm khối [phát tiếng trống](#clickable=play-drums-block) và tạo ra nhịp điệu của riêng bạn!",
+          "musiclab_intro_drums_v2_d5c7c777-c009-470d-99b6-1a2e60be22df": "Nghe tuyệt đấy!",
+          "musiclab_tutorial_drums_25bc1092-ffea-4236-b867-a7e47c85914c": "Nhấp chuột vào khối [phát tiếng trống](#clickable=play-drums-block) và sử dụng công cụ tạo nhịp điệu để tạo nhịp điệu tùy chỉnh."
+        },
+        "musiclab_tutorial_function": {
+          "musiclab_intro_function_elementary_328ae4f1-4120-4555-bfba-4654bd618fd8": "Xuất sắc. Bạn đã sử dụng hàm để phát âm thanh thành công.",
+          "musiclab_intro_function_elementary_33cfaef2-2b2e-4e45-93b8-88632b06f78a": "Hãy gắn khối “điệp khúc” dưới [khi chạy](#clickable=when-run-block) để phát các âm thanh trong hàm."
+        },
+        "musiclab_tutorial_notes": {
+          "musiclab_intro_notes_v2_a40492dc-818f-4e02-ba2e-e7de19e291df": "Hãy thử khối [phát nốt nhạc](#clickable=play-notes-block) và sáng tác giai điệu của riêng bạn.",
+          "musiclab_intro_notes_v2_ca10f1fe-8755-49d5-864f-83772a128e36": "Tuyệt vời! Bạn đã sáng tác giai điệu của riêng bạn rồi. ",
+          "musiclab_tutorial_notes_cdc6aa6b-b5a7-45d2-92e2-410eb5c4d3bc": "Nhấp chuột vào khối [phát nốt nhạc](#clickable=play-notes-block) và sử dụng bàn phím để tạo giai điệu tùy chỉnh. "
+        },
+        "musiclab_tutorial_play_sound": {
+          "musiclab_intro_play_sound_10152a9d-29b4-46e9-9080-9ad7a8937433": "Bạn đã tìm thấy nút Chạy rồi! Bây giờ, hãy kéo khối [phát](#clickable=play-sound-block) và gắn vào phía dưới [khi chạy](#clickable=when-run-block). ",
+          "musiclab_intro_play_sound_34517aac-bcf5-4183-a71d-fafd0498e499": "Làm tốt lắm. Bạn đã phát một âm thanh rồi đấy!"
+        },
+        "musiclab_tutorial_play_together": {
+          "musiclab_intro_play_together_elementary_a73d098d-932c-416e-9d5a-4585178fe866": "Phát một âm thanh đã hay rồi; bây giờ hãy thử phát hai âm thanh cùng lúc. Thêm hai khối [phát](#clickable=play-sound-block-workspace) _vào trong_ khối [phát cùng lúc](#clickable=play-sounds-together-block-workspace).",
+          "musiclab_intro_play_together_elementary_b1ec52da-2b60-4e02-8512-60495bbb79e6": "Rất ấn tượng. Hai âm thanh đó hòa quyện với nhau thật tuyệt vời!",
+          "musiclab_intro_play_together_elementary_c5abfcf3-0d24-4405-9249-aeb85e0a01ce": "Hãy phát hai âm thanh cùng nhau. Gợi ý: Hãy thử sử dụng hai loại âm thanh khác nhau để phát cùng nhau, chẳng hạn như tiếng trống và tiếng bass!",
+          "musiclab_tutorial_play_together_ebbe089b-ecdc-4cd8-9555-c38271706f31": "Bạn chưa phát âm thanh nào. Hãy gắn khối [phát cùng lúc](#clickable=play-sounds-together-block) bên dưới [khi chạy](#clickable=when-run-block). Sau đó, hãy thêm hai khối [phát](#clickable=play-sound-block-workspace) _vào trong_ khối [phát cùng lúc](#clickable=play-sounds-together-block-workspace)."
+        },
+        "musiclab_tutorial_repeat": {
+          "musiclab_intro_repeat_elementary_1eaff1ec-353f-48fb-8a07-383e4dd1f918": "Làm tốt lắm. Bạn đã phát một âm thanh ba lần rồi đấy!",
+          "musiclab_intro_repeat_elementary_7870662b-99f3-4920-9a0e-f03a9386bb34": "Hãy phát một âm thanh ba lần. Hãy gắn khối [lặp lại](#clickable=repeat-block) vào [khi chạy](#clickable=when-run-block). Sau đó đặt khối [phát](#clickable=play-sound-block) vào bên trong.",
+          "musiclab_intro_repeat_elementary_81debb7d-9c0a-466c-b618-a6f5639e0b1b": "Bạn đã lặp lại một âm thanh hai lần. Bây giờ hãy phát âm thanh đó [ba](#clickable=repeat-block-field-workspace) lần nhé.",
+          "musiclab_intro_repeat_elementary_ef93b774-6a6b-4364-8e37-85ce20e15450": "Bạn đã phát âm thanh một lần. Bây giờ hãy phát âm thanh đó ba lần bằng cách đặt [3](#clickable=repeat-block-field-workspace) vào khối [lặp lại](#clickable=repeat-block)."
+        },
+        "musiclab_tutorial_trigger": {
+          "musiclab_intro_trigger_elementary_55abe67c-58ad-4ce2-aab9-172acb91a090": "Chưa có âm thanh nào được kích hoạt. ",
+          "musiclab_intro_trigger_elementary_7d8f341d-9582-4fc8-8622-464260ce978c": "Xuất sắc. Bạn đã phát âm thanh bằng cách kích hoạt thành công."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "hy-AM": {
+    "data": {
+      "marketing_announcements": {
+        "banners": {
+          "hoc-2023": {
+            "buttonText": "Սովորել ավելին"
+          },
+          "superhero": {
+            "buttonText": "Սովորել ավելին"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "ja-JP": {
+    "data": {
+      "panels": {
+        "music_lab_intro_panels_start2": {
+          "musiclab_intro_panels_start_v2-415ec56a-f841-421b-adff-b680e8d4ca35": "#### ✨ Music Lab へようこそ ✨\n\nコードで音楽を作る準備をしよう ！",
+          "musiclab_intro_panels_start_v2-623c36d1-b475-414b-8e2f-da7d27012391": "### サウンドの変更\n\nサウンドブロックをクリックしてサウンドライブラリにアクセスしてください。\n\n好きなサウンドを選んでください！",
+          "musiclab_intro_panels_start_v2-d2e2064a-8f39-452f-81f5-aab175d5a165": "#### チュートリアルの使い方\n\n<p style=\"color: black;\"><span style=\"color: #009EB0;\">→</span> 1. 説明を読む。</p>\n\n<p style=\"color: black;\"><span style=\"color: #ED6060;\">→</span> 2.   ワークスペースにブロックをドラッグする。</p>\n\n<p style=\"color: black;\"><span style=\"color: #FFA400;\">→</span> 3.  実行(じっこう) ▶ を押すと曲がスタートします。</p>\n\n<p style=\"color: black;\"><span style=\"color: #9660BF;\">→</span>  4. 「次へ」を押して次のレベルに進みます。</p>"
+        },
+        "musiclab_intro_panels_end_2": {
+          "musiclab_intro_panels_end-70b08fdd-abbf-42bb-bdc9-d406bb513faf": "#### 準備完了です！\n\n基本を学んで、自分のミックスを作る準備が整いました！サウンド・ライブラリーを探索することをお忘れなく - たくさんあるので、素晴らしいトラックを作るために使ってみてください。\n\nツールボックスには、以下の新しい機能が追加されています：\n\n-   ビート作成ブロック\n\n-   リバーブやフィルターなどのサウンドエフェクト\n\n-   シンセサイザー・ブロック\n\n-   再生されるものをランダム化するブロック\n\n などなど！楽しんでください！"
+        },
+        "musiclab_intro_panels_function": {
+          "musiclab_intro_panels_function-e62e1783-6e0c-4dfb-9300-5dd081a80614": "新しい関数を 「呼び出す」 には、 以下のように一致する名前のブロックを使います。"
+        },
+        "musiclab_intro_panels_function_2": {
+          "musiclab_intro_panels_function-b2da9c67-9c99-42b2-9c72-c2e576663899": "ミュージック・ラボの優れた特徴は、ブロックのセットを自分のブロックに組み込めることです。 コーディングでは、これを_関数_を作ると言います。",
+          "musiclab_intro_panels_function-e62e1783-6e0c-4dfb-9300-5dd081a80614": "新しい関数を 「呼び出す」 には、 以下のように一致する名前のブロックを使います。"
+        },
+        "musiclab_intro_panels_start_2": {
+          "musiclab_intro_panels_start-421d64b2-c4db-42cb-ac1f-de66a4d22fa7": "#### ミュージック・ラボへようこそ！\n\nミュージック・ラボでは、コードを使って音楽をミックスしたり、リミックスしたり、演奏したりすることができます。コードや音楽について詳しくなくても心配はいりません！少しの時間と好奇心さえあれば、自分だけの作品を作り始めることができます。"
+        },
+        "musiclab_tutorial_panels_function": {
+          "musiclab_intro_panels_function_pdx-952b5575-5487-40c6-8a7e-4e37339d81d3": "### 新しい関数を使おう！\n\n関数の名前のブロックを選択すれば、いつでも新しい関数を使うことができます。\n\nこの新しいブロックは、実行(じっこう) を押すとあなたの関数を**呼び出し**ます。",
+          "musiclab_intro_panels_function_pdx-f1f658c0-64a9-471c-9f2a-399ba1ea8538": "### 関数\n\n**関数**を作成し、それが呼び出されるたびにコードの特定の部分を再生します。\n\n**まず**、好きなサウンドを使って関数を作成します。"
+        },
+        "musiclab_tutorial_panels_notes": {
+          "musiclab_intro_panels_trigger_pdx-5586b57a-0a71-4d94-bdd7-125e9d4af278": "### 自分のメロディを作曲しよう！\n\n**音符再生**ブロックを使って、自分だけのメロディを作曲してみましょう。",
+          "musiclab_intro_panels_trigger_pdx-7930c016-c450-4b4a-9c73-641b2ea86a37": "### 自分だけのビートを作曲しよう！\n\n**ドラム再生**ブロックを使用して、自分だけのビートを作曲してください。\n\n楽しんで！"
+        },
+        "musiclab_tutorial_panels_playtogether": {
+          "musiclab_intro_panels_playtogether_pdx-a5066092-2920-4c8d-89ea-00b7a8531ad0": "### 一緒に再生しよう\n\nサウンドを同時に再生します！2つ以上のサウンドを**一緒に再生**ブロックにドラッグします。"
+        },
+        "musiclab_tutorial_panels_repeat": {
+          "musiclab_intro_panels_playtogether_pdx-a0d88b4a-e9a8-4641-8ec9-3ce98e7a1cc4": "### サウンドを繰り返す\n\nサウンドを選び、リピートブロックを使って再生する回数を設定します。"
+        },
+        "musiclab_tutorial_panels_trigger": {
+          "musiclab_intro_panels_trigger_pdx-5586b57a-0a71-4d94-bdd7-125e9d4af278": "### ライブミュージックを再生しよう！\n\nトリガーを使ってライブミュージックを再生することができます。\n\nまず、**トリガー**ブロックに再生したいサウンドをコーディングします。",
+          "musiclab_intro_panels_trigger_pdx-7930c016-c450-4b4a-9c73-641b2ea86a37": "そして、曲の演奏中に新しいサウンドを**トリガー**します。"
+        },
+        "usiclab_tutorial_panels_end": {
+          "musiclab_intro_panels_end_pdx-88ca8817-6cb7-4c5b-a08a-69fc2267eb0b": "#### ジャムる準備はできましたか？🎶\n\n基本を学んで、自分の曲を作る準備ができました！\n\nツールボックスの新しいサウンドやカスタマイズをチェックしよう。\n\n「次へ 」をクリックして始めましょう。"
+        }
+      }
+    }
+  }
+}

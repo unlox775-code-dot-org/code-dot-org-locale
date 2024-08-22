@@ -1,0 +1,197 @@
+{
+  "mi-NZ": {
+    "data": {
+      "programming_environments": {
+        "applab": {
+          "categories": {
+            "control": {
+              "expressions": {
+                "timedLoop": {
+                  "palette_params": {
+                    "callback": {
+                      "type": "Taumahi"
+                    }
+                  }
+                }
+              }
+            },
+            "data": {
+              "expressions": {
+                "getPrediction": {
+                  "palette_params": {
+                    "callback": {
+                      "type": "Taumahi"
+                    }
+                  }
+                }
+              }
+            },
+            "functions": {
+              "name": "Ngā Taumahi"
+            },
+            "math": {
+              "expressions": {
+                "randomNumber": {
+                  "palette_params": {
+                    "max": {
+                      "description": "Te mōrahi tau kua whakahokia"
+                    },
+                    "min": {
+                      "description": "Te mōkito tau kua whakahokia"
+                    }
+                  }
+                },
+                "randomNumber_min_max": {
+                  "palette_params": {
+                    "max": {
+                      "description": "Te mōrahi tau kua whakahokia"
+                    },
+                    "min": {
+                      "description": "Te mōkito tau kua whakahokia"
+                    }
+                  }
+                }
+              },
+              "name": "Pāngarau"
+            },
+            "ui_controls": {
+              "expressions": {
+                "onEvent": {
+                  "palette_params": {
+                    "callback": {
+                      "type": "Taumahi"
+                    }
+                  }
+                }
+              }
+            },
+            "variables": {
+              "expressions": {
+                "addPair": {
+                  "return_value": "Kore"
+                }
+              },
+              "name": "Ngā Taurangi"
+            }
+          },
+          "description": "He taiao papatono te Taiwhanga Taupānga e hangaia ai ngā taupānga māmā. Waihangahia he taupānga me ngā paraka waehere, me JavaScript rānei kia mahi ai, ā, tiria tō taupānga i te wā poto noa iho.",
+          "name": "Taiwhanga Taupānga"
+        },
+        "gamelab": {
+          "categories": {
+            "drawing": {
+              "expressions": {
+                "shape": {
+                  "examples": {
+                    "Star": {
+                      "name": "Te Whetū"
+                    }
+                  }
+                }
+              }
+            },
+            "functions": {
+              "name": "Ngā Taumahi"
+            },
+            "game_lab": {
+              "expressions": {
+                "mouseWentDown": {
+                  "examples": {
+                    "Black and White": {
+                      "name": "Pango me te Mā"
+                    }
+                  }
+                }
+              }
+            },
+            "groups": {
+              "expressions": {
+                "setColorEach": {
+                  "palette_params": {
+                    "color": {
+                      "type": "Tae"
+                    }
+                  }
+                },
+                "setTintEach": {
+                  "palette_params": {
+                    "color": {
+                      "type": "Tae"
+                    }
+                  }
+                }
+              }
+            },
+            "math": {
+              "expressions": {
+                "randomNumber": {
+                  "palette_params": {
+                    "max": {
+                      "description": "Te mōrahi tau kua whakahokia"
+                    },
+                    "min": {
+                      "description": "Te mōkito tau kua whakahokia"
+                    }
+                  }
+                },
+                "randomNumber_min_max": {
+                  "palette_params": {
+                    "max": {
+                      "description": "Te mōrahi tau kua whakahokia"
+                    },
+                    "min": {
+                      "description": "Te mōkito tau kua whakahokia"
+                    }
+                  }
+                }
+              },
+              "name": "Pāngarau"
+            },
+            "sprites": {
+              "expressions": {
+                "getSpeed": {
+                  "examples": {
+                    "Spiral": {
+                      "name": "Koropikopiko"
+                    }
+                  }
+                }
+              }
+            },
+            "variables": {
+              "name": "Ngā Taurangi"
+            }
+          }
+        },
+        "spritelab": {
+          "categories": {
+            "actions": {
+              "name": "Ngā Hohenga"
+            },
+            "events": {
+              "name": "Ngā Takunetanga"
+            },
+            "functions": {
+              "name": "Ngā Taumahi"
+            },
+            "logic": {
+              "name": "Ararau"
+            },
+            "loops": {
+              "name": "Ngā Koromeke"
+            },
+            "math": {
+              "name": "Pāngarau"
+            },
+            "text": {
+              "name": "Kuputuhi"
+            },
+            "variables": {
+              "name": "Ngā Taurangi"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+---
+eu:
+  data:
+    block_categories:
+      Actions: Ekintzak
+      Advanced: Aurreratua
+      Behaviors: Jokabideak
+      Brushes: Pintzelak
+      Color: Kolorea
+      Comment: Iruzkina
+      Comments: Iruzkinak
+      Conditionals: Baldintzak
+      Dancers: Dantzariak
+      Default: Lehenetsia
+      Events: Gertaerak
+      Functions: Funtzioak
+      'Functions ': 'Funtzioak '
+      Game/Score: Jokoa/Puntuak
+      Games/Score: Jokoak/Puntuak
+      Groups: Taldeak
+      Input: Sarrera
+      Location: Kokalekua
+      Locations: Kokalekuak
+      Logic: Logika
+      Loops: Itzuliak
+      Math: Matematika
+      Numbers: Zenbakiak
+      Properties: Propietateak
+      Sprites: Pertsonaiak
+      Text: Testua
+      Variables: Aldagaiak
+      'Variables ': 'Aldagaiak '
+      'Variables  ': 'Aldagaiak  '
+      World: Mundua

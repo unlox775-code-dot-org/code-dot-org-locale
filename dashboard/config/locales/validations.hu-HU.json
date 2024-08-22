@@ -1,0 +1,44 @@
+{
+  "hu-HU": {
+    "data": {
+      "validations": {
+        "musiclab_intro_change_sound": {
+          "musiclab_intro_change_sound_38551dcf-dfaf-4e47-8774-bd9f02621036": "Szép munka.  Sikeresen megváltoztattad a hangot.",
+          "musiclab_intro_change_sound_7a7f2fdb-0458-4b63-9a0a-7a19180b67f2": "Szép munka.  Sikeresen megváltoztattad a hangot.",
+          "musiclab_intro_change_sound_7eda7f13-3a56-42b1-a717-825eb8b01acf": "Kérlek [change](#clickable=play-sound-block-workspace) a hangot.",
+          "musiclab_intro_change_sound_e63fb4ba-f0d0-495e-bea2-82f0d20f0477": "Szép munka.  Sikeresen megváltoztattad a hangot.",
+          "musiclab_intro_change_sound_f2594aee-b7e0-461e-95c5-8edab4d0c41a": "Szép munka.  Sikeresen megváltoztattad a hangot."
+        },
+        "musiclab_intro_function": {
+          "musiclab_intro_function_46d4cb8f-7dcf-4b78-b963-ca78d8cb439f": "Kérlek játssz le egy hangot a függvény használatával.",
+          "musiclab_intro_function_b6e6f37e-268f-42d2-bef5-62968613af46": "Szép munka.  Sikeresen használtad a függvényt a hang lejátszásához."
+        },
+        "musiclab_intro_play_sound": {
+          "musiclab_intro_play_sound_10152a9d-29b4-46e9-9080-9ad7a8937433": "Illeszd a [play](#clickable=play-sound-block) blokkot a [when run](#clickable=when-run-block) blokkhoz.",
+          "musiclab_intro_play_sound_34517aac-bcf5-4183-a71d-fafd0498e499": "Szép munka.  Sikeresen lejátszottál egy hangot."
+        },
+        "musiclab_intro_play_together": {
+          "musiclab_intro_play_together_5c2b8269-32d0-4798-b3e8-d679cb2a4be6": "Szép munka. Két hangot sikeresen játszottál együtt.",
+          "musiclab_intro_play_together_92348942-2028-4cc9-bd77-bc96b4ce57a9": "Jó, hogy megszólaltattad az egyik hangot, de két hangot kell egyszerre lejátszanod.",
+          "musiclab_intro_play_together_ca6210c5-fb7e-473e-9428-d50c81e6faca": "Kérlek, játssz le két hangot egyszerre."
+        },
+        "musiclab_intro_repeat": {
+          "musiclab_intro_repeat_28936cc0-3bfc-4c00-8319-5886b587b29c": "Jó, hogy kétszer lejátszottad a hangot. Kérlek, játsszd le háromszor.",
+          "musiclab_intro_repeat_41276380-4fc4-48cb-be28-b6be5dfb8dd5": "Egyszer lejátszottál egy hangot. Kérlek játsszd le háromszor a [repeat](#clickable=repeat-block) blokk segítségével.",
+          "musiclab_intro_repeat_b2a9ed31-f16f-45ac-9aaa-ab45620d6cd6": "Kérlek, játssz le egy hangot háromszor. Csatoljon egy [repeat](#clickable=repeat-block) blokkot a [when run](#clickable=when-run-block)-hoz. Ezután helyezz el egy [play](#clickable=play-sound-block) blokkot a belsejébe.",
+          "musiclab_intro_repeat_eaf348ed-21a0-499e-89a8-2f5beff52dd7": "Szép munka.  Sikeresen játszottál három hangot."
+        },
+        "musiclab_intro_trigger": {
+          "musiclab_intro_trigger_063936aa-e4fc-4654-b695-1cb2f1ad989d": "Kérjük, játssz le hangot a triggerrel.",
+          "musiclab_intro_trigger_5a0ba9ef-12ef-42eb-8377-c80ef540bbb0": "Szép munka. Sikeresen lejátszottál egy hangot a triggerrel."
+        },
+        "musiclab_tutorial_function": {
+          "musiclab_intro_function_elementary_328ae4f1-4120-4555-bfba-4654bd618fd8": "Szép munka.  Sikeresen használtad a függvényt a hang lejátszásához."
+        },
+        "musiclab_tutorial_trigger": {
+          "musiclab_intro_trigger_elementary_7d8f341d-9582-4fc8-8622-464260ce978c": "Szép munka. Sikeresen lejátszottál egy hangot a triggerrel."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+---
+ro:
+  data:
+    variable_names:
+      Blue: Albastru
+      Green: Verde
+      Red: Roșu
+      actor: actor
+      age: vârsta
+      answer: răspuns
+      binary: binar
+      birds: păsări
+      cats: pisicile
+      color: culoare
+      counter: numărător
+      dogs: câinii
+      height: înălțime
+      honey: miere
+      i: i
+      left: stânga
+      length: lungime
+      level: nivel
+      name: nume
+      nectar: nectar
+      object: obiect
+      planet: planetă
+      points: puncte
+      random: aleator
+      repeat: repetă
+      right: dreapta
+      score: scor
+      shout: țipăt
+      sides: laturi
+      size: dimensiune
+      speed: viteză
+      startX: startX
+      startY: startY
+      type: tip
+      variable: Variabilă
+      width: lăţime
+      wizard: vrăjitor
+      x: x

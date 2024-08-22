@@ -1,0 +1,100 @@
+#Files in the config/locales directory are used for internationalization
+#and are automatically loaded by Rails. If you want to use locales other
+#than English, add the necessary files in this directory.
+#To use the locales, use `I18n.t`:
+#I18n.t 'hello'
+#In views, this is aliased to just `t`:
+#<%= t('hello') %>
+#To use a different locale, set it with `I18n.locale`:
+#I18n.locale = :es
+#This would use the information in config/locales/es.yml.
+#The following keys must be escaped otherwise they will not be retrieved by
+#the default I18n backend:
+#true, false, on, off, yes, no
+#Instead, surround them with single quotes.
+#en:
+#'true': 'foo'
+#To learn more, please read the Rails Internationalization guide
+#available at https://guides.rubyonrails.org/i18n.html.
+en-GB:
+  errors:
+    messages:
+      not_saved: 'Please correct the following errors:'
+  activerecord:
+    attributes:
+      user:
+        name: 'Display Name'
+        email: 'Email'
+        username: 'Username'
+        password: 'Password'
+        password_confirmation: 'Password confirmation'
+        current_password: 'Current password'
+        age: 'Age'
+        gender: 'Gender'
+        gender_student_input: 'Gender'
+        gender_teacher_input: 'Gender'
+        finish_sign_up_header_error: 'Please correct the following errors:'
+  beta: "beta"
+  hello: "Hello World"
+  submit: Submit
+  next_page: Next page
+  cancel: "Cancel"
+  or: "or"
+  continue: 'Continue'
+  signup_form:
+    age: 'Age'
+    email_preference_yes: "Yes"
+    email_preference_no: "No"
+    share_teacher_email_reg_partner_preference_yes: "Yes"
+    share_teacher_email_reg_partner_preference_no: "No"
+  signin_form:
+    login: 'Email'
+    password: 'Password'
+  password:
+    reset_form:
+      submit: 'Submit'
+  section:
+    type:
+      email: 'Email'
+  crud:
+    edit: 'editar'
+    submit: 'Submit'
+  nav:
+    header:
+      educate_hoc: "The Hour of Code"
+      donate: "Donate"
+    user:
+      create: 'Create'
+      infinity: 'Infinity'
+  teacher:
+    panel:
+      answer_viewer: 'Teacher Panel'
+  home:
+    trynow: 'Try now'
+  certificate_hour_of_code: "The Hour of Code"
+  upsell:
+    widgets:
+      audience: "Ages 14+"
+  dialog:
+    ok: "OK"
+    startover_title: "Are you sure you want to start over?"
+    startover_ok: "Start Over"
+    startover_cancel: "Cancel"
+  terms_interstitial:
+    print: "Print"
+  race_interstitial:
+    submit: "Submit"
+  project:
+    name: "Name"
+    saved: "Saved"
+  pd:
+    form_labels:
+      email: 'Email'
+    form_entries:
+      subjects:
+        cs: 'Computer Science'
+        math: 'Mathematics'
+      email_opt_in:
+        opt_in_yes: 'Yes'
+        opt_in_no: 'No'
+  copy: 'Copy'

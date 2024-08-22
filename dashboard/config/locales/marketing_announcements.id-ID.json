@@ -1,0 +1,30 @@
+{
+  "id-ID": {
+    "data": {
+      "marketing_announcements": {
+        "banners": {
+          "curriculum-launch-2024": {
+            "body": "Jelajahi unit-unit terbaru kami dan sumber daya pembelajaran profesional untuk menginspirasi para inovator teknologi masa depan.",
+            "buttonText": "Lihat yang baru",
+            "title": "Temukan kurikulum baru dan diperbarui!"
+          },
+          "hoc-2023": {
+            "body": "Bergabunglah bersama jutaan orang di seluruh dunia dalam menyelenggarakan kegiatan coding satu jam, dengan atau tanpa AI dan mempelajari cara kerja AI. Siapapun, dan di manapun dapat  melakukannya. Tidak harus punya pengalaman.",
+            "buttonText": "Pelajari lebih lanjut",
+            "title": "Hour of Code: Kreativitas dengan AI"
+          },
+          "progress-launch": {
+            "body": "Monitor pekerjaan siswa dengan mudah, berikan umpan balik tepat waktu, dan sederhanakan penilaian dengan antarmuka yang cepat dan sudah diuji oleh guru kami. Hemat waktu dan peroleh wawasan berharga tentang kinerja siswa Anda, semua dalam satu alat yang intuitif.",
+            "buttonText": "Pelajari lebih banyak",
+            "title": "Pelacakan kemajuan baru telah ditingkatkan!"
+          },
+          "superhero": {
+            "body": "Bergabunglah dengan Program Pembelajaran Profesional yang sangat mendukung kami untuk para pendidik sekolah menengah dan atas.",
+            "buttonText": "Pelajari lebih banyak",
+            "title": "Bantu siswa-siswa Anda menjadi superhero!"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ga-IE": {
+    "data": {
+      "marketing_announcements": {
+        "banners": {
+          "hoc-2023": {
+            "buttonText": "Tuilleadh eolais"
+          },
+          "superhero": {
+            "buttonText": "Tuilleadh Eolais"
+          }
+        }
+      }
+    }
+  }
+}

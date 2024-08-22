@@ -1,0 +1,47 @@
+{
+  "sk-SK": {
+    "data": {
+      "panels": {
+        "music_lab_intro_panels_start2": {
+          "musiclab_intro_panels_start_v2-415ec56a-f841-421b-adff-b680e8d4ca35": "#### ✨ Vitaj v Music Labe ✨\n\nPriprav sa na tvorenie hudby pomocou kódu! ",
+          "musiclab_intro_panels_start_v2-623c36d1-b475-414b-8e2f-da7d27012391": "### Ako zmeniť zvuk\n\nPo kliknutí na blok so zvukom sa ti otvorí knižnica zvukov. \n\nVyber si hociktorý zvuk, ktorý sa ti zapáči!",
+          "musiclab_intro_panels_start_v2-d2e2064a-8f39-452f-81f5-aab175d5a165": "#### Ako pracovať s touto lekciou\n\n<p style=\"color: black;\"><span style=\"color: #009EB0;\">→</span> 1. Prečítaj si pokyny.</p>\n\n<p style=\"color: black;\"><span style=\"color: #ED6060;\">→</span> 2.  Presúvaj bloky na pracovnú plochu.</p>\n\n<p style=\"color: black;\"><span style=\"color: #FFA400;\">→</span> 3.  Spusti svoju pieseň stlačením tlačidla ▶ Spustiť.</p>\n\n<p style=\"color: black;\"><span style=\"color: #9660BF;\">→</span>  4. Prejdi na ďalšiu úroveň stlačením tlačidla Pokračovať.</p>"
+        },
+        "musiclab_intro_panels_end_2": {
+          "musiclab_intro_panels_end-70b08fdd-abbf-42bb-bdc9-d406bb513faf": "#### Hotovo!\n\nUž poznáš základy, tak sa môžeš pustiť do svojho vlastného mixu! Nezabudni preskúmať knižnicu zvukov – nájdeš tu toho naozaj veľa na vytvorenie skvelej skladby.\n\nV nástrojoch nájdeš ešte viac vecí vrátane týchto:\n\n-   bloku na tvorbu rytmu,\n\n-   zvukových efektov, ako sú ozvena a filter,\n\n-   bloku syntetizátora,\n\n-   bloku na náhodné prehrávanie\n\n ...a mnoho ďalšieho! Dobrú zábavu!"
+        },
+        "musiclab_intro_panels_function": {
+          "musiclab_intro_panels_function-e62e1783-6e0c-4dfb-9300-5dd081a80614": "Svoju novú funkciu môžeš „vyvolať“ pomocou bloku s vhodným názvom, ako je tento."
+        },
+        "musiclab_intro_panels_function_2": {
+          "musiclab_intro_panels_function-b2da9c67-9c99-42b2-9c72-c2e576663899": "Na Music Labe je skvelé, že môžeš bloky vkladať do svojho vlastného bloku. V programovaní tomu hovoríme _funkcia_.",
+          "musiclab_intro_panels_function-e62e1783-6e0c-4dfb-9300-5dd081a80614": "Svoju novú funkciu môžeš „vyvolať“ pomocou bloku s vhodným názvom, ako je tento."
+        },
+        "musiclab_intro_panels_start_2": {
+          "musiclab_intro_panels_start-421d64b2-c4db-42cb-ac1f-de66a4d22fa7": "#### Víta ťa Music Lab!\n\nV rozhraní Music Lab môžeš mixovať, remixovať či dokonca hrať hudbu pomocou kódu. Nevadí, ak toho nevieš priveľa o programovaní – či dokonca o hudbe! Potrebuješ len trocha času a zvedavosti a hneď sa môžeš pustiť do tvorby vlastných majstrovských diel."
+        },
+        "musiclab_tutorial_panels_function": {
+          "musiclab_intro_panels_function_pdx-952b5575-5487-40c6-8a7e-4e37339d81d3": "### Použi svoju novú funkciu!\n\nTeraz môžeš svoju novú funkciu kedykoľvek použiť  – stačí vybrať blok s názvom funkcie. \n\nTento nový blok sa po stlačení tlačidla Spustiť postará o **vyvolanie** tvojej funkcie.",
+          "musiclab_intro_panels_function_pdx-f1f658c0-64a9-471c-9f2a-399ba1ea8538": "### Funkcie\n\nVytvor **funkciu**, vďaka ktorej sa pri každom volaní funkcie spustí konkrétny súbor príkazov. \n\n**Najprv** vytvor funkciu pomocou zvukov, ktoré sa ti páčia."
+        },
+        "musiclab_tutorial_panels_notes": {
+          "musiclab_intro_panels_trigger_pdx-5586b57a-0a71-4d94-bdd7-125e9d4af278": "### Vytvor si vlastnú melódiu.\n\nPomocou bloku **prehraj noty** si vytvor vlastnú melódiu.",
+          "musiclab_intro_panels_trigger_pdx-7930c016-c450-4b4a-9c73-641b2ea86a37": "### Vytvor si vlastný rytmus pomocou bicích.\n\nPomocou bloku **prehraj bubny** si vytvor vlastný rytmus!\n\nPríjemnú zábavu!"
+        },
+        "musiclab_tutorial_panels_playtogether": {
+          "musiclab_intro_panels_playtogether_pdx-a5066092-2920-4c8d-89ea-00b7a8531ad0": "### Prehraj spolu\n\nAko prehrávať viacero zvukov súčasne? Potiahni dva alebo viac zvukov do bloku **prehraj spolu**."
+        },
+        "musiclab_tutorial_panels_repeat": {
+          "musiclab_intro_panels_playtogether_pdx-a0d88b4a-e9a8-4641-8ec9-3ce98e7a1cc4": "### Ako zopakovať zvuk\n\nVyber zvuk a pomocou bloku „opakuj“ nastav, koľkokrát sa má zopakovať."
+        },
+        "musiclab_tutorial_panels_trigger": {
+          "musiclab_intro_panels_trigger_pdx-5586b57a-0a71-4d94-bdd7-125e9d4af278": "### Hraj hudbu naživo!\n\nPomocou spúšťačov môžeš hrať hudbu aj naživo. \n\nNajprv pod blok **spúšťača** pridaj kód zvuku, ktorý chceš prehrať.",
+          "musiclab_intro_panels_trigger_pdx-7930c016-c450-4b4a-9c73-641b2ea86a37": "Potom pomocou _spúšťačov_ pridávaj do piesne zvuky aj počas prehrávania."
+        },
+        "usiclab_tutorial_panels_end": {
+          "musiclab_intro_panels_end_pdx-88ca8817-6cb7-4c5b-a08a-69fc2267eb0b": "#### 🎶 Chceš si zaimprovizovať? 🎶\n\nTeraz už ovládaš základy a môžeš sa pustiť do vytvárania vlastnej skladby! \n\nPrezri si všetky nové zvuky a možnosti ovládania v paneli nástrojov. \n\nKlikni na tlačidlo „Pokračovať“ a môžeš sa pustiť do objavovania."
+        }
+      }
+    }
+  }
+}

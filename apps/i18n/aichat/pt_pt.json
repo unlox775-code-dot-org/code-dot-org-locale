@@ -1,0 +1,7 @@
+{
+  "aichatWorkspaceHeader": "Chat de Inteligência Artificial",
+  "continue": "Continuar",
+  "startOverAichatModelCustomizations": "Esta ação retornará o nível a seu estado inicial e removerá quaisquer personalizações de modelo ou informações do cartão de modelo que você adicionou ou alterou.",
+  "waitingForChatResponse": "Esperando por uma resposta...",
+  "whatIsPersonalInformation": "O que são consideradas informações pessoais?"
+}

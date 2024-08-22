@@ -1,0 +1,643 @@
+{
+  "nl-NL": {
+    "data": {
+      "placeholder_texts": {
+        "Alien Defender": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "Choose Your Own Adventure": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "Course 4 Playlab For Loop Freeplay": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "Course E: Play Lab Project": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "CourseE_hoops": {
+          "498cd895eb5a102c5aeb977e2b928dee": "Bedankt!"
+        },
+        "Find the Wizard": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "0b895ef4c917e50663bc2a7327cbee3d": "Je hebt me gevonden!",
+          "22b45b2cf2d4a2a3d7b3faa522013b26": "Tel tot drie en ik verdwijn!  Raad een getal tussen 1 en 400 om me terug te vinden!",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "FoodFight": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "Guess The Number": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "NEW Course 4 Play Lab Params 11": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "New Play Lab Project": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "New Sprite Lab Project": {
+          "6cd3556deb0da54bca060b4c39479839": "Hallo, wereld!"
+        },
+        "OPD-K5-projects-2": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "OPD-K5-projects-3": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "OPD-K5-projects-4": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "OPD-K5-projects-5": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "course4_playlab_variables_challenge1": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseC19_playLab_EOC1": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseC19_playLab_EOC12022": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseC19_playLab_EOC1_2020": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseC19_playLab_EOC1_2021": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseC19_playLab_EOC1_2023": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseC19_playLab_EOC2": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseC19_playLab_EOC22022": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseC19_playLab_EOC2_2020": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseC19_playLab_EOC2_2021": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseC19_playLab_EOC2_2023": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseC19_playLab_EOC3": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseC19_playLab_EOC32022": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseC19_playLab_EOC3_2020": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseC19_playLab_EOC3_2021": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseC19_playLab_EOC3_2023": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseC19_playLab_EOC4": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseC19_playLab_EOC42022": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseC19_playLab_EOC4_2020": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseC19_playLab_EOC4_2021": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseC19_playLab_EOC4_2023": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseC_PlayLab_eventsFP": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseC_PlayLab_eventsFP2022": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseC_PlayLab_eventsFP_2018": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseC_PlayLab_eventsFP_2019": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseC_PlayLab_eventsFP_2020": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseC_PlayLab_eventsFP_2021": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseC_PlayLab_eventsFP_2023": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseD_playLab_condFP": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseE_Dogger_2": {
+          "e8a10c04d72b2f135dabe360c4bdd534": "Je wint!"
+        },
+        "courseE_aboutme_3": {
+          "ed076287532e86365e841e92bfc50d8c": "Hallo wereld!"
+        },
+        "courseE_aboutme_32022": {
+          "ed076287532e86365e841e92bfc50d8c": "Hallo wereld!"
+        },
+        "courseE_aboutme_3_2020": {
+          "ed076287532e86365e841e92bfc50d8c": "Hallo wereld!"
+        },
+        "courseE_aboutme_3_2021": {
+          "ed076287532e86365e841e92bfc50d8c": "Hallo wereld!"
+        },
+        "courseE_aboutme_3_2023": {
+          "ed076287532e86365e841e92bfc50d8c": "Hallo wereld!"
+        },
+        "courseE_aboutme_4": {
+          "ed076287532e86365e841e92bfc50d8c": "Hallo wereld!"
+        },
+        "courseE_aboutme_42022": {
+          "ed076287532e86365e841e92bfc50d8c": "Hallo wereld!"
+        },
+        "courseE_aboutme_4_2020": {
+          "ed076287532e86365e841e92bfc50d8c": "Hallo wereld!"
+        },
+        "courseE_aboutme_4_2021": {
+          "ed076287532e86365e841e92bfc50d8c": "Hallo wereld!"
+        },
+        "courseE_aboutme_4_2023": {
+          "ed076287532e86365e841e92bfc50d8c": "Hallo wereld!"
+        },
+        "courseE_aboutme_5": {
+          "ed076287532e86365e841e92bfc50d8c": "Hallo wereld!"
+        },
+        "courseE_aboutme_52022": {
+          "ed076287532e86365e841e92bfc50d8c": "Hallo wereld!"
+        },
+        "courseE_aboutme_5_2020": {
+          "ed076287532e86365e841e92bfc50d8c": "Hallo wereld!"
+        },
+        "courseE_aboutme_5_2021": {
+          "ed076287532e86365e841e92bfc50d8c": "Hallo wereld!"
+        },
+        "courseE_aboutme_5_2023": {
+          "ed076287532e86365e841e92bfc50d8c": "Hallo wereld!"
+        },
+        "courseE_playLab_scaffold1": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseE_playLab_scaffold2": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseE_playLab_scaffold3": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseE_playLab_scaffold4": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseF_apps_aquarium": {
+          "0d3e73168beb875063ea0f0302fe32bd": "Welke vis?",
+          "795f3202b17cb6bc3d4b771d8c6c9eaf": "anders",
+          "83e4a96aed96436c621b9809e258b309": "vis",
+          "8a52e7a8d3b4c955d6f7927c6ba3fe72": "wezen"
+        },
+        "courseF_apps_aquarium2022": {
+          "0d3e73168beb875063ea0f0302fe32bd": "Welke vis?",
+          "795f3202b17cb6bc3d4b771d8c6c9eaf": "anders",
+          "83e4a96aed96436c621b9809e258b309": "vis",
+          "8a52e7a8d3b4c955d6f7927c6ba3fe72": "wezen"
+        },
+        "courseF_apps_aquarium_-2022-2": {
+          "0d3e73168beb875063ea0f0302fe32bd": "Welke vis?",
+          "795f3202b17cb6bc3d4b771d8c6c9eaf": "anders",
+          "83e4a96aed96436c621b9809e258b309": "vis",
+          "8a52e7a8d3b4c955d6f7927c6ba3fe72": "wezen"
+        },
+        "courseF_apps_aquarium_2023": {
+          "0d3e73168beb875063ea0f0302fe32bd": "Welke vis?",
+          "795f3202b17cb6bc3d4b771d8c6c9eaf": "anders",
+          "83e4a96aed96436c621b9809e258b309": "vis",
+          "8a52e7a8d3b4c955d6f7927c6ba3fe72": "wezen"
+        },
+        "courseF_apps_card": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag",
+          "ff4d94eeb46da1dbec33fa9cfc2749ee": "Wie is er jarig?"
+        },
+        "courseF_apps_card2022": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag",
+          "ff4d94eeb46da1dbec33fa9cfc2749ee": "Wie is er jarig?"
+        },
+        "courseF_apps_card_-2022-2": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag",
+          "ff4d94eeb46da1dbec33fa9cfc2749ee": "Wie is er jarig?"
+        },
+        "courseF_apps_card_2023": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag",
+          "ff4d94eeb46da1dbec33fa9cfc2749ee": "Wie is er jarig?"
+        },
+        "courseF_apps_chatbot": {
+          "05584ab56b744b51cd8c4a6e8b3a08ee": "Voer je leeftijd in:",
+          "13e575be866ecf5ac3dcbf61ab2048d7": "Hoe oud ben je?",
+          "1f258d88a70309efc1435ef5daa277a0": "Dankjewel dat je vandaag met mij hebt gechat!",
+          "605f302ebc9f7fbacba60b15f551a633": "Wat is je lievelingskleur?",
+          "6dfcc5e477ebd3e2c893b3fc86b2eb93": " jaar oud!",
+          "91c4549fe2a5e9325c8f8d51afbb751b": "Voer je lievelingskleur in:",
+          "a72e7c5c68af0546e963e510297f5233": "Hallo, ik ben X-9! Hoe heet jij?",
+          "ae096fbf24d913754b01a1601672bf62": " ook!",
+          "f0e5da70d264f312a1658d51c130b101": "Voer je naam in:"
+        },
+        "courseF_apps_chatbot2022": {
+          "05584ab56b744b51cd8c4a6e8b3a08ee": "Voer je leeftijd in:",
+          "13e575be866ecf5ac3dcbf61ab2048d7": "Hoe oud ben je?",
+          "1f258d88a70309efc1435ef5daa277a0": "Dankjewel dat je vandaag met mij hebt gechat!",
+          "605f302ebc9f7fbacba60b15f551a633": "Wat is je lievelingskleur?",
+          "6dfcc5e477ebd3e2c893b3fc86b2eb93": " jaar oud!",
+          "91c4549fe2a5e9325c8f8d51afbb751b": "Voer je lievelingskleur in:",
+          "a72e7c5c68af0546e963e510297f5233": "Hallo, ik ben X-9! Hoe heet jij?",
+          "ae096fbf24d913754b01a1601672bf62": " ook!",
+          "f0e5da70d264f312a1658d51c130b101": "Voer je naam in:"
+        },
+        "courseF_apps_chatbot_-2022-2": {
+          "05584ab56b744b51cd8c4a6e8b3a08ee": "Voer je leeftijd in:",
+          "13e575be866ecf5ac3dcbf61ab2048d7": "Hoe oud ben je?",
+          "1f258d88a70309efc1435ef5daa277a0": "Dankjewel dat je vandaag met mij hebt gechat!",
+          "605f302ebc9f7fbacba60b15f551a633": "Wat is je lievelingskleur?",
+          "6dfcc5e477ebd3e2c893b3fc86b2eb93": " jaar oud!",
+          "91c4549fe2a5e9325c8f8d51afbb751b": "Voer je lievelingskleur in:",
+          "a72e7c5c68af0546e963e510297f5233": "Hallo, ik ben X-9! Hoe heet jij?",
+          "ae096fbf24d913754b01a1601672bf62": " ook!",
+          "f0e5da70d264f312a1658d51c130b101": "Voer je naam in:"
+        },
+        "courseF_apps_chatbot_2023": {
+          "05584ab56b744b51cd8c4a6e8b3a08ee": "Voer je leeftijd in:",
+          "13e575be866ecf5ac3dcbf61ab2048d7": "Hoe oud ben je?",
+          "1f258d88a70309efc1435ef5daa277a0": "Dankjewel dat je vandaag met mij hebt gechat!",
+          "605f302ebc9f7fbacba60b15f551a633": "Wat is je lievelingskleur?",
+          "6dfcc5e477ebd3e2c893b3fc86b2eb93": " jaar oud!",
+          "91c4549fe2a5e9325c8f8d51afbb751b": "Voer je lievelingskleur in:",
+          "a72e7c5c68af0546e963e510297f5233": "Hallo, ik ben X-9! Hoe heet jij?",
+          "ae096fbf24d913754b01a1601672bf62": " ook!",
+          "f0e5da70d264f312a1658d51c130b101": "Voer je naam in:"
+        },
+        "courseF_apps_collector": {
+          "e8a10c04d72b2f135dabe360c4bdd534": "Je wint!"
+        },
+        "courseF_apps_collector2022": {
+          "e8a10c04d72b2f135dabe360c4bdd534": "Je wint!"
+        },
+        "courseF_apps_collector_-2022-2": {
+          "e8a10c04d72b2f135dabe360c4bdd534": "Je wint!"
+        },
+        "courseF_apps_collector_2023": {
+          "e8a10c04d72b2f135dabe360c4bdd534": "Je wint!"
+        },
+        "courseF_apps_madlib": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_apps_madlib2022": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_apps_madlib_-2022-2": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_apps_madlib_2023": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_editable_card": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag",
+          "ff4d94eeb46da1dbec33fa9cfc2749ee": "Wie is er jarig?"
+        },
+        "courseF_editable_card_-2022-2": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag",
+          "ff4d94eeb46da1dbec33fa9cfc2749ee": "Wie is er jarig?"
+        },
+        "courseF_editable_card_2023": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag",
+          "ff4d94eeb46da1dbec33fa9cfc2749ee": "Wie is er jarig?"
+        },
+        "courseF_editable_chatbot": {
+          "05584ab56b744b51cd8c4a6e8b3a08ee": "Voer je leeftijd in:",
+          "13e575be866ecf5ac3dcbf61ab2048d7": "Hoe oud ben je?",
+          "1f258d88a70309efc1435ef5daa277a0": "Dankjewel dat je vandaag met mij hebt gechat!",
+          "605f302ebc9f7fbacba60b15f551a633": "Wat is je lievelingskleur?",
+          "6dfcc5e477ebd3e2c893b3fc86b2eb93": " jaar oud!",
+          "91c4549fe2a5e9325c8f8d51afbb751b": "Voer je lievelingskleur in:",
+          "a72e7c5c68af0546e963e510297f5233": "Hallo, ik ben X-9! Hoe heet jij?",
+          "ae096fbf24d913754b01a1601672bf62": " ook!",
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag",
+          "f0e5da70d264f312a1658d51c130b101": "Voer je naam in:"
+        },
+        "courseF_editable_chatbot_-2022-2": {
+          "05584ab56b744b51cd8c4a6e8b3a08ee": "Voer je leeftijd in:",
+          "13e575be866ecf5ac3dcbf61ab2048d7": "Hoe oud ben je?",
+          "1f258d88a70309efc1435ef5daa277a0": "Dankjewel dat je vandaag met mij hebt gechat!",
+          "605f302ebc9f7fbacba60b15f551a633": "Wat is je lievelingskleur?",
+          "6dfcc5e477ebd3e2c893b3fc86b2eb93": " jaar oud!",
+          "91c4549fe2a5e9325c8f8d51afbb751b": "Voer je lievelingskleur in:",
+          "a72e7c5c68af0546e963e510297f5233": "Hallo, ik ben X-9! Hoe heet jij?",
+          "ae096fbf24d913754b01a1601672bf62": " ook!",
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag",
+          "f0e5da70d264f312a1658d51c130b101": "Voer je naam in:"
+        },
+        "courseF_editable_chatbot_2023": {
+          "05584ab56b744b51cd8c4a6e8b3a08ee": "Voer je leeftijd in:",
+          "13e575be866ecf5ac3dcbf61ab2048d7": "Hoe oud ben je?",
+          "1f258d88a70309efc1435ef5daa277a0": "Dankjewel dat je vandaag met mij hebt gechat!",
+          "605f302ebc9f7fbacba60b15f551a633": "Wat is je lievelingskleur?",
+          "6dfcc5e477ebd3e2c893b3fc86b2eb93": " jaar oud!",
+          "91c4549fe2a5e9325c8f8d51afbb751b": "Voer je lievelingskleur in:",
+          "a72e7c5c68af0546e963e510297f5233": "Hallo, ik ben X-9! Hoe heet jij?",
+          "ae096fbf24d913754b01a1601672bf62": " ook!",
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag",
+          "f0e5da70d264f312a1658d51c130b101": "Voer je naam in:"
+        },
+        "courseF_editable_madlib": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_editable_madlib_-2022-2": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_editable_madlib_2023": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_playlab_variables1a": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseF_playlab_variables2b": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel",
+          "48d6215903dff56238e52e8891380c8f": "blauw"
+        },
+        "courseF_playlab_variables3b_josh": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel",
+          "662722f1029078dad7a3683c64d8b922": "Wauw! Ik ben ook ",
+          "ae096fbf24d913754b01a1601672bf62": " ook!"
+        },
+        "courseF_playlab_variables4b": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "13e575be866ecf5ac3dcbf61ab2048d7": "Hoe oud ben je?",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseF_playlab_variables4c_predictive1": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel",
+          "d065635d5fffcb3739555ae93006081c": "Leuk je te ontmoeten, ",
+          "f6429fe0f1a76611670df7e1234af936": "Wat is jouw naam?"
+        },
+        "courseF_playlab_variables5c": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel",
+          "bda9643ac6601722a28f238714274da4": "rood"
+        },
+        "courseF_playlab_variables6c": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseF_playlab_variables7b": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseF_playlab_variables7c": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseF_playlab_variables8c": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseF_playlab_variables_challenge1": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        },
+        "courseF_project_1": {
+          "498cd895eb5a102c5aeb977e2b928dee": "Bedankt!",
+          "e8a10c04d72b2f135dabe360c4bdd534": "Je wint!"
+        },
+        "courseF_text_answer": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_text_answer_-2022-2": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_text_answer_2023": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_text_choice_color": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_text_choice_color_-2022-2": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_text_choice_color_2023": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_text_choice_conversation": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_text_choice_conversation_-2022-2": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_text_choice_conversation_2023": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_text_choice_events": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_text_choice_events_-2022-2": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_text_choice_events_2023": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_text_choice_freeplay": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_text_choice_freeplay_-2022-2": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_text_choice_freeplay_2023": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_text_choice_multiprompt": {
+          "ff4d94eeb46da1dbec33fa9cfc2749ee": "Wie is er jarig?"
+        },
+        "courseF_text_choice_multiprompt_-2022-2": {
+          "ff4d94eeb46da1dbec33fa9cfc2749ee": "Wie is er jarig?"
+        },
+        "courseF_text_choice_multiprompt_2023": {
+          "ff4d94eeb46da1dbec33fa9cfc2749ee": "Wie is er jarig?"
+        },
+        "courseF_text_choice_title": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_text_choice_title_-2022-2": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_text_choice_title_2023": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_text_concat": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag",
+          "f6429fe0f1a76611670df7e1234af936": "Wat is jouw naam?"
+        },
+        "courseF_text_concat_-2022-2": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag",
+          "f6429fe0f1a76611670df7e1234af936": "Wat is jouw naam?"
+        },
+        "courseF_text_concat_2023": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag",
+          "f6429fe0f1a76611670df7e1234af936": "Wat is jouw naam?"
+        },
+        "courseF_text_prompts": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag",
+          "f6429fe0f1a76611670df7e1234af936": "Wat is jouw naam?"
+        },
+        "courseF_text_prompts_-2022-2": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag",
+          "f6429fe0f1a76611670df7e1234af936": "Wat is jouw naam?"
+        },
+        "courseF_text_prompts_2023": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag",
+          "f6429fe0f1a76611670df7e1234af936": "Wat is jouw naam?"
+        },
+        "courseF_variables_card": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_variables_card_-2022-2": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_variables_card_2023": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_variables_card_finish": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_variables_card_finish_-2022-2": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_variables_card_finish_2023": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_variables_chatbot": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_variables_chatbot_-2022-2": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_variables_chatbot_2023": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_variables_chatbot_finish": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_variables_chatbot_finish_-2022-2": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_variables_chatbot_finish_2023": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_variables_madlib": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_variables_madlib_-2022-2": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_variables_madlib_2023": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_variables_madlib_finish": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_variables_madlib_finish_-2022-2": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_variables_madlib_finish_2023": {
+          "e243ac4e74cc5a76adbecf3b4daa1906": "mijn vraag"
+        },
+        "courseF_variables_predict": {
+          "f6429fe0f1a76611670df7e1234af936": "Wat is jouw naam?"
+        },
+        "courseF_variables_predict_-2022-2": {
+          "f6429fe0f1a76611670df7e1234af936": "Wat is jouw naam?"
+        },
+        "courseF_variables_predict_2023": {
+          "f6429fe0f1a76611670df7e1234af936": "Wat is jouw naam?"
+        },
+        "coursee_helloworld_freeplay": {
+          "6cd3556deb0da54bca060b4c39479839": "Hallo, wereld!"
+        },
+        "coursee_helloworld_freeplay_2023": {
+          "6cd3556deb0da54bca060b4c39479839": "Hallo, wereld!"
+        },
+        "csc_bookcover_widget_2023": {
+          "6cd3556deb0da54bca060b4c39479839": "Hallo, wereld!"
+        },
+        "helloworld_animals_freeplay": {
+          "6cd3556deb0da54bca060b4c39479839": "Hallo, wereld!"
+        },
+        "helloworld_emoji_freeplay": {
+          "6cd3556deb0da54bca060b4c39479839": "Hallo, wereld!"
+        },
+        "helloworld_food_freeplay": {
+          "6cd3556deb0da54bca060b4c39479839": "Hallo, wereld!"
+        },
+        "helloworld_retro_freeplay": {
+          "6cd3556deb0da54bca060b4c39479839": "Hallo, wereld!"
+        },
+        "iceage_free_play": {
+          "0ab65920c84bec05a22e09feea7fe4ea": "typ de tekst hier",
+          "30fcc1693fa8402931d13ac3a5f396fd": "typ hier de titel"
+        }
+      }
+    }
+  }
+}

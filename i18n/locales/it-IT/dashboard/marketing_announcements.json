@@ -1,0 +1,24 @@
+{
+  "banners": {
+    "superhero": {
+      "title": "Aiuta i tuoi studenti a diventare supereroi!",
+      "body": "Unisciti al nostro programma di apprendimento professionale di grande supporto per educatori delle scuole medie e superiori.",
+      "buttonText": "Ulteriori informazioni"
+    },
+    "hoc-2023": {
+      "title": "Ora del Codice - La creatività con l'Intelligenza Artificiale",
+      "body": "Unisciti a milioni di persone in tutto il mondo per organizzare un'ora di programmazione, con o senza AI, e scoprire come funziona l'AI. Chiunque, ovunque può farlo. Non è necessaria alcuna esperienza.",
+      "buttonText": "Ulteriori informazioni"
+    },
+    "curriculum-launch-2024": {
+      "title": "Scopri il curriculum nuovo e aggiornato!",
+      "body": "Esplora le nostre ultime unità e risorse di apprendimento professionale per ispirare futuri innovatori della tecnologia.",
+      "buttonText": "Scopri le novità"
+    },
+    "progress-launch": {
+      "title": "Il tracciamento del progresso è appena salito di livello!",
+      "body": "Controllare senza sforzo il lavoro degli studenti, fornire riscontri tempestivi e semplificare la valutazione con la nostra veloce interfaccia testata dagli insegnanti. Risparmia tempo e ottieni preziose informazioni sulle performance dei tuoi studenti, tutto in un unico strumento intuitivo.",
+      "buttonText": "Prova adesso"
+    }
+  }
+}

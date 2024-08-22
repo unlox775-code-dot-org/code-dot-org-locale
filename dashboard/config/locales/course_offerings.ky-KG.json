@@ -1,0 +1,23 @@
+{
+  "ky-KG": {
+    "data": {
+      "course_offerings": {
+        "artist": "Сүрөтчү",
+        "course1": "Курс 1",
+        "course2": "Курс 2",
+        "course3": "Курс 3",
+        "course4": "Курс 4",
+        "flappy": "Flappy Code",
+        "frozen": "Анна жана Элза менен код жазгыла",
+        "hoc-encryption": "Код сааты: кадимки шифрлөө",
+        "hourofcode": "Классикалык лабиринт",
+        "infinity": "Disney Infinity оюн лабораториясы",
+        "jigsaw": "Jigsaw",
+        "mc": "Minecraft тентек",
+        "minecraft": "Код сааты, Minecraft дизайнери",
+        "soccer": "футбол",
+        "step": "кадам"
+      }
+    }
+  }
+}

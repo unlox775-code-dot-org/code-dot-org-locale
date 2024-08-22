@@ -1,0 +1,503 @@
+---
+my:
+  data:
+    script:
+      name:
+        hourofcode:
+          title: ဂန္တဝင် ဝင်္ကပါ
+        events:
+          title: ဖြစ်စဥ်များ
+          description: ဖြစ်စဥ်များ
+          description_short: ဖြစ်စဥ်များ
+          student_description: ဖြစ်စဥ်များ
+        flappy:
+          title: ဖလပ်ပီ ကုပ်
+          description: သင့်ကိုယ်ပိုင်ဂိမ်းကို 10 မိနစ်အောက်သာရေးလိုပါသလား။ ကျွန်ုပ်တို့၏ ဖလပ်ပီ ကုပ် သင်ခန်းစာကို စမ်းသုံးကြည့်ပါ။
+          student_description: သင့်ကိုယ်ပိုင်ဂိမ်းကို 10 မိနစ်အောက်သာရေးလိုပါသလား။ ကျွန်ုပ်တို့၏ ဖလပ်ပီ ကုပ် သင်ခန်းစာကို စမ်းသုံးကြည့်ပါ။
+        starwars:
+          title: 'Star Wars : ကုဒ် (JavaScript) ဖြင့် Galaxy တစ်ခုကို တည်ဆောက်ခြင်း'
+        mc:
+          title: Minecraft စွန့်စားခန်း
+          description: ဤ Minecraft ကမ္ဘာကိုဖြတ်၍ Steve နှင့် Alexကို ခေါ်ကာ စွန့်စားခန်းသွားရန် ကုတ်နံပါတ် blockများကို သုံးပါ
+          student_description: ဤ Minecraft ကမ္ဘာကိုဖြတ်၍ Steve နှင့် Alexကို ခေါ်ကာ စွန့်စားခန်းသွားရန် ကုတ်နံပါတ် blockများကို သုံးပါ
+        basketball:
+          name: ဘတ်စကတ်ဘော
+        minecraft:
+          title: Minecraft ဒီဇိုင်းနာ
+        hero:
+          title: 'Minecraft: လူစွမ်းကောင်း၏ ခရီးစဉ်'
+          description_short: Hour of Code အတွက် အစီအစဥ်သစ်နဲွ Minecraft ပြန်လည်​ရောက်ရှိလာပါပြီ!
+          description: Minecraftက လုပ်ရှားမှုအသစ်များနဲ့အတူ Hour of Codeအတွက်ပြန်လာပါပြီ။ Minecraftနှင့်code မှတစ်ဆင့်ခရီးစဉ်
+          student_description: Minecraftက လုပ်ရှားမှုအသစ်များနဲ့အတူ Hour of Codeအတွက်ပြန်လာပါပြီ။ Minecraftနှင့်code မှတစ်ဆင့်ခရီးစဉ်
+        cspplayground:
+          lesson_groups:
+            csp_variables:
+              display_name: Variables
+        coursef-2019:
+          lesson_groups:
+            csf_variables:
+              display_name: Variables
+        coursed-2019:
+          lesson_groups:
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+            csf_loops:
+              display_name: Loops
+        express-2019:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_variables:
+              display_name: Variables
+        coursec-2019:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+        coursea-2019:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+        courseb-2019:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+        pre-express-2019:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+        csp4-pilot:
+          lesson_groups:
+            csp_variables:
+              display_name: Variables
+        csp1-pilot-staging:
+          lesson_groups:
+            csp_variables:
+              display_name: Variables
+        csp2-pilot-staging:
+          lesson_groups:
+            csp_variables:
+              display_name: Variables
+        csp4-pilot-staging:
+          lesson_groups:
+            csp_variables:
+              display_name: Variables
+        csp5-pilot-staging:
+          lesson_groups:
+            csp_lists:
+              display_name: စာရင်းများ
+            csp_loops:
+              display_name: Loops
+        csp6-pilot-staging:
+          lesson_groups:
+            csp_variables:
+              display_name: Variables
+        csp8-pilot-staging:
+          lesson_groups:
+            csp_variables:
+              display_name: Variables
+        csp9-pilot-staging:
+          lesson_groups:
+            csp_variables:
+              display_name: Variables
+        csp10-pilot-staging:
+          lesson_groups:
+            csp_variables:
+              display_name: Variables
+        csp5-pilot:
+          lesson_groups:
+            csp_lists:
+              display_name: စာရင်းများ
+            csp_loops:
+              display_name: Loops
+        csl-vn:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+        csp4-preview:
+          lesson_groups:
+            csp_variables:
+              display_name: Variables
+        time4cs-control-unit-1:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+        time4cs-experiment-unit-1:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+        csp4-2020:
+          lesson_groups:
+            csp_variables:
+              display_name: Variables
+        csp5-2020:
+          lesson_groups:
+            csp_lists:
+              display_name: စာရင်းများ
+            csp_loops:
+              display_name: Loops
+        coursea-2020:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+        courseb-2020:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+        coursec-2020:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+        coursed-2020:
+          lesson_groups:
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+            csf_loops:
+              display_name: Loops
+        coursef-2020:
+          lesson_groups:
+            csf_variables:
+              display_name: Variables
+        express-2020:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_variables:
+              display_name: Variables
+        pre-express-2020:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+        2021drafting:
+          lesson_groups:
+            lessonGroup-3:
+              display_name: Variables
+        csp4-2021:
+          lesson_groups:
+            csp_variables:
+              display_name: Variables
+        csp5-2021:
+          lesson_groups:
+            csp_lists:
+              display_name: စာရင်းများ
+            csp_loops:
+              display_name: Loops
+        coursea-2021:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+        courseb-2021:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+        coursec-2021:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+        coursed-2021:
+          lesson_groups:
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+            csf_loops:
+              display_name: Loops
+        coursef-2021:
+          lesson_groups:
+            lessonGroup-8:
+              display_name: Variables
+        express-2021:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_variables:
+              display_name: Variables
+            lessonGroup-9:
+              display_name: ဖြစ်စဥ်များ
+        pre-express-2021:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+        csf-2021-pilot:
+          lesson_groups:
+            lessonGroup-3:
+              display_name: Variables
+            variables:
+              display_name: Variables
+        csa-videos:
+          lesson_groups:
+            lessonGroup-3:
+              display_name: အရင်းအမြစ်များ
+        dlp21-csd:
+          lesson_groups:
+            lessonGroup-2:
+              description: စမ်းသပ်မှု။
+        ai-ethics-2021:
+          description_audience: အတန်းများ ၆တန်း-၁၂တန်း
+        csf-2022-pilot:
+          lesson_groups:
+            lessonGroup-3:
+              display_name: Variables
+        coursea-2022:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+        express-2022:
+          lesson_groups:
+            lessonGroup-9:
+              display_name: ဖြစ်စဥ်များ
+            csf_loops:
+              display_name: Loops
+            csf_variables:
+              display_name: Variables
+        csp4-2022:
+          lesson_groups:
+            csp_variables:
+              display_name: Variables
+        csp5-2022:
+          lesson_groups:
+            csp_lists:
+              display_name: စာရင်းများ
+            csp_loops:
+              display_name: Loops
+        courseb-2022:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+        coursec-2022:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+        coursed-2022:
+          lesson_groups:
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+            csf_loops:
+              display_name: Loops
+        coursef-2022:
+          lesson_groups:
+            lessonGroup-8:
+              display_name: Variables
+        pre-express-2022:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+        coursef-2022-pilot:
+          lesson_groups:
+            lessonGroup-8:
+              display_name: Variables
+        soccer:
+          name: ဘောလုံး
+        csa1-2023:
+          lessons:
+            lesson-6:
+              name: Loops
+        csa2-2023:
+          lessons:
+            lesson-4:
+              name: Variables
+        csp4-2023:
+          lesson_groups:
+            csp_variables:
+              display_name: Variables
+        csp5-2023:
+          lesson_groups:
+            csp_loops:
+              display_name: Loops
+        csp6-2023:
+          lesson_groups:
+            csp_unit6_2020:
+              display_name: စာရင်းများ
+            lessonGroup-3:
+              display_name: Loops
+        pre-express-2023:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+        express-2023:
+          lesson_groups:
+            lessonGroup-9:
+              display_name: ဖြစ်စဥ်များ
+            csf_loops:
+              display_name: Loops
+            csf_variables:
+              display_name: Variables
+        coursea-2023:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+        courseb-2023:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+        coursec-2023:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+        coursed-2023:
+          lesson_groups:
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+            csf_loops:
+              display_name: Loops
+        coursef-2023:
+          lesson_groups:
+            lessonGroup-4:
+              display_name: Variables
+        test-nv-coursea-2023:
+          lesson_groups:
+            lessonGroup-4:
+              display_name: Loops
+        nevada-standards-aligned-kindergarten-2023:
+          lesson_groups:
+            lessonGroup-4:
+              display_name: Loops
+        nevada-standards-aligned-first-grade-2023:
+          lesson_groups:
+            lessonGroup-4:
+              display_name: Loops
+            lessonGroup-6:
+              display_name: ဖြစ်စဥ်များ
+        nevada-standards-aligned-second-grade-2023:
+          lesson_groups:
+            lessonGroup-4:
+              display_name: Loops
+            lessonGroup-5:
+              display_name: ဖြစ်စဥ်များ
+        nevada-standards-aligned-third-grade-2023:
+          lesson_groups:
+            lessonGroup-6:
+              display_name: Loops
+        nevada-standards-aligned-fifth-grade-2023:
+          lesson_groups:
+            lessonGroup-5:
+              display_name: Variables
+        self-paced-pl-k5-2024-2:
+          lessons:
+            lesson-3:
+              name: ဖြစ်စဥ်များ
+        self-paced-pl-k5-2024-1:
+          lessons:
+            lesson-3:
+              name: Loops
+        csp4-2024:
+          lesson_groups:
+            csp_variables:
+              display_name: Variables
+        csp6-2024:
+          lesson_groups:
+            csp_unit6_2020:
+              display_name: စာရင်းများ
+            lessonGroup-3:
+              display_name: Loops
+        self-paced-pl-microbit-2024-1:
+          lessons:
+            lesson-1:
+              name: ဖြစ်စဥ်များ
+            lesson-2:
+              name: Loops
+        coursea-2024:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+        courseb-2024:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+        coursec-2024:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+        coursed-2024:
+          lesson_groups:
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+            csf_loops:
+              display_name: Loops
+        coursef-2024:
+          lesson_groups:
+            lessonGroup-4:
+              display_name: Variables
+        express-2024:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_variables:
+              display_name: Variables
+            lessonGroup-3:
+              display_name: ဖြစ်စဥ်များ
+            lessonGroup-4:
+              display_name: Loops
+            lessonGroup-7:
+              display_name: Variables
+        pre-express-2024:
+          lesson_groups:
+            csf_loops:
+              display_name: Loops
+            csf_events:
+              display_name: ဖြစ်စဥ်များ
+            lessonGroup-3:
+              display_name: Loops
+            lessonGroup-4:
+              display_name: ဖြစ်စဥ်များ
+        gettingstarted-k5:
+          lessons:
+            lesson-1:
+              name: စမ်းသပ်မှု။
+        k5-unplugged:
+          lesson_groups:
+            lessonGroup-3:
+              display_name: Loops
+            lessonGroup-4:
+              display_name: ဖြစ်စဥ်များ
+            lessonGroup-10:
+              display_name: Variables

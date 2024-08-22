@@ -1,0 +1,76 @@
+{
+  "fr-FR": {
+    "data": {
+      "validations": {
+        "musiclab_intro_change_sound": {
+          "musiclab_intro_change_sound_38551dcf-dfaf-4e47-8774-bd9f02621036": "Bon travail. Tu as bien modifié le son. ",
+          "musiclab_intro_change_sound_7a7f2fdb-0458-4b63-9a0a-7a19180b67f2": "Bon travail. Tu as bien modifié le son. ",
+          "musiclab_intro_change_sound_7eda7f13-3a56-42b1-a717-825eb8b01acf": "Il va falloir [changer](#clickable=play-sound-block-workspace) le son.",
+          "musiclab_intro_change_sound_e63fb4ba-f0d0-495e-bea2-82f0d20f0477": "Bon travail. Tu as bien modifié le son. ",
+          "musiclab_intro_change_sound_f2594aee-b7e0-461e-95c5-8edab4d0c41a": "Bon travail. Tu as bien modifié le son. "
+        },
+        "musiclab_intro_function": {
+          "musiclab_intro_function_46d4cb8f-7dcf-4b78-b963-ca78d8cb439f": "Maintenant, joue un son à l'aide de la fonction. ",
+          "musiclab_intro_function_b6e6f37e-268f-42d2-bef5-62968613af46": "Bon travail. Tu as bien utilisé la fonction pour jouer un son."
+        },
+        "musiclab_intro_play_sound": {
+          "musiclab_intro_play_sound_10152a9d-29b4-46e9-9080-9ad7a8937433": "Fais glisser le bloc [jouer](#clickable=play-sound-block) et rattache-le à [quand l'exécution commence](#clickable=when-run-block).",
+          "musiclab_intro_play_sound_34517aac-bcf5-4183-a71d-fafd0498e499": "Bon travail. Tu as bien joué un son. "
+        },
+        "musiclab_intro_play_together": {
+          "musiclab_intro_play_together_5c2b8269-32d0-4798-b3e8-d679cb2a4be6": "Bon travail. Tu as bien joué deux sons ensemble.",
+          "musiclab_intro_play_together_92348942-2028-4cc9-bd77-bc96b4ce57a9": "C'est bien d'avoir joué un son, mais là, il faut jouer deux sons ensemble.",
+          "musiclab_intro_play_together_ca6210c5-fb7e-473e-9428-d50c81e6faca": "Ici, il faut jouer deux sons ensemble."
+        },
+        "musiclab_intro_repeat": {
+          "musiclab_intro_repeat_28936cc0-3bfc-4c00-8319-5886b587b29c": "C'est déjà bien d'avoir joué un son deux fois. Maintenant, joue-le trois fois. ",
+          "musiclab_intro_repeat_41276380-4fc4-48cb-be28-b6be5dfb8dd5": "Tu as joué un son une fois. Maintenant, fais-le jouer trois fois en te servant du bloc [répéter](#clickable=repeat-block).",
+          "musiclab_intro_repeat_b2a9ed31-f16f-45ac-9aaa-ab45620d6cd6": "Ici, il faut faire jouer un son trois fois. Attache un bloc [répéter](#clickable=repeat-block) au bloc [quand l'exécution commence](#clickable=when-run-block). Ensuite, mets un bloc [jouer](#clickable=play-sound-block) à l'intérieur de celui-ci. ",
+          "musiclab_intro_repeat_eaf348ed-21a0-499e-89a8-2f5beff52dd7": "Bon travail. Tu as bien joué trois sons."
+        },
+        "musiclab_intro_trigger": {
+          "musiclab_intro_trigger_063936aa-e4fc-4654-b695-1cb2f1ad989d": "Maintenant, joue un son à l'aide du déclencheur. ",
+          "musiclab_intro_trigger_5a0ba9ef-12ef-42eb-8377-c80ef540bbb0": "Bon travail. Tu as bien joué un son en utilisant le déclencheur."
+        },
+        "musiclab_tutorial_change_sound": {
+          "musiclab_intro_change_sound_v2_6054328e-dc95-47fe-8c65-980ce00299f1": "Super travail ! Tu as bien ajouté de nouveaux sons à ta chanson.",
+          "musiclab_intro_change_sound_v2_9ddfc062-5d48-4090-aa06-ff26c4a75916": "Ajoute encore au moins un son."
+        },
+        "musiclab_tutorial_drums": {
+          "musiclab_intro_drums_v2_8a21d216-d589-4129-b695-bf32dd4440e8": "Ajoute le bloc [jouer des percussions](#clickable=play-drums-block) et crée tes propres rythmes !",
+          "musiclab_intro_drums_v2_d5c7c777-c009-470d-99b6-1a2e60be22df": "Ça sonne super ça ! ",
+          "musiclab_tutorial_drums_25bc1092-ffea-4236-b867-a7e47c85914c": "Clique sur le bloc [jouer des percussions](#clickable=play-drums-block) et utilise la boîte à rythmes pour créer un rythme personnalisé."
+        },
+        "musiclab_tutorial_function": {
+          "musiclab_intro_function_elementary_328ae4f1-4120-4555-bfba-4654bd618fd8": "Bon travail. Tu as bien utilisé la fonction pour jouer un son.",
+          "musiclab_intro_function_elementary_33cfaef2-2b2e-4e45-93b8-88632b06f78a": "Connecte le bloc « refrain » en bas de [quand l'exécution commence](#clickable=when-run-block) pour jouer les sons qui sont dans la fonction."
+        },
+        "musiclab_tutorial_notes": {
+          "musiclab_intro_notes_v2_a40492dc-818f-4e02-ba2e-e7de19e291df": "Essaye le bloc [jouer des notes](#clickable=play-notes-block) et compose ta propre mélodie.",
+          "musiclab_intro_notes_v2_ca10f1fe-8755-49d5-864f-83772a128e36": "Bravo ! Tu as composé ta propre mélodie. ",
+          "musiclab_tutorial_notes_cdc6aa6b-b5a7-45d2-92e2-410eb5c4d3bc": "Clique sur le bloc [jouer des notes](#clickable=play-notes-block) et sers-toi du clavier pour créer une mélodie personnalisée."
+        },
+        "musiclab_tutorial_play_sound": {
+          "musiclab_intro_play_sound_10152a9d-29b4-46e9-9080-9ad7a8937433": "Tu as trouvé le bouton Démarrer ! Maintenant, fais glisser le bloc [jouer](#clickable=play-sound-block) et connecte-le en bas de [quand l'exécution commence](#clickable=when-run-block).",
+          "musiclab_intro_play_sound_34517aac-bcf5-4183-a71d-fafd0498e499": "Bon travail. Tu as bien joué un son !"
+        },
+        "musiclab_tutorial_play_together": {
+          "musiclab_intro_play_together_elementary_a73d098d-932c-416e-9d5a-4585178fe866": "Bravo, tu as bien réussi à jouer un son ; maintenant, essaie de jouer deux sons ensemble. Ajoute deux blocs [jouer](#clickable=play-sound-block-workspace) _à l'intérieur_ du bloc [jouer ensemble](#clickable=play-sounds-together-block-workspace).",
+          "musiclab_intro_play_together_elementary_b1ec52da-2b60-4e02-8512-60495bbb79e6": "Beau travail. Ces deux sons vont très bien ensemble !",
+          "musiclab_intro_play_together_elementary_c5abfcf3-0d24-4405-9249-aeb85e0a01ce": "Maintenant, il va falloir jouer deux sons ensemble. Indice : essaie d'utiliser deux types de sons différents à jouer ensemble – comme des percussions et un rhythme de basse, par exemple !",
+          "musiclab_tutorial_play_together_ebbe089b-ecdc-4cd8-9555-c38271706f31": "Aucun son n'a encore été joué. Connecte un bloc [jouer ensemble](#clickable=play-sounds-together-block) en bas de [quand l'exécution commence](#clickable=when-run-block). Ensuite, ajoute deux blocs [jouer](#clickable=play-sound-block-workspace) _à l'intérieur_ du bloc [jouer ensemble](#clickable=play-sounds-together-block-workspace)."
+        },
+        "musiclab_tutorial_repeat": {
+          "musiclab_intro_repeat_elementary_1eaff1ec-353f-48fb-8a07-383e4dd1f918": "Beau travail. Tu as bien réussi à jouer un son trois fois !",
+          "musiclab_intro_repeat_elementary_7870662b-99f3-4920-9a0e-f03a9386bb34": "Ici, il faut faire jouer un son trois fois. Attache un bloc [répéter](#clickable=repeat-block) au bloc [quand l'exécution commence](#clickable=when-run-block). Ensuite, mets un bloc [jouer](#clickable=play-sound-block) à l'intérieur de celui-ci.",
+          "musiclab_intro_repeat_elementary_81debb7d-9c0a-466c-b618-a6f5639e0b1b": "Tu as répété un son deux fois. Maintenant fais-le jouer [trois](#clickable=repeat-block-field-workspace) fois.",
+          "musiclab_intro_repeat_elementary_ef93b774-6a6b-4364-8e37-85ce20e15450": "Tu as joué un son une fois. Maintenant, fais-le jouer trois fois en mettant un [3](#clickable=repeat-block-field-workspace) dans le bloc [répéter](#clickable=repeat-block)."
+        },
+        "musiclab_tutorial_trigger": {
+          "musiclab_intro_trigger_elementary_55abe67c-58ad-4ce2-aab9-172acb91a090": "Rien n'a encore été déclenché. ",
+          "musiclab_intro_trigger_elementary_7d8f341d-9582-4fc8-8622-464260ce978c": "Bon travail. Tu as bien joué un son en utilisant le déclencheur."
+        }
+      }
+    }
+  }
+}

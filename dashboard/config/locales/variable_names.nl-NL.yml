@@ -1,0 +1,39 @@
+---
+nl:
+  data:
+    variable_names:
+      Blue: Blauw
+      Green: Groen
+      Red: Rood
+      actor: speler
+      age: leeftijd
+      answer: antwoord
+      binary: binaire
+      birds: vogels
+      cats: katten
+      color: kleur
+      counter: teller
+      dogs: honden
+      height: hoogte
+      honey: honing
+      i: i
+      left: links
+      length: lengte
+      level: niveau
+      name: naam
+      nectar: nectar
+      object: object
+      planet: planeet
+      points: punten
+      random: willekeurig
+      repeat: herhaal
+      right: rechts
+      score: score
+      sides: zijden
+      size: grootte
+      speed: snelheid
+      type: type
+      variable: variabele
+      width: breedte
+      wizard: tovenaar
+      x: x

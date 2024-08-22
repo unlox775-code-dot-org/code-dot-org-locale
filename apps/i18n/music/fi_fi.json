@@ -1,0 +1,19 @@
+{
+  "blockly_blockPlaySoundAtMeasureTooltip": "soita ääni",
+  "blockly_blockPlaySoundTooltip": "soita ääni",
+  "blockly_blockWhenRun": "suoritettaessa",
+  "blockly_blockWhenRunTooltip": "suoritettaessa",
+  "blockly_functionNamePlaceholder": "minun funktioni",
+  "blockly_toolboxCategoryEvents": "Tapahtumat",
+  "blockly_toolboxCategoryFunctions": "Funktiot",
+  "blockly_toolboxCategoryLogic": "Logiikka",
+  "blockly_toolboxCategoryMath": "Matematiikka",
+  "blockly_toolboxCategoryVariables": "Muuttujat",
+  "continue": "Jatka",
+  "effectsLabelsMedium": "Normaali",
+  "panelHeaderInstructions": "Ohjeet",
+  "panelHeaderWorkspace": "Työtila: ",
+  "share": "Jaa",
+  "soundsFilterAll": "Kaikki",
+  "startOver": "Aloita alusta"
+}

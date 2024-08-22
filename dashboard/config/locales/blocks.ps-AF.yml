@@ -1,0 +1,29 @@
+---
+ps:
+  data:
+    blocks:
+      Dancelab_randomColor:
+        text: نا ټاکلۍ رنګ
+      DansBlocks_testShowVariable:
+        options:
+          COLOR:
+            '"blue"': ابي
+            '"red"': سور
+      Mikelab_randomColor:
+        text: نا ټاکلۍ رنګ
+      gamelab_checkTouching:
+        options:
+          CONDITION:
+            '"while"': کله چي
+      gamelab_keyPressed:
+        options:
+          CONDITION:
+            '"while"': کله چي
+      gamelab_randColor:
+        text: نا ټاکلۍ رنګ
+      gamelab_randomColor:
+        text: نا ټاکلۍ رنګ
+      gamelab_spriteClicked:
+        options:
+          CONDITION:
+            '"while"': کله چي

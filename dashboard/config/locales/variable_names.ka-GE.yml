@@ -1,0 +1,34 @@
+---
+ka:
+  data:
+    variable_names:
+      Blue: ლურჯი
+      Green: მწვანე
+      Red: წითელი
+      actor: პერსონაჟი
+      age: ასაკი
+      answer: პასუხი
+      binary: ორობითი
+      birds: ჩიტები
+      color: ფერი
+      counter: მრიცხველი
+      height: სიმაღლე
+      honey: თაფლი
+      left: მარცხნივ
+      length: ხანგრძლივობა
+      name: სახელი
+      nectar: ნექტარი
+      planet: პლანეტა
+      points: ქულები
+      random: შემთხვევითი
+      repeat: გაიმეორეთ
+      right: მარჯვნივ
+      score: ქულა
+      shout: ყვირილი
+      size: ზომა
+      speed: სიჩქარე
+      type: ტიპი
+      variable: ცვლადი
+      width: სიგრძე
+      wizard: ჯადოქარი
+      x: x

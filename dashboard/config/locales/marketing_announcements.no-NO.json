@@ -1,0 +1,16 @@
+{
+  "no-NO": {
+    "data": {
+      "marketing_announcements": {
+        "banners": {
+          "hoc-2023": {
+            "buttonText": "Lær mer"
+          },
+          "superhero": {
+            "buttonText": "Lær mer"
+          }
+        }
+      }
+    }
+  }
+}

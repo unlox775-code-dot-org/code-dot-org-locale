@@ -1,0 +1,38 @@
+az:
+  data:
+    block_categories:
+      Actions: Əmrlər
+      Advanced: Qabaqcıl
+      Behaviors: Rəftar
+      'Behaviors ': 'Davranışlar'
+      Brushes: Fırçalar
+      Category: Bölüm
+      Color: Rəng
+      Comment: Rəy
+      Comments: Rəylər
+      Conditionals: Şərti ifadələr
+      Dancers: Balerinalar
+      Default: Əvvəlki
+      Effects: Effektlər
+      Events: Tədbirlər
+      Functions: Funksiyalar
+      'Functions ': 'Funksiyalar'
+      Game/Score: Oyun/Xal
+      Games/Score: Oyunlar/Xal
+      Groups: Qruplar
+      Input: Verilən (Giriş)
+      Location: Yer
+      Locations: Yerlər
+      Logic: Məntiq
+      Loops: dövrlər
+      Math: Riyaziyyat
+      Numbers: Rəqəmlər
+      Picker: Seçici
+      Prebuilt: Əvvəlcədən qurulmuş
+      Properties: Xassələri
+      Sprites: Spraytlar
+      Text: mətn
+      Variables: dəyişənlər
+      'Variables ': 'Dəyişənlər'
+      'Variables  ': 'Dəyişənlər'
+      World: Kainat

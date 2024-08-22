@@ -1,0 +1,6 @@
+{
+  "continue": "Continuar",
+  "startOverAichatModelCustomizations": "Esto reiniciará este nivel a su estado inicial y eliminará cualquier personalización del modelo o información de la tarjeta de modelo que hayas agregado o cambiado.",
+  "waitingForChatResponse": "Esperando una respuesta...",
+  "whatIsPersonalInformation": "¿Qué se considera información personal?"
+}

@@ -1,0 +1,461 @@
+---
+gl:
+  data:
+    blocks:
+      Dancelab_atTimestamp:
+        options:
+          UNIT:
+            '"seconds"': segundos
+      Dancelab_atTimestampNotAfter:
+        options:
+          UNIT:
+            '"seconds"': segundos
+      Dancelab_changePropBy:
+        options:
+          PROPERTY:
+            '"scale"': tamaño
+            '"height"': altura
+      Dancelab_changePropEachBy:
+        options:
+          PROPERTY:
+            '"scale"': tamaño
+            '"height"': altura
+      Dancelab_everySeconds:
+        options:
+          UNIT:
+            '"seconds"': segundos
+      Dancelab_getProp:
+        options:
+          PROPERTY:
+            '"scale"': tamaño
+            '"height"': altura
+      Dancelab_getTime:
+        options:
+          UNIT:
+            '"seconds"': segundos
+      Dancelab_ifTime:
+        options:
+          UNIT:
+            '"seconds"': segundos
+      Dancelab_jumpTo:
+        options:
+          LOCATION:
+            "{x: 100, y: 200}": esquerda
+            "{x: 300, y: 200}": dereita
+            "{x: randomNumber(50, 350), y: randomNumber(50, 350)}": aleatorio
+      Dancelab_jumpToEach:
+        options:
+          LOCATION:
+            "{x: 100, y: 200}": esquerda
+            "{x: 300, y: 200}": dereita
+            "{x: randomNumber(60, 340), y: randomNumber(60, 340)}": aleatorio
+      Dancelab_layoutSprites:
+        options:
+          FORMAT:
+            '"random"': aleatorio
+      Dancelab_makeAnonymousDanceSprite:
+        options:
+          COSTUME:
+            '"ALIEN"': extraterrestre
+            '"CAT"': gato
+            '"DOG"': can
+            '"DUCK"': pato
+            '"ROBOT"': robot
+            '"UNICORN"': unicornio
+          LOCATION:
+            "{x: 100, y: 200}": esquerda
+            "{x: 300, y: 200}": dereita
+            "{x: randomNumber(50, 350), y: randomNumber(50, 350)}": aleatorio
+      Dancelab_makeNewDanceSprite:
+        options:
+          COSTUME:
+            '"ALIEN"': extraterrestre
+            '"CAT"': gato
+            '"DOG"': can
+            '"DUCK"': pato
+            '"ROBOT"': robot
+            '"UNICORN"': unicornio
+          LOCATION:
+            "{x: 100, y: 200}": esquerda
+            "{x: 300, y: 200}": dereita
+            "{x: randomNumber(50, 350), y: randomNumber(50, 350)}": aleatorio
+      Dancelab_makeNewDanceSpriteGroup:
+        options:
+          LAYOUT:
+            '"random"': aleatorio
+      Dancelab_randomColor:
+        text: cor aleatoria
+      Dancelab_setProp:
+        options:
+          PROPERTY:
+            '"scale"': tamaño
+            '"height"': altura
+      Dancelab_setPropEach:
+        options:
+          PROPERTY:
+            '"scale"': tamaño
+            '"height"': altura
+      Dancelab_setPropRandom:
+        options:
+          PROPERTY:
+            '"scale"': tamaño
+            '"height"': altura
+      Dancelab_setPropRandomEach:
+        options:
+          PROPERTY:
+            '"scale"': tamaño
+            '"height"': altura
+      Dancelab_setVisible:
+        options:
+          VISIBILITY:
+            'true': visible
+      Dancelab_setVisibleEach:
+        options:
+          VISIBILITY:
+            'true': visible
+      Dancelab_startMapping:
+        options:
+          PROPERTY:
+            '"scale"': tamaño
+            '"height"': altura
+      Dancelab_startMappingEach:
+        options:
+          PROPERTY:
+            '"scale"': tamaño
+            '"height"': altura
+      Dancelab_stopMapping:
+        options:
+          PROPERTY:
+            '"scale"': tamaño
+            '"height"': altura
+      Dancelab_stopMappingEach:
+        options:
+          PROPERTY:
+            '"scale"': tamaño
+            '"height"': altura
+      Dancelab_whenKey:
+        options:
+          KEY:
+            '"up"': arriba
+            '"left"': esquerda
+            '"down"': abaixo
+            '"right"': dereita
+            '"space"': espazo
+            '"enter"': introduza
+      DansBlocks_setForegroundEffect2:
+        options:
+          EFFECT:
+            '"hearts"': corazóns
+      DansBlocks_testShowVariable:
+        options:
+          COLOR:
+            '"blue"': azul
+            '"red"': vermello
+      GameDev_playSoundOptions:
+        options:
+          SOUND:
+            "'sound://category_collect/clicky_crunch.mp3'": triture
+            "'sound://category_digital/jump_7.mp3'": saltar
+      gamelab_atTime:
+        options:
+          UNIT:
+            '"seconds"': segundos
+      gamelab_changePropBy:
+        options:
+          PROPERTY:
+            '"scale"': tamaño
+            '"x"': posición x
+            '"y"': posición y
+            '"speed"': velocidade
+      gamelab_checkTouching:
+        options:
+          CONDITION:
+            '"when"': cando
+            '"while"': mentras
+      gamelab_everyInterval:
+        options:
+          UNIT:
+            '"seconds"': segundos
+      gamelab_getProp:
+        options:
+          PROPERTY:
+            '"scale"': tamaño
+            '"x"': posición x
+            '"y"': posición y
+            '"speed"': velocidade
+      gamelab_getTime:
+        options:
+          UNIT:
+            '"seconds"': segundos
+      gamelab_isKeyPressed:
+        options:
+          KEY:
+            '"up"': arriba
+            '"down"': abaixo
+            '"left"': esquerda
+            '"right"': dereita
+            '"space"': espazo
+      gamelab_keyPressed:
+        options:
+          CONDITION:
+            '"when"': cando
+            '"while"': mentras
+          KEY:
+            '"up"': arriba
+            '"down"': abaixo
+            '"left"': esquerda
+            '"right"': dereita
+            '"space"': espazo
+      gamelab_makeProjectile:
+        options:
+          DIRECTION:
+            '0': dereita
+            '90': abaixo
+            '180': esquerda
+            '270': arriba
+      gamelab_mirrorSprite:
+        options:
+          DIRECTION:
+            '"right"': dereita
+            '"left"': esquerda
+      gamelab_playSoundOptions:
+        options:
+          SOUND:
+            "'sound://category_collect/clicky_crunch.mp3'": triture
+            "'sound://category_animals/cat.mp3'": gato
+            "'sound://category_animals/dog.mp3'": can
+            "'sound://category_digital/jump_7.mp3'": saltar
+      gamelab_randColor:
+        text: cor aleatoria
+      gamelab_randomColor:
+        text: cor aleatoria
+      gamelab_repeatForever:
+        text: Repetir para sempre
+      gamelab_setBackgroundImage:
+        options:
+          IMG:
+            '"https://studio.code.org/blockly/media/skins/studio/background_cave.png"': cova
+            '"https://studio.code.org/api/v1/animation-library/04L4sdTODkNZF1OHf4qO_I.Al3QP43wA/category_backgrounds/city.png"': cidade
+            '"https://studio.code.org/blockly/media/skins/studio/background_desert.png"': deserto
+            '"https://studio.code.org/blockly/media/skins/studio/background_rainbow.png"': arco da vella
+            '"https://studio.code.org/blockly/media/skins/studio/background_underwater.png"': baixa a auga
+            '"https://studio.code.org/blockly/media/skins/studio/background_winter.png"': inverno
+      gamelab_setForegroundEffect:
+        options:
+          EFFECT:
+            '"hearts"': corazóns
+      gamelab_setProp:
+        options:
+          PROPERTY:
+            '"scale"': tamaño
+            '"x"': posición x
+            '"y"': posición y
+            '"speed"': velocidade
+      gamelab_setProp_dropdown:
+        options:
+          PROPERTY:
+            '"scale"': tamaño
+      gamelab_setSizes:
+        options:
+          PROPERTY:
+            '"scale"': tamaño
+            '"height"': altura
+      gamelab_spriteClicked:
+        options:
+          CONDITION:
+            '"when"': cando
+            '"while"': mentras
+      gamelab_turn:
+        options:
+          DIRECTION:
+            '"right"': dereita
+            '"left"': esquerda
+      gamelab_whenKey:
+        options:
+          KEY:
+            '"up"': arriba
+            '"down"': abaixo
+            '"left"': esquerda
+            '"right"': dereita
+            '"space"': espazo
+      gamelab_whileKey:
+        options:
+          KEY:
+            '"up"': arriba
+            '"down"': abaixo
+            '"left"': esquerda
+            '"right"': dereita
+            '"space"': espazo
+      Mikelab_changePropBy:
+        options:
+          PROPERTY:
+            '"scale"': tamaño
+            '"x"': posición x
+            '"y"': posición y
+      Mikelab_createNewSprite:
+        options:
+          LOCATION:
+            "{x: 100, y: 200}": esquerda
+            "{x: 300, y: 200}": dereita
+      Mikelab_getProp:
+        options:
+          PROPERTY:
+            '"scale"': tamaño
+            '"x"': posición x
+            '"y"': posición y
+      Mikelab_groupChangePropBy:
+        options:
+          PROPERTY:
+            '"scale"': tamaño
+            '"x"': posición x
+            '"y"': posición y
+      Mikelab_groupCreateNewSprite:
+        options:
+          LOCATION:
+            "{x: 100, y: 200}": esquerda
+            "{x: 300, y: 200}": dereita
+      Mikelab_groupGetProp:
+        options:
+          PROPERTY:
+            '"scale"': tamaño
+            '"x"': posición x
+            '"y"': posición y
+      Mikelab_groupSetProp:
+        options:
+          PROPERTY:
+            '"scale"': tamaño
+            '"x"': posición x
+            '"y"': posición y
+      Mikelab_randomColor:
+        text: cor aleatoria
+      Mikelab_repeatUntilComplete:
+        text: Repetir para sempre
+      Mikelab_setBG:
+        options:
+          BG:
+            '"https://studio.code.org/api/v1/animation-library/04L4sdTODkNZF1OHf4qO_I.Al3QP43wA/category_backgrounds/city.png"': cidade
+      Mikelab_setProp:
+        options:
+          PROPERTY:
+            '"scale"': tamaño
+            '"x"': posición x
+            '"y"': posición y
+      Mikelab_showScoreboard:
+        options:
+          CORNER:
+            '"right"': dereita
+            '"left"': esquerda
+      Mikelab_sprite:
+        options:
+          LOCATION:
+            "{x: 100, y: 200}": esquerda
+            "{x: 300, y: 200}": dereita
+      Mikelab_whenKeyPressed:
+        options:
+          KEY:
+            '"up"': frecha cara arriba
+            '"down"': frecha cara abaixo
+            '"left"': frecha esquerda
+            '"right"': frecha dereita
+            '"w"': O
+            '"a"': A
+            '"s"': S
+            '"d"': D
+      Mikelab_whenKeyReleased:
+        options:
+          KEY:
+            '"up"': frecha cara arriba
+            '"down"': frecha cara abaixo
+            '"left"': frecha esquerda
+            '"right"': frecha dereita
+            '"w"': O
+            '"a"': A
+            '"s"': S
+            '"d"': D
+      Mikelab_whenYesNoClicked:
+        options:
+          KEY:
+            '"yes"': si
+            '"no"': non
+      Mikelab_whileKeyPressed:
+        options:
+          KEY:
+            '"up"': frecha cara arriba
+            '"down"': frecha cara abaixo
+            '"left"': frecha esquerda
+            '"right"': frecha dereita
+      Poetry_addFrame:
+        options:
+          BRUSH:
+            '"hearts"': corazóns
+            '"rainbow"': arco da vella
+      Poetry_playMusic:
+        options:
+          SOUND:
+            '"sound://category_nature/summer_night_loop.mp3"': noite
+      Poetry_playSound:
+        options:
+          SOUND:
+            '"sound://category_jump/vibrant_game_jumping_up_1.mp3"': saltar
+      Poetry_setBackgroundEffect:
+        options:
+          EFFECT:
+            '"clouds"': nubrado
+            '"hearts"': corazóns
+          PALETTE:
+            '"rainbow"': arco da vella
+            '"winter"': inverno
+      Poetry_setForegroundEffect:
+        options:
+          EFFECT:
+            '"hearts"': corazóns
+      RyanLab_moveForward:
+        text: avance
+      RyanLab_turnLeft:
+        text: vire á esquerda
+      RyanLab_turnRight:
+        text: vire á dereita
+      Vector_where:
+        options:
+          PROPERTY:
+            "'shapeColor'": cor
+      aalab_layoutSprites:
+        options:
+          FORMAT:
+            '"random"': aleatorio
+      binary_move:
+        options:
+          DIR:
+            '"up"': arriba
+            '"down"': abaixo
+            '"left"': esquerda
+            '"right"': dereita
+      binary_whenKey:
+        options:
+          KEY:
+            '"up"': arriba
+            '"down"': abaixo
+            '"left"': esquerda
+            '"right"': dereita
+            '"space"': espazo
+      craft_ifPath:
+        options:
+          DIR:
+            "'ahead'": diante
+      craft_ifStandingOn:
+        options:
+          TYPE:
+            "'sand'": area
+            "'planksOak'": táboas de carballo
+      craft_ifStandingOnLimit:
+        options:
+          TYPE:
+            "'sand'": area
+      craft_moveForward:
+        text: avance
+      craft_placeTorch:
+        text: coloque a antorcha
+      storylab_setForegroundEffect2:
+        options:
+          EFFECT:
+            '"hearts"': corazóns

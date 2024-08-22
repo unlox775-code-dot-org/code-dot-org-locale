@@ -1,0 +1,24 @@
+{
+  "banners": {
+    "superhero": {
+      "title": "Pomóż swoim uczniom stać się superbohaterami!",
+      "body": "Dołącz do naszego wysoce wspierającego programu rozwoju zawodowego dla nauczycieli.",
+      "buttonText": "Dowiedz się więcej"
+    },
+    "hoc-2023": {
+      "title": "Godzina Kodowania: Kreatywność dzięki sztucznej inteligencji",
+      "body": "Dołącz do milionów ludzi na całym świecie organizując Godzinę Kodowania ze sztuczną inteligencją lub bez niej i ucząc się, jak działa sztuczna inteligencja. Każdy, gdziekolwiek może to zrobić. Nie potrzeba doświadczenia.",
+      "buttonText": "Dowiedz się więcej"
+    },
+    "curriculum-launch-2024": {
+      "title": "Odkryj nowy i zaktualizowany program nauczania!",
+      "body": "Odkryj nasze najnowsze jednostki i materiały szkoleniowe, aby zainspirować przyszłych innowatorów technologicznych.",
+      "buttonText": "Zobacz, co nowego"
+    },
+    "progress-launch": {
+      "title": "",
+      "body": "",
+      "buttonText": ""
+    }
+  }
+}

@@ -1,0 +1,106 @@
+---
+tr:
+  data:
+    variable_names:
+      "???": "???"
+      Actor_1_Counter: Aktör_1_Sayaç
+      Actor_2_Counter: Aktör_2_Sayaç
+      Blue: Mavi
+      Green: Yeşil
+      Red: Kırmızı
+      actor: oyuncu
+      adjective: sıfat
+      age: yaş
+      animal1score: hayvan1skor
+      animal1speed: hayvan1hız
+      animal2score: hayvan2skor
+      animal2speed: hayvan2hız
+      answer: cevap
+      armlength: Kol uzunluğu
+      binary: ikili
+      birds: kuşlar
+      bit: bit
+      blue1: mavi1
+      blue2: mavi2
+      body-part: vücut parçası
+      bodylength: vücut uzunluğu
+      buttonHeight: butonYüksekliği
+      buttonMargin: buttonMargin
+      buttonWidth: butongenişliği
+      cat_score: kedi_skoru
+      cat_speed: kedi_hızı
+      cats: kediler
+      centerToPadLeft: centerToPadLeft
+      choice: Tercih
+      circ: daire
+      codeName: kodAdı
+      color: renk
+      controllerHeight: yükseklikkontrolü
+      controllerWidth: yükseklikgenişliği
+      counter: sayaç
+      counter2: sayaç2
+      currentActor: currentActor
+      direction: yön
+      dog_score: köpek_skoru
+      dog_speed: köpek_hızı
+      dogs: köpekler
+      dragons: ejderhalar
+      enemy_speed: düşman_hızı
+      energy: enerji
+      firstName: isim
+      footlength: ayakuzunluğu
+      gather: toplamak
+      green1: yeşil1
+      green2: yeşil2
+      guess: tahmin
+      height: Yükseklik
+      honey: bal
+      i: i
+      left: sol
+      legangle: bacakaçısı
+      leglength: bacakuzunluğu
+      length: uzunluk
+      level: seviye
+      marginX: marginX
+      marginY: marginY
+      meal: yemek
+      myName: benimadım
+      name: adı
+      nectar: nektar
+      nectars: nektarlar
+      number: sayı
+      object: nesne
+      padYOffset: padYOffset
+      parts: Parçalar
+      planet: gezegen
+      player_score: oyuncu_skoru
+      points: Puanlar
+      punchLine: punchLine
+      random: gelişigüzel
+      red1: kırmızı1
+      red2: kırmızı2
+      repeat: bu işlemleri
+      repetitions: Tekrarlar
+      right: sağ
+      score: puan
+      score1: skor1
+      score2: skor2
+      screenHeight: ekranYüksekliği
+      screenWidth: ekrangenişliği
+      set sides: genişliği ayarla
+      setupSimScore1: setupSimScore1
+      setupSimScore2: setupSimScore2
+      shout: haykırmak
+      sides: kenarlar
+      size: boyut
+      speed: hız
+      startX: startX
+      startY: startY
+      time: zaman
+      type: yaz
+      variable: değişken
+      width: genişlik
+      wizard: sihirbaz
+      x: x
+      your var 1: your var 1
+      your var 2: your var 2

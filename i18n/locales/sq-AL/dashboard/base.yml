@@ -1,0 +1,1387 @@
+#Files in the config/locales directory are used for internationalization
+#and are automatically loaded by Rails. If you want to use locales other
+#than English, add the necessary files in this directory.
+#To use the locales, use `I18n.t`:
+#I18n.t 'hello'
+#In views, this is aliased to just `t`:
+#<%= t('hello') %>
+#To use a different locale, set it with `I18n.locale`:
+#I18n.locale = :es
+#This would use the information in config/locales/es.yml.
+#The following keys must be escaped otherwise they will not be retrieved by
+#the default I18n backend:
+#true, false, on, off, yes, no
+#Instead, surround them with single quotes.
+#en:
+#'true': 'foo'
+#To learn more, please read the Rails Internationalization guide
+#available at https://guides.rubyonrails.org/i18n.html.
+sq:
+  errors:
+    messages:
+      not_saved: 'Ju lutemi korrigjoni gabimet e mëposhtme:'
+      too_young: 'Kjo përmbajtje ka kufizime në moshë dhe nuk është në dispozicion për studentët e rinj.'
+      teacher_must_accept_terms: 'Kjo përmbajtje ka kufizime në moshë dhe nuk është në dispozicion për nxënësit e rinj. Kërkoni mësimdhënësit tuaj të pranoj përditësimin e Kushteve  të Shërbimit që t''ju jap juve qasje në këtë përmbajtje. Mësimdhënësi juaj mund ta bëj këtë duke hyrë në Code Studio dhe të klikoj butonin "Review updated terms"  afër fillimit  të faqes Code Studio.'
+      pair_programmer: 'Ju jeni duke programuar në çift me një student i cili nuk ka akses në  këtë përmbajtje. Për të patur akses në këtë përmbajtje , ndalo së programuari në çift dhe provo përsëri.'
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            reset_password_token:
+              invalid: "është i pavlefshëm. Vini re se çdo link mund të përdoret vetëm një herë për të rivendosur fjalëkalimin tuaj dhe vetëm linku i dërguar më së fundmi do të funksionojë."
+            unlock_token:
+              invalid: "është i pavlefshëm ose i skaduar, ndoshta sepse llogaria juaj tashmë është zhbllokuar."
+            lockout_flow: "nuk mund të përditësohet sepse së pari keni nevojë për lejen e prindit ose kujdestarit."
+      messages:
+        blank: "E domosdoshme"
+        blank_plural: "janë të nevojshme"
+        invalid: "është e pavlefshme"
+        invalid_plural: "janë të pavlefshme"
+    attributes:
+      user:
+        name: 'Emri dhe mbiemri'
+        name_example: 'Emri dhe mbiemri (psh. Filan Fisteku)'
+        email: 'Email'
+        parent_email: 'Prindi/ kujdestari email'
+        personal_email: "Adresa vetjake e email-it <a href=\"%{url}\">(kliko këtu nëse nuk ke një adresë email-i)</a>"
+        personal_email_markdown: "Adresa vetjake e email-it [(kliko këtu nëse nuk ke një adresë email-i)](%{url})"
+        username: 'Emri i përdoruesit'
+        password: 'Fjalëkalimi'
+        verified_teacher: 'Mësimdhënës i verifikuar'
+        password_confirmation: 'Konfirmimi i fjalëkalimit'
+        current_password: 'Fjalëkalimi aktual'
+        locale: 'Gjuha'
+        age: 'Mosha'
+        gender: 'Gjinia'
+        gender_student_input: 'Gjinia'
+        gender_teacher_input: 'Gjinia'
+        edit_header: 'Ndrysho detajet e llogarisë'
+        ai_settings_header: 'Cilësimet e AI'
+        finish_sign_up_header: 'Përfundo krijimin e llogarisë'
+        finish_sign_up_header_account_information: 'Ju lutemi plotësoni informacionin e mëposhtëm për të përfunduar krijimin e llogarisë tuaj.'
+        finish_sign_up_header_error: 'Ju lutemi korrigjoni gabimet e mëposhtme:'
+        finish_sign_up_subheader: 'Plotëso informacionin e mëposhtëm për të përfunduar krijimin e një llogarie në Code.org <strong>%{email}</strong>.'
+        finish_sign_up_subheader_markdown: 'Plotëso informacionin e mëposhtëm për të përfunduar krijimin e një llogarie në Code.org **%{email}**.'
+        finish_sign_up_subheader_provider: 'Plotëso informacionin e mëposhtëm për të përfunduar krijimin e një llogarie në Code.org <strong>%{provider}</strong> për <strong>%{email}</strong>.'
+        finish_sign_up_subheader_provider_markdown: 'Plotëso informacionin e mëposhtëm për të përfunduar krijimin e një llogarie në Code.org **%{provider}** për **%{email}**.'
+        required: "Kërkohet"
+        reset_password_token: "Linku i rivendosjes së fjalëkalimit që keni ndjekur"
+        error:
+          future: nuk mund të jetë në të ardhmen
+        user_type: 'Lloji i llogarisë'
+        us_state: 'Shteti'
+        ai_rubrics_disabled: 'Çaktivizoni veçorinë e rubrikës AI'
+  beta: "beta"
+  hello: "Përshëndetje botë"
+  welcome_back: "Mirë se erdhët sërish, %{name}"
+  your_professional_learning_plan: "Plani juaj i mësimit profesional"
+  see_your_learning_plan: "Shiko planin tuaj mësimor"
+  submit: Dorëzo
+  unsubmit: Mos dërgo
+  previous_page: Faqja e mëparshme
+  next_page: Faqja tjetër
+  next_resource: Burimi tjetër
+  done_with_module: Ky modul mësimor përfundojë
+  cancel: "Anulo"
+  to_close: Mbyll
+  okay: "Në rregull"
+  type_here: "Shkruani këtu"
+  or: "ose"
+  heading_x_of_y: "%{heading} (faqja %{x} nga %{y})"
+  join_section:
+    code:
+      title: 'Bashkohu në sesion në Code.org'
+      placeholder: "Kodi i Sesionit (ABCDEF)"
+      instructions: "Ju lutemi shkruani kodin me 6 shkronja që mësimdhënësi juaj ndau me ju (shembull: “ABCDEF”) për t'u bashkuar me sesionin e tyre."
+      instructions_short: "Vendosni kodin tuaj të sesionit me 6 shkronja"
+      submit: 'Bashkohu'
+  add_hint_form:
+    placeholder: 'Të lutem fut udhëzimin tënd këtu'
+    submit: 'Shto udhëzim'
+  appname: "Code.org"
+  stage: "Fazë"
+  stage_number: "Mësimi %{number}"
+  puzzle: "Enigmë"
+  trophies: "Trofetë"
+  courses: 'Kurset'
+  courses_page:
+    title_student: "Mëso shkencat kompjuterike"
+    title_teacher: "Mësoni Shkencat Kompjuterike"
+  unplugged_activity: 'Aktiviteti Unplugged'
+  of: "i"
+  more: "MË SHUMË"
+  less: "ME PAK"
+  try_hoc: "Provo \"Orën e Kodimit\" kliko këtu >> "
+  try_k8intro: "Provo Hyrjen tonë K-8 tek Kursi i Shkencave Kompjuterike (15-25 orë)"
+  k8intro: "Hyrja K-8 tek Kursi i Shkencave Kompjuterike (15-25 orë)"
+  already_started: "Keni filluar tashmë? Vazhdoni këtu >> "
+  demos: "Admin: Te gjitha Demot"
+  continue: 'Vazhdo'
+  prize: 'çmim'
+  more_info: 'Më shumë informacion'
+  auth:
+    continue_with: 'Vazhdoni me %{provider}'
+    sign_in_with: 'Logohu me %{provider}'
+    signed_in: 'U loguat!'
+    signed_out_markdown: '### Ju jeni ç''kyçur nga [Code.org](%{url}).'
+    sign_out_of_markdown: '#### Ju keni përdorur %{provider} për t''u kyçur. <a href="%{url}">Klikoni këtu për tu ç''kyçur nga %{provider}.'
+    already_signedup: 'Jeni regjistruar?'
+    notyet_signedup: "Nuk jeni të regjistruar akoma?"
+    google_oauth2: 'Google'
+    twitter: 'Twitter'
+    facebook: 'Facebook'
+    windowslive: 'Llogaria e Microsoft'
+    microsoft_v2_auth: 'Microsoft'
+    clever: 'Të zgjuar'
+    powerschool: 'Shkolla e fuqizuar'
+    forgot_password: 'Keni harruar fjalëkalimin?'
+    migration_success: 'Suksese! Ju keni përditësuar përvojën tonë të llogarisë së re.'
+    demigration_success: 'Përvoja e llogarisë së re tani është çaktivizuar në llogarinë tuaj.'
+    need_confirmation: "Nuk i keni marr instruksionet e konfirmimit?"
+    need_unlock: "Nuk keni marre instruksionet e zhbllokimit?"
+    not_linked: "Na vjen keq, por llogaria juaj në Code.org nuk është e lidhur me %{provider}. Duhet të identifikoheni duke shtypur fjalëkalimin më poshtë."
+    use_clever: "Na vjen keq, por llogaria juaj në Code.org nuk është e lidhur me %{provider}. Ju lutemi, përdorni më mirë portalin Clever, për t'u identifikuar."
+    invalid_provider: "Na vjen keq, %{provider} llogaria nuk mund të lidhet me llogarinë e Code.org."
+    migration_required: "Na vjen keq, ne nuk mund të lidhim ose shkëputim llogaritë që janë ende duke përdorur përvojën e vjetër të llogarisë. Ju lutemi përditësoni përvojën e re të llogarisë."
+    unable_to_connect_provider: "Nuk mund të lidhim llogarinë tuaj në Code.org me llogarinë tuaj %{provider}. Ju lutemi provojeni përsëri."
+    disconnect_successful: "Me sukses! Ne kemi shkëputur llogarinë e jashtme nga llogaria juaj Code.org."
+    already_in_use: "Llogaria juaj %{provider} është e lidhur tashmë me një tjetër llogari në Code.org."
+    already_linked: "Llogaria juaj %{provider} është tashmë e lidhur me llogarinë tuaj në Code.org account."
+    existing_account:
+      account_exists: "Lajm i mirë! Ju tashmë keni një llogari në Code.org që përdor %{email}"
+      sign_in: "Ju lutemi regjistrohuni në llogarinë tuaj ekzistuese. Pastaj do të jeni në gjendje të lidhni profilin tuaj %{provider} nga faqja e parametrave konfigurues."
+      sign_up: "Nuk është email-i juaj? Dëshironi të krijoni një llogari të re me një email tjetër? Ju gjithashtu do të jeni në gjendje të lidhni profilin tuaj %{provider} nga faqja e parametrave konfigurues nëse vendosni të krijoni një llogari të re."
+  signup_form:
+    email_signup: 'Regjistrohu me email adresën tënde'
+    student_count: '%{count} nxënës janë regjistruar tashmë.'
+    teacher_count: '%{count}  mësimdhënësit janë regjistruar tashmë.'
+    overview: 'Rregjistrohuni për një llogari për të ndjekur progresin tuaj ose të menaxhuar klasën tuaj. <a href="/"> Ju mund të shfletoni fazat e  ndryshme dhe enigmat </a>   pa një llogari, por do t''ju duhet të rregjistroheni për të ruajtur progresin dhe projektet tuaja.'
+    overview_markdown: 'Regjistrohuni për një llogari për të gjurmuar progresin tuaj ose progresin e fëmijës tuaj ose për të menaxhuar klasën tuaj. [Mund të shfletoni mësimet dhe nivelet e ndryshme](/) pa një llogari, por do t''ju duhet të regjistroheni për të ruajtur progresin dhe projektet tuaja.'
+    hoc_already_signed_up_heading: 'Filloni pa u kyçur'
+    hoc_already_signed_up_content: "\nJu jeni rregjistruar për të mësuar një Orë Kodimi! Ju dhe nxënësit tuaj nuk duhet të rregjistroheni në Code Studio për të marrë pjesë në këtë ngjarje. Për të filluar, <a href=\"https://code.org/learn\"> zgjedhni një tutorial </a> për klasën tuaj dhe shpërndani linkun me ta. <br/> <br/> Nëse ju ka pëlqyer Ora e Kodimit dhe dëshironi të shkoni më tej, ju mund të vendosni një fjalëkalim dhe për të krijuar një llogari në Code Studio për të regjistruar më poshtë nxënësit tuaj në ndonjë nga <a  href=\"https://code.org/educate\"> kurset tona më të gjata </ a >."
+    hoc_already_signed_up_content_post_hoc: 'Faleminderit për organizimin e Orës së kodimit. Për t''u identifikuar në Code Studio, do të duhet të konfigurosh një fjalëkalim për llogarinë tënde. Kjo do t''ju lejojë të ruani progresin tuaj dhe të menaxhoni klasën tuaj. Ju do të jeni në gjendje të caktoni kurse nxënësve dhe të gjurmoni progresin e tyre. <a href="%{studio_url}">Mund të vazhdoni gjithashtu të shfletoni mësimet dhe nivelet e ndryshme</a> pa krijuar një llogari.'
+    hoc_already_signed_up_content_post_hoc_markdown: 'Faleminderit për organizimin e një Ore në Kod. Për t''u identifikuar në Code Studio, do të duhet të konfigurosh një fjalëkalim për llogarinë tënde. Kjo do t''ju lejojë të ruani progresin tuaj dhe të menaxhoni klasën tuaj. Ju do të jeni në gjendje të caktoni kurse nxënësve  dhe të gjurmoni progresin e tyre. <a href="%{studio_url}">Mund të vazhdoni gjithashtu të shfletoni mësimet dhe nivelet e ndryshme pa krijuar një llogari.'
+    teacher_educator_guide: 'Shih udhëzuesin e edukatorëve'
+    title: "Regjistrohuni për Code.org"
+    school_name: 'Emri i shkollës (jo i domosdoshëm)'
+    school_address: 'Adresa e shkollës (jo e domosdoshme)'
+    address_placeholder: 'adresa, qyteti, shteti, kodi postar'
+    gender: 'Gjinia (jo e domosdoshme)'
+    birthday: 'Ditëlindja (jo e domosdoshme)'
+    age: 'Mosha'
+    select_age: 'Zgjidhni moshën'
+    user_type: 'A jeni nxënës apo mësimdhënës?'
+    submit: 'Regjistrohu'
+    go_to_account: 'Përfundo krijimin e llogarisë'
+    create_new_account: 'Krijo llogari të re'
+    teacher: 'A jeni një mësimdhënës?'
+    valid_username: "I disponueshëm!"
+    invalid_username: "Emri i përdoruesit duhet të ketë të paktën 5 karaktere"
+    taken_username: "Ky emër është i zënë"
+    valid_password: "Fjalëkalimi i vlefshëm!"
+    invalid_password: "Fjalëkalimi duhet të ketë të paktën 6 karaktere"
+    mismatch_password: "Dy fjalëkalimet që vendosët nuk përputhen"
+    student_consent: "Konfirmoj se kam lejen e prindit ose të kujdestarit ligjor për të përdorur shërbimet e Code.org."
+    agree_us_data_transfer_student: '**Unë pajtohem që Code.org mund të transferojë të dhëna (përfshirë të dhënat personale) nga përdorimi im i kësaj faqeje në Shtetet e Bashkuara** me qëllim të pritjes dhe përpunimit të këtyre të dhënave.'
+    agree_us_data_transfer_teacher: '**Unë pajtohem që Code.org mund të transferojë të dhëna (përfshirë të dhënat personale) nga përdorimi im (dhe përdorimi i studentëve të mi) të kësaj faqeje në Shtetet e Bashkuara** me qëllim të pritjes dhe përpunimit të këtyre të dhënave.'
+    data_collection_us: "Unë e kuptoj që Code.org është një faqe interneti jo-fitimprurëse me bazë në SHBA dhe se ligjet që rregullojnë mbledhjen e të dhënave në SHBA mund të ndryshojnë nga ligjet në vendin tim."
+    visit_privacy: 'Vizitoni Code.org [Politika e privatësisë] (%{privacy_url}) për të mësuar më shumë.'
+    student_terms_markdown: "Email adresat nuk ruhen në një formë që na lejon t'i kontaktojmë nxënësit. Nxënësit nuk do të marrin kurrë email nga Code.org përveç rastit të rikthimit të fjalëkalimit. Shihni [Politikat e privatësisë] (http://code.org/privacy) për më shumë informacion."
+    user_type_button: "Përditëso llojin e llogarisë"
+    user_type_label: "Lloji i llogarisë"
+    user_type_student: "Nxënës"
+    user_type_student_desc: "Eksploro të gjitha kurset dhe aktivitetet tona, plus:"
+    user_type_student_ability_1: "Ruaj progresin dhe projektet tuaja"
+    user_type_student_ability_2: "Bashkohu me sesionin e klasës së mësimdhënësit tuaj"
+    user_type_teacher: "Mësimdhënës"
+    user_type_teacher_desc: "Çdo gjë që nxënësit kanë qasje në, plus:"
+    user_type_teacher_ability_1: "Krijo sesione për klasë"
+    user_type_teacher_ability_2: "Cakto dhe përcjell punën e nxënësve"
+    user_type_teacher_ability_3: "Regjistrohu në mësim profesional"
+    user_type_teacher_ability_4: "Bashkëvepro në forumin tonë të mësimdhënësve"
+    field_is_required: "kërkohet"
+    accept_terms: "Ju duhet të pranoni që të krijoni një llogari."
+    error: "Ndodhi një gabim."
+    email_preference_question: "A mund t'ju dërgojmë email-e mbi përditësimin e kurseve tona, mundësitë apo të rejat për shkencatkompjuterike? (afërsisht një herë në muaj)"
+    email_preference_privacy: "(Shihni politikën tonë të privatësisë)"
+    email_preference_yes: "Po"
+    email_preference_no: "Jo"
+    email_preference_required: "Ju duhet të specifikoni preferencën e postës elektronike."
+    share_teacher_email_reg_partner_question: "Dëshironi që ne të ndajmë informacionin tuaj të kontaktit me [partnerin rajonal të Code.org] (%{cdo_regional_partner_desc}) në shtetin tuaj në mënyrë që ata t'ju njoftojnë për zhvillimin profesional, burimet dhe eventet?"
+    share_teacher_email_reg_partner_preference_yes: "Po"
+    share_teacher_email_reg_partner_preference_no: "Jo"
+    share_teacher_email_reg_partner_preference_required: "Ju duhet të specifikoni preferencën e postës elektronike."
+    parent_account_checkbox: "Unë jam prind/kujdestar që regjistrohem në emër të fëmijës tim"
+    parent_account_email_progress_permission: "A mund t'ju dërgojmë email me përditësimet mbi progresin dhe projektet e fëmijës suaj dhe përditësime në lidhje me kursin e tyre dhe shkencat kompjuterike? [(Shih politikën tonë të privatësisë)] (%{privacy_policy_url})"
+    parent_account_email_label: "Email-i i prindit/kujdestarit"
+    us_state: 'Shteti'
+    us_state_dropdown_options:
+      other: "Unë jetoj diku që nuk është listuar këtu"
+  school_info:
+    title: 'Informacione për shkollën (opsionale)'
+    school_country: 'Qyteti i shkollës'
+    select_school_type: 'Lloji i shkollës'
+    charter: 'Karta'
+    private: 'Private'
+    public: 'Publike'
+    homeschool: 'Shkollë në shtëpi'
+    after_school: 'Pas shkollës'
+    other: 'Të tjera/ë'
+    state: 'Shteti'
+    district: 'Rrethi'
+    other_district_not_listed: 'Komunë tjetër që nuk është shënuar më sipër'
+    district_name: 'Emri i Rrethit'
+    school: 'Shkolla'
+    other_school_not_listed: 'Shkollë tjetër që nuk është shënuar më sipër'
+    school_name: 'Emri i shkollës'
+    school_zip: 'Kodi postar i shkollës'
+    school_address: 'Adresa e shkollës'
+    school_organization_name: 'Emri i shkollës/organizatës'
+    school_organization_zip: 'Kodi postar i shkollës/organizatës'
+    select_state: 'Zgjidhni shtetin'
+  signin_form:
+    title: 'Ke një llogari ekzistuese? Kyçu'
+    login: 'Email'
+    login_username: 'Email ose Emri i përdoruesit'
+    password: 'Fjalëkalimi'
+    remember: 'Më mbaj mend'
+    submit: 'Kyçu'
+  signin:
+    try_heading: 'Dëshironi të provoni kodimin pa u regjistruar?'
+    try_hoc: 'Provo një Orë Kodimi si fillim'
+    try_20hours: 'Provo 20 orët tona hyrëse në Shkencat Kompjuterike'
+  signinsection:
+    welcome: 'Mirë se erdhët në %{section_name}'
+    name: 'Zgjidh emrin tënd'
+    picture: 'Tani gjej figurën tënde të fshehtë'
+    words: 'Tani fut fjalët e tua të fshehta'
+    login: 'Futu'
+    invalid_login: 'Login i pavlefshme, ju lutem provoni përsëri'
+    pair_programming: 'Unë kam një partner në kompjuterin tim'
+    student_privacy_markdown: "Mëso më shumë rreth arsyes pse nuk e sheh emrin tënd të plotë <a href='%{student_privacy_blog}' target='_blank'>here</a>)."
+  password:
+    reset_form:
+      title: 'Keni harruar fjalëkalimin?'
+      instructions: "Shkruani email adresën tuaj më poshtë dhe ne do t`ju dërgojnë instruksionet për të rivendosur fjalëkalimin."
+      email: 'Adresa Email-it'
+      submit: 'Dorëzo'
+    reset_errors:
+      captcha_required: 'Të lutem plotësoni CAPTCHA për të rivendosur fjalëkalimin tënd.'
+      invalid_email: 'Duket sikur jeni regjistruar me një email adresë të pavlefshme. Ju lutemi dërgoni email në support@code.org për të marrë një link për rikthim të fjalëkalimit.'
+    change_form:
+      title: 'Ndrysho fjalëkalimin'
+      new_password: 'Fjalëkalim i ri'
+      confirm_password: 'Konfirmo fjalëkalimin e ri'
+      submit: 'Ndrysho fjalëkalimin tim'
+  welcome_email:
+    subject: 'Bëhu pjesë e klasës time (në Code.org)'
+    body: |
+      Kliko linkun e mëposhtëm për tu regjistruar tek tutorialet e shkencave kompjuterike në Code.org (me mua si "mësimdhënësin" tuaj):
+
+      %{link} 
+
+      Tutorialet janë zbavitës, tërheqës dhe të mësojnë konceptet bazë të shkencave kompjuterike duke përdorur një përvojë loje të thjeshtë. Mëso të kodosh nga Bill Gates, Mark Zuckerberg, Angry Birds dhe Plants vs. Zombies! :-)
+
+      %{name}
+  parent_mailer:
+    student_associated_subject: 'Informacioni i kyçjes për Code.org'
+    parent_email_added_subject: 'Mirë se vini në Code.org!'
+    parent_permission_request_subject: "Nevojitet pëlqimi prindëror për qasjen e fëmijës tuaj në Code.org"
+    parent_permission_reminder_subject: "Rikujtim, pëlqimi prindëror është i nevojshëm për qasjen e fëmijës suaj në Code.org"
+    parent_permission_confirmation_subject: "Faleminderit për miratimin e qasjes së fëmijës suaj në Code.org!"
+  teacher_mailer:
+    new_teacher_subject: 'Mirë se vini në Code.org!'
+    delete_teacher_subject: 'Njoftim nga Code.org: Llogaria juaj është fshirë'
+    verified_teacher_subject: 'Verifikimi i mësimdhënësit në Code.org - Sukses'
+  section:
+    your_section:
+      one: 'Sesioni juaj:'
+      other: 'Sesionet tuaja:'
+    code_with_teacher: '%{section_code} me %{teacher_name}'
+    confirm:
+      remove: 'A jeni i sigurt që dëshironi të largoheni nga ky seksion?'
+    default_name: 'Sesion pa titull'
+    remove: '(dil nga sesioni)'
+    type:
+      picture: 'Fjalëkalimi me figurë'
+      word: 'Kodi sekret'
+      email: 'Email'
+      lti_v1: 'LMS'
+  follower:
+    invite_sent: 'Ftesa u dërgua'
+    added_teacher: '%{name} u shtua si mësimdhënësi juaj'
+    registered: "Ju u regjistruat për %{section_name}."
+    captcha_required: 'Ju lutemi plotësoni CAPTCHA për t''u bashkuar me këtë seksion.'
+    already_exists: 'Ju tashmë jeni bashkuar në seksionin %{section_name}.'
+    error:
+      signed_in: 'Ju lutemi dilni nga llogaria përpara se të vazhdoni'
+      username_not_found: 'Emri i përdoruesit %{username} nuk u gjet'
+      username_in_use: '%{username} është i zënë, ju lutemi zgjidhni një tjetër'
+      no_teacher: "Nuk mundëm te gjenim ndonjë të loguar me '%{teacher_email_or_code}'. Kërkojuni atyre të regjistrohen këtu dhe provo ti shtosh ata përsëri"
+      section_not_found: "Nuk mund të gjejmë asnjë seksion me kodin '%{section_code}'."
+      blank_code: "Të lutem fut një kod seksioni"
+      cant_join_own_section: "Më vjen keq, ti nuk mund t'i bashkohesh seksionit tënd."
+      provider_managed_section: "Ky seksion menaxhohet nga një ofrues tjetër dhe nuk mund të bashkoheni. Ju lutemi kërkoni që mësimdhënësit tuaj t'ju shtojë përmes %{provider} dhe të ri-sinkronizojë seksionin e tyre."
+      restricted_section: "Nuk mund t'ju shtojmë në sesionin %{section_code} sepse është i kyçur. Ju lutemi kontaktoni mësimdhënësin tuaj për ndihmë."
+      full_section: "Ne nuk mund t'ju shtojmë në sesionin %{section_code} sepse tashmë ka %{section_capacity} nxënës në të. Ju lutemi kontaktoni mësimdhënësin tuaj për ndihmë."
+      not_participant_type: "Ne nuk mund t'ju shtojmë në sesionin %{section_code} sepse nuk e plotësoni llojin e pjesëmarrësit për sesionin."
+    mail:
+      student_disassociated:
+        subject: "Lajmërim nga Code.org: %{student_name} nuk është më nxënësi juaj."
+  reports:
+    error:
+      access_denied: "Ju nuk keni akses te statistikat e këtij personi"
+  crud:
+    new_model: '%{model} i ri'
+    show: 'Shfaq'
+    edit: 'Modifiko'
+    edit_model: 'Modifiko %{model}'
+    update: 'Përditëso'
+    submit: 'Dorëzo'
+    destroy: 'Shkatërro'
+    back: 'Kthehu'
+    confirm: 'Je i sigurtë?'
+    created: '%{model} u krijua me sukses.'
+    updated: '%{model} u përditësua me sukses.'
+    destroyed: '%{model} u fshi me sukses.'
+    access_denied: 'Ju nuk keni akses në këtë %{model}.'
+  devise:
+    registrations:
+      user:
+        user_type_change_email_mismatch: "Adresa e emailit që keni dhënë nuk përputhet me adresën e emailit për këtë llogari"
+        personal_login_created_email: 'Ju keni krijuar një hyrje personale me sukses. Tani mund të hyni në llogarinë tuaj me emailin dhe fjalëkalimin tuaj'
+        personal_login_created_username: 'Ju keni krijuar një hyrje personale me sukses. Tani mund të regjistroheni në llogarinë tuaj me emrin tuaj të përdoruesit (%{username}) dhe fjalëkalimin'
+  nav:
+    header:
+      finished_hoc: "Kam mbaruar!"
+      sign_in_to_save: 'Logohu për të ruajtur ecurinë tënde'
+      my_dashboard: "Paneli im"
+      course_catalog: "Katalogu i kurseve"
+      project_gallery: "Projektet"
+      schools: "Shkollat"
+      districts: "Rrethet"
+      sections: "Sesionet"
+      help_support: "Ndihmë dhe mbështetje"
+      report_bug: "Raporto një problem"
+      report_abuse: "Raporto abuzim"
+      teacher_community: "Forumi i mësimdhënësve"
+      professional_learning: "Mësimi Profesional"
+      documentation: "Dokumentacioni"
+      tutorials: "Tutoriale"
+      music_lab_documentation: "Dokumentacioni i Laboratorit muzikor"
+      web_lab_documentation: "Dokumentacioni i Web Lab"
+      educate_overview: "Përmbledhje e mësimdhënësit"
+      educate_elementary: "Shkollë Fillore"
+      educate_middle: "Shkollë e Mesme e Ultë"
+      educate_high: "Shkollë e Mesme e Lartë"
+      educate_hoc: "Ora e Kodimit"
+      educate_partner: "Partner me ne"
+      educate_beyond: "Përtej Code.org"
+      educate_inspire: "Frymëzoni një nxënës"
+      educate_community: "Komuniteti Online"
+      educate_requirements: "Kërkesat teknike"
+      educate_tools: "Veglat dhe Videot"
+      about_us: "Rreth nesh"
+      about_leadership: "Udhëheqja"
+      about_donors: "Donatorët"
+      about_partners: "Partnerët"
+      about_team: "Ekipi i plotë"
+      about_news: "Redaksia"
+      about_evaluation: "Vlerësim"
+      about_jobs: "Karriera"
+      about_contact: "Na kontaktoni"
+      about_faqs: "(FAQ) Pyetjet e shpeshta"
+      learn: "Mëso"
+      stats: "Statistikat"
+      help_us: "Na ndihmoni"
+      donate: "Dhuro"
+      teach: "Mësoni"
+      about: "Rreth"
+      incubator: "Inkubatori"
+      legal: "Ligjore & Private"
+      legal_privacy: "Rregullat e Privatësisë"
+      legal_cookie_notice: "Njoftim për Cookie"
+      legal_tos: "Kushtet e shërbimit"
+    user:
+      classroom: 'Faqja kryesore e mësimdhënësit'
+      district_dashboard: 'Paneli i Qarkut'
+      label: 'Përshëndetje %{username}'
+      stats: 'Code Studio'
+      my_projects: 'Projektet e mia'
+      settings: 'Cilësimet e llogarisë'
+      logout: 'Dil'
+      signin: 'Kyçu'
+      signup: 'Krijo një llogari'
+      create_account: 'Krijo llogari'
+      create_account_low_cap: 'Krijo llogari'
+      already_registered: 'Jeni i rregistruar?'
+      pair_programming: 'Programimi në ekip'
+      team: 'Ekipi'
+      driver: 'Identifikuar'
+      navigator: 'Partner'
+      create: 'Krijo'
+      new_project: "Projekti i ri"
+      new_project_low_cap: "Projekti i ri"
+      algebra_game: 'Algjebra'
+      applab: 'App Lab'
+      artist: 'Artisti'
+      bounce: 'Hidhu'
+      calc: 'Llogarit'
+      dance: 'Festë vallëzimi'
+      eval: 'Vlerëso'
+      flappy: 'Flappy'
+      frozen: 'Frozen'
+      gamelab: 'Game Lab'
+      gumball: 'Bota Mahnitëse e Gumball'
+      iceage: 'Epoka e Akullnajave'
+      infinity: 'Pafundësi'
+      makerlab: 'Paketa e veglave të krijuesit'
+      minecraft_adventurer: 'Aventurieri Minecraft'
+      minecraft_codebuilder: 'Minecraft: Lidhja e kodit'
+      minecraft_designer: 'Minecraft'
+      playlab: 'Play Lab'
+      poetry_hoc: 'Arti i poezisë'
+      scratch: 'Scratch'
+      spritelab: 'Sprite Lab'
+      starwars: 'Lufta e Yjeve'
+      thebadguys: 'Djemtë e këqij'
+      loading: 'Në ngarkim...'
+      view_all: 'Shiko të gjitha projektet...'
+    popup:
+      progress_for_user: "Progresi i %{name}"
+      progress: 'Progresi yt'
+      close: 'MBYLL'
+      mastery: 'Konceptet'
+      puzzle_map: 'Fazat'
+      prizes: 'Mblidh të gjithë %{total_trophies} trofetë dhe fito çmimet!'
+      prize_earned: 'Të gjithë %{total_trophies} trofetë u mblodhën. Çmimi u fitua!'
+      prize_us_only: '(vetëm nxënësit në SHBA)'
+      prizes_link: 'Më shumë informacion'
+  teacher:
+    answer: Përgjigje
+    dashboard: 'Dërrasa e zezë '
+    for_teachers_only: Vetëm për mësimdhënësit
+    title:
+      one: 'Mësimdhënësi juaj:'
+      other: 'Mësimdhënësi juaj:'
+    remove: '(hiqni mësimdhënësin)'
+    confirm:
+      remove: 'A jeni i sigurtë që dëshironi ta hiqni këtë mësimdhënës?'
+    students:
+      dashboard: 'Shko tek Paneli i mësimdhënësit'
+    user_not_found: 'Mësimdhënësi nuk mund te gjendet.'
+    student_teacher_disassociated: 'Ju keni lënë sesionin %{section_code} me %{teacher_name}.'
+    panel:
+      answer_viewer: 'Paneli i mësimdhënësit'
+      student: 'Nxënës'
+      viewing_solution: 'Duke parë zgjidhjen'
+      try_it_yourself: 'Bëje vetë'
+      section: 'Pjesë'
+      example: 'Shëmbuj Zgjidhjesh'
+      example_with_number: 'Shëmbuj Zgjidhjesh %{solution_number}'
+      submitted_on: 'Dërguar në:'
+      last_updated: 'Përditësimi i fundit:'
+      unsubmit: 'Mos dërgo'
+      worked_with: 'Ka punuar me'
+      update_lock_settings: 'Përditeso parametrat e bllokimit këtu.'
+      clear_response: 'Përgjigja e qartë'
+    student_code_view_diabled: 'Kodi i nxënësve nuk mund të shikohet për këtë aktivitet.'
+  user:
+    email_confirm_needed: 'Adresa e email-it nuk është konfirmuar:'
+    email_confirm_needed_required: 'Email-i juaj %{email} nuk është konfirmuar:'
+    email_confirm_wrong_email: '(Email i gabuar?)'
+    email_resend_confirm: 'Ridërgo udhëzimet e konfirmimit'
+    new_email_hint: '(sigurohuni se mund të pranoni email-a në këtë email adresë.)'
+    new_password_hint: "(lëre bosh nëse nuk do ta ndryshosh atë)"
+    current_password_hint: '(ne kemi nevojë për fjalëkalimin tënd aktual që të konfirmojmë ndryshimet e bëra)'
+    delete: 'Fshij llogarinë'
+    delete_text: "Fshirja e llogarisë suaj do të fshijë të gjithë informacionin dhe progresin e lidhur me këtë llogari."
+    delete_text_teacher_managed_note: "Ju nuk keni leje për të fshirë këtë llogari sepse menaxhohet nga mësimdhënësi juaj. Mësmdhënësi juaj do të duhet t'ju largojë nga sesionet e tyre para se të mund të fshini llogarinë tuaj."
+    delete_text_teacher_note: "Ju lutem vini re: duke fshirë llogarinë tuaj nuk do të fshihen llogaritë e studentëve të tjerë."
+    delete_confirm: 'A je i sigurtë që do të fshish llogarinë tënde?'
+    deleted_user: 'përdorues i fshirë'
+    no_password_because_oauth: 'Nuk ka fjalëkalim sepse hyni me një ofrues të palës së tretë.'
+    no_password_because_sponsored: 'Shikoni mësimdhënësit tuaj për të menaxhuar fjalëkalimin tuaj.'
+    create_personal_login: 'Krijoni një hyrje me fjalëkalim personal'
+    create_personal_login_under_13_info: 'Nëse dëshironi të vazhdoni të përdorni llogarinë tuaj Code.org edhe pas përfundimit të vitit shkollor, kërkoni nga prindi/kujdestari juaj t''ju ndihmojë të krijoni hyrjen tuaj personale më poshtë.'
+    create_personal_login_under_13_username: "Emri i përdoruesit (mos përdorni emrin tuaj të vërtetë!)"
+    create_personal_login_under_13_parent_email: 'Adresa e emailit të prindërit/kujdestarit'
+    create_personal_login_info: 'Nëse dëshironi të vazhdoni të përdorni llogarinë tuaj Code.org edhe pas përfundimit të vitit shkollor, mund të krijoni hyrjen tuaj më poshtë.'
+    create_personal_login_link_account: 'Ju gjithashtu mund të zgjidhni të lidheni me një llogari personale nën seksionin “Menaxho llogaritë e lidhura”.'
+    create_personal_login_terms: "Duke krijuar një hyrje personale, unë pajtohem të jem i detyruar nga <a href='%{terms_of_service_url}', target='_blank'>kushtet e shërbimit të Code.org </a>. Unë konfirmoj që kam lejen e prindërve ose kujdestarit ligjor për të përdorur shërbimet e Code.org edhe pa mësimdhënës."
+    create_personal_login_terms_markdown: "Duke krijuar një hyrje personale, unë pajtohem të jem i detyruar nga Code.org [kushtet e shërbimit] (%{terms_of_service_url}). Unë konfirmoj që kam lejen e prindërve ose kujdestarit ligjor për të përdorur shërbimet e Code.org edhe pa mësimdhënës."
+    create_personal_login_email_note: "Shënim: Adresat e postës elektronike nuk ruhen në një formë që na lejon të kontaktojmë nxënësit. Nxënësit nuk do të marrin kurrë email nga Code.org përveç rikuperimit të fjalëkalimit. Shihni politikën tonë të <a href='%{privacy_policy_url}', target='_blank'>privatësisë</a> për më shumë informacion."
+    create_personal_login_email_note_markdown: 'Shënim: Adresat e postës elektronike nuk ruhen në një formë që na lejon të kontaktojmë studentët. Studentët nuk do të marrin kurrë email nga Code.org përveç rikuperimit të fjalëkalimit. Shihni [Politika e privatësisë] (%{privacy_policy_url}) për më shumë informacion.'
+    enter_new_login_info: 'Vendosni të dhënat tuaja të reja të kyçjes'
+    confirm_secret_words: 'Konfirmoni se jeni ju duke futur fjalët tuaja aktuale sekrete'
+    parent_email_label: "Emaili i prindërit/kujdestarit (opsional)"
+    parent_email_hint: "(kjo mund të përdoret për rikuperimin e fjalëkalimeve)"
+    enter_parent_email: "Shkruani adresën e emailit të prindit ose kujdestarit tënd (për rikuperimin e fjalëkalimit)"
+    update: "Përditëso llogarinë"
+    account_successfully_updated: "Llogaria u përditësua me sukses."
+    auth_option_saved: "Ju keni lidhur me sukses %{provider} llogarinë tuaj me email %{email}."
+    auth_option_saved_no_email: "Ju keni lidhur me sukses %{provider} llogarinë tuaj."
+    update_email: "Përditëso"
+    for_parents_and_guardians: "Për prindërit dhe kujdestarët"
+    link_a_parent_email: "Lidhni një adresë emaili të prindërit/kujdestarit në këtë llogari për të qëndruar të azhurnuar mbi progresin dhe projektet e fëmijës suaj. Ju gjithashtu do të jeni në gjendje të përdorni këtë adresë emaili për rikuperimin e fjalëkalimeve."
+    parent_guardian_email_label: "Prindi/ kujdestari email"
+    remove_parent_email_label: "Largo"
+    none: "Asnjë"
+    only_one_parent_email_supported_warning: "Shënim: ne jemi në gjendje të mbështesim vetëm një adresë emaili të prindit/kujdestarit për llogarinë e nxënësit në këtë kohë."
+    encrypted: "enkriptuar"
+  user_level:
+    completed: 'E përfunduar'
+    tried: 'U përpoqe'
+  home:
+    title: "Code Studio"
+    all_courses: "Pamja e përgjithshme e Kurseve 1,2 dhe 3"
+    lesson_plans: "Planet e mësimore"
+    signin_message: "Jeni i rregjistruar? %{link}"
+    student_reg_link: 'Rregjistrimi i Studentëve'
+    teacher_reg_link: 'Regjistrimi për mësimdhënës'
+    signin_directions: 'Përdor një llogari për të parë progresin.<br/>Mësimmdhënës, përcillni të gjithë klasën.'
+    teacher_dashboard: Shiko panelin e progresit
+    teacher_student_count_one: Ju keni %{count} nxënës.
+    teacher_student_count: Ju keni %{count} studentë.
+    teacher_averages: Mesatarisht, studentët tuaj kanë fituar %{trophy_average} nga %{trophy_max} trofetë "Concept Mastery".
+    teacher_print_certificates: 'Printo çertifikatat për studentët që mbarojnë këtë kurs'
+    teacher_read_blog: Lexo rreth të rejave dhe përditësimeve të materialeve tona në Blogun Educator
+    classroom: Klasa jote
+    student_progress: Progresi yt në të mësuar
+    student_stats: Ti ke fituar %{trophy_count} trofe nga %{trophy_max} trofetë "Concept Mastery".
+    student_left_off: 'Ku e ke lënë herën e fundit:'
+    student_finished: Ti ke përfunduar të gjithë tutorialet, zgjidh një klasë tjetër %{online_link} ose një %{local_school_link}.
+    local_school: shkollë lokale
+    online: online
+    see_details: Shiko detajet
+    view_course: Shiko kursin
+    prize_info: 'Çmimet për pjesmarrje (vetëm mësues të shkollave publike në SHBA): Mbi 1000$ shpërblime për klasën.'
+    tryfirst: 'Ose, mund ta provosh ne fillim, dhe rregjistrohesh më vonë:'
+    trynow: 'Mëso më Shumë'
+    add_hint_help: 'Ju lutem na ndihmoni të shtojmë udhëzime më të goditura për tutorialet e Code.org'
+    20hour_overview: 'Ky kurs që zgjat 20 orë, na njeh me bazën e shkencës kompjuterike dhe konceptet e programimit. Kursi është dizenjuar të përdoret nga klasat e nivelit K-8, por është argetuese të mësohet nga të gjitha moshat.'
+    test_videos_help: 'Testoni video playerin e ri në shkollën tuaj'
+    try_beta_courses: 'E re! Provo kurset tona beta për studentët e K-5'
+    use_as_teacher: 'Përdore këtë faqe si mësimdhënës'
+    heading_elementary_markdown: "# Kurse 20 orë për\n\n# Bazat e Shkencave Kompjuterike (të gjitha moshat)"
+    your_gallery: Galeria
+    no_primary_course: "Provo një kurs të Code Studio"
+    choose_next_course: "Provo një kurs nga Studio e Kodimit duke zgjedhur një më poshtë"
+    print_certificate: "Printo Certifikatën"
+  certificate_hour_of_code: "Ora e Kodimit"
+  move_students:
+    new_section_dne: "Na vjen keq, por seksioni %{new_section_code} nuk ekziston. Ju lutem, jepni një tjetër kod seksioni."
+    section_code_cant_be_current_section: "Seksioni aktual nuk mund të jetë i njëjtë me seksionin e ri."
+    current_section_dne: "Na vjen keq, por seksioni %{current_section_code} nuk ekziston. Ju lutem, jepni një tjetër kod seksioni."
+    student_ids_not_entered: "Ju lutemi jepni nxënës_id."
+    student_not_found: "Një ose më shumë nxënës nuk mund të gjenden."
+    all_students_must_be_in_current_section: "Të gjithë nxënësit aktualisht duhet të jenë regjistruar në seksionin tuaj."
+    already_enrolled_in_new_section: "Ju nuk mund t`i lëvizni këta studentë për shkak se ky mësues i ka tashmë ato në një seksion tjetër."
+    third_party_login: "Ju nuk mund t'i zhvendosni nxënësit në një seksion që sinkronizohet me një mjet të palës së tretë."
+    not_correct_participant_type: "Ju nuk mund t'i zhvendosni këta përdorues sepse ata nuk kanë leje për të qenë pjesëmarrës në seksionin e ri."
+  share:
+    title: "Mëso në Code Studio"
+    description: "Çdokush mund të mësojë shkencat kompjuterike. Krijoni lojra, aplikacione dhe art me kode."
+    try_hour_of_code: 'Provo një Orë Kodimi!'
+  gender:
+    male: 'Mashkull'
+    female: 'Femër'
+    non_binary: 'Jo binare'
+    not_listed: 'Termi i preferuar nuk është i listuar'
+    none: 'Preferoj të mos përgjigjem'
+  user_type:
+    student: 'Nxënës'
+    teacher: 'Mësimdhënës'
+  footer:
+    thanks: 'Ne falënderojmë donatorët tanë <a href="https://code.org/about/donors"></a>, <a href="https://code.org/about/partners">partnerët</a>, ekipin tonë të zgjeruar <a href="https://code.org/about/team"></a>dhe video-kastin tonë për mbështetjen e tyre në krijimin e Code Studio.'
+    help_from_html: 'Inxhinerë nga Google, Microsoft, Facebook dhe Twitter ndihmuan në krijimin e këtij tutoriali.'
+    help_from_html_old: 'Inxhinierët nga Google, Amazon dhe Microsoft ndihmuan në krijimin e këtyre materialeve.'
+    art_from_html: 'Minecraft &#8482;&copy; %{current_year} Microsoft. Të gjitha të drejtat e rezervuara <br /> Star Wars &#8482;&copy; %{current_year} Disney dhe Lucasfilm. Të gjitha të drejtat e rezervuara <br /> Frozen &#8482;&copy; %{current_year} Disney. Të gjitha të drejtat e rezervuara <br /> Ice Age &#8482;&copy; %{current_year} 20th Century Fox..Të gjitha të drejtat e rezervuara <br /> Angry Birds &#8482;&copy; 2009 - %{current_year} Rovio Entertainment Ltd. Të gjitha të drejtat e rezervuara <br /> Plants vs Zombies &#8482;&copy; %{current_year} Electronic Arts Inc. Të gjitha të drejtat e rezervuara <br /> The World Amazing e Gumball is trademark and &copy; %{current_year} Cartoon Network.'
+    art_from_html_old: 'Minecraft &#8482;&copy; %{current_year} Microsoft. Të gjitha të drejtat e rezervuara <br /> Star Wars &#8482;&copy; %{current_year} Disney dhe Lucasfilm. Të gjitha të drejtat e rezervuara <br /> Frozen &#8482;&copy; %{current_year} Disney. Të gjitha të drejtat e rezervuara <br /> Ice Age &#8482;&copy; %{current_year} 20th Century Fox. .Të gjitha të drejtat e rezervuara <br /> Angry Birds &#8482;&copy; 2009 - %{current_year} Rovio Entertainment Ltd. Të gjitha të drejtat e rezervuara <br /> Bimët vs Zombies &#8482;&copy; %{current_year} Electronic Arts Inc. All Rights Reserved. DreamWorks The Bad Guys &copy; %{current_year} DreamWorks Animation LLC.Të gjitha të drejtat e rezervuara'
+    code_from_html: 'Code.org përdor p5.play, e cila është e licencuar sipas <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">  GNU LGPL 2.1</a> .'
+    powered_by_aws: 'Mundësuar nga Amazon Web Services'
+    built_on_github: 'E ndërtuar në GitHub nga Microsoft'
+    google_copyright: '&copy; Google Inc. përdoret me leje. Google Classroom është një markë tregtare e Google Inc.'
+    trademark: '&copy;Code.org%{current_year}Code.org&reg; logoja e Kodit dhe Ora e Kodit&reg;  janë marka tregtare të Code.org.'
+    copyright: 'E drejta e autorit'
+    more: 'Më shumë'
+    feedback: 'Jepni feedback-un tuaj'
+    translate: 'Na ndihmoni të përkthejmë në gjuhën tuaj'
+    support: 'Ndihma dhe Komuniteti'
+    support_url: 'http://support.code.org'
+    tos_short: 'Termat'
+    tos: 'Kushtet e shërbimit'
+    privacy: 'Rregullat e Privatësisë'
+    secure: 'Versioni i Sigurtë'
+    report_abuse: 'Raporto abuzimin'
+    built_on_code_studio: 'Mëso në Code Studio'
+    make_my_own_app: 'Ndërtoj aplikacionin tim'
+    how_it_works: 'Si funksionon'
+    try_hour_of_code: 'Provo një Orë Kodimi!'
+    store: 'Dyqani'
+    cookie_notice: 'Njoftim për Cookie'
+    view_code: 'Shiko Kodin'
+    locale_select: "Zgjidhni gjuhën"
+  reference_area:
+    title: 'Keni nevojë për ndihmë?'
+    subtitle: 'Shiko këto video dhe udhëzimet'
+    teacher: 'Shiko zgjidhjen'
+    teacher_no_solution: 'Ndaloni së shikuari zgjidhjet'
+    auth_error: 'Ti nuk je i autorizuar të shohësh zgjidhjen.'
+    submit: 'Përditëso Vendndodhjen e Artistit'
+    direction: 'Fillo Drejtimin (në gradë)'
+  video:
+    tab: 'Video.'
+    notes: 'Asnjë video? Shfaq shënimet.'
+    notes_coming_soon: 'Shënimet për këtë video vijnë së shpejti.'
+    autoplay_option: 'Luaj videot automatikisht'
+    download: 'Shkarko videon'
+    show_notes: 'Shfaq shënime'
+    show_video: "Shfaq videon\n"
+    label: 'Video'
+  compatibility:
+    upgrade:
+      unsupported_message: "Shfletuesi juaj nuk suportohet. Ju lutem përmirësoni versionin e shfletuesit në <a href='%{supported_browsers_url}', target='_blank'> një nga shfletuesit që suportohen</a>. Ju mund të provoni ta shikoni faqen, por mundet që të mos funksionojë."
+      link: "Mëso më shumë"
+      applab_unsupported_tablet: "App Lab punon më së miri në një kompjuter desktop ose laptop me një mouse dhe tastierë. Mund të hasni probleme duke përdorur këtë mjet në pajisjen tuaj aktuale."
+      gamelab_unsupported_tablet: "Loja Lab punon më së miri në një kompjuter desktop ose laptop me një mouse dhe tastierë. Mund të hasni probleme duke përdorur këtë mjet në pajisjen tuaj aktuale."
+      weblab_unsupported_locale_storage: "Ju mund të hasni probleme duke përdorur Web Lab në modalitetin e shfletimit privat. Ju lutemi ringarkoni projektin tuaj në gjendje normal. Na vjen keq për shqetësimin."
+  deprecation:
+    algebra_lab: " Sjkencat Kompjuterike në kurrikulën dhe përmbajtjen e Algjebër po zhvlerësohet. Brenda disa muajve të ardhshëm, ky laborator nuk do të jetë më i disponueshëm. Ju lutem shikoni [Bootstrap: Algjebra] ()%{bootstrap_algebra_url}në vend të kësaj. [Mëso më shumë] (%{cs_algebra_url})."
+  slow_loading: 'Kjo po zgjat më shumë seç duhet...'
+  try_reloading: 'Provo të rifreskosh faqen'
+  next_stage: 'Përfundoi! Vazhdo tek hapi tjetër'
+  download_pdf: 'Hap planin mësimor'
+  lesson_plan: 'Plani Mësimor'
+  view_lesson_plan: 'Shiko Planin Mësimor'
+  pdf_download: 'Shkarko PDF'
+  download_coming_soon: 'Së shpejti veprime me shkarkim.'
+  video_coming_soon: 'Video vjen së shpejti!'
+  share_code:
+    title: "Kliko 'Run' të shohësh programin tim në veprim"
+    bounce_og_title: "Shiko Lojën time me Përplasje"
+    flappy_og_title: "Shiko Lojën time Flappy"
+    studio_og_title: "Shiko Aplikacionin tim Play Lab"
+    check_out_what_i_made: "Shiko se çfarë bëra"
+    og_description: "E shkruajta kodin vetë me Code.org"
+    phone_number_not_allowed: "Duket sikur është një numër telefoni në të. Përpiqu të ndryshosh tekstin."
+    address_not_allowed: "Duket sikur ka një adresë në të. Përpiqu të ndryshosh tekstin."
+    email_not_allowed: "Duket sikur ka një email në të. Përpiqu të ndryshosh tekstin."
+    profanity_not_allowed: "Duket sikur në të ka blasfemi. Përpiqu të ndryshosh tekstin."
+  builder:
+    created: "Ti krijove një script të ri."
+    destroyed: "Ti shkatërrove një script."
+    manage: "Ndërto Nivelet"
+    view: "Shiko"
+    back: "Kthehu te script-tet"
+    success: "Ti modifikove blloqet me sukses."
+    level:
+      create: "Krijo një nivel të ri"
+      current: "Nivelet Aktuale"
+      unused: "Nivelet e Papërdorur"
+  upsell:
+    applab:
+      title: 'Laboratori i Aplikacioneve'
+      body: "Laboratori i Aplikacioneve është një mjedis programimi ku ju mund të bëni aplikacione të thjeshta. Dizenjo një aplikacioni, kodo me blloqe ose Javascript për ta bërë funksionale dhe shpërndaje aplikacionin tuaj në sekond."
+      body_short: "Dizenjo një aplikacioni, kodo me blloqe ose Javascript për ta bërë funksionale dhe shpërndaje aplikacionin tuaj në sekond."
+      audience: 'Moshat 13 +'
+      cta: 'Mëso si '
+      image_alt: 'Një lepur vjollcë i veshur me një çantë shpine me raketë.'
+    applab-intro:
+      image_alt: 'Një dorë po prek qendrën e ekranit të një smartphone. Drita dhe xixat po dalin nga ekrani.'
+    aquatic:
+      title: "Minecraft"
+      image_alt: 'Steve dhe Alex nga Minecraft po ju shikojnë.'
+    artist:
+      image_alt: 'Një person vizatimor që mban një laps të madh dhe vizaton një trekëndësh.'
+    conditionals:
+      image_alt: 'Dy duar që përziejnë një kuvertë të letrave të lojës.'
+    course1:
+      image_alt: 'Code.org Bleta dhe peshku portokalli qëndrojnë përballë një kodi.'
+    course2:
+      image_alt: 'Një kolazh me enigma të Code.org që tregojnë një magjistar të gjelbër, artist dhe peshk të portokallt.'
+    course3:
+      image_alt: 'Një kolazh me enigma të Code.org që tregojnë një lojë, zombie dhe ninxha.'
+    course4:
+      image_alt: 'Një kolazh i enigmave Code.org që tregojnë futboll, kafshë shtëpiake dhe një artist.'
+    coursea:
+      image_alt: 'Një kolazh i enigmave Code.org që tregojnë një elefant dhe një ketër.'
+    courseb:
+      image_alt: 'Një kolazh i enigmave Code.org që tregojnë një eksplorues, gurë të çmuar dhe një lule.'
+    coursec:
+      image_alt: 'Një kolazh i puzzles Code.org që tregon një ketër, numra binarë dhe një zog të kuq nga loja Angry Birds.'
+    coursed:
+      image_alt: 'Një kolazh i puzzles Code.org tregon një bletë, lule, mjaltë, dhe një derr të gjelbër nga loja Angry Birds.'
+    coursee:
+      image_alt: 'Një kolazh i enigmave Code.org që tregon një person që mban një lopatë, kungull, pemëtore dhe lopë.'
+    coursef:
+      image_alt: 'Një kolazh i enigmave Code.org që tregojnë forma gjeometrike shumëngjyrëshe, një pirat të kuq dhe një artist.'
+    dance-2019:
+      title: 'Festë vallëzimi'
+      image_alt: 'Një mace e lumtur, përtaci dhe vallëzimi i peshkaqenëve.'
+    dance-2022:
+      image_alt: 'Një huaj i gjelbër dhe robot duke vallëzuar me Saturnin në prapavijë.'
+    dance:
+      title: 'Festë vallëzimi'
+      image_alt: 'Një mace e lezetshme dhe peshkaqen i lumtur po vallëzojnë në një festë.'
+    donate:
+      image_alt: 'Një fëmijë që tregon në një ekran të laptopit që tregon një enigmë në Code.org.'
+    elementary:
+      image_alt: 'Një bletë dhe ketër që qëndrojnë në një fushë përpara një ylberi.'
+    express:
+      image_alt: 'Zombi Plants vs Zombies dhe bimë që qëndron pranë Flappy Bird.'
+    flappy:
+      title: 'Kodi Flappy'
+      body: 'Dëshiron të shkruash lojën tënde në më pak se 10 minuta? Provo tutorialin tonë Flappy Code!'
+      image_alt: 'Një zog i verdhë që fluturon midis tubave të gjelbër.'
+    frozen:
+      title: "Frozen"
+      image_alt: 'Anna dhe Elsa nga filmi “Frozen” Midis tyre është një imazh i Anës që vizaton një formë të bukur në akull duke përdorur patinat e saj të akullit.'
+    gallery:
+      title: "Galeria"
+      body: "Shiko një galeri imazhesh artistësh dhe aplikacionesh, të krijuar nga përdoruesit tonë"
+      image_alt: 'Një artist që vizaton shumë qarqe dhe një mace, lakuriq dhe fantazmë që qëndrojnë në një tokë pushimesh dimërore.'
+    gamelab:
+      title: "Game Lab"
+      body: "Game Lab është një mjedis programimi ku mund të bëni animacione dhe lojëra të thjeshta me objekte dhe personazhe që ndërveprojnë me njëri-tjetrin."
+      audience: "Moshat 13 +"
+      cta: "Mëso si "
+      image_alt: 'Shumë njerëz dhe kafshë vizatimorë që qëndrojnë në një trotuar dhe buzëqeshin.'
+    hello-world-food:
+      image_alt: 'Shumë kafshë, alienë dhe emojis që rrotullohen rreth Tokës.'
+    hello-world:
+      body: 'Zgjidhni nga katër tema argëtuese për të koduar personazhe interaktive në një botë që krijoni.'
+    hero:
+      title: "Minecraft"
+      image_alt: 'Një Golem i hekurt nga Minecraft që qëndron përpara një pamje të sipërme të Anës duke zgjidhur një enigmë.'
+    hoc-encryption:
+      body: "Nxënësit do të mësojnë teknika për të krijuar dhe thyer mesazhe të koduara."
+      image_alt: 'Një grafik bar i frekuencave të shkronjave në gjuhën angleze.'
+    hoc:
+      title: 'Labirint Klasik'
+      body: 'Provo bazat e shkencave kompjuterike. Miliona veta e kanë provuar.'
+      image_alt: 'Një kolazh i imazheve që tregojnë kodin, Mark Zuckerberg dhe Angry Birds.'
+    hourofcode:
+      image_alt: 'Një kolazh i imazheve që tregojnë kodin, Mark Zuckerberg dhe Angry Birds.'
+    hoc2014:
+      try_new_tutorial: 'Provo tutorialin tonë të ri Ora e Kodimit në beta'
+      try_frozen: 'Artistët me Anna dhe Elsa, nga Frozen'
+    infinity:
+      title: "Laboratori i Pafundmë"
+      body: "Perdorni laboratorin e lojrave per te krijuar nje histori ose pafundesi personazhesh Disney."
+      image_alt: 'Pesë personazhe nga Froze, Tangled dhe Big Hero 6 qëndrojnë së bashku.'
+    map:
+      image_alt: 'Një imazh gri i Shteteve të Bashkuara me rreth 20 shtete të theksuara me ngjyrë vjollcë.'
+    mc_escape:
+      image_alt: 'Një personazh i Minecraft që mban një kapelë të lartë dhe monokla ndërsa hap një ark thesari plot smeralda.'
+    mc:
+      image_alt: 'Anna dhe Steve nga Minecraft qëndrojnë para një enigme Code.org Minecraft.'
+    minecraft:
+      title: "Minecraft"
+      body: "Eksploro  një botë Minecraft nëpërmjet kodit."
+      image_alt: 'Anna dhe Steve nga Minecraft qëndrojnë para një enigme Code.org Minecraft.'
+    minecraft2016:
+      title: "Minecraft"
+      body: "Kafshët e programit dhe krijesa të tjera Minecraft në versionin tuaj të Minecraft."
+    oceans:
+      image_alt: 'Një robot në oqean duke skanuar krijesa të ndryshme të detit.'
+    playlab:
+      image_alt: 'Një kolazh imazhi që tregon një mace blu, qen të budalla dhe zhurma parahistorike.'
+    poem-art:
+      title: 'Arti i poezisë'
+      body: 'Shprehni veten! Përdorni kodin për të krijuar poezi të animuara.'
+      image_alt: 'Një kallamar hipster që performon në një skenë.'
+    pre-express-2017:
+      image_alt: 'Një qen dhe njëbriri që qëndrojnë përpara një pemë të bërë nga copa enigme.'
+    pre-express-2018:
+      image_alt: 'Një qen dhe njëbriri që qëndrojnë përpara një pemë të bërë nga copa enigme.'
+    pre-express-2019:
+      image_alt: 'Një qen dhe njëbriri që qëndrojnë përpara një pemë të bërë nga copa enigme.'
+    pre-express:
+      image_alt: 'Një qen dhe njëbriri që qëndrojnë përpara një pemë të bërë nga copa enigme.'
+    sports:
+      body: "Bëni një lojë basketbolli ose përzieni dhe ndeshni në të gjitha sportet."
+      image_alt: 'Logot e NBA dhe WNBA shfaqen pranë një futbolli, topit futbolli, pak hokej dhe basketbolli.'
+    starwars:
+      title: "Lufta e Yjeve"
+      image_alt: 'R2-D2, Leia, Rey dhe BB-8 qëndrojnë në një shkretëtirë.'
+    text-compression:
+      body: "Në këtë mësim, nxënës do të përdorin Widget-in e Kompresimit të Tekstit për të kompresuar tekstin duke zëvendësuar modelet me simbole."
+      image_alt: 'Teksti është i ngjeshur duke zëvendësuar fjalët e tëra me një simbol të vetëm.'
+    weblab:
+      title: "Web Lab (beta)"
+      body: "Web Lab është një mjedis programimi ku mund të bëni faqe të thjeshta në internet duke përdorur HTML dhe CSS. Projektoni faqet tuaja të internetit dhe ndani faqen tuaj në sekonda."
+      audience: "Moshat 13 +"
+      cta: "Mëso si "
+      image_alt: 'Një ekran kompjuteri që shfaq kodin HTML.'
+    widgets:
+      title: "Widgets"
+      body: "Nxënësit mund të eksplorojnë koncepte nga kursi ynë praktik i Parimeve të Shkencave Kompjuterike duke përdorur këto mjete digjitale. Përdorni miniaplikacionet vetë, ose krijoni një mësim me një koncept të vetëm për klasën tuaj."
+      audience: "Moshat 14+"
+      cta: "Mëso si "
+    unplugged_conditionals:
+      title: "Kushtet"
+      body: "Mësoni rreth algoritmeve dhe deklaratave të kushtëzuara në këtë aktivitet “të shkëputur” duke përdorur një kuvertë letrash."
+    unplugged:
+      title: "Mësimet e shkëputura"
+      audience: "Moshat 4+"
+      body: "Ne kemi përpiluar një listë të mësimeve të shkëputura për ju për ti përdorur në klasën tuaj. Tani ju mund të mësoni bazat e shkencave kompjuterike edhe në qoftë se nuk keni kompjuter në klasën tuaj ! Provoni të përdorni këto mësime si një kurs më vete apo si mësime  plotësuese për çdo kurs të shkenca kompjuterike."
+      body_short: "Nëse ju nuk keni kompjutera, provoni këto mësime të shkëputura në klasën tuaj."
+    20-hour:
+      title: 'Kurs i Avancuar'
+      body: 'Ky kurs që zgjat 20 orë, na njeh me bazën e shkencës kompjuterike dhe konceptet e programimit. Kursi është dizenjuar të përdoret nga klasat e nivelit K-8, por është argetuese të mësohet nga të gjitha moshat.'
+      body_short: 'Mëso bazat e shkencave kompjuterike në një version të avancuar për kurset 2-4.'
+  landing:
+    prerelease_tutorial: "Ky tutorial është në beta. Referohet të rishikohet sapo feedbacku të merret dhe të bëhen përmirësimet."
+    report_bug: "Raportoni një problem"
+    support: "Merr Ndihmë"
+    support_url: "//support.code.org"
+    help_resources: "Ndihmë dhe Burime"
+    help_support: "Ndihmë dhe mbështetje"
+    documentation: "Dokumentacioni"
+    tutorials: "Tutoriale"
+  free_response:
+    placeholder: "Shkruani përgjigjen tuaj këtu"
+  multi:
+    wrong_title: "Përgjigje e pasaktë"
+    wrong_body: "Përgjigja që keni futur nuk është e saktë. Ju lutemi provojeni përsëri!"
+    correct_title: "E saktë"
+    correct_body: "Kjo është përgjigja e saktë."
+  multi-submittable:
+    wrong_title: "Faleminderit"
+    wrong_body: "Ju faleminderit për dërgimin e një përgjigje."
+    correct_title: "Faleminderit"
+    correct_body: "Ju faleminderit për dërgimin e një përgjigje."
+  level_group:
+    wrong_title: "Faleminderit"
+    wrong_body: "Ju faleminderit për përgjigjen."
+    correct_title: "Faleminderit"
+    correct_body: "Ju faleminderit për përgjigjen."
+    hide_survey_last_answer: "Ky studim është anonim. Ju lutem vizitoni panelin e mësuesve për rezultatet agregate. Vini re se rezultatet janë të dukshme vetëm në qoftë se të paktën pesë studentë kanë dorëzuar studimin."
+    survey_submission_thankyou: "Faleminderit për dorëzimin e këtij sondazhi! Sondazhi është pastruar në mënyrë që përgjigjet tuaja të mbeten anonime. Vini re se mësimdhënësit tuaj do të jetë ende në gjendje të shohin përgjigjet për të gjithë klasën, por pa emra të bashkëngjitur."
+  level_group-submittable:
+    wrong_title: "Faleminderit"
+    wrong_body: "Ju faleminderit për përgjigjen."
+    correct_title: "Faleminderit"
+    correct_body: "Ju faleminderit për përgjigjen."
+    unsubmit-title: "Mos dërgo vlerësimin tuaj"
+    unsubmit-body: "Mos dërgimi i vlerësimit tuaj do të përditësoj datën dhe orën e dërgimit. A jeni të sigurt?"
+    submit-incomplete-title: "Dërgo vlerësimin tuaj"
+    submit-incomplete-body: "Ju keni lënë disa pyetje të paplotësuara. Ju nuk mund të modifikoni vlerësimin tuaj pasi ta keni dorëzuar atë. A je i sigurt?"
+    submit-complete-title: "Dërgo vlerësimin tuaj"
+    submit-complete-body: " Ju nuk mund të modifikoni vlerësimin tuaj pasi ta keni dorëzuar atë. A je i sigurt?"
+  level_summary:
+    correct_answer: "Përgjigje e saktë!"
+  match:
+    wrong_title: "Zgjidhje e pasaktë"
+    wrong_body: "Zgjidhja që keni futur është e pasktë. Ju lutem provojeni përsëri!"
+    correct_title: "E saktë"
+    correct_body: "Kjo është përgjigja e saktë."
+  contract_match:
+    wrong_title: "Përgjigje e pasaktë"
+    badname: "Kontrata juaj ka emrin gabim."
+    badname_case: "Emrat funksional janë çështje e ndjeshme. Përpiqu të ndërrosh rastin e emërimit të kontratës tënde."
+    badrange: "Kontrata juaj ka vargun e gabuar."
+    baddomainsize: "Kontrata juaj nuk ka sasinë e duhur te elementëve në domen."
+    baddomainname: "Njëra ose disa nga elmentet në domen ka emrin e pasaktë."
+    baddomaintype: "Njëra ose disa nga elementet ne domen janë të llojit të gabuar, ose nuk janë renditur mirë."
+  text_match:
+    placeholder: "Shkruani përgjigjen tuaj këtu"
+    open_response_title: "Faleminderit"
+    open_response_body: "Faleminderit për përgjigjen!"
+    correct_title: "E saktë"
+    correct_body: "Kjo është përgjigja e saktë."
+  lesson_extras:
+    bonus_level: "Nivel Bonus"
+  dialog:
+    ok: "Në rregull"
+    startover_title: "A jeni i sigurt që doni të filloni nga fillimi?"
+    startover_body: "Kjo do ta rikthejë formuesen në gjëndjen fillestare dhe do të fshijë të gjitha blloqet që ke shtuar ose ndryshuar."
+    startover_ok: "Fillo nga fillimi "
+    startover_cancel: "Anulo"
+  time:
+    hour: '1 orë'
+    day: 'ditë'
+    week: 'javë'
+  age_interstitial:
+    age: Mosha juaj
+    header: Përditësimi i Informacionit të Llogarisë
+    warning: "Ne jemi në proces të përditësimit të përvojës sonë për t'ju ofruar mbrojtje edhe më të forta të privatësisë. Për ta bërë këtë, ne kemi nevojë për përdoruesit ekzistues që të futen moshën e tyre këtu."
+    disclaimer: 'Code.org kurrë nuk do të marrë me qira, shes ose ndajë këtë informacion me ndonjë palë të tretë.'
+    sign_out_markdown: 'Nëse nuk dëshironi të jepni moshën tuaj, mund të [dilni] (%{url}).'
+  terms_interstitial:
+    title: "Përditësimi i Kushtet e Shërbimit dhe Rregullave të Privatësisë"
+    intro_desc: "Ne kemi përditësuar kushtet tona të sherbimit dhe Rregullat e Privatësisë, siç tregohet më poshtë. Ndryshimet janë në fuqi që nga 24 gusht 2016. Ndryshimi më i madh: ne  <i> nuk do të ruajmë me adresat e e-mail për llogaritë e  studentëve në Code Studio </ i> Kjo është një arritje e madhe për ne dhe ne shpresojmë që kjo të përcaktoj një standard i ri për privatësinë e studentëve në shkollat teknologjike. Ne ju kemi  dërguar një përmbledhje të ndryshimeve të tjera përmes emailit."
+    intro_desc_markdown: "Ne kemi përditësuar kushtet tona të sherbimit dhe Rregullat e Privatësisë, siç tregohet më poshtë. Ndryshimet janë në fuqi që nga 24 gusht 2016. Ndryshimi më i madh: ne _nuk do të ruajmë me adresat e e-mail për llogaritë e studentëve në Code Studio<!-- i-->Kjo është një arritje e madhe për ne dhe ne shpresojmë që kjo të përcaktoj një standard i ri për privatësinë e studentëve në shkollat teknologjike. Ne ju kemi dërguar një përmbledhje të ndryshimeve të tjera përmes emailit._"
+    intro_instructions: "Ju do të duhet të pranoni këto kushte të reja për studentët nën moshën 13 në klasën tuaj për të pasur qasje të plotë në të gjitha vecoritë e fundit në Code Studio. Kur regjistrimit një llogari për një student nën 13, do ju kërkohet për të konfirmuar se shkolla juaj ka pëlqimin e prindërve për mbledhjen e informacionit personal të nxënësit për përdorimin dhe përfitimin e shkollës, duke përfshirë programet arsimore të tilla si Code Studio."
+    tos: "Kushtet e shërbimit"
+    privacy: "Rregullat e Privatësisë"
+    privacy_notice: "E Drejta e Autorit"
+    accept_label: 'Unë pajtohem me përditësimet e <a href="%{tos_url}" Kushtet e target="_blank"> Kushteve të Shërbimit </a> dhe <a href="%{privacy_url}" target="_blank"> Politika e Privatësisë </ a>'
+    accept_label_markdown: "Unë pajtohem me përditësimet e [Kushteve të Shërbimit](%{tos_url}) dhe [Politika e Privatësisë](%{privacy_url})\n\n<!-- a-->"
+    accept_tos: Duke u regjistruar në Code.org, ju pajtoheni me [Kushtet e Shërbimit] (%{tos_url}) dhe [Politika e Privatësisë] (%{privacy_url}) tona.
+    accept: "Pranoj"
+    print: "Printo"
+    reminder_desc: 'Unë pajtohem me përditësimet e <a href="%{tos_url}" Kushtet e target="_blank"> Kushteve të Shërbimit </a> dhe <a href="%{privacy_url}" target="_blank"> Politika e Privatësisë </ a>. Ju lutem lexoni me kujdes këto para pranimit të tyre. Vini re se mjetet tona të mësimdhënies së JavaScript mund të jenë në dispozicion për studentët tuaj para se të pranoni në mënyrë specifike kushtet e përditësuara.'
+    reminder_desc_markdown: "Unë pajtohem me përditësimet e [Kushteve të Shërbimit](%{tos_url}) dhe [Politika e Privatësisë](%{privacy_url})\n\n<!-- a-->\n\n[. Ju lutem lexoni me kujdes këto para pranimit të tyre. Vini re se mjetet tona të mësimdhënies së JavaScript mund të jenë në dispozicion për studentët tuaj para se të pranoni në mënyrë specifike kushtet e përditësuara.](%{privacy_url})"
+    review_terms: "Rishikimi i kushteve të përditësimit"
+  school_info_interstitial:
+    title: "Ne duam të sjellim Shkencat Kompjuterike tek çdo nxënës- na ndihmoni të gjurmojmë progresin tonë!"
+    message: "Ju lutemi shkruani informacionin tuaj të shkollës më poshtë."
+    message_with_suggestion: "Ju lutemi verifikoni që informacioni i mëposhtëm është i saktë, ose përditësoni sipas nevojës."
+    save: "Ruaj"
+  race_interstitial:
+    title: "Opsionale: Na ndihmoni të ndjekim progresin tonë drejt përmirësimit të diversitetit në shkenca kompjuterike"
+    message: "Ju lutemi na tregoni racën ose përkatësinë tuaj etnike (kontrolloni të gjitha ato që zbatohen)"
+    races:
+      white: "E bardhë"
+      black: "I zi ose Afrikano American"
+      hispanic: "Hispanik ose Latin"
+      asian: "Aziatik"
+      hawaiian: "Vendas Havajan ose banues të  tjetër të Paqësorit"
+      american_indian: "Amerikano-Indian/Vendas nga Alaska"
+      other: "Të tjera/ë"
+      opt_out: "Preferoj të mos përgjigjem"
+    submit: "Dorëzo"
+    decline: "Mbyll"
+  zendesk_too_young_message: 'Na vjen keq, përdoruesit e vegjël nuk mund të futen tek faqja jonë e suportit. Ju mund të shfletosh në <a href="http://support.code.org">support.code.org</a> pa u loguar ose pyet prindërit ose mësuesit e tu që të na kontaktojnë.'
+  zendesk_too_young_message_markdown: 'Na vjen keq, përdoruesit e rinj nuk mund të identifikohen në faqen tonë të mbështetjes. Ju mund të shfletoni [support.code.org] (http://support.code.org) pa u regjistruar ose të kërkoni prindit ose mësuesin tuaj të na kontaktojë për ju.'
+  progress:
+    not_started: nuk është nisur
+    in_progress: Në punë e sipër
+    completed_too_many_blocks: i përfunduar, me shumë blloqe
+    completed_perfect: i përfunduar, në mënyrë perfekte
+    furthest_level_attempted: përpjekja e nivelit më të largët
+    assessment: Vlerësim
+    submitted: Dorëzuar
+  studio:
+    courses_working_on: "Kurset në të cilat po punoni"
+    completed_courses: "Kurset e përfunduara"
+    all_courses: "Të gjitha kurset"
+  project:
+    projects: "Projekte"
+    create: "Krijo një Projekt"
+    create_a_project: 'Krijo një projekt të ri:'
+    new: "Krijo një të ri"
+    exit: "Kthehu te Kursi"
+    project_gallery: "Projekte"
+    publish: "Publiko"
+    unpublish: "Ç'publiko"
+    share_title: Shpërndaje projektin
+    share_copy_link: "Kopjo lidhjen:"
+    share_embed_description: "Ju mund të kopjoni kodin e integruar në një faqe HTML për të shfaqur projektin për një webpage."
+    share_u13_warning: "Pyetni mësuesin tuaj para shpërndarjes. Vetëm shpërndajeni me të tjerët në shkollën tuaj."
+    embed: "I integruar"
+    advanced_share: "Trego opsione të avancuara"
+    no_projects: "Aktualisht nuk keni asnjë projekt. Klikoni në një nga butonat e mësipërm për të filluar një projekt."
+    name: "Emri"
+    updated: "U ndryshua"
+    project_type: "Lloji i Projektit"
+    help_text: "Shtyp <strong>Bëj një Aplikacion</strong> ose <strong>Vizato Diçka</strong> më poshtë për të hapur    një Projekt të ri!<br/> Mund të kthehesh kur të duash dhe të zhvillosh projektin tënd."
+    need_help: "Provoni këto kurse për t`ju ndihmuar  të filloni me projektin tuaj të ri"
+    thumbnail_help: "Nuk e shihni tablonë e duhur për projektin tuaj? Ekzekutoni aplikacionin tuaj për të gjeneruar një tablo të re. Vini re se mund të duhen disa orë që tablo të rifreskohet kudo."
+    saved: "E ruajtur"
+    not_saved: "E pa ruajtur"
+    view_all: 'Shfaq projektet e mia'
+    edit_project: 'Ndërhy në Projekt'
+    sharing_disabled: "Na vjen keq, ky projekt nuk është i disponueshëm për ndarje. Nëse ky është projekti juaj ose projekti i një prej nxënësve tuaj, ju lutemi <a href='https://studio.code.org/users/sign_in'>regjistrohuni</a> në llogarinë tuaj për të parë projektin."
+    abuse:
+      tos: "Ky projekt është raportuar si shkelje e <a href='http://code.org/tos'> së Termave të Shërbimit të Code.org</a> dhe nuk mund të behet publik për të tjerët."
+      policy_violation: "Ky projekt përmban informacion që nuk mund të ndahet me të tjerët. Ju lutemi të kontaktoni pronarin e aplikacionit për të rregulluar përmbajtjen e aplikacionit të tyre."
+      contact_us: "Nëse mendoni që kjo nuk është e drejtë, ju lutem n'a kontaktoni në <a href='https://code.org/contact'></a>"
+      go_to_code_studio: 'Shkoni në Studioja e Kodit'
+      report_abuse_form:
+        intro: 'Nëse ju keni hasur përmbajtje fyese, kërcënime, bullinizëm, ngacmimi, ose një shembull i shkeljes së autorit për përmbajtjen që ju zotëroni duke përdorur aplikacione të ndërtuara në Kodi Studio, ju lutemi plotësoni formularin e mëposhtëm. Ne do të marrë raportin tuaj shumë seriozisht, do të hetojmë në përputhje me rrethanat dhe për të marrë masat e duhura.'
+        validation:
+          email: 'Ju lutemi jepni një adresë e-mail'
+          age: 'Ju lutem përcaktoni një moshë'
+          abuse_type: 'Ju lutemi përgjigjuni se si kjo përmbajtje shkel Kushtet e Shërbimit'
+          abuse_detail: 'Ju lutemi jepni detaje lidhur me përmbajtjen ju jeni duke raportuar'
+          captcha: 'Ju lutemi plotësoni CAPTCHA për t''u bashkuar me këtë seksion.'
+        abusive_url: 'URL e përmbajtjes po raportohet'
+        abuse_type:
+          question: 'Si e bën këtë përmbajtje të shkel %{link_start} Kushtet e Shërbimit %{link_end}?'
+          harassment: 'Kërcënimet, bullizmi në internet, ngacmimi'
+          offensive: 'Përmbajtje fyese'
+          infringement: 'Shkelja e së Drejtës së Autorit'
+          other: 'Të tjera/ë'
+        detail: 'Ju lutemi jepni sa më shumë detaje të jetë e mundur në lidhje me përmbajtjen që ju jeni duke raportuar.'
+        acknowledge: 'Duke dërguar këtë informacion, ju duhet ta dini se do të trajtohen në përputhje me kushtet e %{link_start_privacy} Rregullave të privatësisë%{link_end} dhe %{link_start_tos} Kushtet e Shërbimit %{link_end}.'
+  peer_review:
+    accepted:
+      name: 'Pranuar'
+      description_markdown: '**Po**, kjo paraqitje** plotëson** kërkesat'
+    rejected:
+      name: 'Refuzuar'
+      description_markdown: '**Jo**, kjo paraqitje** nuk plotëson** kërkesat'
+    escalated:
+      name: 'përshkallëzuar'
+      description: 'Unë do të doja një instruktor për të shqyrtuar këtë dorëzim'
+    instructor_feedback: 'Instruktor i Përgjigjes'
+    peer_feedback: 'Reagim i ndërsjelltë'
+    outdated: 'Ky reagim është shtuar për një version të dorëzuar më parë'
+    review_count: 'Ju duhet të plotësoni komente %{review_count} për këtë njësi'
+    peer_review: 'Rishikimi i ndërsjellë'
+  external_links:
+    disclaimer: Mohim
+    leaving_domain: Ju tani jeni duke e lënë këtë domain, në një vend që nuk është i operuar nga Code.org.
+    disclaimer_text: Kjo faqe mund të ketë politikat e privatësisë që ndryshojnë nga Code.org-së. Ne kemi zgjedhur këto burime të palës së tretë, sepse ne mendojmë se ata do të jenë të dobishme për ju. Ndërsa ne nuk jemi drejtpërdrejt përgjegjës për përmbajtjen e kësaj faqe interneti, ju lutem <a href='%{support_url}'> kontaktoni suportin</a>  në qoftë se ju të gjeni përmbajtje të pakëndshme, ose në qoftë se linku nuk është më në dispozicion.
+  hoc_download:
+    title: 'Shkarkime të Orës së Kodimit'
+    capsule_title: 'A keni internet?'
+    capsule_desc: 'Përdorni internet e bazuar në web<a href="%{url}">%{app_name} </a>.'
+    instructions_headline: 'Nuk ka internet?'
+    instructions: 'Udhëzime për mësuesit: në qoftë se ju keni shërbim të dobët të internetit, këto tutoriale të Orës së Kodimit janë në dispozicion për t`u shkarkuar dhe instaluar për përdorim offline. Zgjidhni gjuhën dhe platformën tuaj, shkarkoheni dhe instaloheni atë në të gjitha kompjuterat në klasën tuaj. Ju mund të të përdorni një disk USB për ta shkarkuar një herë dhe për ta instaluar në të gjithë kompjuterat. Shënim: Studentët nuk do të jetë në gjendje të hyjne në Code Studio, ruani progresin apo certifikata të shtypura. Mësuesit mund të printoni certifikatat para kohe <a href="%{url}"> këtu </a>.'
+    minecraft_name: 'Ora e Kodimit Minecraft'
+    starwars_blocks_name: 'Lufta e yjeve: Ndërtimi i një Galaxy me kod (blloqe)'
+    starwars_javascript_name: 'Lufta e yjeve: Ndërtimi i një Galaxy me kod (JavaScript)'
+    download_message: 'Shkarko%{app_name} përdorim offline (136MB)'
+    download_in_Albanian: 'Shkarko në shqip:'
+    download_in_Arabic: 'Shkarko në arabisht:'
+    download_in_Azerbaijani: 'Shkarko në Azerbajxhanisht:'
+    download_in_Basque: 'Shkarko në baske:'
+    download_in_Bosnian: 'Shkarko në boshnjakisht:'
+    download_in_Bulgarian: 'Shkarko në bullgarisht:'
+    download_in_Catalan: 'Shkarko në katalanisht:'
+    download_in_Chinese-Taiwan: 'Shkarko në kinezisht-Tajvan:'
+    download_in_Chinese: 'Shkarko në kinezisht:'
+    download_in_Croatian: 'Shkarko në Kroatisht:'
+    download_in_Czech: 'Shkarko në Çekisht:'
+    download_in_Danish: 'Shkarko në danishte:'
+    download_in_Dutch: 'Shkarko në gjermanisht:'
+    download_in_English: 'Shkarko në Anglisht:'
+    download_in_Finnish: 'Shkarko në finlandisht:'
+    download_in_French: 'Shkarko në frëngjisht:'
+    download_in_German: 'Shkarko në gjermanisht:'
+    download_in_Greek: 'Shkarko në greqisht:'
+    download_in_Hebrew: 'Shkarko në hebraisht:'
+    download_in_Hungarian: 'Shkarko në Hungarisht:'
+    download_in_Icelandic: 'Shkarko në Islandisht:'
+    download_in_Indonesian: 'Shkarko në indonezian:'
+    download_in_Irish: 'Shkarko në irlandisht:'
+    download_in_Italian: 'Shkarko në italisht:'
+    download_in_Japanese: 'Shkarko në japonisht:'
+    download_in_Korean: 'Shkarko në koreanisht:'
+    download_in_Latvian: 'Shkarko në Letonisht:'
+    download_in_Lithuanian: 'Shkarko në lituanisht:'
+    download_in_Norwegian: 'Shkarko në norvegjisht:'
+    download_in_Norwegian-Nynorsk: 'Shkarko në Norvegjisht-Nynorsk:'
+    download_in_Polish: 'Shkarko në polakisht:'
+    download_in_Portuguese-Brazil: 'Shkarko në Portugalisht - Brazil:'
+    download_in_Portuguese: 'Shkarko në portugalisht:'
+    download_in_Romanian: 'Shkarko në rumanisht:'
+    download_in_Russian: 'Shkarko në rusisht:'
+    download_in_Serbian: 'Shkarko në serbisht:'
+    download_in_Slovenian: 'Shkarko në sllovenisht:'
+    download_in_Spanish: 'Shkarko në Spanjisht:'
+    download_in_Swedish: 'Shkarko në suedisht:'
+    download_in_Turkish: 'Shkarko në turqisht:'
+    download_in_Ukrainian: 'Shkarko në ukrainisht:'
+    download_in_Vietnamese: 'Shkarko në vietnamisht:'
+    windows: 'Windows (64-bit)'
+    mac: 'Mac OS X'
+  locked_stage: 'Përmbajtjet e kësaj faze nuk janë të dukshme për shkak se kjo fazë është e bllokuar aktualisht. Mësuesi juaj mund të zhbllokuar këtë fazë kur është koha për të punuar mbi të ose të shqyrtojë përgjigjet tuaja.'
+  hidden_stage: "Mësimdhënësi juaj nuk e priste që ju të ishit këtu. Ju lutemi pyesni mësimdhënësin tuaj në cilin mësim duhet të jeni."
+  hidden_script: "Mësimdhënësi juaj nuk priste që të ishit këtu. Ju lutemi pyesni mësimdhënësin tuaj në cilën njësi duhet të jeni."
+  no_course_access_student: "Ju nuk keni qasje në këtë kurs. Ju lutemi pyesni mësimdhënësin tuaj në cilin kurs duhet të jeni."
+  no_course_access_teacher: "Ju nuk keni qasje në këtë kurs. Nëse besoni se duhet të keni qasje në këtë kurs, ju lutemi shkruani në support@code.org në mënyrë që të mund të rregullojmë situatën."
+  no_script_access_student: "Ju nuk keni qasje në këtë njësi. Ju lutemi pyesni mësimdhënësin tuaj se në cilën njësi duhet të jeni."
+  no_script_access_teacher: "Ju nuk keni qasje në këtë njësi. Nëse besoni se duhet të keni qasje në këtë njësi, ju lutemi shkruani në support@code.org në mënyrë që të mund të rregullojmë situatën."
+  no_level_access_student: "Ju nuk keni qasje në këtë nivel. Ju lutemi pyesni mësimdhënësin tuaj në cilin nivel duhet të jeni."
+  no_level_access_teacher: "Ju nuk keni qasje në këtë nivel. Nëse besoni se duhet të keni qasje në këtë nivel, ju lutemi shkruani në support@code.org në mënyrë që të mund të rregullojmë situatën."
+  no_exemplar: "Asnjë shembull nuk ekziston për këtë nivel."
+  no_exemplar_access_student: "Nxënësit nuk kanë qasje në kodin shembull. Ju lutemi pyesni mësimdhënësin tuaj se në cilin nivel duhet të jeni."
+  no_exemplar_access_teacher: "Vetëm mësimdhënësit e verifikuar mund të hyjnë në kodin shembull. Nëse dëshironi të bëheni mësimdhënës i verifikuar, ju lutemi shkruani në support@code.org."
+  return_unit_overview: 'Shkoni te përmbledhja e njësisë'
+  return_course_overview: 'Shko në njësinë e rishikimit'
+  view_all_units: 'Shiko të gjitha njësitë'
+  pd:
+    form_labels:
+      first_name: 'Emri'
+      first_name_preferred: 'Emri i preferuar'
+      last_name: 'Mbiemri'
+      email: 'Email'
+      email_alternate: 'Email alternative'
+      gender: 'Identiteti i gjinisë'
+      school: 'Shkolla'
+      school_name: 'Emri i shkollës'
+      school_city: 'Qyteti'
+      school_city_district: 'Qyteti/Distrikti Shkollor'
+      school_country: 'Shteti'
+      school_department_region: 'Departamenti i shkollës/Regjioni'
+      colombian_chilean_school_department: 'Departamenti i shkollës/Regjioni'
+      colombian_school_municipality: 'Komuna e Shkollës'
+      colombian_chilean_school_name: 'Emri i shkollës'
+      chilean_school_commune: 'Komuna'
+      chilean_school_id: "ID e shkollës\n"
+      ages: 'Cilën moshë mësoni këtë vit?'
+      subjects: 'Cilën lënd ligjeroni këtë vit?'
+      resources: 'Cilat nga burimet e mëposhtme të edukimit të Shkencave kompjuterike përdorni?'
+      robotics: 'Cilat nga burimet e mëposhtme të robotikës përdorni?'
+      workshop_organizer: 'Organizatori i trajnimit'
+      workshop_facilitator: 'Punëtori për fasilitator '
+      workshop_course: 'Kursi i trajnimit'
+      email_opt_in: 'A mund t''ju dërgojmë email në lidhje me programin ndërkombëtar të Code.org, përditësimet në kurset tona ose lajme të tjera të shkencave kompjuterike?'
+      legal_opt_in: 'Duke dorëzuar këtë formular, ju pranoni të lejoni Code.org të ndajë informacione se si e përdorni Code.org dhe burimet e të mësuarit profesional me Partnerët ndërkombëtarë të Code.org në vendin tuaj. Ne do të ndajmë me këta partnerë informacionin tuaj të kontaktit (si emri dhe adresa e emailit), informacionin që jepni për shkollën tuaj, cilat kurse/njësi po përdorni dhe të dhëna të përmbledhura rreth këtyre kurseve (si p.sh. numri i studentëve që përdorin çdo kurs ). Ne nuk do të ndajmë asnjë informacion për nxënësit me partnerët tanë: të gjitha informacionet e nxënësve do të çidentifikohen dhe grumbullohen. Partnerët dhe fasilitorët tanë ndërkombëtarë janë të detyruar kontraktualisht ta trajtojnë këtë informacion me të njëjtin nivel konfidencialiteti si Code.org.'
+    form_entries:
+      gender:
+        male: 'Mashkull'
+        female: 'Femër'
+        non_binary: 'Jo binare'
+        not_listed: 'Termi i preferuar nuk është i listuar'
+        none: 'Preferoj të mos përgjigjem'
+      school_country:
+        australia: 'Australi'
+        barbados: 'Barbados'
+        belize: 'Belize'
+        brazil: 'Brazil'
+        canada: 'Kanada'
+        chile: 'Kili'
+        colombia: 'Kolumbi'
+        dominican_republic: 'Republika Dominikane'
+        india: 'Indi'
+        indonesia: 'Indonezi'
+        israel: 'Izrael'
+        italy: 'Itali'
+        jamaica: 'Xhamajka'
+        kenya: 'Kenia'
+        kosovo: 'Kosovë'
+        malaysia: 'Malajzia'
+        maldives: 'Maldive'
+        mexico: 'Meksikë'
+        mongolia: 'Mongoli'
+        new_zealand: 'Zelanda e Re'
+        paraguay: 'Paraguai'
+        philippines: 'Filipinet'
+        portugal: 'Portugali'
+        puerto_rico: 'Porto Riko'
+        slovakia: 'Slovakia'
+        south_korea: 'Koreja e Jugut'
+        spain: 'Spanjë'
+        thailand: 'Tailandë'
+        trinidad_and_tobago: 'Trinidad dhe Tobago'
+        uzbekistan: 'Uzbekistan'
+        vietnam: 'Vietnam'
+      ages:
+        ages_under_6: '< 6 vjeç'
+        ages_7_8: '7-8 vjeç'
+        ages_9_10: '9-10 vjeç'
+        ages_11_12: '11-12 vjeç'
+        ages_13_14: '13-14 vjeç'
+        ages_15_16: '15-16 vjeç'
+        ages_17_18: '17-18 vjeç'
+        ages_19_over: '19+ vjeç'
+      subjects:
+        cs: 'Shkencat Kompjuterike'
+        ict: 'TIK'
+        math: 'Matematikë'
+        science: 'Shkencë'
+        history: 'Histori/Studime Sociale'
+        la: 'Gjuha e arteve'
+        efl: 'Anglishtja si gjuhë e huaj'
+        music: 'Muzikë'
+        art: 'Art'
+        other: "Të tjera/ë"
+        na: 'Nuk zbatohet'
+      resources:
+        bootstrap: 'Bootstrap'
+        codecademy: 'AkademiaKod'
+        csfirst: 'Shkenca Kompjuterike Google CS së pari'
+        khan: 'Khan Academy'
+        kodable: 'Kodable'
+        lightbot: 'Lightbot'
+        scratch: 'Scratch'
+        tynker: 'Tynker'
+        other: "Të tjera/ë"
+        na: 'Nuk zbatohet'
+      robotics:
+        grok: 'Të mësuarit Grok'
+        kodable: 'Kodable'
+        lego: 'LEGO Edukimi'
+        microbit: 'Mikrobit'
+        ozobot: 'Ozobot'
+        sphero: 'Sphero'
+        raspberry: 'Mjedër Pi'
+        wonder: 'Punëtoria e mrekullive'
+        other: "Të tjera/ë"
+        na: 'Nuk zbatohet'
+      workshop_course:
+        csf_af: 'Bazat e CS (Kurset A-F)'
+        csf_express: 'Bazat e CS (Para-Express ose Express)'
+        csd: 'Zbulimet e Shkencave Kompjuterike'
+        csp: 'Parimet e Shkencave Kompjuterike'
+        other: 'Të tjera/ë'
+        not_applicable: "Nuk zbatohet"
+      email_opt_in:
+        opt_in_yes: 'Po'
+        opt_in_no: 'Jo'
+    international_opt_in:
+      title: 'Pjesëmarrja në trajnim'
+      intro: "Faleminderit që keni gjetë kohë për të marrë pjesë në trajnimin për kurrikulën e Code.org. Misioni ynë për të sjellë mundësinë e edukimit në Shkencat Kompjuterike për të gjithë fëmijët në të gjitha shkollat në mbarë botën nuk do të ishte i mundur pa ju."
+      instructions: "Ju lutemi plotësoni formularin më poshtë për të treguar se 1) keni marrë pjesë në një trajnimi të drejtuar nga një nga partnerët ndërkombëtarë të Code.org dhe 2) pranoni të ndani informacionin tuaj me partnerin tonë ndërkombëtar në vendin tuaj në mënyrë që ata të mund të ndihmojnë për të mbështetur udhëtimin tuaj si mësimdhënës i shkencave kompjuterike."
+      thanks_markdown: "Faleminderit për dorëzimin! Ne mezi presim t'ju mbështesim ndërsa njihni kurrikulën dhe mjetet e Code.org. Ju lutemi vazhdoni të ndani pyetjet dhe reagimet tuaja me ne duke na shkruar në [support@code.org] (%{support_email_url}) ose duke postuar në [forumin e mësuesve] (%{teacher_forum_url})!"
+      facilitator_not_listed: "Fasilitatori im nuk është i listuar"
+      facilitator_not_applicable: "Nuk zbatohet"
+      organizer_not_listed: "Organizatori im nuk është i listuar"
+    logged_out:
+      heading: 'Faleminderit për interesin tuaj në Programin e Mësimit Profesional!'
+      body: 'Për të filluar, së pari duhet të regjistroheni në llogarinë tuaj Code.org. Nëse dëshironi më shumë informacion në lidhje me programin para se të filloni aplikimin tuaj, ju lutemi shikoni përmbledhjen e Programit të Mësimit Profesional <a href="%{url}"></a>.'
+    not_teacher:
+      body_markdown: 'Faleminderit për interesin tuaj në Programin e Mësimit Profesional të Code.org! Aktualisht jeni regjistruar në një llogari si nxënës. Ju lutemi ose krijoni një llogari mësimdhënës ose [shkoni te cilësimet e përdoruesit tuaj] (%{user_settings}) për të përmirësuar llogarinë tuaj nga nxënës në mësimdhënës.'
+      more_markdown: 'Nëse dëshironi më shumë informacion në lidhje me programin para se të filloni aplikimin tuaj, ju lutemi shikoni [Përmbledhje e Programit të Mësimit Profesional] (%{pl_overview}).'
+    no_teacher_email:
+      body_markdown: 'Llogaria juaj nuk ka adresë email. Ju lutemi [vizitoni cilësimet e llogarisë suaj] (%{user_registration}) për të shtuar adresën tuaj të postës elektronike para se të plotësoni këtë formular.'
+  courses_category: 'Të gjitha kurset'
+  course_offering:
+    headers:
+      favorites: 'Të preferuarat'
+      labs_and_skills: 'Laboratorët dhe shkathtësitë'
+      minecraft: 'Minecraft'
+      popular_media: 'Media popullore'
+      express: 'Ekspres'
+      year_long: 'Vitin e gjatë'
+      self_paced: 'Vetë-ritëm'
+      teacher_led: 'Çelësi i mësimdhënësit'
+      collections: 'Koleksionet'
+      workshops_k5: 'Punëtori K-5'
+      summer_workshops_612: '6-12 Punëtori verore'
+      virtual_academic_year_workshops_612: '6—12 Punëtori Virtuale të Vitit Akademik'
+      unsupported: 'I pambështetur'
+  cookie_banner:
+    message: 'Duke vazhduar të shfletoni faqen tonë ose duke klikuar “Pajtohem”, ju pranoni ruajtjen e cookies në kompjuterin ose pajisjen tuaj.'
+    more_information: "Shihni Politikat e privatësisë të Code.org."
+    accept: 'Pranoj'
+  copy: 'Kopjo'
+  confirm: 'Konfirmo'
+  maker:
+    google_oauth:
+      login_with_google: 'Hyni në aplikacionin Maker me Google'
+      enter_code: 'Ju lutemi futni kodin e dhënë kur keni hyrë përmes Google në shfletuesin tuaj të parazgjedhur.'
+      copy_code: 'Ju lutemi kopjoni dhe ngjisni këtë kod në aplikacionin Maker për t''u identifikuar në Code.org.'
+      error_token_expired: 'Shenja ka skaduar. Ju lutemi hyni përsëri për një shenjë të re.'
+      error_wrong_provider: 'Ofruesi i gabuar. Ju lutemi sigurohuni që jeni duke hyrë në Google.'
+      error_invalid_user: 'ID i pavlefshëm i përdoruesit. Ju lutemi provoni të identifikoheni përsëri.'
+      error_no_code: 'Ju lutemi futni kodin tuaj të hyrjes.'
+      confirm_login: 'Zgjidhni “Konfirmo” për të hyrë me llogarinë tuaj të Google.'
+    setup_page_title: 'Konfigurimi i krijuesit'
+  parent_email_banner:
+    text: "**A jeni prind apo kujdestar? ** Lidhni emailin tuaj me këtë llogari për të qenë të azhurnuar për progresin dhe projektet e fëmijës tuaj!"
+    link_your_email: "Lidhni emailin tuaj"
+    not_now: "Jo tani"
+  behaviors:
+    this_sprite: "ky sprite"
+  unit_prefix: "Njësia %{n}"
+  code_org_logo_alt: "Code.org Faqja kryesore"
+  lesson_lock:
+    error:
+      no_updates: "Nuk ka përditësime për të kryer"
+      missing_params: "Duhet të sigurojë ID-të e përdoruesit, nivelit dhe njësisë"
+      cannot_view_locked_answers: "Nuk mund të shikoni përgjigjet kur është bllokuar"
+      forbidden: "Përdoruesi nuk mund të përditësojë gjendjen e mbyllur"
+  reset_predict_progress_button: "Fshini përgjigjen"
+  pixelation:
+    raw_format: "Formati i papërpunuar"
+    raw_format_alt: "Shikoni bitet pa asnjë formatim"
+    readable_format: "Formati i lexueshëm"
+    readable_format_alt: "Shikoni bitet e ndara në piksel"
+    save_image: "Ruaj imazhin"
+    actual_size: "Madhësia aktuale"
+    image_file_format_header: "Formati i fajllit të skedarit të imazhit"
+    image_file_format_width: "Gjerësia: 1 bajt"
+    image_file_format_height: "Lartësia: 1 bajt"
+    image_file_format_bits_per_pixel: "Bit për piksel: 1 bajt"
+    image_file_format_data_a: "n bit të dhënash pixel"
+    image_file_format_data_b: "n = Gjerësia * Lartësia * Bit për piksel"
+    image_width: "Gjerësia e imazhit"
+    image_height: "Lartësia e imazhit"
+    bits_per_pixel_header: "Bits për piksel"
+    binary: "Binare"
+    hexadecimal: "Heksadecimale"
+    pixel_format_header: "Formati i pikselit"
+  course_deprecated:
+    title: "Kujdes! Kjo %{path_type} nuk është më në dispozicion, por Code.org ka opsione më të reja për ju."
+    curriculum: "kurrikulum"
+    project_type: "lloji i projektit"
+    button: "Shikoni kurse alternative"
+    projects_button: "Shko te projektet"
+  hoc_tutorial_email_subject: "Shkëlqeni me Orën e Kodimit me Udhëzimet e Code.org!"
+  hoc_tutorial_email_content:
+    dear_teacher: "Të nderuar %{teacher_name},"
+    intro_step_by_step_guide: "Jemi kaq të entuziazmuar që po zhvilloni një aktivitet rreth Orës së Kodimit duke përdorur aktivitetet dhe mësimet e lira të Code.org! Jemi të nderuar të kemi edukatorë si ju që prezantoni nxënësit botën emocionuese të kodimit. Këtu është një udhëzues hap pas hapi për të siguruar një aktivitet të suksesshëm Orën e Kodimit:"
+    sign_up_step: "**Regjistrohu** (Opsionale… por e mrekullueshme!): Krijoni një llogari falas Code.org për qasje në një panel personal ku mund të menaxhoni Orën e Kodimit të klasës suaj! [Regjistrohu këtu] (%{url})."
+    create_classroom_section: "**Krijoni një Seksion Klasë** (Gjithashtu opsionale… por shumë e dobishme!): Krijimi i një seksioni në klasë ju lejon të gjurmoni progresin e nxënësve tuaj, të shikoni punën e tyre dhe madje t'i lini atyre reagime! [Vendosni seksionin tuaj këtu] (%{section_setup_url}). Dhe për të gjithë fillestarët tanë, këtu është një [udhëzues i dobishëm] (%{guide_url}) për t'ju ndihmuar!"
+    pick_perfect_activity: "**Zgjidhni Aktivitetin Perfekt**: [Zgjidhni tutorialin më të mirë të Orës së Kodimit](%{url}) për eventin tuaj. Eksploroni opsionet dhe ndajini tutorialin zgjedhur në seksionin tuaj, kështu që nxënësit tuaj do të dinë pikërisht ku të fillojnë."
+    plan_like_pro: "**Planifikoni si një Pro**: Shumë nga udhëzimet tona vijnë me një [plan mësimi] (%{lesson_plan_url}). Është si një recetë sekrete për sukses! Shikoni planin tuaj të mësimit para eventit të madhë."
+    let_fun_begin: "** Le të fillojë argëtimi! **: Të udhëhequr nga plani i mësimit, filloni udhëtimin tuaj në botën e kodimit. Mos harroni: Ju nuk keni nevojë të keni të gjitha përgjigjet! Entuziazmi juaj dhe kurioziteti i përbashkët me nxënësit tuaj do të ndihmojnë të gjithë të mësojnë së bashku."
+    hip_hip_hooray: "** Hip, Hip, Ura! **: Pasi të përfundojë ora, le të festojmë ata programues të rinj të shkëlqyeshëm. Certifikata, afishe, apo edhe një raund duartrokitjesh - gjithçka ka rëndësi. Gjeni [certifikatat tona të printueshme këtu] (%{url})."
+    more_adventures_await: "**Më shumë aventura ju presin**: A keni parë ndonjë programues të ri të uritur për më shumë? Prezantojini ata me më shumë kurrikulat e shkencave kompjuterike në Code.org!"
+    explore_course: "Eksploroni thesarin tonë të kurseve falas"
+    learn_about_ai: "Mësoni rreth inteligjencës artificiale"
+    thank_you: "Faleminderit për mbrojtjen e edukimit të shkencave kompjuterike. Ekipi ynë ju uron juve dhe nxënësve tuaj një orë të paharrueshme të kodit!"
+    founder: "Themeluesi, Code.org"
+    your_friends: "Shokët e tuaj në Code.org"
+  lti:
+    account_linking:
+      connect_button: "Lidhu me %{provider}"
+      connect_with: "Lidhu me..."
+      connect_with_email: "Kyçuni me hyrjen personale"
+      go_back: "Kthehu"
+      linking_page_header: "Lidhni llogarinë tuaj %{provider} me llogarinë tuaj ekzistuese Code.org"
+      linking_page_description: "Zgjidhni metodën e hyrjes në sistem që zakonisht përdorni për të hyrë në Code.org"
+      sign_in_and_connect: "Kyçuni dhe lidhuni"
+    create_integration_success: "Krijoi me sukses integrimin tuaj LTI"
+    dynamic_registration_title: "Regjistrimi dinamik i Code.org"
+    error:
+      integration_exists: "Integrimi Lti tashmë ekziston për këtë ID të Klientit"
+      missing_params: "Parametrat e kërkuara të mungojnë: Emri i shkollës/rrethit, ID e klientit, LMS, email"
+      missing_email: "Kërkohet email"
+      unsupported_lms_type: "Lloji i platformës LMS i pambështetur"
+      unsupported_message_type: Lloji i mesazhit të pambështetur LTI
+      unsupported_message_type_desc: |
+        Na vjen keq! Duket sikur po përpiqeni të nisni Integrimin Code.org nëpërmjet një %{message_type}.
+        Kjo nuk mbështetet aktualisht.
+        Ju lutemi provoni të nisni Code.org përsëri nga një [metodë e mbështetur] (%{supported_methods_url}).
+      missing_tool_config: 'Konfigurimi juaj LTI vegla mungon fushën e kërkuar "%{field}"'
+    iframe_title: "Hapja e Code.org në skedën e re"
+    sign_up:
+      warning1: Duket sikur po përdorni Integrimin Code.org për %{provider}! **Kjo do të krijojë një llogari të re për ju**, duke përdorur emailin më poshtë. Për të hyrë përsëri në këtë llogari të re, **sigurohuni që të identifikoheni përmes integrimit %{provider}**!
+      warning2: Nëse keni një llogari ekzistuese me këtë email (p.sh. Google, Clever ose Personal Account), **mund të vazhdoni të hyni në llogarinë tuaj ekzistues** nëpërmjet këtyre metodave.
+    integration:
+      client_id: "ID e klientit LMS"
+      email: "Email juaj"
+      name: "Emri i shkollës ose i distriktit"
+      navigate_home: "Kthehu në Code.org"
+      navigate_registration: "Kthehu te Regjistrimi"
+      lms_selector: "Çfarë LMS po përdorni?"
+      exists_body: "Duket sikur LMS juaj është tashmë në sistemin tonë. Ju duhet të jeni në gjendje të vazhdoni instalimin dhe përdorimin e integrimit tonë LTI."
+      exists_error: "Nuk mund të krijohet regjistrimi: Integrimi i mjeteve LTI tashmë ekziston në sistemin tonë."
+      exists_header: "Duket se jeni tashmë regjistruar!"
+      form_header: "Regjistroni LMS-in tuaj me Code.org"
+      form_instructions: "Ju lutemi përdorni këtë formular për të regjistruar Sistemin tuaj të Menaxhimit të Mësimit (LMS) në Code.org. Kjo do t'ju lejojë të instaloni integrimin tonë LTI në LMS tuaj."
+      form_instructions_2: "Udhëzues të plota për marrjen e ID-së tuaj të Klientit LMS, duke përdorur integrimet LMS/LTI, dhe lista jonë e sistemeve të mbështetura të menaxhimit të mësimit [mund të gjenden këtu] (%{install_instructions})."
+      form_instructions_3: "Nuk e shihni LMS-in tuaj në listën tonë, ose po hasni probleme me instalimin tuaj? Shikoni [udhëzuesit] tanë (%{lms_guides}), ose [na kontaktoni] (%{contact_us}) për ndihmë shtesë"
+      guide_instructions: "Udhëzues të plota për instalimin dhe integrimin tonë LTI [mund të gjenden këtu] (%{lms_guides}). Po hasni në çështje? Mos ngurroni të [na kontaktoni] (%{contact_us}) për mbështetje shtesë."
+      mailer_confirmation_subject: "Code.org ka përfunduar kërkesën tuaj të regjistrimit të LMS"
+      mailer_confirmation_body: "Lajm i shkëlqyeshëm! Ne kemi regjistruar LMS tuaj në Code.org. Tani duhet të jeni në gjendje të përdorni integrimet tona Code.org LMS. Ju lutemi mos ngurroni të rishikoni dhe ndani [udhëzuesit tona të integrimit të LMS] (%{integration_guide_url}), ose shfletoni [ofertat tona të kurseve] (%{course_offering_url})."
+      mailer_confirmation_signature: "Faleminderit dhe mirëseardhje!"
+      privacy_policy: "Privatësia juaj është me rëndësi të madhe për ne. Informacioni juaj personal nuk do të përdoret për ndonjë qëllim marketingu. Ju lutemi shikoni [Politikën tonë të Privatësisë këtu] (%{privacy_policy}) për më shumë informacion."
+      success_body: "Lajm i shkëlqyeshëm! LMS juaj është regjistruar në Code.org dhe ju mund të vazhdoni instalimin dhe përdorimin e integrimit tuaj LMS. Ju duhet të merrni një email konfirmimi së shpejti."
+      success_header: "Faleminderit që u regjistruat në LMS-in tuaj!"
+      register: "Regjistro LMS"
+    upgrade_to_teacher_account:
+      error:
+        missing_email: "Mungon parametri i domosdoshëm: Email"
+  certificates:
+    alt_text_with_name: "Certifikatë për %{student_name} për përfundimin e %{course_name}"
+    alt_text_no_name: "Certifikatë për përfundimin e %{course_name}"
+    one_hour_of_code: "Një orë kodim"
+  child_account:
+    parental_permission_request:
+      errors:
+        already_granted: Leja e prindërve tashmë është dhënë
+        daily_limit_reached: Kufiri ditor i kërkesës është arritur
+        invalid_parent_email: Adresa e postës elektronike e prindi/kujdestarit është e pavlefshme
+        parent_email_is_own: Një kërkesë nuk mund të dërgohet në adresën tuaj të postës elektronike
+        resend_limit_reached: Kufiri për ridërgimin e kërkesave është arritur
+  not_applicable_abbreviation: "N/A"

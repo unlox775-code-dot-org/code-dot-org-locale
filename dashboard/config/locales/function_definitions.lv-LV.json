@@ -1,0 +1,3340 @@
+{
+  "lv-LV": {
+    "data": {
+      "function_definitions": {
+        "2-3 Artist 11": {
+          "x": {
+            "name": "x"
+          }
+        },
+        "2-3 Artist 12": {
+          "details": {
+            "name": "informācija"
+          },
+          "draw eyebrow": {
+            "name": "zīmēt uzaci"
+          },
+          "draw pupil": {
+            "name": "zīmēt skolēnu"
+          }
+        },
+        "2-3 Artist 3.4": {
+          "draw a car": {
+            "name": "zīmēt mašīnu"
+          },
+          "draw a circle": {
+            "name": "zīmēt apli"
+          }
+        },
+        "2-3 Artist 7": {
+          "draw_rect": {
+            "name": "zimet_cetrsturi",
+            "parameters": {
+              "height": "augstums"
+            }
+          }
+        },
+        "2-3 Artist Debugging 10": {
+          "draw a button": {
+            "name": "zīmēt pogu"
+          },
+          "draw a circle": {
+            "name": "zīmēt apli"
+          },
+          "draw cord": {
+            "name": "zīmēt vadu"
+          },
+          "draw square": {
+            "name": "zīmēt kvadrātu",
+            "parameters": {
+              "height": "augstums"
+            }
+          },
+          "jump to controller top left": {
+            "name": "pārlēkt uz kontrolieri augšā pa kreisi"
+          },
+          "jump to middle": {
+            "name": "pārlēkt uz vidu"
+          }
+        },
+        "2-3 Artist Debugging 5": {
+          "draw a head": {
+            "name": "zīmēt galvu"
+          },
+          "draw body and arms": {
+            "name": "zīmēt ķermeni un rokas"
+          },
+          "draw left leg": {
+            "name": "zīmēt kreiso kāju"
+          },
+          "draw right leg": {
+            "name": "zīmēt labo kāju"
+          }
+        },
+        "2-3 Artist Debugging 6": {
+          "draw arms": {
+            "name": "uzzīmējiet rokas"
+          },
+          "draw head": {
+            "name": "uzzīmējiet galvu"
+          },
+          "draw left leg": {
+            "name": "zīmēt kreiso kāju"
+          },
+          "draw right leg": {
+            "name": "zīmēt labo kāju"
+          },
+          "draw sitting stick figure": {
+            "name": "uzzīmēt sēdošu cilvēciņu"
+          },
+          "jump to neck": {
+            "name": "pārlēkt uz kakla"
+          }
+        },
+        "2-3 Artist Debugging 7": {
+          "draw D": {
+            "name": "uzzīmējiet D"
+          },
+          "draw E": {
+            "name": "uzzīmējiet E"
+          },
+          "draw O": {
+            "name": "uzzīmējiet O"
+          }
+        },
+        "2-3 Artist Functions 10": {
+          "big gear": {
+            "name": "lielie rīki"
+          },
+          "small gear": {
+            "name": "mazie rīki"
+          }
+        },
+        "2-3 Artist Functions 11": {
+          "draw a hexagon": {
+            "name": "zimēt sešstūri"
+          }
+        },
+        "2-3 Artist Functions 11.5": {
+          "draw a hexagon": {
+            "name": "zimēt sešstūri"
+          }
+        },
+        "2-3 Artist Functions 12": {
+          "draw a flower": {
+            "name": "zīmēt puķi"
+          }
+        },
+        "2-3 Artist Functions 2": {
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "2-3 Artist Functions 3": {
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "2-3 Artist Functions 4": {
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "2-3 Artist Functions 9": {
+          "draw a snowflake": {
+            "name": "zīmēt sniegpārslu"
+          }
+        },
+        "2-3 Bee Functions 1": {
+          "get 2 nectar": {
+            "name": "iegūstiet 2 nektārus"
+          }
+        },
+        "2-3 Bee Functions 10": {
+          "collect purple nectar": {
+            "name": "savāciet violeto nektāru"
+          }
+        },
+        "2-3 Bee Functions 2": {
+          "get 5": {
+            "name": "iegūstiet 5"
+          }
+        },
+        "2-3 Bee Functions 4": {
+          "move and get nectar": {
+            "name": "pārvietot un iegūt nektāru"
+          }
+        },
+        "2-3 Bee Functions 5": {
+          "move and get 4": {
+            "name": "pārvietot un iegūt 4"
+          }
+        },
+        "2-3 Bee Functions 6": {
+          "move and get 4": {
+            "name": "pārvietot un iegūt 4"
+          }
+        },
+        "2-3 Bee Functions 8": {
+          "get 7 nectar make 7 honey": {
+            "name": "iegūt 7 nektārus, izveidot 7 medus"
+          }
+        },
+        "2-3 Bee Functions 9": {
+          "get 7 make 7": {
+            "name": "saņemt 7 izveidot 7"
+          }
+        },
+        "2-3 Bee Functions Assessment 1": {
+          "get 7": {
+            "name": "iegūt 7"
+          }
+        },
+        "2-3 Bee Functions Assessment 2": {
+          "move and get 3": {
+            "name": "pārvietot un iegūt 3"
+          }
+        },
+        "4-5 Artist 3": {
+          "draw a flower": {
+            "name": "zīmēt puķi"
+          }
+        },
+        "4-5 Artist 6": {
+          "draw a tree": {
+            "name": "zīmēt koku"
+          }
+        },
+        "4-5 Artist 7": {
+          "draw a car": {
+            "name": "zīmēt mašīnu"
+          },
+          "draw a circle": {
+            "name": "zīmēt apli"
+          },
+          "draw triangle": {
+            "name": "uzzīmēt trijstūri"
+          }
+        },
+        "4-5 Artist 8": {
+          "draw circle": {
+            "name": "uzzīmēt riņķi"
+          },
+          "draw goal": {
+            "name": "uzzīmēt mērķi"
+          }
+        },
+        "4-5 Bee Conditionals 7": {
+          "check purple flower": {
+            "name": "pārbaudīt violeto ziedu"
+          }
+        },
+        "4-5 Bee Conditionals 8": {
+          "check flower make honey": {
+            "name": "pārbaudīt ziedu, izveidot medu"
+          }
+        },
+        "4-5 Bee Conditionals Assessment 1": {
+          "get nectar or make honey": {
+            "name": "iegūt nektāru vai izveidot medu"
+          }
+        },
+        "4-5 Bee Debugging 7": {
+          "make 3 honey": {
+            "name": "pagatavot 3 medus"
+          }
+        },
+        "4-5 Bee Debugging 8": {
+          "get 5 nectar": {
+            "name": "iegūt 5 nektārus"
+          }
+        },
+        "4-5 Bee Debugging 9": {
+          "make all honey": {
+            "name": "pagatavot visu medu"
+          }
+        },
+        "Alien Defender": {
+          "game has been won": {
+            "name": "spēle ir uzvarēta"
+          }
+        },
+        "Artist Autorun Test": {
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "Auto Open Function Editor": {
+          "draw a shape": {
+            "name": "uzzīmēt formu",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "Choose Your Own Adventure": {
+          "starting path": {
+            "name": "sākuma ceļš"
+          },
+          "story": {
+            "name": "stāsts"
+          },
+          "witch ending": {
+            "name": "raganas beigas"
+          }
+        },
+        "Course 4 Artist Binary 1": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "Course 4 Artist Binary 2": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "Course 4 Artist Binary 3": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "Course 4 Artist Binary 4": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "Course 4 Artist Binary 5": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "Course 4 Artist Binary 6": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "Course 4 Artist Binary 7": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "Course 4 Artist Binary Free Play 2": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "Course 4 Artist Binary Free Play 2a": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "Course 4 Artist Binary Free Play 2b": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "Course 4 Artist Binary pre1": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "Course 4 Artist Functions challenge": {
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          }
+        },
+        "Course 4 Bee Params 5": {
+          "get 5 nectar": {
+            "name": "iegūt 5 nektārus"
+          }
+        },
+        "Course 4 Bee Params 6": {
+          "get 5 nectar": {
+            "name": "iegūt 5 nektārus"
+          }
+        },
+        "Course 4 Bee Params 8": {
+          "get nectar make honey": {
+            "parameters": {
+              "honey": "medus"
+            }
+          }
+        },
+        "Course 4 Play Lab Params 1": {
+          "jump": {
+            "name": "lēkt"
+          }
+        },
+        "Course 4 Play Lab Params 10": {
+          "score_points": {
+            "parameters": {
+              "points": "punkti"
+            }
+          }
+        },
+        "Course 4 Play Lab Params 2": {
+          "jump": {
+            "name": "lēkt"
+          }
+        },
+        "Course 4 Play Lab Params 3": {
+          "jump": {
+            "name": "lēkt",
+            "parameters": {
+              "actor": "aktieris",
+              "height": "augstums"
+            }
+          }
+        },
+        "Course 4 Play Lab Params 4": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "patrol": {
+            "name": "apstaigāt"
+          }
+        },
+        "Course 4 Play Lab Params 5": {
+          "patrol": {
+            "name": "apstaigāt",
+            "parameters": {
+              "actor": "aktieris"
+            }
+          }
+        },
+        "Course 4 Play Lab Params 6": {
+          "patrol": {
+            "name": "apstaigāt",
+            "parameters": {
+              "actor": "aktieris"
+            }
+          }
+        },
+        "Course 4 Play Lab Params 7": {
+          "patrol": {
+            "name": "apstaigāt",
+            "parameters": {
+              "actor": "aktieris",
+              "speed": "ātrums"
+            }
+          }
+        },
+        "Course 4 Play Lab Params 8": {
+          "patrol": {
+            "name": "apstaigāt",
+            "parameters": {
+              "actor": "aktieris",
+              "speed": "ātrums"
+            }
+          }
+        },
+        "Course 4 Play Lab Params 9": {
+          "score_points": {
+            "parameters": {
+              "points": "punkti"
+            }
+          }
+        },
+        "Course 4 Play Lab Vars 1": {
+          "set score": {
+            "name": "rezultāts"
+          }
+        },
+        "Course 4 Play Lab Vars 2": {
+          "set score": {
+            "name": "rezultāts"
+          }
+        },
+        "Course 4 SCF 1": {
+          "draw a hexagon": {
+            "name": "zimēt sešstūri"
+          },
+          "draw a line of hexagons": {
+            "name": "uzzīmē sešstūru rindu"
+          },
+          "shift down/backward": {
+            "name": "pārvietoties uz leju/uz atpakaļ"
+          },
+          "shift down/forward": {
+            "name": "pārvietoties uz leju/uz priekšu"
+          }
+        },
+        "Course 4 SCF 1a": {
+          "get nectar": {
+            "name": "iegūt nektāru",
+            "parameters": {
+              "counter": "cikla mainīgais"
+            }
+          }
+        },
+        "Course 4 SCF 3": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw an octagon": {
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "Course E: Frozen Project_examples2022": {
+          "draw a circle": {
+            "name": "zīmēt apli"
+          },
+          "draw a house": {
+            "name": "zīmēt māju",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a pinwheel": {
+            "name": "uzzīmēt vējdzirnavas",
+            "parameters": {
+              "length": "garums",
+              "repeat": "atkārtot"
+            }
+          },
+          "draw a shape": {
+            "name": "uzzīmēt formu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a square": {
+            "name": "zīmēt kvadrātu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a star": {
+            "name": "zīmet zvaigzni",
+            "parameters": {
+              "length": "garums",
+              "points": "punkti"
+            }
+          },
+          "draw a triangle": {
+            "name": "zīmēt trīsstūri",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "Course E: Frozen Project_examples_2021": {
+          "draw a circle": {
+            "name": "zīmēt apli"
+          },
+          "draw a house": {
+            "name": "zīmēt māju",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a pinwheel": {
+            "name": "uzzīmēt vējdzirnavas",
+            "parameters": {
+              "length": "garums",
+              "repeat": "atkārtot"
+            }
+          },
+          "draw a shape": {
+            "name": "uzzīmēt formu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a square": {
+            "name": "zīmēt kvadrātu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a star": {
+            "name": "zīmet zvaigzni",
+            "parameters": {
+              "length": "garums",
+              "points": "punkti"
+            }
+          },
+          "draw a triangle": {
+            "name": "zīmēt trīsstūri",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "Course E: Frozen Project_examples_2023": {
+          "draw a circle": {
+            "name": "zīmēt apli"
+          },
+          "draw a house": {
+            "name": "zīmēt māju",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a pinwheel": {
+            "name": "uzzīmēt vējdzirnavas",
+            "parameters": {
+              "length": "garums",
+              "repeat": "atkārtot"
+            }
+          },
+          "draw a shape": {
+            "name": "uzzīmēt formu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a square": {
+            "name": "zīmēt kvadrātu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a star": {
+            "name": "zīmet zvaigzni",
+            "parameters": {
+              "length": "garums",
+              "points": "punkti"
+            }
+          },
+          "draw a triangle": {
+            "name": "zīmēt trīsstūri",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "Course E: Play Lab Project": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "Course F: Artist Project_Flowers_examples_2021": {
+          "draw a circle": {
+            "name": "zīmēt apli"
+          },
+          "draw a house": {
+            "name": "zīmēt māju",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a pinwheel": {
+            "name": "uzzīmēt vējdzirnavas",
+            "parameters": {
+              "length": "garums",
+              "repeat": "atkārtot"
+            }
+          },
+          "draw a shape": {
+            "name": "uzzīmēt formu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a square": {
+            "name": "zīmēt kvadrātu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a star": {
+            "name": "zīmet zvaigzni",
+            "parameters": {
+              "length": "garums",
+              "points": "punkti"
+            }
+          },
+          "draw a triangle": {
+            "name": "zīmēt trīsstūri",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "CourseD_EOC_artist": {
+          "draw a circle": {
+            "name": "zīmēt apli"
+          },
+          "draw a house": {
+            "name": "zīmēt māju",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a pinwheel": {
+            "name": "uzzīmēt vējdzirnavas",
+            "parameters": {
+              "length": "garums",
+              "repeat": "atkārtot"
+            }
+          },
+          "draw a shape": {
+            "name": "uzzīmēt formu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a square": {
+            "name": "zīmēt kvadrātu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a star": {
+            "name": "zīmet zvaigzni",
+            "parameters": {
+              "length": "garums",
+              "points": "punkti"
+            }
+          },
+          "draw a triangle": {
+            "name": "zīmēt trīsstūri",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "CourseD_EOC_artist2022": {
+          "draw a circle": {
+            "name": "zīmēt apli"
+          },
+          "draw a house": {
+            "name": "zīmēt māju",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a pinwheel": {
+            "name": "uzzīmēt vējdzirnavas",
+            "parameters": {
+              "length": "garums",
+              "repeat": "atkārtot"
+            }
+          },
+          "draw a shape": {
+            "name": "uzzīmēt formu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a square": {
+            "name": "zīmēt kvadrātu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a star": {
+            "name": "zīmet zvaigzni",
+            "parameters": {
+              "length": "garums",
+              "points": "punkti"
+            }
+          },
+          "draw a triangle": {
+            "name": "zīmēt trīsstūri",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "CourseD_EOC_artist_2021": {
+          "draw a circle": {
+            "name": "zīmēt apli"
+          },
+          "draw a house": {
+            "name": "zīmēt māju",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a pinwheel": {
+            "name": "uzzīmēt vējdzirnavas",
+            "parameters": {
+              "length": "garums",
+              "repeat": "atkārtot"
+            }
+          },
+          "draw a shape": {
+            "name": "uzzīmēt formu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a square": {
+            "name": "zīmēt kvadrātu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a star": {
+            "name": "zīmet zvaigzni",
+            "parameters": {
+              "length": "garums",
+              "points": "punkti"
+            }
+          },
+          "draw a triangle": {
+            "name": "zīmēt trīsstūri",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "CourseD_EOC_artist_2023": {
+          "draw a circle": {
+            "name": "zīmēt apli"
+          },
+          "draw a house": {
+            "name": "zīmēt māju",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a pinwheel": {
+            "name": "uzzīmēt vējdzirnavas",
+            "parameters": {
+              "length": "garums",
+              "repeat": "atkārtot"
+            }
+          },
+          "draw a shape": {
+            "name": "uzzīmēt formu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a square": {
+            "name": "zīmēt kvadrātu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a star": {
+            "name": "zīmet zvaigzni",
+            "parameters": {
+              "length": "garums",
+              "points": "punkti"
+            }
+          },
+          "draw a triangle": {
+            "name": "zīmēt trīsstūri",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "CourseD_EOC_artist_example2021": {
+          "draw a circle": {
+            "name": "zīmēt apli"
+          },
+          "draw a house": {
+            "name": "zīmēt māju",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a pinwheel": {
+            "name": "uzzīmēt vējdzirnavas",
+            "parameters": {
+              "length": "garums",
+              "repeat": "atkārtot"
+            }
+          },
+          "draw a shape": {
+            "name": "uzzīmēt formu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a square": {
+            "name": "zīmēt kvadrātu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a star": {
+            "name": "zīmet zvaigzni",
+            "parameters": {
+              "length": "garums",
+              "points": "punkti"
+            }
+          },
+          "draw a triangle": {
+            "name": "zīmēt trīsstūri",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "CourseD_EOC_artist_example20212022": {
+          "draw a circle": {
+            "name": "zīmēt apli"
+          },
+          "draw a house": {
+            "name": "zīmēt māju",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a pinwheel": {
+            "name": "uzzīmēt vējdzirnavas",
+            "parameters": {
+              "length": "garums",
+              "repeat": "atkārtot"
+            }
+          },
+          "draw a shape": {
+            "name": "uzzīmēt formu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a square": {
+            "name": "zīmēt kvadrātu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a star": {
+            "name": "zīmet zvaigzni",
+            "parameters": {
+              "length": "garums",
+              "points": "punkti"
+            }
+          },
+          "draw a triangle": {
+            "name": "zīmēt trīsstūri",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "CourseD_EOC_artist_example2021_2023": {
+          "draw a circle": {
+            "name": "zīmēt apli"
+          },
+          "draw a house": {
+            "name": "zīmēt māju",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a pinwheel": {
+            "name": "uzzīmēt vējdzirnavas",
+            "parameters": {
+              "length": "garums",
+              "repeat": "atkārtot"
+            }
+          },
+          "draw a shape": {
+            "name": "uzzīmēt formu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a square": {
+            "name": "zīmēt kvadrātu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a star": {
+            "name": "zīmet zvaigzni",
+            "parameters": {
+              "length": "garums",
+              "points": "punkti"
+            }
+          },
+          "draw a triangle": {
+            "name": "zīmēt trīsstūri",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "Find the Wizard": {
+          "check guess": {
+            "name": "pārbaudīt/minēt"
+          },
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "FoodFight": {
+          "score_points": {
+            "parameters": {
+              "points": "punkti"
+            }
+          }
+        },
+        "Function intro Ryan": {
+          "build bridge": {
+            "name": "būvēt tiltu"
+          }
+        },
+        "Function intro Ryan2022": {
+          "build bridge": {
+            "name": "būvēt tiltu"
+          }
+        },
+        "Function intro Ryan_2019": {
+          "build bridge": {
+            "name": "būvēt tiltu"
+          }
+        },
+        "Function intro Ryan_2020": {
+          "build bridge": {
+            "name": "būvēt tiltu"
+          }
+        },
+        "Function intro Ryan_2021": {
+          "build bridge": {
+            "name": "būvēt tiltu"
+          }
+        },
+        "Function intro Ryan_2023": {
+          "build bridge": {
+            "name": "būvēt tiltu"
+          }
+        },
+        "Geometric Sun": {
+          "draw a door": {
+            "name": "zīmēt durvis"
+          },
+          "draw a house": {
+            "name": "zīmēt māju"
+          },
+          "draw grass": {
+            "name": "uzzīmēt zāli"
+          },
+          "draw windows": {
+            "name": "zīmēt logus"
+          },
+          "rectangle": {
+            "name": "taisnstūris"
+          },
+          "square": {
+            "name": "kvadrāts"
+          },
+          "sun": {
+            "name": "saule"
+          },
+          "window": {
+            "name": "logs"
+          }
+        },
+        "Geometric Sun_2018": {
+          "draw a door": {
+            "name": "zīmēt durvis"
+          },
+          "draw a house": {
+            "name": "zīmēt māju"
+          },
+          "draw grass": {
+            "name": "uzzīmēt zāli"
+          },
+          "draw windows": {
+            "name": "zīmēt logus"
+          },
+          "rectangle": {
+            "name": "taisnstūris"
+          },
+          "square": {
+            "name": "kvadrāts"
+          },
+          "sun": {
+            "name": "saule"
+          },
+          "window": {
+            "name": "logs"
+          }
+        },
+        "Guess The Number": {
+          "check guess": {
+            "name": "pārbaudīt/minēt"
+          }
+        },
+        "InspirationalArtwork": {
+          "draw a loop": {
+            "name": "zīmēt cilpu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw spiral circle": {
+            "name": "zīmēt spirālveida apli",
+            "parameters": {
+              "size": "izmērs"
+            }
+          },
+          "n-sided shape": {
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "InspirationalArtwork_2018": {
+          "draw a loop": {
+            "name": "zīmēt cilpu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw spiral circle": {
+            "name": "zīmēt spirālveida apli",
+            "parameters": {
+              "size": "izmērs"
+            }
+          }
+        },
+        "K-1 Artist2 3": {
+          "draw roof": {
+            "name": "zīmēt jumtu"
+          }
+        },
+        "K-1 Artist2 4": {
+          "draw rectangle": {
+            "name": "zīmēt taisnstūri"
+          }
+        },
+        "K-1 Artist2 5": {
+          "draw rectangle": {
+            "name": "zīmēt taisnstūri"
+          }
+        },
+        "MC Agent Freeplay": {
+          "function 1": {
+            "name": "funkcija 1"
+          },
+          "function 2": {
+            "name": "funkcija 2"
+          }
+        },
+        "MC_HOC_2017_07_Cole": {
+          "clear path": {
+            "name": "atbrīvot ceļu"
+          }
+        },
+        "MC_HOC_2017_07_Cole2022": {
+          "clear path": {
+            "name": "atbrīvot ceļu"
+          }
+        },
+        "MC_HOC_2017_07_Cole_2019": {
+          "clear path": {
+            "name": "atbrīvot ceļu"
+          }
+        },
+        "MC_HOC_2017_07_Cole_2020": {
+          "clear path": {
+            "name": "atbrīvot ceļu"
+          }
+        },
+        "MC_HOC_2017_07_Cole_2021": {
+          "clear path": {
+            "name": "atbrīvot ceļu"
+          }
+        },
+        "MC_HOC_2017_07_Cole_2023": {
+          "clear path": {
+            "name": "atbrīvot ceļu"
+          }
+        },
+        "MC_HOC_2017_10_RETRY": {
+          "fix long path": {
+            "name": "labot garo ceļu"
+          },
+          "fix short path": {
+            "name": "labot īso ceļu"
+          }
+        },
+        "MC_HOC_2017_10_RETRY2022": {
+          "fix long path": {
+            "name": "labot garo ceļu"
+          },
+          "fix short path": {
+            "name": "labot īso ceļu"
+          }
+        },
+        "MC_HOC_2017_10_RETRY_2019": {
+          "fix long path": {
+            "name": "labot garo ceļu"
+          },
+          "fix short path": {
+            "name": "labot īso ceļu"
+          }
+        },
+        "MC_HOC_2017_10_RETRY_2020": {
+          "fix long path": {
+            "name": "labot garo ceļu"
+          },
+          "fix short path": {
+            "name": "labot īso ceļu"
+          }
+        },
+        "MC_HOC_2017_10_RETRY_2021": {
+          "fix long path": {
+            "name": "labot garo ceļu"
+          },
+          "fix short path": {
+            "name": "labot īso ceļu"
+          }
+        },
+        "MC_HOC_2017_10_RETRY_2023": {
+          "fix long path": {
+            "name": "labot garo ceļu"
+          },
+          "fix short path": {
+            "name": "labot īso ceļu"
+          }
+        },
+        "MC_HOC_2017_Ali": {
+          "build long bridge": {
+            "name": "būvēt garu tiltu"
+          },
+          "build short bridge": {
+            "name": "būvēt īsu tiltu"
+          }
+        },
+        "MC_HOC_2017_Ali2022": {
+          "build long bridge": {
+            "name": "būvēt garu tiltu"
+          },
+          "build short bridge": {
+            "name": "būvēt īsu tiltu"
+          }
+        },
+        "MC_HOC_2017_Ali_2019": {
+          "build long bridge": {
+            "name": "būvēt garu tiltu"
+          },
+          "build short bridge": {
+            "name": "būvēt īsu tiltu"
+          }
+        },
+        "MC_HOC_2017_Ali_2020": {
+          "build long bridge": {
+            "name": "būvēt garu tiltu"
+          },
+          "build short bridge": {
+            "name": "būvēt īsu tiltu"
+          }
+        },
+        "MC_HOC_2017_Ali_2021": {
+          "build long bridge": {
+            "name": "būvēt garu tiltu"
+          },
+          "build short bridge": {
+            "name": "būvēt īsu tiltu"
+          }
+        },
+        "MC_HOC_2017_Ali_2023": {
+          "build long bridge": {
+            "name": "būvēt garu tiltu"
+          },
+          "build short bridge": {
+            "name": "būvēt īsu tiltu"
+          }
+        },
+        "MC_HOC_2017_FP20x20": {
+          "function 1": {
+            "name": "funkcija 1"
+          },
+          "function 2": {
+            "name": "funkcija 2"
+          }
+        },
+        "MC_HOC_2017_FP20x202022": {
+          "function 1": {
+            "name": "funkcija 1"
+          },
+          "function 2": {
+            "name": "funkcija 2"
+          }
+        },
+        "MC_HOC_2017_FP20x20_2019": {
+          "function 1": {
+            "name": "funkcija 1"
+          },
+          "function 2": {
+            "name": "funkcija 2"
+          }
+        },
+        "MC_HOC_2017_FP20x20_2020": {
+          "function 1": {
+            "name": "funkcija 1"
+          },
+          "function 2": {
+            "name": "funkcija 2"
+          }
+        },
+        "MC_HOC_2017_FP20x20_2021": {
+          "function 1": {
+            "name": "funkcija 1"
+          },
+          "function 2": {
+            "name": "funkcija 2"
+          }
+        },
+        "MC_HOC_2017_FP20x20_2023": {
+          "function 1": {
+            "name": "funkcija 1"
+          },
+          "function 2": {
+            "name": "funkcija 2"
+          }
+        },
+        "NEW Course 4 Artist Functions 11": {
+          "draw a line of  squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          }
+        },
+        "NEW Course 4 Artist Functions 12": {
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          }
+        },
+        "NEW Course 4 Artist Functions 13": {
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          }
+        },
+        "NEW Course 4 Artist Functions 14": {
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "empty function": {
+            "name": "iztukšošanas funkcija"
+          }
+        },
+        "NEW Course 4 Artist Functions 3": {
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "NEW Course 4 Artist Functions 4": {
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "NEW Course 4 Artist Functions 7": {
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "NEW Course 4 Artist Functions 8": {
+          "draw a triangle": {
+            "name": "zīmēt trīsstūri"
+          }
+        },
+        "NEW Course 4 Artist Functions 9": {
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          },
+          "draw a triangle": {
+            "name": "zīmēt trīsstūri"
+          }
+        },
+        "NEW Course 4 Artist Params 1": {
+          "Draw a triangle": {
+            "name": "Zīmēt trijstūri"
+          },
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "NEW Course 4 Artist Params 10": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a hexagon": {
+            "name": "zimēt sešstūri",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "NEW Course 4 Artist Params 11": {
+          "do something": {
+            "name": "kaut ko",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a polygon": {
+            "name": "uzzīmēt daudzstūri",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "NEW Course 4 Artist Params 12": {
+          "draw a polygon": {
+            "name": "uzzīmēt daudzstūri",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "NEW Course 4 Artist Params 12a": {
+          "draw a polygon": {
+            "name": "uzzīmēt daudzstūri",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "NEW Course 4 Artist Params 13": {
+          "draw a polygon": {
+            "name": "uzzīmēt daudzstūri",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "NEW Course 4 Artist Params 14": {
+          "draw a spiral edge": {
+            "name": "zīmēt spirālveida malu",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "NEW Course 4 Artist Params 15": {
+          "draw a circle": {
+            "name": "zīmēt apli"
+          },
+          "draw a house": {
+            "name": "zīmēt māju",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a pinwheel": {
+            "name": "uzzīmēt vējdzirnavas",
+            "parameters": {
+              "length": "garums",
+              "repeat": "atkārtot"
+            }
+          },
+          "draw a shape": {
+            "name": "uzzīmēt formu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a square": {
+            "name": "zīmēt kvadrātu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a star": {
+            "name": "zīmet zvaigzni",
+            "parameters": {
+              "length": "garums",
+              "points": "punkti"
+            }
+          },
+          "draw a triangle": {
+            "name": "zīmēt trīsstūri",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "NEW Course 4 Artist Params 2": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a triangle": {
+            "description": "zīmēt trīsstūri",
+            "name": "zīmēt trīsstūri"
+          }
+        },
+        "NEW Course 4 Artist Params 3": {
+          "draw a triangle": {
+            "name": "zīmēt trīsstūri"
+          }
+        },
+        "NEW Course 4 Artist Params 4": {
+          "draw a triangle with length": {
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "NEW Course 4 Artist Params 5": {
+          "draw a pentagon": {
+            "name": "uzzīmēt piecstūri",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "NEW Course 4 Artist Params 6": {
+          "draw a hexagon": {
+            "name": "zimēt sešstūri",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a sqaure": {
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a square": {
+            "name": "zīmēt kvadrātu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a triangle": {
+            "name": "zīmēt trīsstūri",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "NEW Course 4 Artist Params 7": {
+          "draw a triangle": {
+            "name": "zīmēt trīsstūri",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "NEW Course 4 Artist Params 8": {
+          "draw a triangle with length": {
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "NEW Course 4 Artist Params 9": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a square": {
+            "name": "zīmēt kvadrātu",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "NEW Course 4 Artist Params inspire": {
+          "draw a polygon": {
+            "name": "uzzīmēt daudzstūri",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "NEW Course 4 Play Lab Params 11": {
+          "jump": {
+            "name": "lēkt",
+            "parameters": {
+              "actor": "aktieris",
+              "height": "augstums"
+            }
+          },
+          "patrol": {
+            "name": "apstaigāt",
+            "parameters": {
+              "actor": "aktieris",
+              "speed": "ātrums"
+            }
+          }
+        },
+        "New Artist Project": {
+          "draw a circle": {
+            "name": "zīmēt apli"
+          },
+          "draw a house": {
+            "name": "zīmēt māju",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a pinwheel": {
+            "name": "uzzīmēt vējdzirnavas",
+            "parameters": {
+              "length": "garums",
+              "repeat": "atkārtot"
+            }
+          },
+          "draw a shape": {
+            "name": "uzzīmēt formu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a square": {
+            "name": "zīmēt kvadrātu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a star": {
+            "name": "zīmet zvaigzni",
+            "parameters": {
+              "length": "garums",
+              "points": "punkti"
+            }
+          },
+          "draw a triangle": {
+            "name": "zīmēt trīsstūri",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "New Minecraft Hero Project": {
+          "function 1": {
+            "name": "funkcija 1"
+          },
+          "function 2": {
+            "name": "funkcija 2"
+          }
+        },
+        "New Play Lab Project": {
+          "jump": {
+            "name": "lēkt",
+            "parameters": {
+              "actor": "aktieris",
+              "height": "augstums"
+            }
+          },
+          "patrol": {
+            "name": "apstaigāt",
+            "parameters": {
+              "actor": "aktieris",
+              "speed": "ātrums"
+            }
+          }
+        },
+        "Robot Doodle": {
+          "draw head": {
+            "name": "uzzīmējiet galvu"
+          }
+        },
+        "Robot Doodle_2018": {
+          "draw head": {
+            "name": "uzzīmējiet galvu"
+          }
+        },
+        "Standalone_Artist_7": {
+          "draw a flower": {
+            "name": "zīmēt puķi"
+          }
+        },
+        "Standalone_Artist_8": {
+          "draw a shape": {
+            "name": "uzzīmēt formu"
+          }
+        },
+        "allthethings_spritelab_functions": {
+          "set background": {
+            "name": "iestati fonu"
+          }
+        },
+        "course3_artist_functions_challenge1": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "course3_artist_functions_challenge2": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "course3_bee_functions_challenge1": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "course3_bee_functions_challenge2": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "course4_artist_binary_challenge1": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "course4_artist_binary_challenge2": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "course4_artist_functions_challenge2": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "course4_artist_fwp_challenge1": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a polygon": {
+            "name": "uzzīmēt daudzstūri"
+          },
+          "draw background": {
+            "parameters": {
+              "color": "krāsa"
+            }
+          }
+        },
+        "course4_bee_fwp_challenge1": {
+          "pick row": {
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "course4_bee_fwp_challenge2": {
+          "pick row": {
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "courseC_artist_prog3": {
+          "draw flame": {
+            "parameters": {
+              "x": "x"
+            }
+          }
+        },
+        "courseC_artist_prog32022": {
+          "draw flame": {
+            "parameters": {
+              "x": "x"
+            }
+          }
+        },
+        "courseC_artist_prog3_2018": {
+          "draw flame": {
+            "parameters": {
+              "x": "x"
+            }
+          }
+        },
+        "courseC_artist_prog3_2019": {
+          "draw flame": {
+            "parameters": {
+              "x": "x"
+            }
+          }
+        },
+        "courseC_artist_prog3_2020": {
+          "draw flame": {
+            "parameters": {
+              "x": "x"
+            }
+          }
+        },
+        "courseC_artist_prog3_2021": {
+          "draw flame": {
+            "parameters": {
+              "x": "x"
+            }
+          }
+        },
+        "courseC_artist_prog3_2023": {
+          "draw flame": {
+            "parameters": {
+              "x": "x"
+            }
+          }
+        },
+        "courseC_data wizard": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseC_data wizard2022": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseC_data wizard_2020": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseC_data wizard_2021": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseC_data wizard_2023": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseD_artist_binary1": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary1_2018": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary1_2019": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary1_2020": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary2": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary2_2018": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary2_2019": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary2_2020": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary3": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary3_2018": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary3_2019": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary3_2020": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary4": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary4_2018": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary4_2019": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary4_2020": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary5": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary5_2018": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary5_2019": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary5_2020": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary6": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary6_2018": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary6_2019": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary6_2020": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary7": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary7_2018": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary7_2019": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary7_2020": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary8": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary8_2018": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary8_2019": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary8_2020": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary8_predict1": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary8_predict1_2018": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary8_predict1_2019": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary8_predict1_2020": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binaryFP_2018": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binaryFP_2019": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binaryFP_2020": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary_challenge1_2018": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary_challenge1_2019": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary_challenge1_2020": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary_challenge2_2018": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary_challenge2_2019": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_artist_binary_challenge2_2020": {
+          "draw": {
+            "name": "zīmēt",
+            "parameters": {
+              "binary": "binārie"
+            }
+          }
+        },
+        "courseD_autorun_binary2_2019": {
+          "draw": {
+            "name": "zīmēt"
+          }
+        },
+        "courseD_autorun_binary3_2019": {
+          "draw": {
+            "name": "zīmēt"
+          }
+        },
+        "courseD_autorun_binary4_2019": {
+          "draw": {
+            "name": "zīmēt"
+          }
+        },
+        "courseD_autorun_binary5_2019": {
+          "draw": {
+            "name": "zīmēt"
+          }
+        },
+        "courseD_autorun_binary6_2019": {
+          "draw": {
+            "name": "zīmēt"
+          }
+        },
+        "courseD_autorun_binary7_2019": {
+          "draw": {
+            "name": "zīmēt"
+          }
+        },
+        "courseD_autorun_binary8_2019": {
+          "draw": {
+            "name": "zīmēt"
+          }
+        },
+        "courseD_autorun_binary8_predict1_2019": {
+          "draw": {
+            "name": "zīmēt"
+          }
+        },
+        "courseE_artist_concept1": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a hexagon": {
+            "name": "zimēt sešstūri"
+          }
+        },
+        "courseE_artist_concept1_2018": {
+          "draw a hexagon": {
+            "name": "zimēt sešstūri"
+          }
+        },
+        "courseE_artist_concept4": {
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_concept4_2018": {
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_concept_challenge1": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_concept_challenge1_2018": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_functions10": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_functions102022": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_functions10_2018": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_functions10_2019": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_functions10_2020": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_functions10_2021": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_functions10_2023": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_functions2": {
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions22022": {
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions2_2018": {
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions2_2019": {
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions2_2020": {
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions2_2021": {
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions2_2023": {
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions2_copy": {
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions2_dani": {
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions32022": {
+          "draw a star": {
+            "name": "zīmet zvaigzni"
+          }
+        },
+        "courseE_artist_functions3_2018": {
+          "draw a star": {
+            "name": "zīmet zvaigzni"
+          }
+        },
+        "courseE_artist_functions3_2019": {
+          "draw a star": {
+            "name": "zīmet zvaigzni"
+          }
+        },
+        "courseE_artist_functions3_2020": {
+          "draw a star": {
+            "name": "zīmet zvaigzni"
+          }
+        },
+        "courseE_artist_functions3_2021": {
+          "draw a star": {
+            "name": "zīmet zvaigzni"
+          }
+        },
+        "courseE_artist_functions3_2023": {
+          "draw a star": {
+            "name": "zīmet zvaigzni"
+          }
+        },
+        "courseE_artist_functions4": {
+          "draw a star": {
+            "name": "zīmet zvaigzni"
+          }
+        },
+        "courseE_artist_functions4_copy": {
+          "draw a star": {
+            "name": "zīmet zvaigzni"
+          }
+        },
+        "courseE_artist_functions4_dani": {
+          "draw a star": {
+            "name": "zīmet zvaigzni"
+          }
+        },
+        "courseE_artist_functions5": {
+          "draw a star": {
+            "name": "zīmet zvaigzni"
+          }
+        },
+        "courseE_artist_functions52022": {
+          "draw a star": {
+            "name": "zīmet zvaigzni"
+          }
+        },
+        "courseE_artist_functions5_2018": {
+          "draw a star": {
+            "name": "zīmet zvaigzni"
+          }
+        },
+        "courseE_artist_functions5_2019": {
+          "draw a star": {
+            "name": "zīmet zvaigzni"
+          }
+        },
+        "courseE_artist_functions5_2020": {
+          "draw a star": {
+            "name": "zīmet zvaigzni"
+          }
+        },
+        "courseE_artist_functions5_2021": {
+          "draw a star": {
+            "name": "zīmet zvaigzni"
+          }
+        },
+        "courseE_artist_functions5_2023": {
+          "draw a star": {
+            "name": "zīmet zvaigzni"
+          }
+        },
+        "courseE_artist_functions5_copy": {
+          "draw a star": {
+            "name": "zīmet zvaigzni"
+          }
+        },
+        "courseE_artist_functions5_dani": {
+          "draw a star": {
+            "name": "zīmet zvaigzni"
+          }
+        },
+        "courseE_artist_functions7": {
+          "draw a house": {
+            "name": "zīmēt māju"
+          }
+        },
+        "courseE_artist_functions7_2018": {
+          "draw a house": {
+            "name": "zīmēt māju"
+          }
+        },
+        "courseE_artist_functions7_2020": {
+          "draw a house": {
+            "name": "zīmēt māju"
+          }
+        },
+        "courseE_artist_functions8": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "draw square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions82022": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "draw square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions8_2018": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "draw square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions8_2019": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "draw square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions8_2020": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "draw square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions8_2021": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "draw square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions8_2023": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "draw square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions8a2022": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions8a_2018": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions8a_2019": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions8a_2020": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions8a_2021": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions8a_2023": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions8b2022": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "draw square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions8b_2018": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "draw square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions8b_2019": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "draw square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions8b_2020": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "draw square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions8b_2021": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "draw square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions8b_2023": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "draw square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions8c2022": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "draw square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions8c_2018": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "draw square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions8c_2019": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "draw square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions8c_2020": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "draw square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions8c_2021": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "draw square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions8c_2023": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "draw square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions9": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw triangle": {
+            "name": "uzzīmēt trijstūri"
+          }
+        },
+        "courseE_artist_functions92022": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw triangle": {
+            "name": "uzzīmēt trijstūri"
+          }
+        },
+        "courseE_artist_functions9_2018": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw triangle": {
+            "name": "uzzīmēt trijstūri"
+          }
+        },
+        "courseE_artist_functions9_2019": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw triangle": {
+            "name": "uzzīmēt trijstūri"
+          }
+        },
+        "courseE_artist_functions9_2020": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw triangle": {
+            "name": "uzzīmēt trijstūri"
+          }
+        },
+        "courseE_artist_functions9_2021": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw triangle": {
+            "name": "uzzīmēt trijstūri"
+          }
+        },
+        "courseE_artist_functions9_2023": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw triangle": {
+            "name": "uzzīmēt trijstūri"
+          }
+        },
+        "courseE_artist_functionsProj2022": {
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "draw square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functionsProj_2018": {
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "draw square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functionsProj_2019": {
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "draw square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functionsProj_2020": {
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "draw square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functionsProj_2021": {
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "draw square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functionsProj_2023": {
+          "draw a line of squares": {
+            "name": "zīmēt kvadrātu rindu"
+          },
+          "draw square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions_challenge1": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_functions_challenge12022": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_functions_challenge1_2018": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_functions_challenge1_2019": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_functions_challenge1_2020": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_functions_challenge1_2021": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_functions_challenge1_2023": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_functions_challenge2": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_functions_challenge22022": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_functions_challenge2_2018": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_functions_challenge2_2019": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_functions_challenge2_2020": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_functions_challenge2_2021": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_functions_challenge2_2023": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_functions_predict1": {
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions_predict12022": {
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions_predict1_2018": {
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions_predict1_2019": {
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions_predict1_2020": {
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions_predict1_2021": {
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions_predict1_2023": {
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions_predict1_copy": {
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions_predict1_dani": {
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseE_artist_functions_predict2": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_functions_predict22022": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_functions_predict2_2018": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_functions_predict2_2019": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_functions_predict2_2020": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_functions_predict2_2021": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_artist_functions_predict2_2023": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_bee_functions1": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_bee_functions2": {
+          "get 2 nectar": {
+            "name": "iegūstiet 2 nektārus"
+          }
+        },
+        "courseE_bee_functions3": {
+          "get 5": {
+            "name": "iegūstiet 5"
+          }
+        },
+        "courseE_bee_functions4": {
+          "move and get nectar": {
+            "name": "pārvietot un iegūt nektāru"
+          }
+        },
+        "courseE_bee_functions5": {
+          "move and get 4": {
+            "name": "pārvietot un iegūt 4"
+          }
+        },
+        "courseE_bee_functions6": {
+          "get 7 nectar make 7 honey": {
+            "name": "iegūt 7 nektārus, izveidot 7 medus"
+          }
+        },
+        "courseE_bee_functions7": {
+          "get 7 make 7": {
+            "name": "saņemt 7 izveidot 7"
+          }
+        },
+        "courseE_bee_functions_challenge1": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_bee_functions_challenge2": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_farmer_concept1": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_farmer_concept2": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_farmer_concept3": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_playLab_scaffold1": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_playLab_scaffold2": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_playLab_scaffold3": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseE_playLab_scaffold4": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseF_apps_collector": {
+          "end game": {
+            "name": "spēles beigas"
+          }
+        },
+        "courseF_apps_collector2022": {
+          "end game": {
+            "name": "spēles beigas"
+          }
+        },
+        "courseF_apps_collector_-2022-2": {
+          "end game": {
+            "name": "spēles beigas"
+          }
+        },
+        "courseF_apps_collector_2023": {
+          "end game": {
+            "name": "spēles beigas"
+          }
+        },
+        "courseF_artist_fwp1": {
+          "Make gingham": {
+            "parameters": {
+              "size": "izmērs"
+            }
+          },
+          "black outline": {
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "checker": {
+            "parameters": {
+              "color": "krāsa",
+              "size": "izmērs"
+            }
+          },
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a square": {
+            "name": "zīmēt kvadrātu"
+          }
+        },
+        "courseF_artist_fwp2": {
+          "Make gingham": {
+            "parameters": {
+              "size": "izmērs"
+            }
+          },
+          "black outline": {
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "checker": {
+            "parameters": {
+              "color": "krāsa",
+              "size": "izmērs"
+            }
+          },
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a square": {
+            "name": "zīmēt kvadrātu",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "courseF_artist_fwp2_predict1": {
+          "draw a square": {
+            "name": "zīmēt kvadrātu",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "courseF_artist_fwp3": {
+          "black outline": {
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a square": {
+            "name": "zīmēt kvadrātu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a square2": {
+            "parameters": {
+              "size": "izmērs"
+            }
+          },
+          "filled square": {
+            "parameters": {
+              "color": "krāsa",
+              "size": "izmērs"
+            }
+          }
+        },
+        "courseF_artist_fwp4": {
+          "draw a polygon": {
+            "name": "uzzīmēt daudzstūri",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "courseF_artist_fwp5": {
+          "draw a polygon": {
+            "name": "uzzīmēt daudzstūri",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "courseF_artist_fwp6": {
+          "draw a spiral edge": {
+            "name": "zīmēt spirālveida malu",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "courseF_artist_fwp7": {
+          "draw a spiral edge": {
+            "name": "zīmēt spirālveida malu",
+            "parameters": {
+              "length": "garums",
+              "min": "minimālais"
+            }
+          }
+        },
+        "courseF_artist_fwp8": {
+          "draw a spiral edge": {
+            "name": "zīmēt spirālveida malu",
+            "parameters": {
+              "length": "garums",
+              "min": "minimālais"
+            }
+          }
+        },
+        "courseF_artist_fwp9": {
+          "draw a circle": {
+            "name": "zīmēt apli"
+          },
+          "draw a house": {
+            "name": "zīmēt māju",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a pinwheel": {
+            "name": "uzzīmēt vējdzirnavas",
+            "parameters": {
+              "length": "garums",
+              "repeat": "atkārtot"
+            }
+          },
+          "draw a shape": {
+            "name": "uzzīmēt formu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a spiral edge": {
+            "name": "zīmēt spirālveida malu",
+            "parameters": {
+              "length": "garums",
+              "min": "minimālais"
+            }
+          },
+          "draw a square": {
+            "name": "zīmēt kvadrātu",
+            "parameters": {
+              "length": "garums"
+            }
+          },
+          "draw a star": {
+            "name": "zīmet zvaigzni",
+            "parameters": {
+              "length": "garums",
+              "points": "punkti"
+            }
+          },
+          "draw a triangle": {
+            "name": "zīmēt trīsstūri",
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "courseF_artist_fwp_challenge1": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw a polygon": {
+            "name": "uzzīmēt daudzstūri"
+          },
+          "draw background": {
+            "parameters": {
+              "color": "krāsa"
+            }
+          }
+        },
+        "courseF_artist_fwp_challenge2": {
+          "do something": {
+            "name": "kaut ko"
+          },
+          "draw an octagon": {
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "courseF_bee_functions8a": {
+          "do something": {
+            "name": "kaut ko"
+          }
+        },
+        "courseF_bee_fwp4": {
+          "rowOfNectar": {
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "courseF_bee_fwp_challenge1": {
+          "pick row": {
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "courseF_bee_fwp_challenge2": {
+          "pick row": {
+            "parameters": {
+              "length": "garums"
+            }
+          }
+        },
+        "courseF_bee_variables_7_2018": {
+          "collect": {
+            "name": "iegūt"
+          }
+        },
+        "courseF_bee_variables_7_2019": {
+          "collect": {
+            "name": "iegūt"
+          }
+        },
+        "courseF_bee_variables_7_2020": {
+          "collect": {
+            "name": "iegūt"
+          }
+        },
+        "courseF_bee_variables_8_2018": {
+          "collect": {
+            "name": "iegūt"
+          }
+        },
+        "courseF_bee_variables_8_2019": {
+          "collect": {
+            "name": "iegūt"
+          }
+        },
+        "courseF_bee_variables_8_2020": {
+          "collect": {
+            "name": "iegūt"
+          }
+        },
+        "grade5_artist_binary11": {
+          "draw": {
+            "name": "zīmēt"
+          }
+        },
+        "grade5_artist_binary4": {
+          "draw": {
+            "name": "zīmēt"
+          }
+        },
+        "grade5_artist_binary5": {
+          "draw": {
+            "name": "zīmēt"
+          }
+        },
+        "grade5_artist_binary8": {
+          "draw": {
+            "name": "zīmēt"
+          }
+        },
+        "grade5_artist_binary9": {
+          "draw": {
+            "name": "zīmēt"
+          }
+        }
+      }
+    }
+  }
+}

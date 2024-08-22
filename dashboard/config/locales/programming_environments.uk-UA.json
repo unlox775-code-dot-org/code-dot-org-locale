@@ -1,0 +1,628 @@
+{
+  "uk-UA": {
+    "data": {
+      "programming_environments": {
+        "applab": {
+          "categories": {
+            "advanced": {
+              "name": "Розширені"
+            },
+            "canvas": {
+              "expressions": {
+                "circle": {
+                  "palette_params": {
+                    "radius": {
+                      "description": "Радіус кола, в пікселах."
+                    }
+                  }
+                },
+                "getAlpha": {
+                  "palette_params": {
+                    "imageData": {
+                      "type": "об'єкта"
+                    }
+                  },
+                  "short_description": "Повернути величину альфа (непрозорості) (в діапазоні від 0 до 255) кольору пікселя, розташованого в заданому положенні x і y в даному зображенні."
+                },
+                "getBlue": {
+                  "palette_params": {
+                    "imageData": {
+                      "type": "об'єкта"
+                    }
+                  }
+                },
+                "getGreen": {
+                  "palette_params": {
+                    "imageData": {
+                      "type": "об'єкта"
+                    }
+                  }
+                },
+                "getRed": {
+                  "palette_params": {
+                    "imageData": {
+                      "type": "об'єкта"
+                    }
+                  }
+                },
+                "putImageData": {
+                  "palette_params": {
+                    "imageData": {
+                      "type": "об'єкта"
+                    },
+                    "x": {
+                      "description": "Позиція x в пікселах, починаючи з верхнього лівого кута зображення для розміщення даних на полотні."
+                    },
+                    "y": {
+                      "description": "Позиція y в пікселах, починаючи з верхнього лівого кута зображення для розміщення даних на полотні."
+                    }
+                  }
+                },
+                "rect": {
+                  "palette_params": {
+                    "height": {
+                      "description": "Вертикальна висота прямокутника в пікселах."
+                    },
+                    "width": {
+                      "description": "Горизонтальна ширина прямокутника в пікселах."
+                    }
+                  }
+                },
+                "setAlpha": {
+                  "palette_params": {
+                    "imageData": {
+                      "type": "об'єкта"
+                    }
+                  },
+                  "short_description": "Встановити величину alpha (непрозорість) (від 0 до 255) для пікселя, розташованого в заданому положенні x та y вказаного зображення."
+                },
+                "setBlue": {
+                  "palette_params": {
+                    "imageData": {
+                      "type": "об'єкта"
+                    }
+                  },
+                  "short_description": "Встановити вхідну величину blueValue як кількість синього кольору (від 0 до 255) для кольору пікселя, розташованого в заданому положенні x та y вказаного зображення."
+                },
+                "setGreen": {
+                  "palette_params": {
+                    "imageData": {
+                      "type": "об'єкта"
+                    }
+                  },
+                  "short_description": "Встановити вхідну величину greenValue як кількість зеленого кольору (від 0 до 255) для кольору пікселя, розташованого в заданому положенні x та y вказаного зображення."
+                },
+                "setRGB": {
+                  "palette_params": {
+                    "imageData": {
+                      "type": "об'єкта"
+                    }
+                  }
+                },
+                "setRed": {
+                  "palette_params": {
+                    "imageData": {
+                      "type": "об'єкта"
+                    }
+                  },
+                  "short_description": "Встановити вхідну величину redValue як кількість червоного кольору (від 0 до 255) для кольору пікселя, розташованого в заданому положенні x та y вказаного зображення."
+                }
+              },
+              "name": "Полотно"
+            },
+            "circuit": {
+              "name": "Схема, плата"
+            },
+            "control": {
+              "expressions": {
+                "clearTimeout": {
+                  "palette_params": {
+                    "timeout": {
+                      "description": "Значення, повернене функцією setTimeout для скасування."
+                    }
+                  }
+                },
+                "ifBlock": {
+                  "short_description": "Виконати блок команд, якщо вказана умова відповідає дійсності."
+                },
+                "ifElseBlock": {
+                  "short_description": "Виконати блок команд, якщо вказана умова відповідає дійсності; в іншому випадку виконати блок команд пункту else."
+                },
+                "timedLoop": {
+                  "palette_params": {
+                    "callback": {
+                      "type": "Функція"
+                    }
+                  }
+                },
+                "whileBlock": {
+                  "short_description": "Виконати блок команд, поки вказана умова відповідає дійсності."
+                }
+              },
+              "name": "Керування"
+            },
+            "data": {
+              "expressions": {
+                "createRecord": {
+                  "palette_params": {
+                    "record": {
+                      "type": "об'єкта"
+                    }
+                  }
+                },
+                "deleteRecord": {
+                  "palette_params": {
+                    "record": {
+                      "type": "об'єкта"
+                    }
+                  }
+                },
+                "drawChart": {
+                  "palette_params": {
+                    "options": {
+                      "type": "об'єкта"
+                    }
+                  }
+                },
+                "drawChartFromRecords": {
+                  "palette_params": {
+                    "options": {
+                      "type": "об'єкта"
+                    }
+                  }
+                },
+                "getPrediction": {
+                  "palette_params": {
+                    "callback": {
+                      "type": "Функція"
+                    }
+                  }
+                },
+                "getUserId": {
+                  "short_description": "Отримати унікальний ідентифікатор для поточного користувача цієї програми."
+                },
+                "readRecords": {
+                  "palette_params": {
+                    "terms": {
+                      "type": "об'єкта"
+                    }
+                  }
+                },
+                "setKeyValue": {
+                  "short_description": "Зберегти пару ключ/значення в сховищі даних ключа/значення Програмної Лабораторії та викликати функцію після завершення дії."
+                },
+                "startWebRequest": {
+                  "palette_params": {
+                    "url": {
+                      "description": "Вебадреса служби, яка повертає дані."
+                    }
+                  }
+                },
+                "updateRecord": {
+                  "palette_params": {
+                    "record": {
+                      "type": "об'єкта"
+                    }
+                  }
+                }
+              },
+              "name": "Дані"
+            },
+            "functions": {
+              "name": "Функції"
+            },
+            "maker": {
+              "name": "Мейкер"
+            },
+            "math": {
+              "expressions": {
+                "multiplyOperator": {
+                  "short_description": "Помножити числа."
+                },
+                "randomNumber": {
+                  "palette_params": {
+                    "max": {
+                      "description": "Найбільше число, котре можна повернути"
+                    },
+                    "min": {
+                      "description": "Найменше число, котре можна повернути"
+                    }
+                  }
+                },
+                "randomNumber_min_max": {
+                  "palette_params": {
+                    "max": {
+                      "description": "Найбільше число, котре можна повернути"
+                    },
+                    "min": {
+                      "description": "Найменше число, котре можна повернути"
+                    }
+                  }
+                },
+                "subtractOperator": {
+                  "examples": {
+                    "Example: Subtract two numbers": {
+                      "name": "Приклад: Віднімання двох чисел"
+                    }
+                  },
+                  "return_value": "Різниця двох чисел.",
+                  "short_description": "Відняти числа."
+                }
+              },
+              "name": "Математика"
+            },
+            "turtle": {
+              "expressions": {
+                "arcLeft": {
+                  "short_description": "Перемістити черепашку вперед і ліворуч плавною круговою дугою."
+                },
+                "getX": {
+                  "short_description": "Отримати поточну Х-координату черепашки у пікселах."
+                },
+                "getY": {
+                  "short_description": "Отримати поточну Y-координату черепашки у пікселах."
+                },
+                "hide": {
+                  "short_description": "Робить черепашку невидимою в її поточному розташуванні."
+                },
+                "move": {
+                  "palette_params": {
+                    "x": {
+                      "description": "Кількість пікселів для переміщення черепашки вправо."
+                    },
+                    "y": {
+                      "description": "Кількість пікселів для переміщення черепашки вниз."
+                    }
+                  }
+                },
+                "moveBackward": {
+                  "short_description": "Переміститичерепашку назад на задану кількість пікселів від поточного напрямку."
+                },
+                "moveForward": {
+                  "short_description": "Перемістити черепашку вперед задану кількість пікселів у поточному напрямку."
+                },
+                "moveTo": {
+                  "short_description": "Перемістити черепашку в певне положення (x, y) на екрані."
+                },
+                "penColor": {
+                  "short_description": "Встановити колір пера, який черепашка використовує для малювання ліній і точок."
+                },
+                "penDown": {
+                  "short_description": "Опустити ручку вниз, щоб черепашка малювала лінію за собою під час руху."
+                },
+                "penRGB": {
+                  "short_description": "Використовуючи значення RGBA, задати колір пера, який черепашка використовує для малювання ліній і точок."
+                },
+                "penUp": {
+                  "short_description": "Підняти ручку, щоб черепашка не проводила лінію під час руху."
+                },
+                "penWidth": {
+                  "short_description": "Встановити ширину лінії в пікселах, яку черепашка малює за собою під час руху."
+                },
+                "show": {
+                  "short_description": "Робить черепашку видимою в її поточному місці."
+                },
+                "speed": {
+                  "short_description": "Встановити швидкість виконання програми, що включає швидкість черепашки."
+                },
+                "turnLeft": {
+                  "short_description": "Повернути черепашку ліворуч на заданий кут. Позиція черепашки залишається незмінною."
+                },
+                "turnRight": {
+                  "short_description": "Повернути черепашку вправо на заданий кут. Позиція черепашки залишається незмінною."
+                },
+                "turnTo": {
+                  "short_description": "Змінити напрямок черепашки на певний кут. 0 - вгору, 90 - праворуч, 180 - вниз, а 270 - ліворуч."
+                }
+              },
+              "name": "Черепашка"
+            },
+            "ui_controls": {
+              "expressions": {
+                "button": {
+                  "short_description": "Створити кнопку на екрані, що відображає текст з наданим ідентифікатором у типовому розташуванні (0,0)."
+                },
+                "onEvent": {
+                  "examples": {
+                    "Shrink and Grow": {
+                      "name": "Зменшення та збільшення"
+                    }
+                  },
+                  "palette_params": {
+                    "callback": {
+                      "type": "Функція"
+                    }
+                  }
+                },
+                "playSound": {
+                  "examples": {
+                    "Making Music": {
+                      "name": "Створення музики"
+                    }
+                  },
+                  "short_description": "Відтворити звуковий MP3-файл із зазначеного URL."
+                },
+                "setProperty": {
+                  "short_description": "Встановити нове значеня для властивості для вказаного елемента."
+                },
+                "setScreen": {
+                  "short_description": "Встановити поточний екран на заданий ідентифікатор ScreenId."
+                },
+                "showElement": {
+                  "short_description": "Показати елемент з наданим id."
+                },
+                "textLabel": {
+                  "short_description": "Створити текстову мітку, що відображає заданий текст у типовому розташуванні (0,0), на яку посилається заданий ідентифікатор."
+                }
+              },
+              "name": "Інтерфейс"
+            },
+            "variables": {
+              "expressions": {
+                "addPair": {
+                  "return_value": "Немає"
+                },
+                "declareAssign_list_123": {
+                  "short_description": "Оголосити змінну і призначити їй масив "
+                },
+                "declareAssign_object": {
+                  "examples": {
+                    "Choose Your Own Adventure": {
+                      "name": "Виберіть свою власну пригоду"
+                    }
+                  }
+                },
+                "declareAssign_x": {
+                  "short_description": "Оголосити і призначити початкове значення для змінної."
+                },
+                "declareNoAssign_x": {
+                  "short_description": "Оголосити змінну з вказаним ім'ям."
+                },
+                "length": {
+                  "return_value": "Повернути довжину рядка"
+                }
+              },
+              "name": "Змінні"
+            }
+          },
+          "description": "Програмна Лабораторія - це середовище програмування для створення простих застосунків. Розробляйте програму, програмуйте її блоками чи на JavaScript, а тоді поділіться нею з іншими.",
+          "name": "Програмна Лабораторія"
+        },
+        "gamelab": {
+          "categories": {
+            "control": {
+              "expressions": {
+                "ifBlock": {
+                  "short_description": "Виконати блок команд, якщо вказана умова відповідає дійсності."
+                },
+                "ifElseBlock": {
+                  "short_description": "Виконати блок команд, якщо вказана умова відповідає дійсності; в іншому випадку виконати блок команд пункту else."
+                },
+                "whileBlock": {
+                  "short_description": "Виконати блок команд, поки вказана умова відповідає дійсності."
+                }
+              },
+              "name": "Керування"
+            },
+            "drawing": {
+              "expressions": {
+                "background": {
+                  "examples": {
+                    "RGB Colors": {
+                      "name": "Кольори RGB"
+                    }
+                  }
+                },
+                "shape": {
+                  "examples": {
+                    "Star": {
+                      "name": "Зірка"
+                    }
+                  }
+                }
+              },
+              "name": "Малювання"
+            },
+            "functions": {
+              "name": "Функції"
+            },
+            "game_lab": {
+              "expressions": {
+                "mouseIsOver": {
+                  "palette_params": {
+                    "sprite": {
+                      "type": "Спрайт"
+                    }
+                  }
+                },
+                "mousePressedOver": {
+                  "palette_params": {
+                    "sprite": {
+                      "type": "Спрайт"
+                    }
+                  }
+                },
+                "mouseWentDown": {
+                  "examples": {
+                    "Black and White": {
+                      "name": "Чорний та білий"
+                    }
+                  }
+                },
+                "playSound": {
+                  "examples": {
+                    "Making Music": {
+                      "name": "Створення музики"
+                    }
+                  },
+                  "short_description": "Відтворити звуковий MP3-файл із зазначеного URL."
+                },
+                "showMobileControls": {
+                  "content": "Змінює елементи керування для мобільних пристроів, видимі під ігровим простором.",
+                  "short_description": "Змінює елементи керування для мобільних пристроів, видимі під ігровим простором."
+                }
+              },
+              "name": "Ігрова Лабораторія"
+            },
+            "groups": {
+              "expressions": {
+                "add": {
+                  "palette_params": {
+                    "sprite": {
+                      "type": "Спрайт"
+                    }
+                  }
+                },
+                "contains": {
+                  "palette_params": {
+                    "sprite": {
+                      "type": "Спрайт"
+                    }
+                  }
+                },
+                "remove": {
+                  "palette_params": {
+                    "sprite": {
+                      "type": "Спрайт"
+                    }
+                  }
+                },
+                "setColorEach": {
+                  "palette_params": {
+                    "color": {
+                      "type": "Колір"
+                    }
+                  }
+                },
+                "setTintEach": {
+                  "palette_params": {
+                    "color": {
+                      "type": "Колір"
+                    }
+                  }
+                }
+              },
+              "name": "Групи"
+            },
+            "math": {
+              "expressions": {
+                "randomNumber": {
+                  "palette_params": {
+                    "max": {
+                      "description": "Найбільше число, котре можна повернути"
+                    },
+                    "min": {
+                      "description": "Найменше число, котре можна повернути"
+                    }
+                  }
+                },
+                "randomNumber_min_max": {
+                  "palette_params": {
+                    "max": {
+                      "description": "Найбільше число, котре можна повернути"
+                    },
+                    "min": {
+                      "description": "Найменше число, котре можна повернути"
+                    }
+                  }
+                }
+              },
+              "name": "Математика"
+            },
+            "sprites": {
+              "expressions": {
+                "getSpeed": {
+                  "examples": {
+                    "Spiral": {
+                      "name": "спіраль"
+                    }
+                  }
+                },
+                "sprite.height": {
+                  "return_value": "Висота спрайта."
+                },
+                "sprite.width": {
+                  "return_value": "Ширина спрайта."
+                }
+              },
+              "name": "Спрайти"
+            },
+            "variables": {
+              "expressions": {
+                "assign_x": {
+                  "short_description": "Призначити значення раніше оголошеній змінній."
+                },
+                "declareAssign_x": {
+                  "short_description": "Оголосити і призначити початкове значення для змінної."
+                },
+                "declareNoAssign_x": {
+                  "short_description": "Оголосити змінну з вказаним ім'ям."
+                },
+                "length": {
+                  "return_value": "Повернути довжину рядка"
+                }
+              },
+              "name": "Змінні"
+            }
+          },
+          "name": "Ігрова Лабораторія"
+        },
+        "spritelab": {
+          "categories": {
+            "actions": {
+              "name": "Дії"
+            },
+            "behaviors": {
+              "name": "Поведінка"
+            },
+            "comments": {
+              "name": "Коментарі"
+            },
+            "events": {
+              "name": "Події"
+            },
+            "functions": {
+              "name": "Функції"
+            },
+            "location": {
+              "name": "Розташування"
+            },
+            "logic": {
+              "name": "Логіка"
+            },
+            "loops": {
+              "name": "Цикли"
+            },
+            "math": {
+              "name": "Математика"
+            },
+            "sprites": {
+              "name": "Спрайти"
+            },
+            "text": {
+              "name": "Текст"
+            },
+            "variables": {
+              "name": "Змінні"
+            },
+            "world": {
+              "name": "Світ"
+            }
+          }
+        },
+        "weblab": {
+          "categories": {
+            "css_properties": {
+              "name": "Властивості CSS"
+            },
+            "html_tags": {
+              "name": "Теги HTML"
+            }
+          },
+          "description": "Веб-редактор HTML/CSS.",
+          "name": "Веб Лабораторія"
+        }
+      }
+    }
+  }
+}

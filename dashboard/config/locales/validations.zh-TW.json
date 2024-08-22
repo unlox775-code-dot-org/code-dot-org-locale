@@ -1,0 +1,76 @@
+{
+  "zh-TW": {
+    "data": {
+      "validations": {
+        "musiclab_intro_change_sound": {
+          "musiclab_intro_change_sound_38551dcf-dfaf-4e47-8774-bd9f02621036": "做得好。您成功地更改了聲音。",
+          "musiclab_intro_change_sound_7a7f2fdb-0458-4b63-9a0a-7a19180b67f2": "做得好。您成功地更改了聲音。",
+          "musiclab_intro_change_sound_7eda7f13-3a56-42b1-a717-825eb8b01acf": "請[更改](#clickable=play-sound-block-workspace)聲音。",
+          "musiclab_intro_change_sound_e63fb4ba-f0d0-495e-bea2-82f0d20f0477": "做得好。您成功地更改了聲音。",
+          "musiclab_intro_change_sound_f2594aee-b7e0-461e-95c5-8edab4d0c41a": "做得好。您成功地更改了聲音。"
+        },
+        "musiclab_intro_function": {
+          "musiclab_intro_function_46d4cb8f-7dcf-4b78-b963-ca78d8cb439f": "請使用函式播放聲音。",
+          "musiclab_intro_function_b6e6f37e-268f-42d2-bef5-62968613af46": "做得好。您成功地使用函式播放聲音。"
+        },
+        "musiclab_intro_play_sound": {
+          "musiclab_intro_play_sound_10152a9d-29b4-46e9-9080-9ad7a8937433": "拖動[播放](#clickable=play-sound-block)模組並將其附加到[運行時](#clickable=when-run-block)。",
+          "musiclab_intro_play_sound_34517aac-bcf5-4183-a71d-fafd0498e499": "做得好。您成功地播放了一個聲音。"
+        },
+        "musiclab_intro_play_together": {
+          "musiclab_intro_play_together_5c2b8269-32d0-4798-b3e8-d679cb2a4be6": "做得好。您成功地一起播放了兩個聲音。",
+          "musiclab_intro_play_together_92348942-2028-4cc9-bd77-bc96b4ce57a9": "播放一個聲音很不錯，但您需要一起播放兩個聲音。",
+          "musiclab_intro_play_together_ca6210c5-fb7e-473e-9428-d50c81e6faca": "請一起播放兩個聲音。"
+        },
+        "musiclab_intro_repeat": {
+          "musiclab_intro_repeat_28936cc0-3bfc-4c00-8319-5886b587b29c": "播放兩次聲音很不錯。請播放三次。",
+          "musiclab_intro_repeat_41276380-4fc4-48cb-be28-b6be5dfb8dd5": "您已播放一次聲音。請使用[重複](#clickable=repeat-block)模組將其播放三次。",
+          "musiclab_intro_repeat_b2a9ed31-f16f-45ac-9aaa-ab45620d6cd6": "請播放聲音三次。將[重複](#clickable=repeat-block)模組附加到[運行時](#clickable=when-run-block)。然後將[播放](#clickable=play-sound-block)模組放在其中。",
+          "musiclab_intro_repeat_eaf348ed-21a0-499e-89a8-2f5beff52dd7": "做得好。您成功地播放了三個聲音。"
+        },
+        "musiclab_intro_trigger": {
+          "musiclab_intro_trigger_063936aa-e4fc-4654-b695-1cb2f1ad989d": "請使用觸發器播放一個聲音。",
+          "musiclab_intro_trigger_5a0ba9ef-12ef-42eb-8377-c80ef540bbb0": "做得好，您使用觸發器成功地播放了一個聲音。"
+        },
+        "musiclab_tutorial_change_sound": {
+          "musiclab_intro_change_sound_v2_6054328e-dc95-47fe-8c65-980ce00299f1": "做得好！你已經為你的歌曲添加了新聲音。",
+          "musiclab_intro_change_sound_v2_9ddfc062-5d48-4090-aa06-ff26c4a75916": "再添加至少一個聲音。"
+        },
+        "musiclab_tutorial_drums": {
+          "musiclab_intro_drums_v2_8a21d216-d589-4129-b695-bf32dd4440e8": "添加[播放鼓](#clickable=play-drums-block)模組並製作自己的節拍！",
+          "musiclab_intro_drums_v2_d5c7c777-c009-470d-99b6-1a2e60be22df": "聽起來很棒！",
+          "musiclab_tutorial_drums_25bc1092-ffea-4236-b867-a7e47c85914c": "點擊[播放鼓](#clickable=play-drums-block)模組並使用節拍製作器創建自訂節拍。"
+        },
+        "musiclab_tutorial_function": {
+          "musiclab_intro_function_elementary_328ae4f1-4120-4555-bfba-4654bd618fd8": "做得好。您成功地使用函式播放聲音。",
+          "musiclab_intro_function_elementary_33cfaef2-2b2e-4e45-93b8-88632b06f78a": "在[運行時] [0] 下連接“合唱”模組以播放函式中的聲音。"
+        },
+        "musiclab_tutorial_notes": {
+          "musiclab_intro_notes_v2_a40492dc-818f-4e02-ba2e-e7de19e291df": "嘗試使用[播放音符](#clickable=play-notes-block)模組，創作你自己的旋律。",
+          "musiclab_intro_notes_v2_ca10f1fe-8755-49d5-864f-83772a128e36": "太棒了！你創作了自己的旋律。",
+          "musiclab_tutorial_notes_cdc6aa6b-b5a7-45d2-92e2-410eb5c4d3bc": "點擊[播放音符](#clickable=play-notes-block)模組並使用鍵盤創建自訂旋律。"
+        },
+        "musiclab_tutorial_play_sound": {
+          "musiclab_intro_play_sound_10152a9d-29b4-46e9-9080-9ad7a8937433": "你找到了運行按鈕！現在，拖曳[播放](#clickable=play-sound-block)模組，並將其連接到[運行時](#clickable=when-run-block)下方。",
+          "musiclab_intro_play_sound_34517aac-bcf5-4183-a71d-fafd0498e499": "做得好。你播放了聲音！"
+        },
+        "musiclab_tutorial_play_together": {
+          "musiclab_intro_play_together_elementary_a73d098d-932c-416e-9d5a-4585178fe866": "播放一個聲音很不錯；現在嘗試一起播放兩個聲音。將兩個[播放](#clickable=play-sound-block-workspace)模組_添加到_[一起播放](#clickable=play-sounds-together-block-workspace)模組中。",
+          "musiclab_intro_play_together_elementary_b1ec52da-2b60-4e02-8512-60495bbb79e6": "做得好。這兩個聲音在一起很不錯！",
+          "musiclab_intro_play_together_elementary_c5abfcf3-0d24-4405-9249-aeb85e0a01ce": "請一起播放兩個聲音。提示：嘗試使用兩種不同類型的聲音一起播放，例如鼓和低音節拍！",
+          "musiclab_tutorial_play_together_ebbe089b-ecdc-4cd8-9555-c38271706f31": "尚未播放任何聲音。在[運行時](#clickable=when-run-block)下方連接一個[一起播放](#clickable=play-sounds-together-block)模組。然後，將兩個[播放](#clickable=play-sound-block-workspace)模組_添加到_[一起播放](#clickable=play-sounds-together-block-workspace)模組中。"
+        },
+        "musiclab_tutorial_repeat": {
+          "musiclab_intro_repeat_elementary_1eaff1ec-353f-48fb-8a07-383e4dd1f918": "做得好。你成功地播放了聲音3次！",
+          "musiclab_intro_repeat_elementary_7870662b-99f3-4920-9a0e-f03a9386bb34": "播放聲音三次。將[重複](#clickable=repeat-block)模組附加到[運行時](#clickable=when-run-block)。然後將[播放](#clickable=play-sound-block)模組放在其中。",
+          "musiclab_intro_repeat_elementary_81debb7d-9c0a-466c-b618-a6f5639e0b1b": "你重複了一個聲音兩次。現在讓它播放[3](#clickable=repeat-block-field-workspace)次。",
+          "musiclab_intro_repeat_elementary_ef93b774-6a6b-4364-8e37-85ce20e15450": "你播放了一個聲音一次。現在，在[重複](#clickable=repeat-block)模組中放一個[3](#clickable=repeat-block-field-workspace)，讓它播放三次。"
+        },
+        "musiclab_tutorial_trigger": {
+          "musiclab_intro_trigger_elementary_55abe67c-58ad-4ce2-aab9-172acb91a090": "尚未觸發任何東西。",
+          "musiclab_intro_trigger_elementary_7d8f341d-9582-4fc8-8622-464260ce978c": "做得好，您使用觸發器成功地播放了一個聲音。"
+        }
+      }
+    }
+  }
+}

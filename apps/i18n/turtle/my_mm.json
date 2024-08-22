@@ -1,0 +1,14 @@
+{
+  "catControl": "Loops",
+  "catLogic": "Logic",
+  "catMath": "သင်္ချာ",
+  "catTurtle": "လုပ်​ဆောင်ချက်များ",
+  "catVariables": "Variables",
+  "controlsForInputFromToBy": "%1 မှ %2 %3 ထိရေတွက်ပါ",
+  "controlsForInputWith": "အတွက်",
+  "forward": "ရှေ့သို့",
+  "jump": "ခုန်ပါ",
+  "left": "ဘယ်ဘက်သို့",
+  "right": "ညာဘက်သို့",
+  "sizeParameter": "အရွယ်အစား"
+}

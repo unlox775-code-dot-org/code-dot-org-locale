@@ -1,0 +1,16 @@
+{
+  "he-IL": {
+    "data": {
+      "marketing_announcements": {
+        "banners": {
+          "hoc-2023": {
+            "buttonText": "למד עוד"
+          },
+          "superhero": {
+            "buttonText": "למד עוד"
+          }
+        }
+      }
+    }
+  }
+}

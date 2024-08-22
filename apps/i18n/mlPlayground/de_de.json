@@ -1,0 +1,2892 @@
+{
+  "columnDetailsMaximumValue": "max",
+  "columnDetailsMinimumValue": "min",
+  "columnInspectorDescription": "Beschreibung",
+  "correctAnswer": "Richtig",
+  "dataCardLastUpdated": "Letztes Update",
+  "datasets": {
+    "abalone": {
+      "card": {
+        "context": {
+          "potentialMisuses": " ",
+          "potentialUses": "Bestimme das Alter einer Abalone."
+        },
+        "description": "Dieser Datensatz enthält verschiedene Eigenschaften verschiedener Abalone, einer Art von Meeresschnecken. Ziel ist es, die Anzahl der Ringe in der Schale der Abalone vorherzusagen, was ein Indikator für ihr Alter ist."
+      },
+      "fields": {
+        "Diameter": {
+          "description": "Der Durchmesser in Millimetern.",
+          "id": "Durchmesser"
+        },
+        "Height": {
+          "description": "Ihre Höhe mit der Schnecke in der Schale in Millimetern.",
+          "id": "Höhe"
+        },
+        "Length": {
+          "description": "Seine Länge an der längsten Stelle in Millimetern.",
+          "id": "Länge"
+        },
+        "Rings": {
+          "description": "Das Alter in Jahren.",
+          "id": "Ringe"
+        },
+        "Sex": {
+          "description": "Das Geschlecht der Abalone: M, F oder I (Säugling).",
+          "id": "Geschlecht"
+        },
+        "Shell weight": {
+          "description": "Das Gewicht der Schale nach dem Trocknen in Gramm.",
+          "id": "Gewicht der Schale"
+        },
+        "Shucked weight": {
+          "description": "Das Gewicht der Schnecke ohne Schale in Gramm.",
+          "id": "Geöffnetes Gewicht"
+        },
+        "Viscera weight": {
+          "description": "Das Gewicht der Innereien in Gramm.",
+          "id": "Gewicht der Eingeweide"
+        },
+        "Whole weight": {
+          "description": "Das Gewicht der gesamten Abalone in Gramm.",
+          "id": "Gesamtes Gewicht"
+        }
+      },
+      "name": "Abalone"
+    },
+    "auto_mpg": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Da es 30 Jahre alt ist, spiegelt es möglicherweise nicht den technologischen Fortschritt wider - kaufen Sie Ihr Auto nicht auf dieser Grundlage!",
+          "potentialUses": "Ermitteln Sie den MPG (Meilen pro Gallone) eines Autos anhand verschiedener Merkmale wie Gewicht und Pferdestärke."
+        },
+        "description": "Ein kleiner Datensatz verschiedener Autostatistiken, der ursprünglich aus dem Jahr 1983 stammt und zur Vorhersage ihres MPG (Meilen pro Gallone) verwendet wurde. Es ist unwahrscheinlich, dass dieser Datensatz bei einer KNN-Regression hohe Genauigkeitswerte liefert, aber er könnte trotzdem ein nützliches Modell sein: Wie kann man ein allgemeines Muster im Modell nehmen und anhand dessen bestimmen, welche Merkmale zu höheren Meilen pro Gallone beitragen? Wie könnten Sie den Datensatz ändern, um ein genaueres Modell zu erhalten, beispielsweise indem Sie MPG von einer numerischen Spalte in eine kategoriale Spalte mit Intervallen von 5 MPG ändern?"
+      },
+      "fields": {
+        "acceleration": {
+          "description": "Die Beschleunigung des Autos.",
+          "id": "Beschleunigung"
+        },
+        "car name": {
+          "description": "Der Name des Autos: alles eindeutige Werte.",
+          "id": "Name des Autos"
+        },
+        "cylinders": {
+          "description": "Die Anzahl der Zylinder im Motor.",
+          "id": "Zylinder"
+        },
+        "displacement": {
+          "description": "Ein Maß für das Zylindervolumen.",
+          "id": "Hubraum"
+        },
+        "horsepower": {
+          "description": "Die Stärke des Autos.",
+          "id": "Pferdestärke"
+        },
+        "model year": {
+          "description": "Das Jahr, in dem das Auto veröffentlicht wurde.",
+          "id": "Modelljahr"
+        },
+        "mpg": {
+          "description": "Meilen pro Gallone.",
+          "id": "mpg"
+        },
+        "weight": {
+          "description": "Das Gewicht des Autos in Pfund.",
+          "id": "Gewicht"
+        }
+      }
+    },
+    "basketball_shots": {
+      "card": {
+        "context": {
+          "potentialMisuses": "[empty string]",
+          "potentialUses": "Sagen Sie voraus, ob ein 3-Punkte-Schuss erfolgreich war oder verpasst wurde."
+        },
+        "description": "Dieser Datensatz enthält jeden 3-Punkte-Versuch, der während des NCAA-Turniers 2017 unternommen wurde. Mit diesen Daten ist es möglich vorherzusagen, ob der Schuss erfolgreich war oder verpasst wurde."
+      },
+      "fields": {
+        "Away team alias": {
+          "description": "Abkürzung für den Namen der Auswärtsmannschaft.",
+          "id": "Alias der Auswärtsmannschaft"
+        },
+        "Home team alias": {
+          "description": "Abkürzung für den Namen der Heimmannschaft.",
+          "id": "Alias der Heimmannschaft"
+        },
+        "Inches from bottom sideline": {
+          "description": "Entfernung von der unteren Seitenlinie (die Linie entlang der gesamten Spielfeldlänge).",
+          "id": "Zoll von der unteren Seitenlinie entfernt"
+        },
+        "Inches from left baseline": {
+          "description": "Abstand von der linken Grundlinie (die Linie hinter einem Korb).",
+          "id": "Zoll von der linken Grundlinie entfernt"
+        },
+        "Jersey number": {
+          "description": "Die Nummer des Spielers, der den Schuss abgegeben hat.",
+          "id": "Trikotnummer"
+        },
+        "Made or miss": {
+          "description": "Ob der 3-Punkte-Schuss erfolgreich war oder verpasst wurde.",
+          "id": "Erfolgreich oder verpasst"
+        },
+        "Time in seconds": {
+          "description": "Die auf der Spieluhr verstrichene Zeit in Sekunden.",
+          "id": "Zeit in Sekunden"
+        }
+      },
+      "name": "NCAA 3-Punkte-Versuche"
+    },
+    "bike_sharing": {
+      "card": {
+        "context": {
+          "potentialMisuses": "[empty string]",
+          "potentialUses": "Sagen Sie anhand der Wetterbedingungen oder der Jahreszeit voraus, wie viele Fahrräder gemietet werden."
+        },
+        "description": "Tägliche Mietdaten aus Washington, D.C.'s Hauptstatdt Fahrad-Share-System von 2011 und 2012, zusammen mit Wetterdaten für diese Tage."
+      },
+      "fields": {
+        "Average \"Feels Like\" Temperature": {
+          "description": "Die durchschnittliche „gefühlte“ Temperatur in Celsius, normalisiert auf eine Skala von 0 bis 1, wobei 0 = -16 Grad Celsius und 1 50 Grad Celsius entspricht.",
+          "id": "Durchschnittliche „Gefühlte“ -Temperatur"
+        },
+        "Average Temperature (Celsius)": {
+          "description": "Durchschnittstemperatur in Celsius, normalisiert auf eine Skala von 0 bis 1, wobei 0 = -8 Grad Celsius und 1 39 Grad Celsius entspricht.",
+          "id": "Durchschnittstemperatur (Celsius)"
+        },
+        "Date": {
+          "description": "Das Datum, an dem die Aufzeichnungen aufgenommen wurden.",
+          "id": "Datum"
+        },
+        "Day of Week": {
+          "description": "Der Wochentag: 0 (Sonntag) bis 6 (Samstag).",
+          "id": "Wochentag"
+        },
+        "Holiday": {
+          "description": "Ob der Tag ein Feiertag ist oder nicht.",
+          "id": "Feiertag"
+        },
+        "Humidity (0 - 1)": {
+          "description": "Luftfeuchtigkeit, normalisiert auf 0 (0% Luftfeuchtigkeit) bis 1 (100% Luftfeuchtigkeit).",
+          "id": "Luftfeuchtigkeit (0 - 1)"
+        },
+        "Month": {
+          "description": "Der Monat: 1 (Januar) bis 12 (Dezember).",
+          "id": "Monat"
+        },
+        "Number of Casual Users": {
+          "description": "Anzahl der Benutzer ohne Konto.",
+          "id": "Anzahl der Gelegenheitsbenutzer"
+        },
+        "Number of Registered Users": {
+          "description": "Anzahl der Benutzer mit einem Konto.",
+          "id": "Anzahl angemeldeter Benutzer"
+        },
+        "Season": {
+          "description": "Jahreszeit: Frühling, Sommer, Winter oder Herbst.",
+          "id": "Jahreszeit"
+        },
+        "Total Users": {
+          "description": "Gesamtzahl der Benutzer.",
+          "id": "Benutzer gesamt"
+        },
+        "Weather Description": {
+          "description": "Eine Beschreibung des Wetters des Tages, von ein paar Wolken bis hin zu leichtem Schnee oder Regen.",
+          "id": "Beschreibung des Wetters"
+        },
+        "Wind Speed": {
+          "description": "Windgeschwindigkeit.",
+          "id": "Windgeschwindigkeit"
+        },
+        "Workday": {
+          "description": "Ob das ein Werktag ist oder nicht.",
+          "id": "Werktag"
+        },
+        "Year": {
+          "description": "Das Jahr (2011 oder 2012).",
+          "id": "Jahr"
+        },
+        "index": {
+          "description": "Der eindeutige Index oder Schlüssel des Datensatzes. Dies sollte nicht als Eigenschaft verwendet werden.",
+          "id": "Inhaltsverzeichnis"
+        }
+      },
+      "name": "Fahrrad-Sharing"
+    },
+    "billionaires": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Zum Beispiel die Feststellung, ob Männer „besser“ darin sind, Milliardäre zu werden als Frauen. Frauen sind unter den Milliardären unterrepräsentiert, aber dafür gibt es viele Gründe, die die Daten nicht widerspiegeln.",
+          "potentialUses": "Sagen Sie anhand anderer Merkmale die Art des Vermögens eines Milliardärs voraus."
+        },
+        "description": "Daten über mehrere Jahrzehnte zu einzelnen Milliardären, sortiert für jedes Jahr, mit Merkmalen wie Alter, Branche, Familienvermögen und Vermögenstyp (z. B. Unternehmensgründer in der Finanzbranche)."
+      },
+      "fields": {
+        "Age": {
+          "description": "Ihr Alter.",
+          "id": "Alter"
+        },
+        "Citizenship": {
+          "description": "Das Land, in dem sie offizieller Staatsbürger sind.",
+          "id": "Staatsangehörigkeit"
+        },
+        "Company Founding Year": {
+          "description": "Das Jahr, in dem ihr Unternehmen gegründet wurde.",
+          "id": "Gründungsjahr des Unternehmens"
+        },
+        "Company Name": {
+          "description": "Der Name ihrer Firma.",
+          "id": "Firmenname"
+        },
+        "Company Relationship": {
+          "description": "Ihre Beziehung zum Unternehmen: z. B. „Gründer“, „CEO“, „Vorsitzender“).",
+          "id": "Beziehung zum Unternehmen"
+        },
+        "Company Sector": {
+          "description": "Die Branche, in der ihr Unternehmen tätig ist, z. B. „Finanzen“ oder „Software“.",
+          "id": "Branche des Unternehmens"
+        },
+        "Company Type": {
+          "description": "Die Art des Unternehmens: ob es sich um ein neues, ein privatisiertes oder ein übernommenes Unternehmen handelt.",
+          "id": "Unternehmensform"
+        },
+        "Country of Residence": {
+          "description": "Das Land, in dem sie leben.",
+          "id": "Land des Wohnsitzes"
+        },
+        "Gender": {
+          "description": "Ihr Geschlecht",
+          "id": "Geschlecht"
+        },
+        "Net Worth In Billions": {
+          "description": "Ihr Nettovermögen in Milliarden von Dollar.",
+          "id": "Nettovermögen in Milliarden"
+        },
+        "Rank": {
+          "description": "Ihr Rang des Vermögens steht für das Jahr dieses Eintrags.",
+          "id": "Rang"
+        },
+        "Region": {
+          "description": "Die Region, in der sich ihr Wohnsitzland befindet, z. B. „Nordamerika“ oder „Ostasien“",
+          "id": "Region"
+        },
+        "Type Of Wealth": {
+          "description": "Ihre Art von Vermögen, z. B.: „Gründer, nicht finanziert“, „vererbt“, „selbst finanziert“",
+          "id": "Art des Vermögens"
+        },
+        "Wealth Category": {
+          "description": "Ihre Vermögenskategorie, z. B. „Finanzsektor“, „Nicht gehandelte“ oder „gehandelte Sektoren“.",
+          "id": "Vermögenskategorie"
+        },
+        "Wealth Industry": {
+          "description": "Die Branche, in der ihr Vermögen liegt.",
+          "id": "Vermögensindustrie"
+        },
+        "Wealth Inherited": {
+          "description": "Ob ihr Vermögen vererbt wurde und woher, z. B. „nicht vererbt“, „Vater“, „3. Generation“.",
+          "id": "Vererbtes Vermögen"
+        },
+        "Year": {
+          "description": "Das Jahr der Rangliste (1996, 2001 oder 2014).",
+          "id": "Jahr"
+        }
+      },
+      "name": "Milliardäre"
+    },
+    "boba_toy": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Alles andere als Bubble Tea-Empfehlungen.",
+          "potentialUses": "Hilf mit, Empfehlungen zu geben, welche Art von Bubble Tea ein neuer Kunde bestellen sollte."
+        },
+        "description": "Umfrage unter Kunden in einem Bubble Tea-Café, ob ihnen bestimmte Bubble-Tea-Kombinationen gefallen oder nicht."
+      },
+      "fields": {
+        "banana": {
+          "description": "Hat der Bubble Tea Bananen Zusätze?",
+          "id": "Banane"
+        },
+        "crystal boba": {
+          "description": "Enthält der Bubble Tea Crystal Boba Zusätze?",
+          "id": "Kristall Boba"
+        },
+        "herbal": {
+          "description": "Hat der Bubble Tea Kräuterzusätze?",
+          "id": "pflanzlich"
+        },
+        "lychee": {
+          "description": "Enthält der Bubble Tea Litschi-Zusätze?",
+          "id": "Litschi"
+        },
+        "mango jelly": {
+          "description": "Enthält der Bubble Tea Mangogelee Zusätze?",
+          "id": "Mango-Gelee"
+        },
+        "preference": {
+          "description": "Hat er dir gefallen oder nicht?",
+          "id": "Präferenz"
+        },
+        "red beans": {
+          "description": "Hat der Bubble Tea rote Bohnen Zusätze?",
+          "id": "rote Bohnen"
+        },
+        "regular boba": {
+          "description": "Enthält der Bubble Tea reguläre Boba-Zusatzstoffe?",
+          "id": "normaler Boba"
+        },
+        "sea salt cream": {
+          "description": "Enthält der Bubble Tea Meersalzcreme Zusätze?",
+          "id": "Meersalzcreme"
+        },
+        "vanilla": {
+          "description": "Hat der Bubble Tea Vanille Zusätze?",
+          "id": "Vanille"
+        }
+      },
+      "name": "Bubble Tea"
+    },
+    "car_evaluation": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Möglicherweise haben Sie andere Autokriterien als dieses Bewertungssystem - das kann keine bessere Entscheidung beim Autokauf treffen als Sie, obwohl es Ihnen bei Ihrer Suche helfen könnte.",
+          "potentialUses": "Ermitteln Sie die Akzeptanzbewertung eines Fahrzeugs anhand eines bestimmten Merkmals."
+        },
+        "description": "Ein Datensatz von Autos, die anhand von Merkmalen wie Preis, Sicherheit und Anzahl der Passagiere nach „Akzeptanz“ eingestuft wurden. Die Rangliste basiert auf einem von Marko Bohanec entworfenen Entscheidungsmodell."
+      },
+      "fields": {
+        "Boot Size": {
+          "description": "Die Kofferraumgröße: klein, mittel oder groß.",
+          "id": "Größe des Kofferraumes"
+        },
+        "Buying Price": {
+          "description": "Der Kaufpreis des Autos, von sehr hoch bis niedrig.",
+          "id": "Kaufpreis"
+        },
+        "Car Acceptability": {
+          "description": "Die Akzeptanzbewertung des Autos: inakzeptabel, akzeptabel, gut oder sehr gut.",
+          "id": "Akzeptanz von Autos"
+        },
+        "Maintenance Cost": {
+          "description": "Die Wartungskosten des Autos reichen von sehr hoch bis niedrig.",
+          "id": "Wartungskosten"
+        },
+        "Number Of Doors": {
+          "description": "Die Anzahl der Türen, von 2 bis 5 oder mehr.",
+          "id": "Anzahl der Türen"
+        },
+        "Number of Passengers": {
+          "description": "Die Anzahl der Passagiere: 2, 4 oder mehr.",
+          "id": "Anzahl der Passagiere"
+        },
+        "Safety Rating": {
+          "description": "Die Sicherheitsbewertung: hoch, mittel oder niedrig.",
+          "id": "Sicherheitsbewertung"
+        }
+      },
+      "name": "Bewertung des Autos"
+    },
+    "census_part": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Es könnte zutiefst unfair sein, dies beispielsweise für die Entscheidung zu verwenden, ob jemandem ein Darlehen gewährt werden soll oder nicht.",
+          "potentialUses": "Sagen Sie anhand ihres Bildungsniveaus und Alters voraus, ob das Einkommen einer Person über oder unter 50.000 USD liegt. Demonstrieren Sie ethnische und geschlechtsspezifische Einkommensungleichheit."
+        },
+        "description": "Daten aus der US-Volkszählung von 1994 mit Einkommens-, Personen- und Berufsdaten. Wird verwendet, um vorherzusagen, ob das Einkommen einer Person über 50.000 USD liegt."
+      },
+      "fields": {
+        "age": {
+          "description": "Das Alter der Person.",
+          "id": "Alter"
+        },
+        "capital gains": {
+          "description": "Ihre gemeldeten Kapitalgewinne für das Jahr (dies sind monetäre Gewinne aus Dingen wie dem Verkauf von Aktien anstelle von Einnahmen aus einem Job).",
+          "id": "Kapitalgewinne"
+        },
+        "capital losses": {
+          "description": "Ihre gemeldeten Kapitalverluste (zum Beispiel, wenn sie eine Aktie verkauft haben, durch die sie Geld verloren haben).",
+          "id": "Kapitalverluste"
+        },
+        "education level": {
+          "description": "Ihr Bildungsniveau.",
+          "id": "Bildungsniveau"
+        },
+        "estimated number of people represented": {
+          "description": "Die Schätzung, für wie viele Menschen in den USA diese Person repräsentativ ist.",
+          "id": "geschätzte Anzahl der dargestellten Personen"
+        },
+        "gender": {
+          "description": "Geschlecht (verwendet die binären Volkszählungsoptionen von 1994).",
+          "id": "Geschlecht"
+        },
+        "hours of work per week": {
+          "description": "Geleistete Arbeitsstunden pro Woche.",
+          "id": "Arbeitsstunden pro Woche"
+        },
+        "income": {
+          "description": "Ihr Einkommen: binär für mehr als oder weniger als 50.000 USD.",
+          "id": "Einkommen"
+        },
+        "marital status": {
+          "description": "Familienstand (verheiratet, ledig, geschieden).",
+          "id": "Familienstand"
+        },
+        "native-country": {
+          "description": "Ihr Herkunftsland.",
+          "id": "Heimatland"
+        },
+        "occupation": {
+          "description": "Was sie beruflich machen.",
+          "id": "Beschäftigung"
+        },
+        "race": {
+          "description": "Rasse (verwendet 1994 Rassenkategorien, was eine Reihe von Unterscheidungen ausschließt).",
+          "id": "Rasse"
+        },
+        "relationship": {
+          "description": "Beziehungsbeschreibung ihres Familienstands.",
+          "id": "Beziehung"
+        },
+        "type of employment": {
+          "description": "Art der Beschäftigung: staatlich, privat, selbstständig.",
+          "id": "Art der Beschäftigung"
+        }
+      }
+    },
+    "club_biased_toy": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Die Daten stammen nur von Personen in unserer Schule und Gemeinde — sei vorsichtig, wenn du sie an verschiedenen Schulen verwendest.",
+          "potentialUses": "Die Fragen können helfen, einen Club zu empfehlen, dem Sie beitreten können, der Ihren Interessen und Ihrer Persönlichkeit entspricht."
+        },
+        "description": "Nicos Vater ist in einer Band und hat eine E-Mail an alle auf ihrer Fanclub-E-Mail-Liste geschickt. Die meisten Leute auf der E-Mail-Liste haben das Formular ausgefüllt."
+      },
+      "fields": {
+        "activity": {
+          "description": "Welche dieser Aktivitäten magst du am meisten?",
+          "id": "Aktivität"
+        },
+        "club": {
+          "description": "Was ist ein Club, dem du beitreten möchtest oder dem du bereits angehörst?",
+          "id": "Klub"
+        },
+        "element": {
+          "description": "Welches dieser Fächer ist dein Favorit?",
+          "id": "Element"
+        },
+        "free time": {
+          "description": "Wie viel Freizeit hast du nach der Schule?",
+          "id": "Freizeit"
+        },
+        "make build": {
+          "description": "Was hältst du von der folgenden Aussage: „Ich mache und baue gerne Dinge mit meinen Händen“",
+          "id": "bauen"
+        },
+        "meet people": {
+          "description": "Was hältst du von der folgenden Aussage: „Ich lerne gerne neue Dinge und lerne neue Leute kennen“",
+          "id": "lerne Leute kennen"
+        },
+        "personality": {
+          "description": "Wie verbringst du deine Zeit am liebsten?",
+          "id": "Persönlichkeit"
+        },
+        "school minutes": {
+          "description": "Wie lange brauchst du, um zur Schule zu kommen?",
+          "id": "Schulminuten"
+        }
+      },
+      "name": "Nicos Club-Umfrage"
+    },
+    "club_random_toy": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Die Daten stammen nur von Personen in unserer Schule und Gemeinde — sei vorsichtig, wenn du sie an verschiedenen Schulen verwendest.",
+          "potentialUses": "Die Fragen können helfen, einen Club zu empfehlen, dem du beitreten kannst, der deinen Interessen und deiner Persönlichkeit entspricht."
+        },
+        "description": "Isaac und seine vier Geschwister baten alle in ihren Klassen, die Umfrage auszufüllen. Dies führte zu vielen Daten von Menschen aus vielen verschiedenen Gruppen."
+      },
+      "fields": {
+        "club": {
+          "description": "Was ist ein Club, dem du beitreten möchtest oder dem du bereits angehörst?",
+          "id": "Klub"
+        },
+        "color": {
+          "description": "Welche dieser Farben magst du am liebsten?",
+          "id": "Farbe"
+        },
+        "food": {
+          "description": "Welche dieser Arten von Lebensmitteln magst du am liebsten?",
+          "id": "Essen"
+        },
+        "music": {
+          "description": "Welche dieser Arten von Musik magst du am liebsten?",
+          "id": "Musik"
+        },
+        "read vs tv": {
+          "description": "Was hältst du von der folgenden Aussage: „Ich lese lieber, als fernzusehen“",
+          "id": "Lesen gegen Fernsehen"
+        }
+      },
+      "name": "Isaac's Club-Umfrage"
+    },
+    "club_sparse_toy": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Die Daten stammen nur von Personen in unserer Schule und Gemeinde — sei vorsichtig, wenn du sie an verschiedenen Schulen verwendest.",
+          "potentialUses": "Die Fragen können helfen, einen Club zu empfehlen, dem du beitreten kannst, der deinen Interessen und deiner Persönlichkeit entspricht."
+        },
+        "description": "Zoey bat alle in ihrem Englischunterricht, die Umfrage auszufüllen, und alle haben es getan!"
+      },
+      "fields": {
+        "activity": {
+          "description": "Welche dieser Aktivitäten magst du am liebsten?",
+          "id": "Aktivitäten"
+        },
+        "club": {
+          "description": "Was ist ein Klub, dem du beitreten möchtest oder dem du bereits angehörst?",
+          "id": "Klub"
+        },
+        "element": {
+          "description": "Welches dieser Elemente ist dein Favorit?",
+          "id": "Element"
+        },
+        "make build": {
+          "description": "Was hältst du von der folgenden Aussage: „Ich mache und baue gerne Dinge mit meinen Händen“",
+          "id": "bauen"
+        },
+        "meet people": {
+          "description": "Was hältst du von der folgenden Aussage: „Ich lerne gerne neue Dinge und lerne neue Leute kennen“",
+          "id": "Leute kennenlernen"
+        },
+        "personality": {
+          "description": "Wie verbringst du deine Zeit am liebsten?",
+          "id": "Persönlichkeit"
+        }
+      },
+      "name": "Zoey's Club-Umfrage"
+    },
+    "club_specific_toy": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Die Daten stammen nur von Personen in unserer Schule und Gemeinde — sei vorsichtig, wenn du sie an verschiedenen Schulen verwendest.",
+          "potentialUses": "Die Fragen können helfen, einen Klub zu empfehlen, dem du beitreten kannst, der deinen Interessen und deiner Persönlichkeit entspricht."
+        },
+        "description": "Kim fragte ihre ältere Schwester, welche Fragen sie in der Umfrage stellen sollte, und schickte die Umfrage dann in einer E-Mail an die Freunde ihrer Schwester an der privaten Universität, an der sie lernt."
+      },
+      "fields": {
+        "activity": {
+          "description": "Welche dieser Aktivitäten hast du im letzten Monat durchgeführt?",
+          "id": "Aktivitäten"
+        },
+        "club": {
+          "description": "Was ist ein Klub, dem du beitreten möchtest oder dem du bereits angehörst?",
+          "id": "Klub"
+        },
+        "favorite movie": {
+          "description": "Welcher dieser Filme gefällt dir am meisten?",
+          "id": "Lieblingsfilm"
+        },
+        "lunch food": {
+          "description": "Welches dieser Lebensmittel würdest du zum Mittagessen essen?",
+          "id": "Mittagessen"
+        },
+        "pet you own": {
+          "description": "Welches dieser Haustiere besitzt du?",
+          "id": "streichle dein eigenes"
+        }
+      },
+      "name": "Kim's Club-Umfrage"
+    },
+    "cookies_toy": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Alles andere als Cookie-Empfehlungen.",
+          "potentialUses": "Hilf mit, Empfehlungen zu geben, welche Art von Cookies ein neuer Kunde kaufen sollte."
+        },
+        "description": "Umfrage unter Kunden in einem Cookie-Shop, ob ihnen bestimmte Cookie-Kombinationen gefallen oder nicht."
+      },
+      "fields": {
+        "chocolate chips": {
+          "description": "Hat der Cookie Schokoladenstückchen?",
+          "id": "Schokoladenstückchen"
+        },
+        "frosting": {
+          "description": "Hat der Cookie Zuckerguss?",
+          "id": "Zuckerguss"
+        },
+        "ice cream on top": {
+          "description": "Hat der Cookie Eiscreme als Belag?",
+          "id": "Eiscreme Belag"
+        },
+        "m and ms": {
+          "description": "Hat der Cookie M & Ms?",
+          "id": "m und ms"
+        },
+        "oatmeal": {
+          "description": "Hat der Cookie Haferflocken?",
+          "id": "Haferflocken"
+        },
+        "preference": {
+          "description": "Magst du den Cookie oder nicht?",
+          "id": "Präferenz"
+        },
+        "raisins": {
+          "description": "Hat der Cookie Rosinen?",
+          "id": "Rosinen"
+        }
+      },
+      "name": "Cookies"
+    },
+    "exoplanets": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Versuche zu erraten, ob ein Planet Leben beherbergen könnte.",
+          "potentialUses": "Schätze die Größe oder Masse eines Exoplaneten anhand der Größe, des Alters oder anderer Aspekte des Sterns, den er umkreist."
+        },
+        "description": "Dieser Datensatz ist eine Liste von Exoplaneten, bei denen es sich um Planeten handelt, die andere Sterne umkreisen. Mit diesen Daten ist es möglich, die Größe eines Exoplaneten sowie andere Eigenschaften abzuschätzen."
+      },
+      "fields": {
+        "Discovery year": {
+          "description": "Das Jahr, in dem dieser Exoplanet entdeckt wurde.",
+          "id": "Jahr der Entdeckung"
+        },
+        "Mass in earths": {
+          "description": "Die relative Masse dieses Exoplaneten im Vergleich zur Erde.",
+          "id": "Masse in Erden"
+        },
+        "Number of planets": {
+          "description": "Anzahl der Planeten im System des Exoplaneten.",
+          "id": "Anzahl der Planeten"
+        },
+        "Number of stars": {
+          "description": "Anzahl der Sterne im System des Exoplaneten.",
+          "id": "Anzahl der Sterne"
+        },
+        "Orbit length in earth days": {
+          "description": "Wie lange es dauert, bis dieser Planet seinen Wirtsstern vollständig umkreist, gemessen in Erdtagen.",
+          "id": "Bahnlänge in Erdtagen"
+        },
+        "Size in earths": {
+          "description": "Die relative Größe dieses Exoplaneten im Vergleich zur Erde.",
+          "id": "Größe in Erden"
+        },
+        "Star age in billions of years": {
+          "description": "Das Alter des Wirtssterns.",
+          "id": "Sternenalter in Milliarden von Jahren"
+        },
+        "Star host name": {
+          "description": "Der Name des Sterns, den dieser Exoplanet umkreist.",
+          "id": "Name des Wirtssterns"
+        },
+        "Star mass in suns": {
+          "description": "Die relative Masse des Wirtssterns im Vergleich zur Sonne.",
+          "id": "Sternmasse in Sonnen"
+        },
+        "Star size in suns": {
+          "description": "Die relative Größe des Wirtssterns im Vergleich zur Sonne.",
+          "id": "Sterngröße in Sonnen"
+        },
+        "Star temperature in kelvin": {
+          "description": "Die Temperatur des Wirtssterns in Kelvin.",
+          "id": "Sterntemperatur in Kelvin"
+        }
+      },
+      "name": "Exoplaneten"
+    },
+    "global_happiness_raw": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Es ist schwierig, den Rang vorherzusagen. Dies sollte auch nicht als objektive Kennzahl dafür verwendet werden, welche Länder die „besten“ sind. Welche Faktoren könnten zu diesen Ergebnissen beitragen, die nicht in den Daten enthalten sind?",
+          "potentialUses": "Prognostiziere den Glückswert eines Landes auf der Grundlage anderer Merkmale wie dem BIP pro Kopf und der Freiheit, Lebensentscheidungen zu treffen."
+        },
+        "description": "Rankings des Global Happiness Reports 2019, in denen Länder anhand verschiedener Merkmale bewertet werden, die zu einem Gesamtglückswert beitragen, der anschließend bewertet wird. Die Merkmale in diesem Datensatz stammen aus den Jahren 2008 bis 2018 und wurden für den Bericht zur Erstellung von Punktzahlen zusammengenommen. Diese „Rohdaten“ enthalten mehr Zeilen als der Datensatz „Global Happiness 2019“, können jedoch zu anderen Ergebnissen führen."
+      },
+      "fields": {
+        "Country name": {
+          "description": "Der Name des Landes oder der Region.",
+          "id": "Name des Landes"
+        },
+        "Freedom to make life choices": {
+          "description": "Der nationale Durchschnitt einer Antwort von 0 (Nein) zu 1 (Ja) auf die Frage „Bist du zufrieden oder unzufrieden mit deiner Freiheit, zu entscheiden, was du mit deinem Leben anfangen kannst?“",
+          "id": "Freiheit, Lebensentscheidungen zu treffen"
+        },
+        "GDP per capita": {
+          "description": "Das BIP des Landes pro Kopf in Dollar.",
+          "id": "BIP pro Kopf"
+        },
+        "Generosity": {
+          "description": "Der nationale Durchschnitt einer Antwort auf die Frage „Hast du im letzten Monat Geld für eine Wohltätigkeitsorganisation gespendet?“",
+          "id": "Großzügigkeit"
+        },
+        "Healthy life expectancy at birth": {
+          "description": "Gesunde Lebenserwartung bei der Geburt, basierend auf Daten des Global Health Observatory der Weltgesundheitsorganisation.",
+          "id": "Gesunde Lebenserwartung bei der Geburt"
+        },
+        "Life Ladder": {
+          "description": "Der subjektive Wohlfühlwert als Durchschnitt der Antworten auf eine Frage zur Lebensbewertung: „Bitte stelle dir eine Leiter vor, deren Stufen von 0 unten bis 10 oben nummeriert sind. Die Spitze der Leiter steht für das bestmögliche Leben für dich, und die Unterseite der Leiter steht für das schlechteste Leben für dich. Auf welcher Stufe der Leiter würdest du persönlich das Gefühl haben, aktuell zu stehen?“",
+          "id": "Lebensleiter"
+        },
+        "Negative affect": {
+          "description": "Der Durchschnitt von drei negativen Messgrößen, bei denen gefragt wird, wie oft die Befragten Sorge, Traurigkeit oder Wut fühlen.",
+          "id": "Negativer Effekt"
+        },
+        "Perceptions of corruption": {
+          "description": "Der nationale Durchschnitt der Antworten auf zwei 0-1-Fragen: „Ist Korruption in der gesamten Regierung weitverbreitet oder nicht“ und „Ist Korruption in Unternehmen weitverbreitet oder nicht“?",
+          "id": "Wahrnehmung von Korruption"
+        },
+        "Positive affect": {
+          "description": "Der Durchschnitt von drei positiven Messgrößen, bei denen die Befragten gefragt werden, wie oft sie glücklich sind, wie oft sie Freude empfinden und wie oft sie lächeln oder lachen.",
+          "id": "Positiver Effekt"
+        },
+        "Social support": {
+          "description": "Dies ist der nationale Durchschnitt einer Antwort von 0 (Nein) oder 1 (Ja) auf die Frage: „Hast du Verwandte oder Freunde, auf die du zählen kannst, wenn du in Schwierigkeiten warst, die dir helfen, wann immer du sie brauchst?“",
+          "id": "Soziale Unterstützung"
+        },
+        "Year": {
+          "description": "Das Jahr der Umfrageergebnisse.",
+          "id": "Jahr"
+        }
+      }
+    },
+    "heart": {
+      "card": {
+        "context": {
+          "potentialMisuses": "[empty string]",
+          "potentialUses": "Diagnostiziere anhand verschiedener Faktoren, ob bei jemandem ein Risiko für Herzerkrankungen besteht."
+        },
+        "description": "Ein Datensatz mit Testergebnissen für Patienten mit Herzerkrankungen, der verwendet wird, um vorherzusagen, ob jemand an einer Herzerkrankung leiden könnte oder nicht."
+      },
+      "fields": {
+        "Age": {
+          "description": "Alter des Patienten.",
+          "id": "Alter"
+        },
+        "Chest Pain Type": {
+          "description": "Art der Brustschmerzen.",
+          "id": "Art der Brustschmerzen"
+        },
+        "Cholesterol": {
+          "description": "Cholesterin im Blut.",
+          "id": "Cholesterin"
+        },
+        "Diagnosis of Heart Disease": {
+          "description": "Ob der Patient eine Herzerkrankung hat oder nicht.",
+          "id": "Diagnose einer Herzerkrankung"
+        },
+        "Exercise Induced Angina": {
+          "description": "Ob oder ob nicht es sich um eine sportbedingte Angina pectoris beim Patienten handelt",
+          "id": "Belastungsinduzierte Angina"
+        },
+        "Fasting Blood Sugar > 120mg/dl": {
+          "description": "Ob ihr nüchterner Blutzucker hoch ist (über 120).",
+          "id": "Nüchterner Blutzucker > 120 mg/dl"
+        },
+        "Maximum Heart Rate Achieved": {
+          "description": "Höchste erreichte Herzfrequenz des Patienten, während eines Belastungstests.",
+          "id": "Maximale Herzfrequenz erreicht"
+        },
+        "Number of Major Vessels Colored by Flourosopy": {
+          "description": "Die Fluoroskopie ist ein Verfahren, bei dem die Arterien dem Herzen zugeordnet werden. Dies zeigt, wie viele Blutgefäße dabei gut sichtbar waren. Eine niedrige oder hohe Zahl kann einer Herzerkrankung entsprechen.",
+          "id": "Anzahl der Hauptgefäße, die durch Fluroskopie gefärbt wurden"
+        },
+        "Resting Blood Pressure": {
+          "description": "Ob sie Brustschmerzen haben und wenn ja, ob es sich um Angina pectoris handelt: ein Gefühl, als würde dein Herz zusammengedrückt.",
+          "id": "Blutdruck im Ruhezustand"
+        },
+        "Resting ECG Results": {
+          "description": "Die Ergebnisse eines Echykardiogramms: ob Abnormalitäten in ihrem Herzen festgestellt wurden.",
+          "id": "EKG-Ergebnisse im Ruhezustand"
+        },
+        "ST Depression Induced By Exercise Relative To Rest": {
+          "description": "Die Rate der durch körperliche Betätigung verursachten ST-Depressionen (Arterienprobleme), ein Indikator für Herzprobleme.",
+          "id": "ST-Depression, hervorgerufen durch Bewegung im Verhältnis zur Ruhe"
+        },
+        "Sex": {
+          "description": "Biologisches Geschlecht des Patienten.",
+          "id": "Geschlecht"
+        },
+        "Slope of Peak Exercise ST Segment": {
+          "description": "Die Steigung ihres ST-Segments (die gemessene Arterie) während des Trainings.",
+          "id": "Steigung des ST-Segments beim Höhepunkt der Übung"
+        }
+      },
+      "name": "Gesundheit des Herzens"
+    },
+    "housing_data": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Dies ist ein alter Datensatz, daher ist es unwahrscheinlich, dass er die heutigen Wohnwerte widerspiegelt. Dieser Datensatz spiegelt auch ethnische und wirtschaftliche Vorurteile wider: Ist es richtig oder fair, dass die Eigenheimwerte in Gebieten, in denen die Bevölkerung wohlhabender oder weniger schwarz war, tendenziell höher waren?",
+          "potentialUses": "Prognostiziere den mittleren Eigenheimwert auf der Grundlage der schwarzen Bevölkerung und des Verhältnisses zwischen Eltern und Lehrern."
+        },
+        "description": "Ein weit verbreiteter, kleiner Datensatz zum Wohnen in der Gegend von Boston, Massachusetts."
+      },
+      "fields": {
+        "% of buildings pre-1940": {
+          "description": "Anteil der vom Eigentümer genutzter Einheiten, die vor 1940 gebaut wurden.",
+          "id": "% der Gebäude vor 1940"
+        },
+        "Accessibility to highways": {
+          "description": "Ein gewichtetes Maß für die Erreichbarkeit wichtiger Autobahnen.",
+          "id": "Erreichbarkeit von Autobahnen"
+        },
+        "Bounds Charles River?": {
+          "description": "1, wenn das Land neben dem Charles River liegt, ansonsten 0. Einige Städte haben ein „NA“, bei dem die Antwort ungewiss ist.",
+          "id": "Grenzt an Charles River?"
+        },
+        "Distance to employment centers": {
+          "description": "Gewichtete Entfernung zu 5 großen Arbeitsämtern in Boston.",
+          "id": "Entfernung zu den Arbeitsämtern"
+        },
+        "Lower status population": {
+          "description": "Der Prozentsatz der Bevölkerung, der als „niedrigerer Status“ eingestuft wurde.",
+          "id": "Bevölkerung mit niedrigerem Status"
+        },
+        "Median home value": {
+          "description": "Mittlerer Eigenheimwert in 1000$.",
+          "id": "Medianwert des Eigenheims"
+        },
+        "Nitric Oxide Concentration (PPM)": {
+          "description": "Stickoxidkonzentration in Teilen pro 10 Millionen.",
+          "id": "Stickoxid-Konzentration (PPM)"
+        },
+        "Per Capita Crime Rate": {
+          "description": "Kriminalitätsrate pro Kopf nach Städten.",
+          "id": "Kriminalitätsrate pro Kopf"
+        },
+        "Property tax": {
+          "description": "Grundsteuersatz pro 10.000 USD.",
+          "id": "Grundsteuer"
+        },
+        "Proportion of Residental Land Zoned for >25Kft": {
+          "description": "Anteil der Wohngrundstücke, die für Grundstücke über 25.000 Quadratfuß in Zonen aufgeteilt sind.",
+          "id": "Anteil der Wohnflächen, die in Zonen aufgeteilt sind >25 Kft "
+        },
+        "Proportion of non-retail business acres": {
+          "description": "Anteil der Gewerbeflächen außerhalb des Einzelhandels pro Stadt.",
+          "id": "Anteil der Gewerbeflächen außerhalb des Einzelhandels"
+        },
+        "Rooms per dwelling": {
+          "description": "Durchschnittliche Anzahl der Zimmer pro Wohnung.",
+          "id": "Zimmer pro Wohnung"
+        },
+        "Student-teacher ratio": {
+          "description": "Das durchschnittliche Verhältnis von Schülern zu Lehrern nach Städten.",
+          "id": "Schüler-Lehrer-Verhältnis"
+        },
+        "Weighted black population": {
+          "description": "Ein gewichtetes Maß für die schwarze Bevölkerung pro Stadt.",
+          "id": "Gewichtete schwarze Bevölkerung"
+        }
+      }
+    },
+    "icecream_toppings_toy": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Alles andere als Eiscremeempfehlungen.",
+          "potentialUses": "Hilf mit, Empfehlungen abzugeben, welche Art von Eiscreme ein neuer Kunde kaufen sollte."
+        },
+        "description": "Umfrage unter Kunden in einer Eisdiele, ob ihnen bestimmte Eiscremekombinationen gefallen oder nicht."
+      },
+      "fields": {
+        "Cherry": {
+          "description": "Gab es eine Kirsche?",
+          "id": "Kirsche"
+        },
+        "Hot Fudge": {
+          "description": "Gab es Hot Fudge?",
+          "id": "Hot Fudge"
+        },
+        "Preference": {
+          "description": "Hat dir die Eiswaffel geschmeckt?",
+          "id": "Präferenz"
+        },
+        "Sprinkles": {
+          "description": "Gab es Streusel?",
+          "id": "Streusel"
+        },
+        "Waffle Cone": {
+          "description": "Gab es eine Waffeltüte?",
+          "id": "Waffeltüte"
+        },
+        "Whipped Cream": {
+          "description": "Gab es Schlagsahne?",
+          "id": "Schlagsahne"
+        }
+      }
+    },
+    "insurance_cost": {
+      "card": {
+        "context": {
+          "potentialMisuses": "[empty string]",
+          "potentialUses": "Kann verwendet werden, um anhand anderer Versicherungsinformationen vorherzusagen, ob jemand Raucher ist oder nicht"
+        },
+        "description": "Versicherungskosten sowie Faktoren wie Anzahl der Kinder, Standort, Raucher-/Nichtraucherstatus, Alter, Geschlecht, BMI."
+      },
+      "fields": {
+        "age": {
+          "description": "Alter des Hauptbegünstigten.",
+          "id": "Alter"
+        },
+        "bmi": {
+          "description": "Body Mass Index.",
+          "id": "BMI"
+        },
+        "charges": {
+          "description": "Individuelle Behandlungskosten, die von der Krankenkasse in Rechnung gestellt werden.",
+          "id": "Gebühren"
+        },
+        "children": {
+          "description": "Anzahl der krankenversicherten Kinder.",
+          "id": "Kinder"
+        },
+        "region": {
+          "description": "das Wohngebiet des Begünstigten in den USA, Nordosten, Südosten, Südwesten, Nordwesten.",
+          "id": "Region"
+        },
+        "sex": {
+          "description": "Geschlecht des Versicherungsnehmers: weiblich, männlich.",
+          "id": "Geschlecht"
+        },
+        "smoker": {
+          "description": "Ob die Person raucht oder nicht.",
+          "id": "Raucher"
+        }
+      }
+    },
+    "jeans": {
+      "card": {
+        "context": {
+          "potentialMisuses": "[empty string]",
+          "potentialUses": "Prognostiziere den Preis einer Jeans auf der Grundlage dessen, für wen sie bestimmt sind, wie groß die Taschen sind usw."
+        },
+        "description": "Dieser Datensatz enthält Messdaten über beliebte Jeansmarken."
+      },
+      "fields": {
+        "Brand": {
+          "description": "Die Marke der Jeans.",
+          "id": "Marke"
+        },
+        "Cotton contents": {
+          "description": "Menge an Baumwolle im Stoff, wobei 0 bedeutet, dass überhaupt keine Baumwolle vorhanden ist, und 1 bedeutet 100% Baumwolle.",
+          "id": "Baumwollanteile"
+        },
+        "Front rivet height": {
+          "description": "Die Fronttaschen sind zur Beinseite hin nach unten gewölbt und enden in einer Niete. Diese Zahl misst den Abstand zwischen der Oberseite der Tasche und der Niete.",
+          "id": "Höhe der vorderen Niete"
+        },
+        "Max height of back pocket": {
+          "description": "Die Höhe der Gesäßtasche von ihrer tiefsten Stelle aus.",
+          "id": "Maximale Höhe der Gesäßtasche"
+        },
+        "Max height of front pocket": {
+          "description": "Die Höhe der Vordertasche von ihrer tiefsten Stelle aus.",
+          "id": "Maximale Höhe der Fronttasche"
+        },
+        "Max width of back pocket": {
+          "description": "Die Breite der Gesäßtasche von ihrer breitesten Stelle aus.",
+          "id": "Maximale Breite der Gesäßtasche"
+        },
+        "Max width of front pocket": {
+          "description": "Die Breite der Vordertasche von ihrer breitesten Stelle aus.",
+          "id": "Maximale Breite der Fronttasche"
+        },
+        "Mens or womens": {
+          "description": "Ob die Jeans an Männer oder Frauen verkauft wurden.",
+          "id": "Herren oder Damen"
+        },
+        "Min height of back pocket": {
+          "description": "Die Höhe der Gesäßtasche von ihrer flachsten Stelle aus.",
+          "id": "Mindesthöhe der Gesäßtasche"
+        },
+        "Min height of front pocket": {
+          "description": "Die Höhe der Vordertasche von ihrem flachsten Teil aus.",
+          "id": "Mindesthöhe der Fronttasche"
+        },
+        "Min width of back pocket": {
+          "description": "Die Breite der Gesäßtasche von ihrer schmalsten Stelle aus.",
+          "id": "Minimale Breite der Gesäßtasche"
+        },
+        "Min width of front pocket": {
+          "description": "Die Breite der Vordertasche von ihrer schmalsten Stelle aus.",
+          "id": "Minimale Breite der Fronttasche"
+        },
+        "Price in dollars": {
+          "description": "Der Preis der Jeans in US-Dollar.",
+          "id": "Preis in Dollar"
+        },
+        "Style": {
+          "description": "Die Passform oder der Stil einer Jeans, z. B. Skinny oder Boot Cut.",
+          "id": "Stil"
+        }
+      },
+      "name": "Maße der Jeans"
+    },
+    "loneliness_interests": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Verwendung demografischer Informationen aus einem begrenzten Datensatz, um Annahmen über Untergruppen von Menschen zu treffen: beispielsweise um Vorhersagen darüber zu stellen, welche Geschlechter mit größerer Wahrscheinlichkeit welche Ängste haben.",
+          "potentialUses": "Sag beispielsweise die Persönlichkeitsmerkmale einer Person anhand anderer Merkmale voraus."
+        },
+        "description": "Ein Datensatz mit Umfrageantworten, die von slowakischen Studierenden im Alter von 18 bis 21 Jahren an der FSEV UK gesammelt wurden. Bei den meisten Antworten handelt es sich um Rankings auf einer Skala von 1 bis 5. Zum Beispiel „Rang von 1 (Stimme überhaupt nicht zu) bis 5 (stimme voll und ganz zu): Ich studiere oder arbeite oft auch in meiner Freizeit“. Dies ist eine Teilmenge des größeren Datensatzes, der sich ausschließlich auf persönliche Interessen konzentriert"
+      },
+      "fields": {
+        "Active sport": {
+          "description": "Ich mag aktiven Sport",
+          "id": "Aktiver Sport"
+        },
+        "Art exhibitions": {
+          "description": "Ich mag Kunstausstellungen",
+          "id": "Kunstausstellungen"
+        },
+        "Biology": {
+          "description": "Ich mag Biologie",
+          "id": "Biologie"
+        },
+        "Cars": {
+          "description": "Ich mag Autos",
+          "id": "Autos"
+        },
+        "Chemistry": {
+          "description": "Ich mag Chemie",
+          "id": "Chemie"
+        },
+        "Countryside, outdoors": {
+          "description": "Ich mag die Landschaft, draußen",
+          "id": "Auf dem Land, im Freien"
+        },
+        "Dancing": {
+          "description": "Ich mag Tanzen",
+          "id": "Tanzen"
+        },
+        "Economy Management": {
+          "description": "Ich mag Wirtschaftsmanagement",
+          "id": "Wirtschaftsmanagement"
+        },
+        "Foreign languages": {
+          "description": "Ich mag Fremdsprachen",
+          "id": "Fremdsprachen"
+        },
+        "Gardening": {
+          "description": "Ich mag Gartenarbeit",
+          "id": "Gartenarbeit"
+        },
+        "Geography": {
+          "description": "Ich mag Geografie",
+          "id": "Erdkunde"
+        },
+        "History": {
+          "description": "Ich mag Geschichte",
+          "id": "Geschichte"
+        },
+        "Internet": {
+          "description": "Ich nutze gerne das Internet",
+          "id": "Internet"
+        },
+        "Law": {
+          "description": "Ich mag Recht",
+          "id": "Recht"
+        },
+        "Loneliness": {
+          "description": "Ich fühle mich einsam im Leben.",
+          "id": "Einsamkeit"
+        },
+        "Mathematics": {
+          "description": "Ich mag Mathematik",
+          "id": "Mathematik"
+        },
+        "Medicine": {
+          "description": "Ich mag Medizin",
+          "id": "Medizin"
+        },
+        "Musical instruments": {
+          "description": "Ich mag Musikinstrumente",
+          "id": "Musikinstrumente"
+        },
+        "PC": {
+          "description": "Ich benutze gerne PCs",
+          "id": "PC"
+        },
+        "Passive sport": {
+          "description": "Ich mag passiven Sport",
+          "id": "Passiver Sport"
+        },
+        "Physics": {
+          "description": "Ich mag Physik",
+          "id": "Physik"
+        },
+        "Politics": {
+          "description": "Ich mag Politik",
+          "id": "Politik"
+        },
+        "Psychology": {
+          "description": "Ich mag Psychologie",
+          "id": "Psychologie"
+        },
+        "Reading": {
+          "description": "Ich lese gerne",
+          "id": "Lesen"
+        },
+        "Religion": {
+          "description": "Ich mag Religion",
+          "id": "Religion"
+        },
+        "Writing": {
+          "description": "Ich mag Schreiben",
+          "id": "Schreiben"
+        }
+      },
+      "name": "Studierendenbefragung — Persönliche Interessen"
+    },
+    "loneliness_movies": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Verwendung demografischer Informationen aus einem begrenzten Datensatz, um Annahmen über Untergruppen von Menschen zu treffen: beispielsweise um Vorhersagen darüber zu stellen, welche Geschlechter mit größerer Wahrscheinlichkeit welche Ängste haben.",
+          "potentialUses": "Sag beispielsweise die Persönlichkeitsmerkmale einer Person anhand anderer Merkmale voraus."
+        },
+        "description": "Ein Datensatz mit Umfrageantworten, die von slowakischen Studierenden im Alter von 18 bis 21 Jahren an der FSEV UK gesammelt wurden. Bei den meisten Antworten handelt es sich um Rankings auf einer Skala von 1 bis 5. Zum Beispiel „Rang von 1 (Stimme überhaupt nicht zu) bis 5 (stimme voll und ganz zu): Ich studiere oder arbeite oft auch in meiner Freizeit“. Dies ist eine Teilmenge des größeren Datensatzes, der sich ausschließlich auf Filme konzentriert."
+      },
+      "fields": {
+        "Action": {
+          "description": "Ich mag Actionfilme",
+          "id": "Action"
+        },
+        "Animated": {
+          "description": "Ich mag Animationsfilme",
+          "id": "Animiert"
+        },
+        "Comedy": {
+          "description": "Ich mag Komödien",
+          "id": "Komödie"
+        },
+        "Documentary": {
+          "description": "Ich mag Dokumentarfilme",
+          "id": "Dokumentarfilm"
+        },
+        "Fantasy/Fairy tales": {
+          "description": "Ich mag Fantasy-/Märchenfilme",
+          "id": "Fantasy/Märchen"
+        },
+        "Horror": {
+          "description": "Ich mag Horrorfilme",
+          "id": "Horror"
+        },
+        "Loneliness": {
+          "description": "Ich fühle mich einsam im Leben.",
+          "id": "Einsamkeit"
+        },
+        "Movies": {
+          "description": "Ich schaue gerne Filme",
+          "id": "Filme"
+        },
+        "Romantic": {
+          "description": "Ich mag romantische Filme",
+          "id": "Romantik"
+        },
+        "Sci-fi": {
+          "description": "Ich mag Science-Fiction-Filme",
+          "id": "Science-Fiction"
+        },
+        "Thriller": {
+          "description": "Ich mag Thriller-Filme",
+          "id": "Thriller"
+        },
+        "War": {
+          "description": "Ich mag Kriegsfilme",
+          "id": "Krieg"
+        },
+        "Western": {
+          "description": "Ich mag Westernfilme",
+          "id": "Western"
+        }
+      },
+      "name": "Studierendenbefragung - Filme"
+    },
+    "loneliness_music": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Verwendung demografischer Informationen aus einem begrenzten Datensatz, um Annahmen über Untergruppen von Menschen zu treffen: beispielsweise um Vorhersagen darüber zu stellen, welche Geschlechter mit größerer Wahrscheinlichkeit welche Ängste haben.",
+          "potentialUses": "Sage beispielsweise die Persönlichkeitsmerkmale einer Person anhand anderer Merkmale voraus."
+        },
+        "description": "Ein Datensatz mit Umfrageantworten, die von slowakischen Studierenden im Alter von 18 bis 21 Jahren an der FSEV UK gesammelt wurden. Bei den meisten Antworten handelt es sich um Rankings auf einer Skala von 1 bis 5. Zum Beispiel „Rang von 1 (Stimme überhaupt nicht zu) bis 5 (stimme voll und ganz zu): Ich studiere oder arbeite oft auch in meiner Freizeit“. Dies ist eine Teilmenge des größeren Datensatzes, der sich ausschließlich auf Musik konzentriert."
+      },
+      "fields": {
+        "Alternative": {
+          "description": "Ich mag alternative Musik",
+          "id": "Alternative"
+        },
+        "Classical music": {
+          "description": "Ich mag klassische Musik",
+          "id": "Klassische Musik"
+        },
+        "Country": {
+          "description": "Ich mag Country-Musik",
+          "id": "Country"
+        },
+        "Dance": {
+          "description": "Ich mag Tanzmusik",
+          "id": "Tanz"
+        },
+        "Folk": {
+          "description": "Ich mag Volksmusik",
+          "id": "Volksmusik"
+        },
+        "Hiphop, Rap": {
+          "description": "Ich mag Hiphop- oder Rap-Musik",
+          "id": "Hip-Hop, Rap"
+        },
+        "Latino": {
+          "description": "Ich mag Latino-Musik",
+          "id": "Latino"
+        },
+        "Loneliness": {
+          "description": "Ich fühle mich einsam im Leben.",
+          "id": "Einsamkeit"
+        },
+        "Metal or Hardrock": {
+          "description": "Ich mag Metal- oder Hardrock-Musik",
+          "id": "Metal oder Hardrock"
+        },
+        "Music": {
+          "description": "Ich höre gerne Musik",
+          "id": "Musik"
+        },
+        "Musical": {
+          "description": "Ich mag Musical-Musik",
+          "id": "Musical"
+        },
+        "Opera": {
+          "description": "Ich mag Opernmusik",
+          "id": "Oper"
+        },
+        "Pop": {
+          "description": "Ich mag Popmusik",
+          "id": "Pop"
+        },
+        "Punk": {
+          "description": "Ich mag Punkmusik",
+          "id": "Punk"
+        },
+        "Reggae, Ska": {
+          "description": "Ich mag Reggae- oder Ska-Musik",
+          "id": "Reggae, Ska"
+        },
+        "Rock": {
+          "description": "Ich mag Rockmusik",
+          "id": "Rock"
+        },
+        "Rock n roll": {
+          "description": "Ich mag Rock 'n' Roll-Musik",
+          "id": "Rock'n'Roll"
+        },
+        "Slow songs or fast songs": {
+          "description": "Ich bevorzuge schnelle Musik",
+          "id": "Langsame Songs oder schnelle Songs"
+        },
+        "Swing, Jazz": {
+          "description": "Ich mag Swing- oder Jazzmusik",
+          "id": "Swing, Jazz"
+        },
+        "Techno, Trance": {
+          "description": "Ich mag Techno- oder Trance-Musik",
+          "id": "Techno, Trance"
+        }
+      },
+      "name": "Studierendenbefragung - Musik"
+    },
+    "loneliness_personality": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Verwendung demografischer Informationen aus einem begrenzten Datensatz, um Annahmen über Untergruppen von Menschen zu treffen: beispielsweise um Vorhersagen darüber zu stellen, welche Geschlechter mit größerer Wahrscheinlichkeit welche Ängste haben.",
+          "potentialUses": "Sage beispielsweise die Persönlichkeitsmerkmale einer Person anhand anderer Merkmale voraus."
+        },
+        "description": "Ein Datensatz mit Umfrageantworten, die von slowakischen Studierenden im Alter von 18 bis 21 Jahren an der FSEV UK gesammelt wurden. Bei den meisten Antworten handelt es sich um Rankings auf einer Skala von 1 bis 5. Zum Beispiel „Rang von 1 (Stimme überhaupt nicht zu) bis 5 (stimme voll und ganz zu): Ich studiere oder arbeite oft auch in meiner Freizeit“. Dies ist eine Teilmenge des größeren Datensatzes, der sich ausschließlich auf Aussagen zur Persönlichkeit konzentriert."
+      },
+      "fields": {
+        "Assertiveness": {
+          "description": "Ich habe keine Angst, meine Meinung zu äußern, wenn mir etwas sehr am Herzen liegt.",
+          "id": "Durchsetzungsvermögen"
+        },
+        "Friends versus money": {
+          "description": "Ich hätte lieber viele Freunde als viel Geld.",
+          "id": "Freunde gegen Geld"
+        },
+        "Funniness": {
+          "description": "Ich versuche immer der Lustigste zu sein.",
+          "id": "Lustigkeit"
+        },
+        "Judgment calls": {
+          "description": "Ich kann erkennen, ob die Leute mir zuhören oder nicht, wenn ich mit ihnen spreche.",
+          "id": "Urteilsvermögen"
+        },
+        "Loneliness": {
+          "description": "Ich fühle mich einsam im Leben.",
+          "id": "Einsamkeit"
+        },
+        "Number of friends": {
+          "description": "Ich habe viele Freunde.",
+          "id": "Anzahl der Freunde"
+        },
+        "Prioritising workload": {
+          "description": "Ich versuche, Aufgaben so schnell wie möglich zu erledigen und lasse sie nicht bis zur letzten Minute liegen",
+          "id": "Priorisierung der Arbeitslast"
+        },
+        "Reliability": {
+          "description": "Ich bin zuverlässig bei der Arbeit und erledige immer alle mir gestellten Aufgaben.",
+          "id": "Zuverlässigkeit"
+        },
+        "Socializing": {
+          "description": "Ich lerne gerne neue Leute kennen.",
+          "id": "Geselligkeit"
+        },
+        "Waiting": {
+          "description": "Ich bin sehr geduldig.",
+          "id": "Wartend"
+        },
+        "Workaholism": {
+          "description": "Ich studiere oder arbeite oft auch in meiner Freizeit.",
+          "id": "Workaholismus"
+        }
+      },
+      "name": "Studierendenbefragung — Persönlichkeit"
+    },
+    "loneliness_phobias": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Verwendung demografischer Informationen aus einem begrenzten Datensatz, um Annahmen über Untergruppen von Menschen zu treffen: beispielsweise um Vorhersagen darüber zu stellen, welche Geschlechter mit größerer Wahrscheinlichkeit welche Ängste haben.",
+          "potentialUses": "Sag beispielsweise die Persönlichkeitsmerkmale einer Person anhand anderer Merkmale voraus."
+        },
+        "description": "Ein Datensatz mit Umfrageantworten, die von slowakischen Studierenden im Alter von 18 bis 21 Jahren an der FSEV UK gesammelt wurden. Bei den meisten Antworten handelt es sich um Rankings auf einer Skala von 1 bis 5. Zum Beispiel „Rang von 1 (Stimme überhaupt nicht zu) bis 5 (stimme voll und ganz zu): Ich studiere oder arbeite oft auch in meiner Freizeit“. Dies ist eine Teilmenge des größeren Datensatzes, der sich ausschließlich auf Musik konzentriert."
+      },
+      "fields": {
+        "Ageing": {
+          "description": "Ich habe Angst vor dem Altern",
+          "id": "Altern"
+        },
+        "Dangerous dogs": {
+          "description": "Ich habe Angst vor gefährlichen Hunden",
+          "id": "Gefährliche Hunde"
+        },
+        "Darkness": {
+          "description": "Ich habe Angst vor der Dunkelheit",
+          "id": "Dunkelheit"
+        },
+        "Fear of public speaking": {
+          "description": "Ich habe Angst davor, in der Öffentlichkeit zu sprechen",
+          "id": "Angst vor öffentlichen Reden"
+        },
+        "Flying": {
+          "description": "Ich habe Angst vorm Fliegen",
+          "id": "Fliegend"
+        },
+        "Heights": {
+          "description": "Ich habe Angst vor Höhen",
+          "id": "Höhen"
+        },
+        "Loneliness": {
+          "description": "Ich fühle mich einsam im Leben.",
+          "id": "Einsamkeit"
+        },
+        "Rats": {
+          "description": "Ich habe Angst vor Ratten",
+          "id": "Ratten"
+        },
+        "Snakes": {
+          "description": "Ich habe Angst vor Schlangen",
+          "id": "Schlangen"
+        },
+        "Spiders": {
+          "description": "Ich habe Angst vor Spinnen",
+          "id": "Spinnen"
+        },
+        "Storm": {
+          "description": "Ich habe Angst vor Stürmen",
+          "id": "Sturm"
+        }
+      },
+      "name": "Studentenumfrage - Phobien"
+    },
+    "medical_priority": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Dieses Modell sollte nicht in einer Weise verwendet werden, die die Versorgung von Personen, die eine Notaufnahme betreten, einschränken könnte.",
+          "potentialUses": "Hilf mit, die Priorität für Personen festzulegen, die eine Notaufnahme betreten, damit Ärzte und Krankenschwestern Menschen mit potenziell schweren Verletzungen besser helfen können."
+        },
+        "description": "Von einem Krankenhaus gesammelte Daten über alle Patienten, die im Laufe eines Monats eine Notaufnahme betraten."
+      },
+      "fields": {
+        "age": {
+          "description": "Altersklassen des Patienten.",
+          "id": "Alter"
+        },
+        "area_of_pain": {
+          "description": "Wo der Schmerz lokalisiert war.",
+          "id": "Bereich des Schmerzes"
+        },
+        "bleeding": {
+          "description": "Ob der Patient blutete oder nicht.",
+          "id": "Blutung"
+        },
+        "decision": {
+          "description": "Wie schnell der Patient behandelt wurde.",
+          "id": "Entscheidung"
+        },
+        "gender": {
+          "description": "Geschlecht des Patienten.",
+          "id": "Geschlecht"
+        },
+        "race": {
+          "description": "Rasseninformationen über den Patienten.",
+          "id": "Rasse"
+        },
+        "shortness_of_breath": {
+          "description": "Ob der Patient Kurzatmigkeit hatte oder nicht.",
+          "id": "Kurzatmigkeit"
+        },
+        "weight": {
+          "description": "Gewichtsklasse für den Patienten.",
+          "id": "Gewicht"
+        }
+      },
+      "name": "Medizinische Priorität"
+    },
+    "movies": {
+      "card": {
+        "context": {
+          "potentialMisuses": "[empty string]",
+          "potentialUses": "Ermitteln Sie beispielsweise die Kinokasse eines Films anhand seines Budgets oder Genres."
+        },
+        "description": "Ein Datensatz von Filmen, die von 1986 bis 2016 veröffentlicht wurden, mit Kinokassen, Bewertungen, IMDB-Ergebnissen und mehr."
+      },
+      "fields": {
+        "Budget": {
+          "description": "Das Budget des Films in USD. Filme ohne Budgetdaten haben hier 0.",
+          "id": "Kostenrahmen"
+        },
+        "Company": {
+          "description": "Die Produktionsfirma.",
+          "id": "Firma"
+        },
+        "Country": {
+          "description": "Das Ursprungsland des Films.",
+          "id": "Land"
+        },
+        "Director": {
+          "description": "Der Regisseur des Films.",
+          "id": "Regisseur"
+        },
+        "Genre": {
+          "description": "Das Genre des Films.",
+          "id": "Genre"
+        },
+        "Gross": {
+          "description": "Der Umsatz des Films in USD.",
+          "id": "Brutto"
+        },
+        "Name": {
+          "description": "Der Name des Films.",
+          "id": "Name"
+        },
+        "Rating": {
+          "description": "Die MPAA-Bewertung, von G (alle Altersgruppen) bis NC-17 (keine Kinder unter 17 Jahren).",
+          "id": "Bewertung"
+        },
+        "Released": {
+          "description": "Der Monat, in dem es veröffentlicht wurde.",
+          "id": "Erscheinungsdatum"
+        },
+        "Runtime": {
+          "description": "Wie lang ist der Film in Minuten.",
+          "id": "Laufzeit"
+        },
+        "Score": {
+          "description": "Die IMDb-Nutzerbewertung für den Film.",
+          "id": "Punktzahl"
+        },
+        "Star": {
+          "description": "Der Hauptdarsteller oder die Darstellerin.",
+          "id": "Star"
+        },
+        "Votes": {
+          "description": "Anzahl der Stimmen, die der Film in IMDB erhalten hat.",
+          "id": "Abstimmungen"
+        },
+        "Writer": {
+          "description": "Der Autor des Films.",
+          "id": "Autor"
+        },
+        "Year": {
+          "description": "Das Jahr, in dem er veröffentlicht wurde.",
+          "id": "Jahr"
+        }
+      },
+      "name": "Filmstatistiken"
+    },
+    "naan_toy": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Alles andere als Empfehlungen.",
+          "potentialUses": "Hilf mit, Empfehlungen zu geben, welche Art von Naan ein neuer Kunde bestellen sollte."
+        },
+        "description": "Umfrage unter Kunden in einem indischen Restaurant, ob sie bestimmte Naan-Kombinationen mögen oder nicht."
+      },
+      "fields": {
+        "cheese": {
+          "description": "Ist im Naan Käse eingebacken?",
+          "id": "Käse"
+        },
+        "cherries": {
+          "description": "Sind im Naan Kirschen eingebacken?",
+          "id": "Kirschen"
+        },
+        "chicken": {
+          "description": "Wird im Naan Hühnchen eingebacken?",
+          "id": "Huhn"
+        },
+        "garlic": {
+          "description": "Ist im Naan Knoblauch eingebacken?",
+          "id": "Knoblauch"
+        },
+        "lamb": {
+          "description": "Wird im Naan Lammfleisch eingebacken?",
+          "id": "Lamm"
+        },
+        "nuts": {
+          "description": "Sind im Naan Nüsse eingebacken?",
+          "id": "Nüsse"
+        },
+        "onion": {
+          "description": "Hat das Naan Zwiebeln eingebacken?",
+          "id": "Zwiebel"
+        },
+        "potatoes": {
+          "description": "Sind im Naan Kartoffeln eingebacken?",
+          "id": "Kartoffeln"
+        },
+        "preference": {
+          "description": "Magst du das Naan oder nicht?",
+          "id": "Präferenz"
+        },
+        "shaved coconut": {
+          "description": "Ist im Naan Kokosraspeln eingebacken?",
+          "id": "Kokosraspeln"
+        }
+      },
+      "name": "Naan"
+    },
+    "nutrition": {
+      "card": {
+        "context": {
+          "potentialMisuses": "[empty string]",
+          "potentialUses": "Ermitteln Sie beispielsweise anhand seines Nährstoffgehalts, wie viele Kalorien ein Lebensmittel enthält."
+        },
+        "description": "Ein vom USDA zusammengestellter Datensatz über verschiedene Lebensmittel und deren Nährstoffgehalt: Kalorien, Mineralien, Vitamine und vieles mehr."
+      },
+      "fields": {
+        "Ash": {
+          "description": "Der Aschegehalt stellt den Gesamtmineralgehalt in Lebensmitteln dar. Gemessen in Gramm (g).",
+          "id": "Asche"
+        },
+        "Beta Carotene": {
+          "description": "Eine Art von Lipidmolekül, gemessen in Milligramm (mg).",
+          "id": "Beta-Carotin"
+        },
+        "Carbohydrate": {
+          "description": "Ballaststoffe sind der unverdauliche Teil der Nahrung, der aus Pflanzen gewonnen wird. Es besteht aus zwei Hauptbestandteilen: lösliche Ballaststoffe und unlösliche Ballaststoffe. Gemessen in Gramm (g).",
+          "id": "Kohlenhydrate"
+        },
+        "Category": {
+          "description": "Die allgemeine Lebensmittelkategorie, zu der der Artikel gehört.",
+          "id": "Kategorie"
+        },
+        "Cholesterol": {
+          "description": "Die Gesamtzahl der Kilokalorien in diesem Lebensmittel. Eine Kilokalorie ist eine Energieeinheit von 1000 Kalorien (entspricht einer großen Kalorie).",
+          "id": "Cholesterin"
+        },
+        "Description": {
+          "description": "Eine vollständige Beschreibung des Artikels.",
+          "id": "Beschreibung"
+        },
+        "Fat: Monosaturated Fat": {
+          "id": "Fett: Einfach gesättigtes Fett"
+        },
+        "Fat: Polysaturated Fat": {
+          "id": "Fett: Mehrfach gesättigtes Fett"
+        },
+        "Fat: Saturated Fat": {
+          "id": "Fett: Gesättigtes Fett"
+        },
+        "Fat: Total Lipid": {
+          "id": "Fett: Gesamtlipid"
+        },
+        "Fiber": {
+          "id": "Faser"
+        },
+        "Kilocalories": {
+          "id": "Kilokalorien"
+        },
+        "Lutein and Zeaxanthin": {
+          "id": "Lutein und Zeaxanthin"
+        },
+        "Lycopene": {
+          "id": "Lycopin"
+        },
+        "Major Minerals: Calcium": {
+          "id": "Hauptmineralien: Calcium"
+        },
+        "Major Minerals: Copper": {
+          "id": "Hauptmineralien: Kupfer"
+        },
+        "Major Minerals: Iron": {
+          "id": "Hauptmineralien: Eisen"
+        },
+        "Major Minerals: Magnesium": {
+          "id": "Hauptmineralien: Magnesium"
+        },
+        "Major Minerals: Phosphorus": {
+          "id": "Hauptmineralien: Phosphor"
+        },
+        "Major Minerals: Potassium": {
+          "id": "Hauptmineralien: Kalium"
+        },
+        "Major Minerals: Sodium": {
+          "id": "Hauptmineralien: Natrium"
+        },
+        "Major Minerals: Zinc": {
+          "id": "Hauptmineralien: Zink"
+        },
+        "Manganese": {
+          "id": "Mangan"
+        },
+        "Niacin": {
+          "id": "Niacin"
+        },
+        "Protein": {
+          "id": "Eiweiss"
+        },
+        "Retinol": {
+          "id": "Retinol"
+        },
+        "Riboflavin": {
+          "id": "Riboflavin"
+        },
+        "Selenium": {
+          "id": "Selen"
+        },
+        "Sugar Total": {
+          "id": "Zucker insgesamt"
+        },
+        "Thiamin": {
+          "id": "Thiamin"
+        },
+        "Vitamins: Vitamin A - IU": {
+          "id": "Vitamine: Vitamin A - IE"
+        },
+        "Vitamins: Vitamin A - RAE": {
+          "id": "Vitamine: Vitamin A - RAE"
+        },
+        "Vitamins: Vitamin B12": {
+          "id": "Vitamine: Vitamin B12"
+        },
+        "Vitamins: Vitamin B6": {
+          "id": "Vitamine: Vitamin B6"
+        },
+        "Vitamins: Vitamin C": {
+          "id": "Vitamine: Vitamin C"
+        },
+        "Vitamins: Vitamin E": {
+          "id": "Vitamine: Vitamin E"
+        },
+        "Vitamins: Vitamin K": {
+          "id": "Vitamine: Vitamin K"
+        },
+        "Water": {
+          "id": "Wasser"
+        }
+      },
+      "name": "Ernährung"
+    },
+    "pizza_toppings_toy": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Alles andere als Pizzaempfehlungen.",
+          "potentialUses": "Hilf mit, Empfehlungen abzugeben, welche Art von Pizza ein neuer Kunde kaufen sollte."
+        },
+        "description": "Umfrage unter Kunden in einer Pizzeria, ob ihnen bestimmte Pizzakombinationen gefallen oder nicht."
+      },
+      "fields": {
+        "Anchovies": {
+          "description": "Hatte die Pizza Sardellen?",
+          "id": "Sardellen"
+        },
+        "Bacon": {
+          "description": "Hatte die Pizza Speck?",
+          "id": "Speck"
+        },
+        "Broccoli": {
+          "description": "Hatte die Pizza Brokkoli?",
+          "id": "Brokkoli"
+        },
+        "Extra Cheese": {
+          "description": "Hatte die Pizza extra Käse?",
+          "id": "Extra Käse"
+        },
+        "Fried Chicken": {
+          "description": "Hatte die Pizza gebratenes Hähnchen?",
+          "id": "Gebratenes Hähnchen"
+        },
+        "Ham": {
+          "description": "Hatte die Pizza Schinken?",
+          "id": "Schinken"
+        },
+        "Olives": {
+          "description": "Hatte die Pizza Oliven?",
+          "id": "Oliven"
+        },
+        "Pepperoni": {
+          "description": "Hatte die Pizza Peperoni?",
+          "id": "Peperoni"
+        },
+        "Peppers": {
+          "description": "Hatte die Pizza Paprika?",
+          "id": "Paprika"
+        },
+        "Preference": {
+          "description": "Wie hat dir die Pizza geschmeckt?",
+          "id": "Präferenz"
+        },
+        "Sausage": {
+          "description": "Hatte die Pizza Wurst?",
+          "id": "Wurst"
+        }
+      }
+    },
+    "poke_toy": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Alles andere als Empfehlungen.",
+          "potentialUses": "Hilf mit, Empfehlungen zu geben, welche Art von Poke ein neuer Kunde kaufen sollte."
+        },
+        "description": "Umfrage unter Kunden in einem Pokeshop, ob ihnen bestimmte Poke-Kombinationen gefallen oder nicht."
+      },
+      "fields": {
+        "avocado": {
+          "description": "Ist in den Poke Avocado eingemischt?",
+          "id": "Avocado"
+        },
+        "chili": {
+          "description": "Ist dem Poke Chili beigemischt?",
+          "id": "Chili"
+        },
+        "furikake": {
+          "description": "Ist Furikake in den Poke eingemischt?",
+          "id": "Furikake"
+        },
+        "ginger": {
+          "description": "Ist dem Poke Ingwer eingemischt?",
+          "id": "Ingwer"
+        },
+        "masago": {
+          "description": "Ist dem Poke Masago eingemischt?",
+          "id": "Masago"
+        },
+        "onion": {
+          "description": "Ist in den Poke Zwiebel eingemischt?",
+          "id": "Zwiebel"
+        },
+        "preference": {
+          "description": "Magst du den Poke oder nicht?",
+          "id": "Präferenz"
+        },
+        "seaweed": {
+          "description": "Ist dem Poke Seetang beigemischt?",
+          "id": "Algen"
+        },
+        "surimi": {
+          "description": "Ist dem Poke Surimi beigemischt?",
+          "id": "Surimi"
+        },
+        "wasabi": {
+          "description": "Ist dem Poke Wasabi eingemischt?",
+          "id": "Wasabi"
+        }
+      },
+      "name": "Poke"
+    },
+    "poutine_toy": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Alles andere als Empfehlungen.",
+          "potentialUses": "Hilf mit, Empfehlungen abzugeben, welche Art von Poutine ein Neukunde bestellen sollte."
+        },
+        "description": "Umfrage unter Kunden in einem Restaurant, ob ihnen bestimmte Poutinenkombinationen gefallen oder nicht."
+      },
+      "fields": {
+        "bacon": {
+          "description": "Enthält die Poutine einen Belag mit Speck?",
+          "id": "Speck"
+        },
+        "bell peppers": {
+          "description": "Enthält die Poutine Paprikabelag?"
+        },
+        "cheese": {
+          "description": "Beinhaltet die Poutine Käsebelag?",
+          "id": "Käse"
+        },
+        "gravy": {
+          "description": "Enthält die Poutine Soßenbelag?",
+          "id": "Soße"
+        },
+        "lobster": {
+          "description": "Enthält die Poutine einen Belag mit Hummer?",
+          "id": "Hummer"
+        },
+        "meat": {
+          "description": "Enthält die Poutine Fleischbelag?",
+          "id": "Fleisch"
+        },
+        "mushrooms": {
+          "description": "Enthält die Poutine einen Belag mit Pilzen?",
+          "id": "Pilze"
+        },
+        "pork": {
+          "description": "Enthält die Poutine einen Belag mit Schweinefleisch?",
+          "id": "Schweinefleisch"
+        },
+        "preference": {
+          "description": "Magst du die Poutine oder nicht?",
+          "id": "Präferenz"
+        },
+        "scallions": {
+          "description": "Enthält die Poutine Frühlingszwiebelbelag?",
+          "id": "Frühlingszwiebeln"
+        }
+      },
+      "name": "Poutine"
+    },
+    "raspado_toy": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Alles andere als Empfehlungen.",
+          "potentialUses": "Hilf mit, Empfehlungen abzugeben, welche Art von Raspado ein Neukunde bestellen sollte."
+        },
+        "description": "Umfrage unter Kunden in einem Raspado-Shop, ob ihnen bestimmte Raspado-Kombinationen gefallen oder nicht."
+      },
+      "fields": {
+        "chili en polbo": {
+          "description": "Enthält der Raspado Chile-En-Polbo-Belag?",
+          "id": "Chili en polbo"
+        },
+        "coconut": {
+          "description": "Enthält der Raspado Kokosnussbelag?",
+          "id": "Kokosnuss"
+        },
+        "lechera": {
+          "description": "Enthält der Raspado Lechera-Belag?",
+          "id": "Lechera"
+        },
+        "lime": {
+          "description": "Enthält der Raspado Limettenbelag?",
+          "id": "Limette"
+        },
+        "mango": {
+          "description": "Enthält der Raspado Mangobelag?",
+          "id": "Mango"
+        },
+        "pecan": {
+          "description": "Enthält der Raspado Pekannussbelag?",
+          "id": "Pekannuss"
+        },
+        "preference": {
+          "description": "Magst du den Raspado oder nicht?",
+          "id": "Präferenz"
+        },
+        "strawberry": {
+          "description": "Enthält der Raspado Erdbeerbelag?",
+          "id": "Erdbeere"
+        },
+        "vanilla": {
+          "description": "Enthält der Raspado Vanillebelag?",
+          "id": "Vanille"
+        }
+      },
+      "name": "Raspado"
+    },
+    "safari_toy": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Es werden nur bestimmte Tierarten verfolgt. Vermeide es daher, voreilige Schlüsse auf Tiere zu ziehen, die nicht zu diesem Set gehören (wie Zebras oder Nilpferde).",
+          "potentialUses": "Kann verwendet werden, um die besten Zeiten für einen Besuch der Safari zu ermitteln, um sicherzustellen, dass du die meisten Wildtiere siehst."
+        },
+        "description": "Daten, die von „African Safari Tours“ gesammelt wurden, einem Unternehmen, das Touren durch die Serengeti-Ebenen in Afrika anbietet."
+      },
+      "fields": {
+        "alligator": {
+          "description": "Anzahl der Alligatoren, die bei einem Besuch gesehen wurden.",
+          "id": "Krokodil"
+        },
+        "antelope": {
+          "description": "Anzahl der Antilopen, die während eines Besuchs gesehen wurden.",
+          "id": "Antilope"
+        },
+        "dayOfMonth": {
+          "description": "Der Tag des Monats (1-31) eines Besuchs.",
+          "id": "Tag des Monats"
+        },
+        "elephant": {
+          "description": "Anzahl der Elefanten, die bei einem Besuch gesehen wurden.",
+          "id": "Elefant"
+        },
+        "lions": {
+          "description": "Anzahl der Löwen, die bei einem Besuch gesehen wurden.",
+          "id": "Löwen"
+        },
+        "mosquitos": {
+          "description": "Anzahl der während des Besuchs beobachteten Moskitos.",
+          "id": "Moskitos"
+        },
+        "overgrowthPercent": {
+          "description": "Prozentsatz des Landes, auf dem während eines Besuchs Gras, Büsche und Sträucher wachsen.",
+          "id": "Überwachstum in %"
+        },
+        "people": {
+          "description": "Gesamtzahl der Personen auf Safari während eines Besuchs.",
+          "id": "Personen"
+        },
+        "rhino": {
+          "description": "Anzahl der Nashörner, die bei einem Besuch gesehen wurden.",
+          "id": "Nashorn"
+        },
+        "temperature": {
+          "description": "Temperatur während eines Besuchs.",
+          "id": "Temperatur"
+        },
+        "ticketRevenue": {
+          "description": "Der Gewinn des Safari-Unternehmens am Tag eines Besuchs.",
+          "id": "Ticketumsatz"
+        },
+        "trees": {
+          "description": "Anzahl der während des Besuchs beobachteten Bäume und Bäume, die Schatten spenden.",
+          "id": "Bäume"
+        }
+      },
+      "name": "Safari"
+    },
+    "salad_toy": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Alles andere als Empfehlungen.",
+          "potentialUses": "Hilf mit, Empfehlungen zu geben, welche Art von Salat ein neuer Kunde bestellen sollte."
+        },
+        "description": "Umfrage unter Kunden in einem Restaurant, ob sie bestimmte Salatkombinationen mögen oder nicht."
+      },
+      "fields": {
+        "avocado": {
+          "description": "Enthält der Salat Avocado?",
+          "id": "Avocado"
+        },
+        "beans": {
+          "description": "Enthält der Salat Bohnen?",
+          "id": "Bohnen"
+        },
+        "cheese": {
+          "description": "Beinhaltet der Salat Käse?",
+          "id": "Käse"
+        },
+        "chicken": {
+          "description": "Beinhaltet der Salat Hühnchen?",
+          "id": "Huhn"
+        },
+        "fruit": {
+          "description": "Enthält der Salat Obst?",
+          "id": "Frucht"
+        },
+        "italian dressing": {
+          "description": "Beinhaltet der Salat italienisches Dressing?",
+          "id": "italienisches Dressing"
+        },
+        "preference": {
+          "description": "Magst du den Salat oder nicht?",
+          "id": "Präferenz"
+        },
+        "ranch": {
+          "description": "Beinhaltet der Salat Ranch?",
+          "id": "Ranch"
+        },
+        "seeds": {
+          "description": "Enthält der Salat Samen?",
+          "id": "Samen"
+        },
+        "tomato": {
+          "description": "Enthält der Salat Tomaten?",
+          "id": "Tomate"
+        }
+      },
+      "name": "Salat"
+    },
+    "salsa_toy": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Alles andere als Salsa-Empfehlungen.",
+          "potentialUses": "Helfen Sie mit, Empfehlungen abzugeben, welche Art von Salsa ein neuer Kunde bestellen sollte."
+        },
+        "description": "Umfrage unter Kunden in einem Taco-Laden, ob sie bestimmte Salsa-Kombinationen mögen oder nicht."
+      },
+      "fields": {
+        "avocado": {
+          "description": "Enthält die Salsa Avocado?",
+          "id": "Avocado"
+        },
+        "beans": {
+          "description": "Enthält die Salsa Bohnen?",
+          "id": "Bohnen"
+        },
+        "cilantro": {
+          "description": "Enthält die Salsa Koriander?",
+          "id": "Koriander"
+        },
+        "corn": {
+          "description": "Enthält die Salsa Mais?",
+          "id": "Mais"
+        },
+        "cumin": {
+          "description": "Enthält die Salsa Kreuzkümmel?",
+          "id": "Kreuzkümmel"
+        },
+        "garlic": {
+          "description": "Enthält die Salsa Knoblauch?",
+          "id": "Knoblauch"
+        },
+        "lime": {
+          "description": "Enthält die Salsa Limette?",
+          "id": "Limette"
+        },
+        "onion": {
+          "description": "Enthält die Salsa Zwiebeln?",
+          "id": "Zwiebel"
+        },
+        "preference": {
+          "description": "Magst du die Salsa oder nicht?",
+          "id": "Präferenz"
+        },
+        "vinegar": {
+          "description": "Enthält die Salsa Essig?",
+          "id": "Essig"
+        }
+      },
+      "name": "Salsa"
+    },
+    "shapes_v1_toy": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Alles andere als der oben genannte Zweck.",
+          "potentialUses": "Wird verwendet, um dem KI-Bot beizubringen, wie man Formen klassifiziert."
+        },
+        "description": "Extrahierte Merkmale aus einem visuellen Datensatz, der verschiedene Formen zeigt."
+      },
+      "fields": {
+        "background color": {
+          "description": "Farbe des Hintergrunds hinter der Form",
+          "id": "Hintergrundfarbe"
+        },
+        "border color": {
+          "description": "Farbe des Umrisses der Form",
+          "id": "Rahmenfarbe"
+        },
+        "fill color": {
+          "description": "Farbe des Inneren der Form",
+          "id": "Füllfarbe"
+        },
+        "shape": {
+          "description": "Art der Form",
+          "id": "Form"
+        },
+        "sides": {
+          "description": "Anzahl der Seiten, die die Form hat",
+          "id": "Kanten"
+        },
+        "size": {
+          "description": "Entweder groß oder klein",
+          "id": "Größe"
+        }
+      },
+      "name": "Formen V1"
+    },
+    "shapes_v2_toy": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Alles andere als der oben genannte Zweck.",
+          "potentialUses": "Wird verwendet, um dem KI-Bot beizubringen, wie man Formen klassifiziert."
+        },
+        "description": "Extrahierte Merkmale aus einem visuellen Datensatz, der verschiedene Formen zeigt."
+      },
+      "fields": {
+        "background color": {
+          "description": "Farbe des Hintergrunds hinter der Form",
+          "id": "Hintergrundfarbe"
+        },
+        "border color": {
+          "description": "Farbe des Umrisses der Form",
+          "id": "Rahmenfarbe"
+        },
+        "equal angles": {
+          "description": "Hat die Form identische Winkel?",
+          "id": "gleiche Winkel"
+        },
+        "equal sides": {
+          "description": "Hat die Form alle gleichen Seiten?",
+          "id": "gleiche Seiten"
+        },
+        "fill color": {
+          "description": "Farbe des Inneren der Form",
+          "id": "Füllfarbe"
+        },
+        "has corners": {
+          "description": "Hat die Form Ecken?",
+          "id": "hat Ecken"
+        },
+        "shape": {
+          "description": "Art der Form",
+          "id": "Form"
+        },
+        "sides": {
+          "description": "Anzahl der Seiten, die die Form hat",
+          "id": "Kanten"
+        },
+        "size": {
+          "description": "Entweder groß oder klein",
+          "id": "Größe"
+        },
+        "symmetry": {
+          "description": "Ist die Form symmetrisch (als würde man sie auf sich selbst drehen und es hat dieselbe Form)",
+          "id": "Symmetrie"
+        }
+      },
+      "name": "Formen V2"
+    },
+    "shoe_survey_toy": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Alles andere als die vorgesehenen Verwendungszwecke.",
+          "potentialUses": "Empfehle aufgrund persönlicher Fragen ein Paar Schuhe."
+        },
+        "description": "Umfrage zu deinen Vorlieben, um dir zu empfehlen, welche Art von Schuhen du tragen solltest."
+      },
+      "fields": {
+        "day": {
+          "description": "Wie würdest du deinen heutigen Tag beschreiben?",
+          "id": "Tag"
+        },
+        "notice shoes": {
+          "description": "Interessiert es dich, wenn die Leute deine Schuhe bemerken?",
+          "id": "Schuhe beachten"
+        },
+        "shoe": {
+          "description": "Was für Schuhe hast du vor, heute zu tragen?",
+          "id": "Schuh"
+        },
+        "socks": {
+          "description": "Wirst du Socken tragen?",
+          "id": "Socken"
+        },
+        "spend time": {
+          "description": "Wo wirst du heute die meiste Zeit verbringen?",
+          "id": "Zeit verbringen"
+        },
+        "weather": {
+          "description": "Wie ist das Wetter heute?",
+          "id": "Wetter"
+        }
+      },
+      "name": "Umfrage zu Schuhen"
+    },
+    "songs": {
+      "card": {
+        "context": {
+          "potentialMisuses": "[empty string]",
+          "potentialUses": "Sage anhand des Genres und anderer Faktoren voraus, wie groß der Hit eines Songs war."
+        },
+        "description": "Eine zufällige Auswahl beliebter Songs mit Billboard Top 100-Chartinformationen sowie anderen Merkmalen."
+      },
+      "fields": {
+        "Artist": {
+          "description": "Der Name des Künstlers.",
+          "id": "Künstler"
+        },
+        "Billboard rank peak": {
+          "description": "Die höchste Position, die der Song in den Billboard Top 100 erreichte.",
+          "id": "Höhepunkt in Billboard Rangliste"
+        },
+        "Duration in seconds": {
+          "description": "Länge des Songs in Sekunden.",
+          "id": "Dauer in Sekunden"
+        },
+        "Genre": {
+          "description": "Das Genre des Songs.",
+          "id": "Genre"
+        },
+        "Loudness score": {
+          "description": "Eine Bewertung der Lautstärke des Songs, wobei niedrige negative Zahlen wie -13 relativ leise und hohe negative Zahlen wie -5 relativ laut bedeuten.",
+          "id": "Lautheitswert"
+        },
+        "Tempo in beats per minute": {
+          "description": "Tempo des Songs in Beats per Minute (BPM). Höhere Zahlen bedeuten schnellere, energischere Songs.",
+          "id": "Tempo in Schlägen pro Minute"
+        },
+        "Title": {
+          "description": "Titel des Songs.",
+          "id": "Titel"
+        },
+        "Weeks on the Billboard Top 100": {
+          "description": "Die Gesamtzahl der Wochen, in denen die Songs in den Billboard Top 100 aufgeführt waren.",
+          "id": "Wochen in den Billboard Top 100"
+        },
+        "Year": {
+          "description": "Das Jahr, in dem das Lied veröffentlicht wurde.",
+          "id": "Jahr"
+        }
+      },
+      "name": "Top-Songs"
+    },
+    "student_alcohol_consumption": {
+      "card": {
+        "context": {
+          "potentialMisuses": "[empty string]",
+          "potentialUses": "[empty string]"
+        },
+        "description": "Enthält individuelle Antworten auf eine soziale Umfrage unter portugiesischen Sekundarschülern, in der soziale, geschlechtsspezifische und Studieninformationen aufgezeichnet wurden."
+      },
+      "fields": {
+        "activities": {
+          "description": "Außerschulische Aktivitäten.",
+          "id": "Aktivitäten"
+        },
+        "address": {
+          "description": "Art der Privatadresse des Schülers: U (städtisch) oder R (ländlich).",
+          "id": "Adresse"
+        },
+        "age": {
+          "description": "Das Alter des Schülers.",
+          "id": "Alter"
+        },
+        "failures": {
+          "description": "Anzahl vergangener Klassenfehler (0 bis 4).",
+          "id": "Misserfolge"
+        },
+        "family relationships": {
+          "description": "Qualität der familiären Beziehungen: 1 (sehr schlecht) bis 5 (ausgezeichnet).",
+          "id": "familiäre Beziehungen"
+        },
+        "family size": {
+          "description": "Familiengröße: LE3 (weniger als oder gleich 3) und GT3 (größer als 3)",
+          "id": "Größe der Familie"
+        },
+        "family support": {
+          "description": "Zusätzliche pädagogische Unterstützung durch die Familie.",
+          "id": "Unterstützung der Familie"
+        },
+        "father's education": {
+          "description": "Bildung des Vaters von 0 (keine) bis 4 (Hochschulbildung)",
+          "id": "Bildung des Vaters"
+        },
+        "father's job": {
+          "description": "Der Berufstyp des Vaters.",
+          "id": "Beruf des Vaters"
+        },
+        "freetime": {
+          "description": "Freizeit nach der Schule: 1 (sehr niedrig) bis 5 (sehr hoch).",
+          "id": "Freizeit"
+        },
+        "go out": {
+          "description": "Wie oft gehen Schüler mit Freunden aus: 1 (sehr selten) bis 5 (sehr oft).",
+          "id": "Ausgehen"
+        },
+        "guardian": {
+          "description": "Vormund des Schülers.",
+          "id": "Vormund"
+        },
+        "health": {
+          "id": "Gesundheit"
+        },
+        "higher": {
+          "description": "Möchte eine Hochschulausbildung anstreben.",
+          "id": "höher"
+        },
+        "internet": {
+          "description": "Internetzugang zu Hause.",
+          "id": "Internet"
+        },
+        "mother's education": {
+          "description": "Bildung der Mutter von 0 (keine) bis 4 (Hochschulbildung).",
+          "id": "Bildung der Mutter"
+        },
+        "mother's job": {
+          "description": "Der Berufstyp der Mutter.",
+          "id": "Beruf der Mutter"
+        },
+        "nursery": {
+          "description": "Hat den Kindergarten besucht.",
+          "id": "Kindergarten"
+        },
+        "paid": {
+          "description": "Extra bezahlter Unterricht.",
+          "id": "bezahlt"
+        },
+        "parent cohabitation status": {
+          "description": "Ob ihre Eltern zusammen (T) oder getrennt (A) leben",
+          "id": "Status des Zusammenlebens der Eltern"
+        },
+        "reason": {
+          "description": "Grund für die Wahl dieser Schule.",
+          "id": "Grund"
+        },
+        "romantic": {
+          "description": "In einer romantischen Beziehung.",
+          "id": "romantisch"
+        },
+        "school": {
+          "description": "Das Akronym ihrer Schule, GP oder MS.",
+          "id": "Schule"
+        },
+        "school support": {
+          "description": "Zusätzliche pädagogische Unterstützung durch die Schule.",
+          "id": "Unterstützung der Schule"
+        },
+        "sex": {
+          "description": "Das Geschlecht des Schülers (binär).",
+          "id": "Geschlecht"
+        },
+        "studytime": {
+          "description": "Wöchentliche Lernzeit des Studenten, 1 bis 10 Stunden.",
+          "id": "Lernzeit"
+        },
+        "traveltime": {
+          "description": "Fahrtzeit des Schülers zur Schule, in Stunden.",
+          "id": "Reisezeit"
+        }
+      }
+    },
+    "student_survey": {
+      "card": {
+        "context": {
+          "potentialMisuses": "Verwendung demografischer Informationen aus einem begrenzten Datensatz, um Annahmen über Untergruppen von Menschen zu treffen: beispielsweise um Vorhersagen darüber zu stellen, welche Geschlechter mit größerer Wahrscheinlichkeit welche Ängste haben.",
+          "potentialUses": "Stelle beispielsweise fest, ob jemandem eine bestimmte Art von Musik aufgrund seines anderen Geschmacks gefallen könnte."
+        },
+        "description": "Ein Datensatz mit Umfrageantworten, die von slowakischen Studierenden der FSEV UK gesammelt wurden. Es wurden Fragen zu Musik, Kultur, ihren eigenen Phobien und ihren demografischen Informationen gestellt. Bei den meisten Antworten handelt es sich um Rankings auf einer Skala von 1 bis 5. Zum Beispiel die Frage „Hörst du gerne Musik?“ bot eine Skala von 1 (Stimme überhaupt nicht zu) bis 5 (Stimme voll und ganz zu). Dieser Datensatz enthält eine Vielzahl von Fragen, die es zu untersuchen gilt."
+      },
+      "fields": {
+        "Achievements": {
+          "id": "Erfolge"
+        },
+        "Action": {
+          "description": "Ich mag Actionfilme",
+          "id": "Action"
+        },
+        "Active sport": {
+          "description": "Ich mag aktiven Sport",
+          "id": "Aktiver Sport"
+        },
+        "Age": {
+          "description": "Alter",
+          "id": "Alter"
+        },
+        "Ageing": {
+          "description": "Ich habe Angst vor dem Altern",
+          "id": "Altern"
+        },
+        "Alcohol": {
+          "description": "Trinkgewohnheiten",
+          "id": "Alkohol"
+        },
+        "Alternative": {
+          "description": "Ich mag alternative Musik",
+          "id": "Alternative"
+        },
+        "Animated": {
+          "description": "Ich mag Animationsfilme",
+          "id": "Animiert"
+        },
+        "Art exhibitions": {
+          "description": "Ich mag Kunstausstellungen",
+          "id": "Kunstausstellungen"
+        },
+        "Biology": {
+          "description": "Ich mag Biologie",
+          "id": "Biologie"
+        },
+        "Branded clothing": {
+          "description": "Ich bevorzuge Markenkleidung gegenüber No-Name-Kleidung.",
+          "id": "Markenkleidung"
+        },
+        "Cars": {
+          "description": "Ich mag Autos",
+          "id": "Autos"
+        },
+        "Celebrities": {
+          "description": "Ich mag Prominente",
+          "id": "Prominente"
+        },
+        "Chemistry": {
+          "description": "Ich mag Chemie",
+          "id": "Chemie"
+        },
+        "Classical music": {
+          "description": "Ich mag klassische Musik",
+          "id": "Klassische Musik"
+        },
+        "Comedy": {
+          "description": "Ich mag Komödien",
+          "id": "Komödie"
+        },
+        "Country": {
+          "description": "Ich mag Country-Musik",
+          "id": "Land"
+        },
+        "Countryside, outdoors": {
+          "description": "Ich mag die Landschaft, draußen",
+          "id": "Auf dem Land, im Freien"
+        },
+        "Criminal damage": {
+          "description": "Ich habe in der Vergangenheit Dinge beschädigt, als ich wütend war.",
+          "id": "Strafrechtlicher Schaden"
+        },
+        "Daily events": {
+          "description": "Ich nehme zur Kenntnis, was um mich herum vor sich geht.",
+          "id": "Tägliche Ereignisse"
+        },
+        "Dance": {
+          "description": "Ich mag Tanzmusik",
+          "id": "Tanz"
+        },
+        "Dancing": {
+          "description": "Ich mag Tanzen",
+          "id": "Tanzen"
+        },
+        "Dangerous dogs": {
+          "description": "Ich habe Angst vor gefährlichen Hunden",
+          "id": "Gefährliche Hunde"
+        },
+        "Darkness": {
+          "description": "Ich habe Angst vor der Dunkelheit",
+          "id": "Dunkelheit"
+        },
+        "Decision making": {
+          "description": "Ich nehme mir Zeit, um Entscheidungen zu treffen.",
+          "id": "Entscheidungsfindung"
+        },
+        "Documentary": {
+          "description": "Ich mag Dokumentarfilme",
+          "id": "Dokumentarfilm"
+        },
+        "Eating to survive": {
+          "description": "Ich esse, weil ich muss. Ich mag Essen nicht und esse so schnell ich kann.",
+          "id": "Essen um zu überleben"
+        },
+        "Economy Management": {
+          "description": "Ich mag Wirtschaftsmanagement",
+          "id": "Wirtschaftsmanagement"
+        },
+        "Education": {
+          "description": "Höchste erreichte Bildung:",
+          "id": "Bildung"
+        },
+        "Elections": {
+          "description": "Ich versuche immer, an Wahlen teilzunehmen.",
+          "id": "Wahlen\n"
+        },
+        "Empathy": {
+          "description": "Ich bin eine emphatische Person.",
+          "id": "Empathie"
+        },
+        "Energy levels": {
+          "description": "Ich bin immer voller Leben und Energie.",
+          "id": "Energieniveaus"
+        },
+        "Entertainment spending": {
+          "description": "Ich gebe viel Geld für Partys und Geselligkeit aus.",
+          "id": "Ausgaben für Unterhaltung"
+        },
+        "Fake": {
+          "description": "Ich kann manchmal zwei Gesichter haben.",
+          "id": "Gefälscht"
+        },
+        "Fantasy/Fairy tales": {
+          "description": "Ich mag Fantasy-/Märchenfilme",
+          "id": "Fantasy/Märchen"
+        },
+        "Fear of public speaking": {
+          "description": "Ich habe Angst davor, in der Öffentlichkeit zu sprechen",
+          "id": "Angst vor öffentlichen Reden"
+        },
+        "Final judgement": {
+          "description": "Ich glaube, dass schlechte Menschen eines Tages leiden werden und gute Menschen belohnt werden.",
+          "id": "Endgültiges Urteil"
+        },
+        "Finances": {
+          "description": "Ich spare so viel Geld, wie ich kann.",
+          "id": "Finanzen"
+        },
+        "Finding lost valuables": {
+          "description": "Wenn ich etwas finde, das mir nicht gehört, gebe ich es ab.",
+          "id": "Verlorene Wertsachen finden"
+        },
+        "Flying": {
+          "description": "Ich habe Angst vorm Fliegen",
+          "id": "Fliegend"
+        },
+        "Folk": {
+          "description": "Ich mag Volksmusik",
+          "id": "Volksmusik"
+        },
+        "Foreign languages": {
+          "description": "Ich mag Fremdsprachen",
+          "id": "Fremdsprachen"
+        },
+        "Friends versus money": {
+          "description": "Ich hätte lieber viele Freunde als viel Geld.",
+          "id": "Freunde gegen Geld"
+        },
+        "Funniness": {
+          "description": "Ich versuche immer der Lustigste zu sein.",
+          "id": "Lustigkeit"
+        },
+        "Gardening": {
+          "description": "Ich mag Gartenarbeit",
+          "id": "Gartenarbeit"
+        },
+        "Gender": {
+          "description": "Geschlecht",
+          "id": "Geschlecht"
+        },
+        "Geography": {
+          "description": "Ich mag Geografie",
+          "id": "Erdkunde"
+        },
+        "Getting up": {
+          "description": "Ich finde es sehr schwierig, morgens aufzustehen.",
+          "id": "Aufstehen"
+        },
+        "Giving": {
+          "description": "Ich versuche, anderen Menschen zu Weihnachten so viel wie möglich zu geben.",
+          "id": "Schenken"
+        },
+        "Happiness in life": {
+          "description": "Ich bin zu 100% zufrieden mit meinem Leben."
+        },
+        "Healthy eating": {
+          "description": "Ich lebe einen sehr gesunden Lebensstil",
+          "id": "Gesundes Essen"
+        },
+        "Height": {
+          "description": "Höhe",
+          "id": "Höhe"
+        },
+        "Heights": {
+          "description": "Ich habe Angst vor Höhen",
+          "id": "Höhen"
+        },
+        "Hiphop, Rap": {
+          "description": "Ich mag Hiphop- oder Rap-Musik",
+          "id": "Hip-Hop, Rap"
+        },
+        "History": {
+          "description": "Ich mag Geschichte",
+          "id": "Geschichte"
+        },
+        "Horror": {
+          "description": "Ich mag Horrorfilme",
+          "id": "Horror"
+        },
+        "House - block of flats": {
+          "description": "Ich habe den größten Teil meiner Kindheit in einem: Haus oder Wohnblock (Wohnungen) gelebt.",
+          "id": "Haus - Wohnblock"
+        },
+        "Hypochondria": {
+          "description": "Ich bin ein Hypochonder.",
+          "id": "Hypochondrie"
+        },
+        "Interests or hobbies": {
+          "description": "Ich habe viele verschiedene Hobbies und Interessen.",
+          "id": "Interessen oder Hobbies"
+        },
+        "Internet": {
+          "description": "Ich nutze gerne das Internet",
+          "id": "Internet"
+        },
+        "Internet usage": {
+          "description": "Wie viel Zeit verbringst du online?",
+          "id": "Nutzung des Internets"
+        },
+        "Judgment calls": {
+          "description": "Ich kann erkennen, ob die Leute mir zuhören oder nicht, wenn ich mit ihnen spreche.",
+          "id": "Urteilsvermögen"
+        },
+        "Keeping promises": {
+          "description": "Ich halte immer meine Versprechen.",
+          "id": "Versprechen einhalten"
+        },
+        "Latino": {
+          "description": "Ich mag Latino-Musik",
+          "id": "Latino"
+        },
+        "Law": {
+          "description": "Ich mag Recht",
+          "id": "Recht"
+        },
+        "Left - right handed": {
+          "description": "Links- / Rechtshänder",
+          "id": "Links- / Rechtshänder"
+        },
+        "Loneliness": {
+          "description": "Ich fühle mich einsam im Leben.",
+          "id": "Einsamkeit"
+        },
+        "Loss of interest": {
+          "description": "Ich kann mich sehr schnell in jemanden verlieben und dann völlig das Interesse verlieren.",
+          "id": "Verlust des Interesses"
+        },
+        "Mathematics": {
+          "description": "Ich mag Mathematik",
+          "id": "Mathematik"
+        },
+        "Medicine": {
+          "description": "Ich mag Medizin",
+          "id": "Medizin"
+        },
+        "Metal or Hardrock": {
+          "description": "Ich mag Metal- oder Hardrock-Musik",
+          "id": "Metal oder Hardrock"
+        },
+        "Movies": {
+          "description": "Ich schaue gerne Filme",
+          "id": "Filme"
+        },
+        "Music": {
+          "description": "Ich höre gerne Musik",
+          "id": "Musik"
+        },
+        "Musical": {
+          "description": "Ich mag Musical-Musik",
+          "id": "Musical"
+        },
+        "Musical instruments": {
+          "description": "Ich mag Musikinstrumente",
+          "id": "Musikinstrumente"
+        },
+        "Number of siblings": {
+          "description": "Anzahl der Geschwister",
+          "id": "Anzahl der Geschwister"
+        },
+        "Only child": {
+          "description": "Ich bin ein Einzelkind",
+          "id": "Einzelkind"
+        },
+        "Opera": {
+          "description": "Ich mag Opernmusik",
+          "id": "Oper"
+        },
+        "PC": {
+          "description": "Ich benutze gerne PCs",
+          "id": "PC"
+        },
+        "Parents' advice": {
+          "description": "Ich höre immer auf die Ratschläge meiner Eltern.",
+          "id": "Ratschläge der Eltern"
+        },
+        "Passive sport": {
+          "description": "Ich mag passiven Sport",
+          "id": "Passiver Sport"
+        },
+        "Personality": {
+          "description": "Ich glaube, alle meine Persönlichkeitsmerkmale sind positiv.",
+          "id": "Persönlichkeit"
+        },
+        "Pets": {
+          "description": "Ich mag Haustiere",
+          "id": "Haustiere"
+        },
+        "Physics": {
+          "description": "Ich mag Physik",
+          "id": "Physik"
+        },
+        "Politics": {
+          "description": "Ich mag Politik",
+          "id": "Politik"
+        },
+        "Pop": {
+          "description": "Ich mag Popmusik",
+          "id": "Pop"
+        },
+        "Prioritising workload": {
+          "description": "Ich versuche, Aufgaben so schnell wie möglich zu erledigen und sie erst in letzter Minute aufzuschieben.",
+          "id": "Priorisierung der Arbeitslast"
+        },
+        "Psychology": {
+          "description": "Ich mag Psychologie",
+          "id": "Psychologie"
+        },
+        "Punk": {
+          "description": "Ich mag Punkmusik",
+          "id": "Punk"
+        },
+        "Questionnaires or polls": {
+          "description": "Ich nehme gerne an Umfragen teil.",
+          "id": "Fragebögen oder Umfragen"
+        },
+        "Rats": {
+          "description": "Ich habe Angst vor Ratten",
+          "id": "Ratten"
+        },
+        "Reading": {
+          "description": "Ich lese gerne",
+          "id": "Lesen"
+        },
+        "Reggae, Ska": {
+          "description": "Ich mag Reggae- oder Ska-Musik",
+          "id": "Reggae, Ska"
+        },
+        "Reliability": {
+          "description": "Ich bin zuverlässig bei der Arbeit und erledige immer alle mir gestellten Aufgaben.",
+          "id": "Zuverlässigkeit"
+        },
+        "Religion": {
+          "description": "Ich mag Religion",
+          "id": "Religion"
+        },
+        "Rock": {
+          "description": "Ich mag Rockmusik",
+          "id": "Rock"
+        },
+        "Rock n roll": {
+          "description": "Ich mag Rock 'n' Roll-Musik",
+          "id": "Rock'n'Roll"
+        },
+        "Romantic": {
+          "description": "Ich mag romantische Filme",
+          "id": "Romantik"
+        },
+        "Sci-fi": {
+          "description": "Ich mag Science-Fiction-Filme",
+          "id": "Science-Fiction"
+        },
+        "Science and technology": {
+          "description": "Ich mag Wissenschaft und Technologie",
+          "id": "Wissenschaft und Technologie"
+        },
+        "Self-criticism": {
+          "description": "Ich denke oft über die Entscheidungen nach, die ich treffe, und bereue sie.",
+          "id": "Selbstkritik"
+        },
+        "Shopping": {
+          "description": "Ich gehe gerne einkaufen",
+          "id": "Einkaufen"
+        },
+        "Shopping centres": {
+          "description": "Ich gehe gerne in große Einkaufszentren.",
+          "id": "Einkaufszentren"
+        },
+        "Slow songs or fast songs": {
+          "description": "Ich bevorzuge schnelle Musik",
+          "id": "Langsame Songs oder schnelle Songs"
+        },
+        "Small - big dogs": {
+          "description": "Ich bevorzuge große, gefährliche Hunde gegenüber kleineren, ruhigeren Hunden.",
+          "id": "Kleine bis große Hunde"
+        },
+        "Smoking": {
+          "description": "Rauchgewohnheiten",
+          "id": "Rauchen"
+        },
+        "Snakes": {
+          "description": "Ich habe Angst vor Schlangen",
+          "id": "Schlangen"
+        },
+        "Spending on gadgets": {
+          "description": "Ich gebe viel Geld für Geräte aus.",
+          "id": "Ausgaben für Gadgets"
+        },
+        "Spending on healthy eating": {
+          "description": "Ich zahle gerne mehr Geld für gutes, hochwertiges oder gesundes Essen.",
+          "id": "Ausgaben für gesunde Ernährung"
+        },
+        "Spending on looks": {
+          "description": "Ich gebe viel Geld für mein Aussehen aus.",
+          "id": "Ausgaben für Aussehen"
+        },
+        "Spiders": {
+          "description": "Ich habe Angst vor Spinnen",
+          "id": "Spinnen"
+        },
+        "Storm": {
+          "description": "Ich habe Angst vor Stürmen",
+          "id": "Sturm"
+        },
+        "Swing, Jazz": {
+          "description": "Ich mag Swing- oder Jazzmusik",
+          "id": "Swing, Jazz"
+        },
+        "Techno, Trance": {
+          "description": "Ich mag Techno- oder Trance-Musik",
+          "id": "Techno, Trance"
+        },
+        "Thinking ahead": {
+          "description": "Ich betrachte die Dinge aus allen verschiedenen Blickwinkeln, bevor ich weitermache.",
+          "id": "Vorausdenken"
+        },
+        "Thriller": {
+          "description": "Ich mag Thriller-Filme",
+          "id": "Thriller"
+        },
+        "Village - town": {
+          "description": "Ich habe den größten Teil meiner Kindheit in einem Dorf oder einer Stadt verbracht.",
+          "id": "Dorf - Stadt"
+        },
+        "War": {
+          "description": "Ich mag Kriegsfilme",
+          "id": "Krieg"
+        },
+        "Weight": {
+          "description": "Gewicht",
+          "id": "Gewicht"
+        },
+        "Western": {
+          "description": "Ich mag Westernfilme",
+          "id": "Western"
+        },
+        "Workaholism": {
+          "description": "Ich studiere oder arbeite oft auch in meiner Freizeit."
+        },
+        "Writing": {
+          "description": "Ich mag Schreiben",
+          "id": "Schreiben"
+        },
+        "Writing notes": {
+          "description": "Ich mache immer eine Liste, damit ich nichts vergesse.",
+          "id": "Notizen schreiben"
+        }
+      },
+      "name": "Umfrage zum Lebensstil von Studenten"
+    },
+    "taco_toppings_toy": {
+      "fields": {
+        "Preference": {
+          "id": "Präferenz"
+        }
+      }
+    },
+    "zoo": {
+      "fields": {
+        "Aquatic": {
+          "id": "Wassersport"
+        }
+      }
+    }
+  },
+  "incorrectAnswer": "Falsch",
+  "modelCardPossibleValuesMaximum": "max",
+  "modelCardPossibleValuesMinimum": "min",
+  "navigateBack": "Zurück",
+  "navigateDone": "Abschließen",
+  "navigateForward": "Weiter",
+  "predictButton": "Vorhersage",
+  "saveProgress": "Speichern",
+  "tryAgain": "Versuche es noch einmal",
+  "uniqueOptionsWarningNotice": "Hinweis"
+}

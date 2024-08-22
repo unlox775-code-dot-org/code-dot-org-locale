@@ -1,0 +1,167 @@
+---
+tg:
+  activerecord:
+    attributes:
+      user:
+        current_password: Пароли ҷорӣ
+        edit_header: Таҳрир кардани тафсилоти ҳисоб
+        email: Почтаи электронӣ
+        gender: Ҷинс
+        gender_student_input: Ҷинс
+        gender_teacher_input: Ҷинс
+        locale: Забон
+        password: Парол
+        password_confirmation: Тасдиқи парол
+        username: Номи корбар
+  auth:
+    facebook: Фейсбук
+    signed_in: Ворид шудед!
+  certificate_hour_of_code: Соати рамз
+  compatibility:
+    upgrade:
+      link: Маълумоти бештар
+  cookie_banner:
+    accept: Ман розӣ ҳастам
+  courses: Дарсҳо
+  crud:
+    back: Бозгашт
+    confirm: Мутмаин ҳастед?
+    created: "%{model} бо муваффақият эҷод карда шуд."
+    destroy: Вайрон кардан
+    edit: Таҳрир кардан
+    edit_model: Таҳрир кардани %{model}
+    new_model: "%{model}-и нав"
+    show: Намоиш додан
+    submit: Пешниҳод кардан
+    update: Навсозӣ кардан
+    updated: "%{model} бо муваффақият навсозӣ карда шуд."
+  follower:
+    added_teacher: "%{name} ҳамчун муаллими шумо илова карда шуд"
+    error:
+      signed_in: Лутфан, пеш аз идома бароед
+      username_in_use: "%{username} аллакай вуҷуд дорад, лутфан, дигареро интихоб
+        намоед"
+      username_not_found: Номи корбари %{username} ёфт нашуд
+    invite_sent: Даъват фиристода шуд
+  footer:
+    feedback: Таъмини изҳори назар
+    more: БЕШТАР
+    support: Дастгирӣ
+  gender:
+    female: Зан
+    male: Мард
+  hello: Салом ҷаҳон
+  home:
+    online: онлайн
+    student_reg_link: Донишҷӯ
+    trynow: Маълумоти бештар
+    view_course: Намоиш додани дарс
+  less: КАМТАР
+  more: БЕШТАР
+  more_info: маълумоти бештар
+  nav:
+    header:
+      educate_hoc: Соати рамз
+      project_gallery: Лоиҳаҳо
+      sign_in_to_save: Барои захира кардани муваффақият, ворид шавед
+      stats: Омор
+    popup:
+      close: ПӮШИДАН
+      prizes_link: маълумоти бештар
+      progress: Муваффақияти шумо
+      puzzle_map: Давраҳо
+    user:
+      create: Сохтан
+      label: Салом %{username}
+      logout: Хориҷ шудан
+      settings: Ҳисоби ман
+      signin: Ворид шудан
+  of: аз
+  password:
+    change_form:
+      confirm_password: Пароли навро тасдиқ кунед
+      new_password: Пароли нав
+      submit: Тағйир додани пароли ман
+      title: Тағйир додани пароли худ
+    reset_form:
+      email: Суроғаи почтаи электронӣ
+      submit: Пешниҳод кардан
+  pd:
+    form_entries:
+      gender:
+        female: Зан
+        male: Мард
+      resources:
+        other: Дигар
+      robotics:
+        other: Дигар
+      subjects:
+        other: Дигар
+      workshop_course:
+        other: Дигар
+    form_labels:
+      email: Почтаи электронӣ
+  prize: ҷоиза
+  progress:
+    in_progress: иҷро мешавад
+  project:
+    abuse:
+      report_abuse_form:
+        abuse_type:
+          other: Дигар
+    create: Эҷод кардани лоиҳа
+    exit: Бозгашт ба дарс
+    name: Ном
+    new: Эҷод кардани нав
+    project_gallery: Лоиҳаҳо
+    project_type: Навъи лоиҳа
+    projects: Лоиҳаҳо
+    share_copy_link: 'Нусхабардории пайванд:'
+    share_title: Лоиҳаи худро мубодила кунед
+    updated: Навсозӣ шуд
+  puzzle: Муаммо
+  race_interstitial:
+    decline: Пӯшидан
+    races:
+      other: Дигар
+    submit: Пешниҳод кардан
+  reference_area:
+    title: Кумак лозим аст?
+  school_info:
+    other: Дигар
+  section:
+    type:
+      email: Почтаи электронӣ
+  signin_form:
+    login: Почтаи электронӣ
+    password: Парол
+    remember: Маро дар хотир доред
+    submit: Ворид шудан
+  signinsection:
+    login: Ворид шудан
+  signup_form:
+    submit: Худро ба қайд гиред
+    teacher: Шумо муаллим ҳастед?
+    user_type_student: Донишҷӯ
+    user_type_teacher: Муаллим
+  stage: Давра
+  submit: Пешниҳод кардан
+  teacher:
+    panel:
+      student: Донишҷӯ
+    title:
+      other: 'Муаллимони шумо:'
+  to_close: Пӯшидан
+  trophies: Ҷомҳо
+  upsell:
+    widgets:
+      audience: 'Синну сол: 14+'
+  user:
+    new_password_hint: "(агар нахоҳед, ки онро тағйир диҳед, холӣ монед)"
+    remove_parent_email_label: Тоза кардан
+    update_email: Навсозӣ кардан
+  user_type:
+    student: Донишҷӯ
+    teacher: Муаллим
+  welcome_email:
+    subject: Ба дарси ман ҳамроҳ шавед (дар Code.org)

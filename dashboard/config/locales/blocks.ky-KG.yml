@@ -1,0 +1,668 @@
+---
+ky:
+  data:
+    blocks:
+      BadGuys_setSizeAll_dropdown:
+        options:
+          SIZE:
+            '1.00': орто
+      BadGuys_setSize_dropdown:
+        options:
+          SIZE:
+            '1.00': орто
+      Dancelab_alternateMoves:
+        options:
+          GROUP:
+            sprites: баары
+          MOVE1:
+            MOVES.Rest: Жок
+          MOVE2:
+            MOVES.Rest: Жок
+      Dancelab_atTimestamp:
+        options:
+          UNIT:
+            '"seconds"': секунд
+      Dancelab_atTimestampNotAfter:
+        options:
+          UNIT:
+            '"seconds"': секунд
+      Dancelab_changeMoveEachLR:
+        options:
+          GROUP:
+            sprites: баары
+          MOVE:
+            MOVES.Rest: Жок
+      Dancelab_changeMoveEachLR_slothcat:
+        options:
+          MOVE:
+            MOVES.Rest: Жок
+      Dancelab_changeMoveLR:
+        options:
+          MOVE:
+            MOVES.Rest: Жок
+      Dancelab_changePropBy:
+        options:
+          PROPERTY:
+            '"height"': бийиктиги
+            '"scale"': өлчөмү
+      Dancelab_changePropEachBy:
+        options:
+          GROUP:
+            sprites: баары
+          PROPERTY:
+            '"height"': бийиктиги
+            '"scale"': өлчөмү
+      Dancelab_doMoveEachLR:
+        options:
+          GROUP:
+            sprites: баары
+          MOVE:
+            MOVES.Rest: Жок
+      Dancelab_doMoveLR:
+        options:
+          MOVE:
+            MOVES.Rest: Жок
+      Dancelab_everySeconds:
+        options:
+          UNIT:
+            '"seconds"': секунд
+      Dancelab_getProp:
+        options:
+          PROPERTY:
+            '"height"': бийиктиги
+            '"scale"': өлчөмү
+      Dancelab_getTime:
+        options:
+          UNIT:
+            '"seconds"': секунд
+      Dancelab_ifDanceIs:
+        options:
+          DANCE:
+            MOVES.Rest: Жок
+      Dancelab_ifTime:
+        options:
+          UNIT:
+            '"seconds"': секунд
+      Dancelab_jumpTo:
+        options:
+          LOCATION:
+            "{x: 100, y: 200}": солго
+            "{x: 300, y: 200}": оңго
+            "{x: randomNumber(50, 350), y: randomNumber(50, 350)}": туш келди
+      Dancelab_jumpToEach:
+        options:
+          GROUP:
+            sprites: баары
+          LOCATION:
+            "{x: 100, y: 200}": солго
+            "{x: 300, y: 200}": оңго
+            "{x: randomNumber(60, 340), y: randomNumber(60, 340)}": туш келди
+      Dancelab_layoutSprites:
+        options:
+          FORMAT:
+            '"diamond"': алмаз
+            '"random"': туш келди
+          GROUP:
+            sprites: баары
+      Dancelab_makeAnonymousDanceSprite:
+        options:
+          COSTUME:
+            '"ALIEN"': бөтөн
+            '"CAT"': мышык
+            '"DOG"': ит
+            '"DUCK"': өрдөк
+            '"ROBOT"': робот
+            '"UNICORN"': жалгыз мүйүз
+          LOCATION:
+            "{x: 100, y: 200}": солго
+            "{x: 300, y: 200}": оңго
+            "{x: randomNumber(50, 350), y: randomNumber(50, 350)}": туш келди
+      Dancelab_makeNewDanceSprite:
+        options:
+          COSTUME:
+            '"ALIEN"': бөтөн
+            '"CAT"': мышык
+            '"DOG"': ит
+            '"DUCK"': өрдөк
+            '"ROBOT"': робот
+            '"UNICORN"': жалгыз мүйүз
+          LOCATION:
+            "{x: 100, y: 200}": солго
+            "{x: 300, y: 200}": оңго
+            "{x: randomNumber(50, 350), y: randomNumber(50, 350)}": туш келди
+      Dancelab_makeNewDanceSpriteGroup:
+        options:
+          LAYOUT:
+            '"diamond"': алмаз
+            '"random"': туш келди
+      Dancelab_randomColor:
+        text: кокус түс
+      Dancelab_setBackgroundEffect:
+        options:
+          EFFECT:
+            '"none"': Жок
+      Dancelab_setBackgroundEffectWithPalette:
+        options:
+          EFFECT:
+            '"none"': Жок
+      Dancelab_setBackgroundEffectWithPaletteAI:
+        options:
+          EFFECT:
+            '"none"': Жок
+      Dancelab_setDanceSpeed:
+        options:
+          SPEED:
+            '1': кадимки
+      Dancelab_setDanceSpeedEach:
+        options:
+          GROUP:
+            sprites: баары
+          SPEED:
+            '1': кадимки
+      Dancelab_setForegroundEffect:
+        options:
+          EFFECT:
+            '"none"': Жок
+      Dancelab_setForegroundEffectExtended:
+        options:
+          EFFECT:
+            '"none"': Жок
+      Dancelab_setProp:
+        options:
+          PROPERTY:
+            '"height"': бийиктиги
+            '"scale"': өлчөмү
+      Dancelab_setPropEach:
+        options:
+          GROUP:
+            sprites: баары
+          PROPERTY:
+            '"height"': бийиктиги
+            '"scale"': өлчөмү
+      Dancelab_setPropRandom:
+        options:
+          PROPERTY:
+            '"height"': бийиктиги
+            '"scale"': өлчөмү
+      Dancelab_setPropRandomEach:
+        options:
+          GROUP:
+            sprites: баары
+          PROPERTY:
+            '"height"': бийиктиги
+            '"scale"': өлчөмү
+      Dancelab_setTintEach:
+        options:
+          THIS:
+            sprites: баары
+      Dancelab_setTintEachInline:
+        options:
+          THIS:
+            sprites: баары
+      Dancelab_setVisible:
+        options:
+          VISIBILITY:
+            'true': көрүнгөн
+      Dancelab_setVisibleEach:
+        options:
+          THIS:
+            sprites: баары
+          VISIBILITY:
+            'true': көрүнгөн
+      Dancelab_startMapping:
+        options:
+          PROPERTY:
+            '"height"': бийиктиги
+            '"scale"': өлчөмү
+      Dancelab_startMappingEach:
+        options:
+          GROUP:
+            sprites: баары
+          PROPERTY:
+            '"height"': бийиктиги
+            '"scale"': өлчөмү
+      Dancelab_stopMapping:
+        options:
+          PROPERTY:
+            '"height"': бийиктиги
+            '"scale"': өлчөмү
+      Dancelab_stopMappingEach:
+        options:
+          GROUP:
+            sprites: баары
+          PROPERTY:
+            '"height"': бийиктиги
+            '"scale"': өлчөмү
+      Dancelab_translateStrings:
+        options:
+          STRING:
+            '"diamond"': алмаз
+            '"x"': x
+            '"y"': y
+      Dancelab_whenKey:
+        options:
+          KEY:
+            '"down"': ылдый
+            '"left"': солго
+            '"right"': оңго
+            '"space"': космос
+            '"up"': өйдө
+            '"x"': x
+            '"y"': y
+      DansBlocks_setForegroundEffect2:
+        options:
+          EFFECT:
+            '"hearts"': жүрөктөр
+            '"rain"': жаан
+      DansBlocks_testShowVariable:
+        options:
+          COLOR:
+            '"blue"': көк
+            '"red"': кызыл
+      GameDev_gravity:
+        options:
+          VELOCITY:
+            "-0.5": орто
+      GameDev_playSoundOptions:
+        options:
+          SOUND:
+            "'sound://category_digital/jump_7.mp3'": секир
+      GameDev_playerJump:
+        options:
+          STRENGTH:
+            '9': орто
+      GameDev_removeGroup:
+        options:
+          GROUP:
+            '"players"': оюнчу
+      GameDev_setGroup:
+        options:
+          GROUP:
+            '"players"': оюнчу
+      GameDev_spriteType:
+        options:
+          GROUP:
+            '"players"': оюнчу
+      KatiesBlocks_changeVelocity:
+        options:
+          PROPERTY:
+            '"velocityX"': кыска
+            '"velocityY"': узак
+      Mikelab_changePropBy:
+        options:
+          PROPERTY:
+            '"scale"': өлчөмү
+            '"x"': x позиция
+            '"y"': у позиция
+      Mikelab_createNewSprite:
+        options:
+          LOCATION:
+            "{x: 100, y: 200}": солго
+            "{x: 300, y: 200}": оңго
+      Mikelab_getProp:
+        options:
+          PROPERTY:
+            '"scale"': өлчөмү
+            '"x"': x позиция
+            '"y"': у позиция
+      Mikelab_groupChangeAnim:
+        options:
+          SELECT:
+            '"all"': баары
+      Mikelab_groupChangePropBy:
+        options:
+          PROPERTY:
+            '"scale"': өлчөмү
+            '"x"': x позиция
+            '"y"': у позиция
+          SELECT:
+            '"all"': баары
+      Mikelab_groupCreateNewSprite:
+        options:
+          LOCATION:
+            "{x: 100, y: 200}": солго
+            "{x: 300, y: 200}": оңго
+      Mikelab_groupDestroy:
+        options:
+          SELECT:
+            '"all"': баары
+      Mikelab_groupGetProp:
+        options:
+          PROPERTY:
+            '"scale"': өлчөмү
+            '"x"': x позиция
+            '"y"': у позиция
+      Mikelab_groupRemoveAllBehaviors:
+        options:
+          SELECT:
+            '"all"': баары
+      Mikelab_groupRemoveBehaviorSimple:
+        options:
+          SELECT:
+            '"all"': баары
+      Mikelab_groupRemoveTint:
+        options:
+          SELECT:
+            '"all"': баары
+      Mikelab_groupSetProp:
+        options:
+          PROPERTY:
+            '"scale"': өлчөмү
+            '"x"': x позиция
+            '"y"': у позиция
+          SELECT:
+            '"all"': баары
+      Mikelab_groupSetTint:
+        options:
+          SELECT:
+            '"all"': баары
+      Mikelab_ifDanceIs:
+        options:
+          DANCE:
+            MOVES.Rest: Жок
+      Mikelab_randomColor:
+        text: кокус түс
+      Mikelab_repeatUntilComplete:
+        text: дайым кайтала
+      Mikelab_setBG:
+        options:
+          BG:
+            '"https://studio.code.org/api/v1/animation-library/04L4sdTODkNZF1OHf4qO_I.Al3QP43wA/category_backgrounds/city.png"': шаар
+      Mikelab_setProp:
+        options:
+          PROPERTY:
+            '"scale"': өлчөмү
+            '"x"': x позиция
+            '"y"': у позиция
+      Mikelab_showScoreboard:
+        options:
+          CORNER:
+            '"left"': солго
+            '"right"': оңго
+      Mikelab_sprite:
+        options:
+          LOCATION:
+            "{x: 100, y: 200}": солго
+            "{x: 300, y: 200}": оңго
+      Mikelab_whenKeyPressed:
+        options:
+          KEY:
+            '"a"': A
+            '"d"': D
+            '"down"': жебе төмөн
+            '"left"': жебе солго
+            '"right"': жебе оңго
+            '"s"': Түш
+            '"up"': жебе өйдө
+            '"w"': Б
+      Mikelab_whenKeyReleased:
+        options:
+          KEY:
+            '"a"': A
+            '"d"': D
+            '"down"': жебе төмөн
+            '"left"': жебе солго
+            '"right"': жебе оңго
+            '"s"': Түш
+            '"up"': жебе өйдө
+            '"w"': Б
+      Mikelab_whenYesNoClicked:
+        options:
+          KEY:
+            '"no"': жок
+            '"yes"': ооба
+      Mikelab_whileKeyPressed:
+        options:
+          KEY:
+            '"down"': жебе төмөн
+            '"left"': жебе солго
+            '"right"': жебе оңго
+            '"up"': жебе өйдө
+      Poetry_addFrame:
+        options:
+          BRUSH:
+            '"hearts"': жүрөктөр
+            '"rainbow"': көк желе
+      Poetry_makeBurst:
+        options:
+          EFFECT:
+            '"rain"': жаан
+      Poetry_playMusic:
+        options:
+          SOUND:
+            '"sound://category_nature/summer_night_loop.mp3"': түн
+      Poetry_playSound:
+        options:
+          SOUND:
+            '"sound://category_jump/vibrant_game_jumping_up_1.mp3"': секир
+      Poetry_setBackgroundEffect:
+        options:
+          EFFECT:
+            '"clouds"': булуттуу
+            '"hearts"': жүрөктөр
+            '"rain"': жаан
+          PALETTE:
+            '"rainbow"': көк желе
+            '"winter"': кыш
+      Poetry_setForegroundEffect:
+        options:
+          EFFECT:
+            '"hearts"': жүрөктөр
+            '"rain"': жаан
+      RyanLab_moveForward:
+        text: алдыга жылдыр
+      RyanLab_turnLeft:
+        text: солго бурул
+      RyanLab_turnRight:
+        text: оңго бурул
+      Vector_where:
+        options:
+          PROPERTY:
+            "'shapeColor'": түс
+      aalab_layoutSprites:
+        options:
+          FORMAT:
+            '"random"': туш келди
+      aalab_someGraduallyStartIntervention:
+        options:
+          PORTION:
+            '1': баары
+      aalab_someStartIntervention:
+        options:
+          PORTION:
+            '1': баары
+      binary_move:
+        options:
+          DIR:
+            '"down"': ылдый
+            '"left"': солго
+            '"right"': оңго
+            '"up"': өйдө
+      binary_whenKey:
+        options:
+          KEY:
+            '"down"': ылдый
+            '"left"': солго
+            '"right"': оңго
+            '"space"': космос
+            '"up"': өйдө
+      craft_ifPath:
+        options:
+          DIR:
+            "'ahead'": алдыга
+      craft_ifStandingOn:
+        options:
+          TYPE:
+            "'planksOak'": эмен тактайлары
+            "'sand'": кум
+      craft_ifStandingOnLimit:
+        options:
+          TYPE:
+            "'sand'": кум
+      craft_moveForward:
+        text: алдыга жылдыр
+      craft_placeTorch:
+        text: чырак орнотуу
+      gamelab_atTime:
+        options:
+          UNIT:
+            '"seconds"': секунд
+      gamelab_changePropBy:
+        options:
+          PROPERTY:
+            '"scale"': өлчөмү
+            '"speed"': ылдамдык
+            '"x"': x позиция
+            '"y"': у позиция
+      gamelab_checkTouching:
+        options:
+          CONDITION:
+            '"when"': качан
+            '"while"': болуп турганда
+      gamelab_everyInterval:
+        options:
+          UNIT:
+            '"seconds"': секунд
+      gamelab_getProp:
+        options:
+          PROPERTY:
+            '"scale"': өлчөмү
+            '"speed"': ылдамдык
+            '"x"': x позиция
+            '"y"': у позиция
+      gamelab_getTime:
+        options:
+          UNIT:
+            '"seconds"': секунд
+      gamelab_isKeyPressed:
+        options:
+          KEY:
+            '"down"': ылдый
+            '"left"': солго
+            '"right"': оңго
+            '"space"': космос
+            '"up"': өйдө
+            '"x"': x
+            '"y"': y
+      gamelab_keyPressed:
+        options:
+          CONDITION:
+            '"when"': качан
+            '"while"': болуп турганда
+          KEY:
+            '"down"': ылдый
+            '"left"': солго
+            '"right"': оңго
+            '"space"': космос
+            '"up"': өйдө
+            '"x"': x
+            '"y"': y
+      gamelab_makeBurst:
+        options:
+          EFFECT:
+            '"rain"': жаан
+      gamelab_makeProjectile:
+        options:
+          DIRECTION:
+            '0': оңго
+            '180': солго
+            '270': өйдө
+            '90': ылдый
+      gamelab_makeSpritesWithSize:
+        options:
+          SIZE:
+            '50': орто
+      gamelab_mirrorSprite:
+        options:
+          DIRECTION:
+            '"left"': солго
+            '"right"': оңго
+      gamelab_playSoundOptions:
+        options:
+          SOUND:
+            "'sound://category_animals/cat.mp3'": мышык
+            "'sound://category_animals/chicken.mp3'": тоок
+            "'sound://category_animals/cow.mp3'": уй
+            "'sound://category_animals/dog.mp3'": ит
+            "'sound://category_animals/sheep.mp3'": кой
+            "'sound://category_digital/jump_7.mp3'": секир
+      gamelab_randColor:
+        text: кокус түс
+      gamelab_randomColor:
+        text: кокус түс
+      gamelab_repeatForever:
+        text: дайым кайтала
+      gamelab_setBackgroundImage:
+        options:
+          IMG:
+            '"https://studio.code.org/api/v1/animation-library/04L4sdTODkNZF1OHf4qO_I.Al3QP43wA/category_backgrounds/city.png"': шаар
+            '"https://studio.code.org/blockly/media/skins/studio/background_cave.png"': үңкүр
+            '"https://studio.code.org/blockly/media/skins/studio/background_desert.png"': чөл
+            '"https://studio.code.org/blockly/media/skins/studio/background_rainbow.png"': көк
+              желе
+            '"https://studio.code.org/blockly/media/skins/studio/background_underwater.png"': суу
+              алдында
+            '"https://studio.code.org/blockly/media/skins/studio/background_winter.png"': кыш
+            undefined: жок
+      gamelab_setDefaultSpriteSize:
+        options:
+          SIZE:
+            '75': орто
+      gamelab_setForegroundEffect:
+        options:
+          EFFECT:
+            '"hearts"': жүрөктөр
+            '"rain"': жаан
+      gamelab_setProp:
+        options:
+          PROPERTY:
+            '"scale"': өлчөмү
+            '"speed"': ылдамдык
+            '"x"': x позиция
+            '"y"': у позиция
+      gamelab_setProp_dropdown:
+        options:
+          PROPERTY:
+            '"scale"': өлчөмү
+          SIZE:
+            '75': орто
+      gamelab_setSizes:
+        options:
+          PROPERTY:
+            '"height"': бийиктиги
+            '"scale"': өлчөмү
+      gamelab_setSpeed_dropdown:
+        options:
+          SIZE:
+            '5': кадимки
+      gamelab_spriteClicked:
+        options:
+          CONDITION:
+            '"when"': качан
+            '"while"': болуп турганда
+      gamelab_turn:
+        options:
+          DIRECTION:
+            '"left"': солго
+            '"right"': оңго
+      gamelab_whenKey:
+        options:
+          KEY:
+            '"down"': ылдый
+            '"left"': солго
+            '"right"': оңго
+            '"space"': космос
+            '"up"': өйдө
+      gamelab_whileKey:
+        options:
+          KEY:
+            '"down"': ылдый
+            '"left"': солго
+            '"right"': оңго
+            '"space"': космос
+            '"up"': өйдө
+      storylab_setForegroundEffect2:
+        options:
+          EFFECT:
+            '"hearts"': жүрөктөр
+            '"rain"': жаан

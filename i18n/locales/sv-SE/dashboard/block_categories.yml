@@ -1,0 +1,36 @@
+sv:
+  data:
+    block_categories:
+      Actions: Åtgärder
+      Advanced: Avancerat
+      Behaviors: Beteenden
+      'Behaviors ': 'Beteenden'
+      Brushes: Borstar
+      Category: Kategori
+      Color: Färg
+      Comment: Kommentar
+      Comments: Kommentarer
+      Conditionals: Villkor
+      Dancers: Dansare
+      Default: Förval
+      Effects: Effekter
+      Events: Händelser
+      Functions: funktioner
+      'Functions ': 'Funktioner '
+      Game/Score: Spel/Poäng
+      Games/Score: Spel/Poäng
+      Groups: Grupper
+      Input: Inmatning
+      Location: Ort
+      Locations: Platser
+      Logic: Logik
+      Loops: loopar
+      Math: Matte
+      Numbers: Siffror
+      Picker: Väljare
+      Properties: Egenskaper
+      Text: text
+      Variables: variabler
+      'Variables ': 'Variabler '
+      'Variables  ': 'Variabler '
+      World: Världen

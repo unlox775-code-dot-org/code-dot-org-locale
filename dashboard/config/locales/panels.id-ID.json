@@ -1,0 +1,47 @@
+{
+  "id-ID": {
+    "data": {
+      "panels": {
+        "music_lab_intro_panels_start2": {
+          "musiclab_intro_panels_start_v2-415ec56a-f841-421b-adff-b680e8d4ca35": "#### ✨ Selamat datang di Music Lab ✨\n\nBersiaplah membuat musik dengan kode! ",
+          "musiclab_intro_panels_start_v2-623c36d1-b475-414b-8e2f-da7d27012391": "### Mengubah suara\n\nKlik blok suara untuk membuka koleksi suara. \n\nPilih suara yang kamu inginkan!",
+          "musiclab_intro_panels_start_v2-d2e2064a-8f39-452f-81f5-aab175d5a165": "#### Menggunakan Tutorial\n\n<p style=\"color: black;\"><span style=\"color: #009EB0;\">→</span> 1. Baca petunjuknya.</p>\n\n<p style=\"color: black;\"><span style=\"color: #ED6060;\">→</span> 2. Tarik blok ke dalam area kerja.</p>\n\n<p style=\"color: black;\"><span style=\"color: #FFA400;\">→</span> 3. Tekan ▶ Jalankan untuk memulai lagu.</p>\n\n<p style=\"color: black;\"><span style=\"color: #9660BF;\">→</span>  4. Tekan Lanjutkan untuk level berikutnya.</p>"
+        },
+        "musiclab_intro_panels_end_2": {
+          "musiclab_intro_panels_end-70b08fdd-abbf-42bb-bdc9-d406bb513faf": "#### Kamu sudah siap!\n\nKamu telah mempelajari dasar-dasarnya, dan kini sudah siap untuk membuat mix kamu sendiri! Pastikan untuk mencoba koleksi suara - ada banyak yang bisa kamu pilih dan gunakan untuk membuat trek yang luar biasa.\n\nKamu akan melihat lebih banyak hal baru di Toolbox, seperti:\n\n-   Blok pembuat irama\n\n-   Efek suara seperti reverb dan filter\n\n-   Blok synthesizer\n\n-   Blok untuk mengacak yang dimainkan\n\n ...dan masih banyak lagi! Bersenang-senanglah!"
+        },
+        "musiclab_intro_panels_function": {
+          "musiclab_intro_panels_function-e62e1783-6e0c-4dfb-9300-5dd081a80614": "Kamu dapat mengeksekusi atau \"memanggil\" fungsi barumu dengan menggunakan blok dengan nama yang sama, seperti ini."
+        },
+        "musiclab_intro_panels_function_2": {
+          "musiclab_intro_panels_function-b2da9c67-9c99-42b2-9c72-c2e576663899": "Music Lab memiliki fitur keren di mana kamu dapat mengambil sekumpulan blok dan meletakkannya ke dalam blok kamu sendiri. Dalam coding, ini disebut membuat  _fungsi_.",
+          "musiclab_intro_panels_function-e62e1783-6e0c-4dfb-9300-5dd081a80614": "Kamu dapat mengeksekusi atau \"memanggil\" fungsi barumu dengan menggunakan blok dengan nama yang sama, seperti ini."
+        },
+        "musiclab_intro_panels_start_2": {
+          "musiclab_intro_panels_start-421d64b2-c4db-42cb-ac1f-de66a4d22fa7": "#### Selamat datang di Music Lab!\n\nMusic Lab memungkinkan kamu melakukan mix, remix, bahkan bermain musik dengan kode. Jangan khawatir jika kamu belum tahu banyak tentang kode atau musik! Yang kamu butuhkan hanyalah sedikit waktu dan rasa ingin tahu untuk mulai membuat kreasimu sendiri."
+        },
+        "musiclab_tutorial_panels_function": {
+          "musiclab_intro_panels_function_pdx-952b5575-5487-40c6-8a7e-4e37339d81d3": "### Gunakan fungsi barumu!\n\nSekarang, kamu dapat menggunakan fungsi barumu setiap saat dengan memilih blok dengan nama fungsimu. \n\nBlok baru ini akan **memanggil** fungsimu saat kamu menekan Tombol Jalankan. ",
+          "musiclab_intro_panels_function_pdx-f1f658c0-64a9-471c-9f2a-399ba1ea8538": "### Fungsi\n\nBuat sebuah **fungsi** untuk menjalankan kode tertentu setiap kali ia dipanggil. \n\n**Pertama**, buat fungsi kamu menggunakan suara yang kamu sukai."
+        },
+        "musiclab_tutorial_panels_notes": {
+          "musiclab_intro_panels_trigger_pdx-5586b57a-0a71-4d94-bdd7-125e9d4af278": "### Gubah melodimu sendiri!\n\nGunakan blok **mainkan nada** untuk menggubah melodimu sendiri.",
+          "musiclab_intro_panels_trigger_pdx-7930c016-c450-4b4a-9c73-641b2ea86a37": "### Gubah iramamu sendiri!\n\nGunakan blok **mainkan drum** untuk menggubah iramamu sendiri.\n\nBersenang-senanglah!"
+        },
+        "musiclab_tutorial_panels_playtogether": {
+          "musiclab_intro_panels_playtogether_pdx-a5066092-2920-4c8d-89ea-00b7a8531ad0": "### Mainkan Bersama\n\nMainkan suara secara bersamaan! Tarik dua suara atau lebih ke dalam blok **mainkan bersama**."
+        },
+        "musiclab_tutorial_panels_repeat": {
+          "musiclab_intro_panels_playtogether_pdx-a0d88b4a-e9a8-4641-8ec9-3ce98e7a1cc4": "### Mengulang suara\n\nPilih suara dan tentukan berapa kali dimainkan dengan menggunakan blok pengulangan."
+        },
+        "musiclab_tutorial_panels_trigger": {
+          "musiclab_intro_panels_trigger_pdx-5586b57a-0a71-4d94-bdd7-125e9d4af278": "### Mainkan Live Music!\n\nKamu dapat menggunakan pemicu untuk bermain live music. \n\nPertama, buat kode blok **pemicu** dengan suara yang kamu ingin ia mainkan.",
+          "musiclab_intro_panels_trigger_pdx-7930c016-c450-4b4a-9c73-641b2ea86a37": "Lalu, **picu** suara baru kamu saat lagu kamu sedang dimainkan."
+        },
+        "usiclab_tutorial_panels_end": {
+          "musiclab_intro_panels_end_pdx-88ca8817-6cb7-4c5b-a08a-69fc2267eb0b": "#### 🎶 Siap bermain musik? 🎶\n\nKamu telah mempelajari dasar-dasarnya, dan sekarang kamu sudah siap untuk membuat lagumu sendiri! \n\nPeriksa semua suara baru dan kustomisasi di toolbox. \n\nKlik Lanjutkan untuk memulai."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+---
+sk:
+  devise:
+    confirmations:
+      confirmed: Vaša emailová adresa bola úspešne potvrdená.
+      send_instructions: O niekoľko minúť obdržíte email s pokynmi na potvrdenie účtu.
+      send_paranoid_instructions: Ak vašu emailovú adresu už máme, o niekoľko minúť
+        obdržíte email s pokynmi na potvrdenie účtu.
+    failure:
+      already_authenticated: Už ste prihlásený.
+      inactive: Vaše konto ešte nebolo aktivované.
+      invalid: Neplatný email alebo heslo.
+      invalid_token: Neplatný overovací token.
+      not_found_in_database: Neplatný e-mail alebo heslo.
+      timeout: Platnosť prihlásenia vypršala. Prosím, prihláste sa znova.
+      unauthenticated: Prihláste sa alebo sa zaregistrujte.
+      unconfirmed: Skôr než budete pokračovať, musíte potvrdiť svoj účet.
+    mailer:
+      confirmation_instructions:
+        subject: Inštrukcie na potvrdenie konta na Code.org
+      unlock_instructions:
+        subject: Pokyny k odomknuntiu
+    omniauth_callbacks:
+      failure: Nemohli sme ťa overiť z %{kind} z dôvodu "%{reason}".
+      success: Úspešné overenie z účtu %{kind}.
+    passwords:
+      no_token: Na stránku pre obnovenie hesla je možné vstúpiť len cez odkaz, ktorý
+        sme poslali emailom. Prosím, presvedčte sa, či je URL adresa v plnom tvare
+        a správna.
+      send_instructions: O niekoľko minúť obdržíte email s pokynmi na obnovenie hesla.
+      send_paranoid_instructions: Ak vašu emailovú adresu už máme, o niekoľko minúť
+        obdržíte email s linkom na obnovenie hesla.
+      updated: Vaše heslo bolo úspešne zmenené. Ste prihlásený.
+      updated_not_active: Vaše heslo bolo úspešne zmenené.
+    registrations:
+      destroyed: Dovidenia! váš účet sa úspešne zmazal. Dúfame, že sa ešte niekedy
+        uvidíme.
+      signed_up: Vitajte! Úspešne ste sa zaregistrovali.
+      signed_up_but_inactive: Úspešne ste sa zaregistrovali. Bohužiaľ, prihlásenie
+        nie je možné, pretože váš účet ešte nie je aktivovaný.
+      signed_up_but_locked: Úspešne ste sa zaregistrovali. Bohužiaľ, prihlásenie nie
+        je možné, pretože váš účet je uzamknutý.
+      signed_up_but_unconfirmed: Správa s potvrdzujúcim odkazom bola odoslaná na vašu
+        emailovú adresu. Pre aktiváciu účtu otvorte daný odkaz.
+      update_needs_confirmation: Svoj účet ste úspešne aktualizovali, ale potrebujeme
+        potvrdiť vašu emailovú adresu. Prosím, skontrolujte svoj email a kliknite
+        na overovací link.
+      updated: Úspešne ste aktualizovali Vaše konto.
+    sessions:
+      signed_out: Úspešne odhlásení.
+    unlocks:
+      send_instructions: O niekoľko minúť obdržíte email s pokynmi na odomknutie účtu.
+      send_paranoid_instructions: Ak váš účet existuje, o niekoľko minúť obdržíte
+        email s pokynmi na jeho odomknutie.
+      unlocked: Váš účet bol úspešne odomknutý. Prosím, prihláste sa, aby ste mohli
+        pokračovať.
+  errors:
+    invitations:
+      edit:
+        header: Nastavte si heslo
+        submit_button: Nastaviť heslo
+      invitation_removed: Vaše pozvanie bolo odstránené.
+      invitation_token_invalid: Zadaný pozývací token je neplatný!
+      new:
+        header: Odoslať pozvánku
+        submit_button: Odoslať pozvánku
+      no_invitations_remaining: Nezostávajú žiadne pozvánky
+      send_instructions: 'Pozvánka bola odoslaná na email: %{email}.'
+      updated: Vaše heslo bolo úspešne nastavené. Ste prihlásený.
+    mailer:
+      invitation_instructions:
+        accept: Prijať pozvánku
+        hello: Ahoj %{email}
+        ignore: Ak nechcete prijať pozvanie, prosím ignorujte tento email.<br />Váš
+          účet sa nevytvorí, pokým neprejdete na odkaz vyššie a nenastavíte si heslo.
+        someone_invited_you: Niekto Vás pozval na %{url}, môžete to prijať cez nižšie
+          uvedený odkaz.
+        subject: Inštrukcie k pozvánke
+    messages:
+      already_confirmed: bol úspešne potvrdený, prosím, skúste sa prihlásiť
+      confirmation_period_expired: musí byť potvrdený do %{period}, prosím, požiadajte
+        o nový
+      expired: vypršal, požiadaj o nový
+      not_found: nenájdené
+      not_locked: nebol uzamknutý

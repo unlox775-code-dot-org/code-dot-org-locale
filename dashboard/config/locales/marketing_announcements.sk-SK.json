@@ -1,0 +1,25 @@
+{
+  "sk-SK": {
+    "data": {
+      "marketing_announcements": {
+        "banners": {
+          "hoc-2023": {
+            "body": "Pridajte sa k miliónom ľudí po celom svete a zorganizujte Hodinu kódu s umelou inteligenciou alebo bez nej a naučte sa, ako funguje. Ktokoľvek a kdekoľvek sa môže zapojiť. Predchádzajúce skúsenosti nie sú potrebné.",
+            "buttonText": "Zistiť viac",
+            "title": "Hodina kódu: Kreativita pomocou AI"
+          },
+          "progress-launch": {
+            "body": "S ľahkosťou sledujte prácu žiakov, poskytnite včasnú spätnú väzbu a zjednodušte hodnotenie pomocou našeho rýchleho, overeného učiteľského rozhrania. Ušetrite čas a získajte cenné poznatky o výkone vašich žiakov, všetko v jednom intuitívnom nástroji.",
+            "buttonText": "Skúsiť teraz",
+            "title": "Sledovanie pokroku práve dosiahlo novú úroveň!"
+          },
+          "superhero": {
+            "body": "Zapojte sa do nášho Programu odborného vzdelávania pre 2. stupeň základných škôl stredné školy.",
+            "buttonText": "Ďalšie informácie",
+            "title": "Pomôžte svojim žiakom stať sa superhrdinami!"
+          }
+        }
+      }
+    }
+  }
+}

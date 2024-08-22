@@ -1,0 +1,24 @@
+---
+nl:
+  data:
+    shared_functions:
+      driving with arrow keys: sturen met pijltjestoetsen
+      fluttering: fladderen
+      growing: groeien
+      jittering: trillen
+      moving east: oostelijk bewegen
+      moving east and looping: oostelijk bewegen en herhalen
+      moving north: noordelijk bewegen
+      moving north and looping: noordelijk bewegen en herhalen
+      moving south: zuidelijk bewegen
+      moving south and looping: zuidelijk bewegen en herhalen
+      moving west: westelijk bewegen
+      moving west and looping: westelijk bewegen en herhalen
+      moving with arrow keys: bewegen met pijltjestoetsen
+      patrolling: patrouilleren
+      shrinking: krimpen
+      spinning left: linksom draaien
+      spinning right: rechtsom draaien
+      swimming left and right: links en rechts zwemmen
+      wandering: dwalen
+      wobbling: wiebelen
